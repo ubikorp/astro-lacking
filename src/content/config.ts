@@ -47,19 +47,42 @@ const metadataDefinition = () =>
 
 const postCollection = defineCollection({
   schema: z.object({
-    publishDate: z.date().optional(),
-    updateDate: z.date().optional(),
+    // Publishing
     draft: z.boolean().optional(),
-
-    title: z.string(),
-    excerpt: z.string().optional(),
-    image: z.string().optional(),
-
     category: z.string().optional(),
-    tags: z.array(z.string()).optional(),
-    author: z.string().optional(),
+    publishDate: z.coerce.date().optional(),
+    updateDate: z.date().optional(),
 
-    metadata: metadataDefinition(),
+    // Listing
+    title: z.string(),
+    subtitle: z.string().optional(),
+    author: z.string().optional(),
+    excerpt: z.string(),
+    tags: z.array(z.string()).optional(),
+
+    // Feature Image
+    image: z.string().optional(),
+    caption: z.string().optional(),
+    // TODO: Badge images
+
+    // Playlists
+		airdate: z.string().optional(),
+		playlist: z.array(z.object({
+      sequence: z.number(),
+			song: z.string(),
+			artist: z.string().optional(),
+			artist_slug: z.string().optional(),
+			album: z.string().nullish().optional(),
+			time: z.string().nullish().optional(),
+			notes: z.string().nullish().optional()
+		})).optional(),
+    
+    // Media
+    media: z.string().optional(),
+    youtube: z.string().optional(),
+
+    // Metadata
+    metadata: metadataDefinition()
   }),
 });
 
