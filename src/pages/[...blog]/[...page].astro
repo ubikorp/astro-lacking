@@ -35,8 +35,8 @@ const metadata = {
   },
 };
 
-const archives = getCategory('archives');
-const tagline = currentPage > 1 ? `${archives.tagline} (page ${currentPage})` : archives.tagline;
+const archivesInfo = getCategory('archives');
+const tagline = currentPage > 1 ? `${archivesInfo.tagline} (page ${currentPage})` : archivesInfo.tagline;
 ---
 
 <Layout metadata={metadata}>
@@ -44,7 +44,7 @@ const tagline = currentPage > 1 ? `${archives.tagline} (page ${currentPage})` : 
     <Headline
       subtitle={tagline}
     >
-      { archives.title }
+      { archivesInfo.title }
     </Headline>
     <BlogList posts={page.data} />
     <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
