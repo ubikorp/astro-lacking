@@ -284,3 +284,14 @@ export interface Content extends Omit<Headline, 'classes'>, Widget {
 }
 
 export interface Contact extends Omit<Headline, 'classes'>, Form, Widget {}
+
+// TLO
+
+export interface Category {
+  title: string;
+  tagline: string;
+  description: string;
+  background: string;
+  icon: string;
+  social: string;
+}

@@ -3,10 +3,14 @@ import yaml from 'js-yaml';
 
 import { marked } from 'marked';
 import { BLOG_BASE, getPermalink } from './permalinks';
+import { APP_BLOG } from "astrowind:config"
+import type { Category } from '~/types';
 
 export const toMarkdown = (markdown) => {
   return marked.parse(markdown)
 }
+
+export const getCategory = (category: string): Category => APP_BLOG.tlo.categories[category];
 
 export const getMorePosts = (): string => getPermalink([BLOG_BASE, '2'].join('/'));
 
