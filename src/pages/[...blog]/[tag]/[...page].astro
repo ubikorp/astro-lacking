@@ -6,6 +6,7 @@ import Layout from '~/layouts/PageLayout.astro';
 import BlogList from '~/components/blog/List.astro';
 import Headline from '~/components/blog/Headline.astro';
 import Pagination from '~/components/blog/Pagination.astro';
+import { getCategory } from '~/utils/tlo';
 
 export const prerender = true;
 
@@ -26,11 +27,18 @@ const metadata = {
     follow: blogTagRobots?.follow,
   },
 };
+
+const tagsInfo = getCategory('tags');
+const tagline = currentPage > 1 ? `${tagsInfo.tagline} (page ${currentPage})` : tagsInfo.tagline;
 ---
 
 <Layout metadata={metadata}>
   <section class="px-4 md:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
-    <Headline>Tag: {tag.title}</Headline>
+    <Headline
+      subtitle={tagline}
+    >
+      Tag: {tag.title}
+    </Headline>
     <BlogList posts={page.data} />
     <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
   </section>
