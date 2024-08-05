@@ -10,6 +10,7 @@ import { getPermalink } from '~/utils/permalinks';
 import { getFormattedDate } from '~/utils/utils';
 
 import type { Post } from '~/types';
+import Mixcloud from '../tlo/Mixcloud.astro';
 
 export interface Props {
   post: Post;
@@ -17,6 +18,7 @@ export interface Props {
 }
 
 const { post, url } = Astro.props;
+console.log(post);
 ---
 
 <section class="py-8 sm:py-16 lg:py-20 mx-auto">
@@ -95,7 +97,15 @@ const { post, url } = Astro.props;
     >
       <slot />
 
-      {post.playlist && <Playlist playlist={post.playlist} />}
+      <!-- Mixcloud -->
+       {post.mixcloud && (
+        <Mixcloud post={post} />
+      )}
+
+      <!-- Playlist -->
+      {post.playlist && (
+        <Playlist post={post} />
+      )}
     </div>
     <div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 flex justify-between flex-col sm:flex-row">
       <PostTags tags={post.tags} class="mr-5 rtl:mr-0 rtl:ml-5" />

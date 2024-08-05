@@ -1,0 +1,16 @@
+---
+// -----------
+// Mixcloud ==
+// -----------
+
+const { post } = Astro.props
+---
+
+<div class="my-6">
+	<iframe
+		width="100%"
+		style="margin-bottom: 1em;"
+		height="120"
+		src={post.mixcloud}
+	></iframe>
+</div>

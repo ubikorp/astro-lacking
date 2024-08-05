@@ -3,7 +3,7 @@
 // Playlist ==
 // -----------
 
-const { playlist } = Astro.props
+const { post } = Astro.props
 ---
 
 <table class="min-w-full">
@@ -15,7 +15,7 @@ const { playlist } = Astro.props
     </tr>
   </thead>
   <tbody>
-    {playlist.map((entry) => (
+    {post.playlist.map((entry) => (
       <tr class="even:bg-white/5 odd:bg-black/5">
         { entry.artist ? (
           <td>
@@ -30,7 +30,7 @@ const { playlist } = Astro.props
             </div>
           </td>
         ) : (
-          <td colspan="4" class="text-center text-xs">&mdash; &bull; BREAK &bull; &mdash;</td>
+          <td colspan="4" class="text-center text-xs font-bold">&mdash; &bull; BREAK &bull; &mdash;</td>
         )}
       </tr>
     ))}

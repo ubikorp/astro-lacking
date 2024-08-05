@@ -47,7 +47,7 @@ export interface Post {
   caption?: string;
   airdate?: string;
   playlist?: Play[];
-  media?: string;
+  mixcloud?: string;
   youtube?: string;
 }
 

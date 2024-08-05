@@ -78,7 +78,7 @@ const postCollection = defineCollection({
 		})).optional(),
     
     // Media
-    media: z.string().optional(),
+    mixcloud: z.string().optional(),
     youtube: z.string().optional(),
 
     // Metadata

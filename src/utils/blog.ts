@@ -59,7 +59,9 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     metadata = {},
     caption,
     playlist,
-    airdate
+    airdate,
+    mixcloud,
+    youtube,
   } = data;
 
   const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
@@ -108,9 +110,11 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     // readingTime: remarkPluginFrontmatter?.readingTime,
 
     // TLO
+    caption: caption,
     airdate: airdate,
     playlist: playlist,
-    caption: caption,
+    mixcloud: mixcloud,
+    youtube: youtube,
   };
 };
 
