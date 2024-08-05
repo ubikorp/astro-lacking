@@ -4,6 +4,7 @@ import type { CollectionEntry } from 'astro:content';
 import type { Post } from '~/types';
 import { APP_BLOG } from 'astrowind:config';
 import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
+import { toMarkdown } from './tlo';
 
 const generatePermalink = async ({
   id,
@@ -42,19 +43,23 @@ const generatePermalink = async ({
 
 const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
   const { id, slug: rawSlug = '', data } = post;
-  const { Content, remarkPluginFrontmatter } = await post.render();
+  // const { Content, remarkPluginFrontmatter } = await post.render();
+  const { Content } = await post.render();
 
   const {
     publishDate: rawPublishDate = new Date(),
     updateDate: rawUpdateDate,
     title,
-    excerpt,
+    excerpt: rawExcerpt,
     image,
     tags: rawTags = [],
     category: rawCategory,
     author,
     draft = false,
     metadata = {},
+    caption,
+    playlist,
+    airdate
   } = data;
 
   const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
@@ -72,6 +77,10 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     slug: cleanSlug(tag),
     title: tag,
   }));
+
+  // TLO
+
+  const excerpt = await toMarkdown(rawExcerpt, { bare: true });
 
   return {
     id: id,
@@ -96,7 +105,12 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     Content: Content,
     // or 'content' in case you consume from API
 
-    readingTime: remarkPluginFrontmatter?.readingTime,
+    // readingTime: remarkPluginFrontmatter?.readingTime,
+
+    // TLO
+    airdate: airdate,
+    playlist: playlist,
+    caption: caption,
   };
 };
 

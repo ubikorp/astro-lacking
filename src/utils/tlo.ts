@@ -6,9 +6,14 @@ import { BLOG_BASE, getPermalink } from './permalinks';
 import { APP_BLOG } from "astrowind:config"
 import type { Category } from '~/types';
 
-export const toMarkdown = (markdown) => {
-  return marked.parse(markdown)
+export const toMarkdown = async (markdown, options = { bare: false }) => {
+  const md = await marked.parse(markdown.trim())
+  return options.bare ? removeParagraphTags(md) : md
 }
+
+export const removeParagraphTags = (str: string): string => {
+  return str.slice(3, -5);
+};
 
 export const getCategory = (category: string): Category => APP_BLOG.tlo.categories[category];
 

@@ -76,7 +76,7 @@ apps:
           social:      site/banners/home_social.jpg
         archives:
           title:       The Lacking Permanence
-          tagline:     A partial collection of evidence
+          tagline:     Our archives, presenting a partial collection of evidence
           description: A shambolic accounting of The Lacking Organization’s prodigious output, arranged in reverse chronological order for casual browsers and obsessive completists.
           background:  site/banners/details_bg.jpg
           icon:        site/banners/details_icon.png

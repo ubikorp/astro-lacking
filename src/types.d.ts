@@ -42,6 +42,23 @@ export interface Post {
 
   /**  */
   readingTime?: number;
+
+  /** TLO */
+  caption?: string;
+  airdate?: string;
+  playlist?: Play[];
+  media?: string;
+  youtube?: string;
+}
+
+export interface Play {
+  sequence: number;
+  song: string;
+  artist?: string;
+  artist_slug?: string;
+  album?: string | null;
+  time?: string | null;
+  notes?: string | null;
 }
 
 export interface Taxonomy {
