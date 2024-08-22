@@ -23,34 +23,35 @@ function loadSchedule(): Schedule {
   // Load entire schedule
   let schedule = yaml.load(fs.readFileSync('src/schedule.yaml', 'utf8')) as Schedule
   // Filter out dates in the past
-  schedule = schedule.filter((entry) => new Date(entry.end) >= new Date())
+  // schedule = schedule.filter((entry) => new Date(entry.end) >= new Date())
+  // console.log(schedule.slice(0, 15))
   // Clean up for display
-  schedule = schedule.map((entry) => {
-    // Convert start and end times to dates
-    const start = new Date(entry.start)
-    const end = new Date(entry.end)
-    // Format start string
-    const start_string = new Intl.DateTimeFormat('en-US', {
-      dateStyle: 'full',
-      timeStyle: 'short',
-      timeZone: entry.timezone,
-    }).format(start).replace(`, ${start.getFullYear()}`, '')
-    // Location string dictionary
-    const locations = {
-      kafm: 'KAFM Community Radio, Grand Junction, CO',
-      wfit: 'WFIT, Melbourne, FL',
-      ltw: 'Louder Than War Radio, UK'
-    }
-    return {
-      start,
-      end,
-      start_string,
-      location: locations[entry.location],
-      notes: entry.notes
-    }
-  })
+  // schedule = schedule.map((entry) => {
+  //   // Convert start and end times to dates
+  //   const start = new Date(entry.start)
+  //   const end = new Date(entry.end)
+  //   // Format start string
+  //   const start_string = new Intl.DateTimeFormat('en-US', {
+  //     dateStyle: 'full',
+  //     timeStyle: 'short',
+  //     timeZone: entry.timezone,
+  //   }).format(start).replace(`, ${start.getFullYear()}`, '')
+  //   // Location string dictionary
+  //   const locations = {
+  //     kafm: 'KAFM Community Radio, Grand Junction, CO',
+  //     wfit: 'WFIT, Melbourne, FL',
+  //     ltw: 'Louder Than War Radio, UK'
+  //   }
+  //   return {
+  //     start,
+  //     end,
+  //     start_string,
+  //     location: locations[entry.location],
+  //     notes: entry.notes
+  //   }
+  // })
   // Only return the next five airdates
-  return schedule.slice(0, 5)
+  return schedule.slice(0, 15)
 }
 
 function firstScheduleItem(): Airdate {
@@ -64,7 +65,7 @@ function localTimezone(): string {
   return `[${Intl.DateTimeFormat().resolvedOptions().timeZone}]`
 }
 
-// export const schedule = loadSchedule()
+export const schedule = loadSchedule()
 // export const nextAirdate = firstScheduleItem()
 export const localTimeZone = localTimezone()
 interface Airdate {
