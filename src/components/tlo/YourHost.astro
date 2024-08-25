@@ -1,78 +1,32 @@
 ---
-import { schedule } from '~/utils/tlo.ts';
-import CallToAction from '~/components/widgets/CallToAction.astro';
+import type { ImageMetadata } from 'astro';
+import { twMerge } from 'tailwind-merge';
+import { Image } from "astro:assets";
+import { findImage } from '~/utils/images';
 
-const scheduleJSON = JSON.stringify(schedule);
+const {
+  class: className = '',
+} = Astro.props;
+
+const yourHost = await findImage('~/assets/images/jclacking.png') as ImageMetadata
 ---
 
-<CallToAction
-
-  actions={[
-    {
-      variant: 'primary',
-      text: 'ON THE AIR<br>LISTEN NOW',
-      href: 'https://github.com/onwidget/astrowind',
-      target: '_blank',
-    },
-    {
-      variant: 'secondary',
-      text: 'Schedule + More',
-      href: '/radio-activity',
-    },
-  ]}
+<div
+  id="your-host"
+  class={twMerge("w-full text-center items-center p-6 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600", className)}
 >
 
+  <!-- Photo -->
+  <Image
+    src={yourHost}
+    alt="Julius C. Lacking"
+    class="rounded-full w-32 h-32 mx-auto mb-4"
+  />
 
-<Fragment slot="title">
-  Next Airdate
-</Fragment>
+  <!-- Your Host -->
+  <p class="text-base text-secondary dark:text-blue-200 font-bold tracking-wide uppercase">Your Host</p>
 
-<Fragment slot="subtitle">
-  <div id="schedule" data-schedule={scheduleJSON}></div>
-</Fragment>
-</CallToAction>
+  <!-- Julius C. Lacking -->
+  <h2 class="tlo-time font-bold leading-tighter tracking-tighter font-heading text-heading text-2xl my-2">Julius C. Lacking</h2>
 
-<script is:inline>
-  const now = new Date()
-  // Get schedule
-  const scheduleJSON = document.getElementById('schedule').dataset.schedule;
-  const schedule = JSON.parse(scheduleJSON);
-  // Find next airdate
-  next_airdate = schedule.find((item) => {
-    return (new Date(item.end_time) >= now)
-  });
-  console.dir(next_airdate);
-  // Convert to string and add to page
-  const next_string = new Date(next_airdate.start_time).toLocaleString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
-    second: 'numeric',
-  });
-  document.querySelector('[id="schedule"]').textContent = next_string;
-  // Turn on corresponding button
-  const on_air = now >= new Date(next_airdate.start_time) && now <= new Date(next_airdate.end_time);
-  console.log('dates', new Date(), new Date(next_airdate.start_time));
-  if (on_air) {
-    document.querySelector('.btn-primary').classList.add('animate-pulse');
-    document.querySelector('.btn-secondary').classList.add('hidden');
-  } else {
-    document.querySelector('.btn-primary').classList.add('hidden');
-  }
-// locations = {
-//   'mixcloud' => { url: 'https://www.mixcloud.com/live/the-lacking-org/', stream: 'https://www.mixcloud.com/live/the-lacking-org/'},
-//   'kafm' => { url: 'https://www.kafmradio.org', stream: 'http://www.radiorethink.com/tuner/?stationCode=KAFM&amp;stream=lo'},
-//   'ltw' => { url: 'https://louderthanwar.com/louder-than-war-radio/', stream: 'https://s2.radio.co/sab795a38d/listen'}
-// }
-
-// <p id="stream-link">
-// {% if next_airdate['location'] == 'kafm' %}
-//   <a class="button" href="" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;">Listen now!</a>
-// {% elsif next_airdate['location'] == 'ltw' %}
-//   <a class="button" href="https://s2.radio.co/sab795a38d/listen" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=350,top=1'); return false;">Listen now!</a>
-// {% else %}
-//   <a class="button" href="" target="_blank">Listen now!</a>
-</script>
-
+</div>

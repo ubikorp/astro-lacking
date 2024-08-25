@@ -1,38 +1,92 @@
 ---
+import type { ImageMetadata } from 'astro';
 import { schedule } from '~/utils/tlo.ts';
-import CallToAction from '~/components/widgets/CallToAction.astro';
+import { twMerge } from 'tailwind-merge';
+import { findImage } from '~/utils/images';
+import Background from '~/components/ui/Background.astro';
+import Image from '~/components/common/Image.astro';
+const dashboard = await findImage('~/assets/images/dashboard.jpg') as ImageMetadata
+
+const {
+  bg = true,
+  class: className = '',
+} = Astro.props;
 
 const scheduleJSON = JSON.stringify(schedule);
 ---
 
-<CallToAction
-
-  actions={[
-    {
-      variant: 'primary',
-      text: 'ON THE AIR<br>LISTEN NOW',
-      href: 'https://github.com/onwidget/astrowind',
-      target: '_blank',
-    },
-    {
-      variant: 'secondary',
-      text: 'Schedule + More',
-      href: '/radio-activity',
-    },
-  ]}
+<div
+  id="schedule"
+  data-schedule={scheduleJSON}
+  class={twMerge("w-full text-center content-center p-12 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600 relative not-prose scroll-mt-[72px]", className)}
 >
 
+  <!-- Background -->
+  <div class="absolute inset-0 pointer-events-none -z-[1]" aria-hidden="true">
+    {bg && (
+      <Background>
 
-<Fragment slot="title">
-  Next Airdate
-</Fragment>
+        <!-- Dashboard -->
+        <Image
+          src={dashboard}
+          alt="Automotive dashboard with radio"
+          class="object-cover object-center w-full h-full"
+        />
 
-<Fragment slot="subtitle">
-  <div id="schedule" data-schedule={scheduleJSON}></div>
-</Fragment>
-</CallToAction>
+      </Background>
+    )}
+  </div>
 
-<script is:inline>
+  <div class="w-3/4 mx-auto bg-black/50 p-6 rounded-md">
+    
+  <!-- Kicker -->
+  <p class="text-base text-secondary text-white font-bold tracking-wide uppercase">Next Airdate</p>
+
+  <!-- Airdate -->
+  <h2 class="tlo-time font-bold leading-tighter tracking-tighter font-heading text-white text-heading text-4xl my-2">Tune in to The Lacking Organization</h2>
+
+  <!-- Location -->
+  <p class="text-xl text-white font-bold my-4">
+    <a href="https://www.kafmradio.org" class="kafm-location hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
+    <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hidden" target="_blank">Louder Than War Internet Radio</a>
+    <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hidden" target="_blank">Streaming on Mixcloud</a>
+  </p>
+
+  <!-- KAFM Stream -->
+  <a
+    type="button"
+    class="kafm-stream btn-primary hidden animate-pulse"
+    href="http://www.radiorethink.com/tuner/?stationCode=KAFM&stream=lo"
+    onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;"
+  >ON THE AIR<br>LISTEN NOW</a>
+
+  <!-- LTW Stream -->
+  <a
+    type="button"
+    class="ltw-stream btn-primary hidden animate-pulse"
+    href="https://s2.radio.co/sab795a38d/listen"
+    onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=150,top=1'); return false;"
+  >ON THE AIR<br>LISTEN NOW</a>
+
+  <!-- Mixcloud Stream -->
+  <a
+    type="button"
+    class="mixcloud-stream btn-primary hidden animate-pulse"
+    href="https://www.mixcloud.com/live/the-lacking-org/"
+    target="_blank"
+  >ON THE AIR<br>LISTEN NOW</a>
+
+  <!-- Schedule + More -->
+  <a
+    type="button"
+    class="schedule-button btn-secondary text-black dark:text-black font-bold bg-neutral-100"
+    href="/radio-activity"
+  >Schedule + More</a>
+
+</div>
+</div>
+
+<script is:inline data-astro-rerun>
   const now = new Date()
   // Get schedule
   const scheduleJSON = document.getElementById('schedule').dataset.schedule;
@@ -48,31 +102,18 @@ const scheduleJSON = JSON.stringify(schedule);
     month: 'long',
     day: 'numeric',
     hour: 'numeric',
-    minute: 'numeric',
-    second: 'numeric',
+    minute: 'numeric'
   });
-  document.querySelector('[id="schedule"]').textContent = next_string;
-  // Turn on corresponding button
+  document.querySelector('.tlo-time').textContent = next_string;
+  // Set location
+  const locationClass = `.${next_airdate.location}-location`
+  document.querySelector(locationClass).classList.remove('hidden');
+  // Turn on stream buttons
   const on_air = now >= new Date(next_airdate.start_time) && now <= new Date(next_airdate.end_time);
-  console.log('dates', new Date(), new Date(next_airdate.start_time));
   if (on_air) {
-    document.querySelector('.btn-primary').classList.add('animate-pulse');
-    document.querySelector('.btn-secondary').classList.add('hidden');
-  } else {
-    document.querySelector('.btn-primary').classList.add('hidden');
+    const streamClass = `.${next_airdate.location}-stream`
+    document.querySelector(streamClass).classList.remove('hidden');
+    document.querySelector('.schedule-button').classList.add('hidden');
   }
-// locations = {
-//   'mixcloud' => { url: 'https://www.mixcloud.com/live/the-lacking-org/', stream: 'https://www.mixcloud.com/live/the-lacking-org/'},
-//   'kafm' => { url: 'https://www.kafmradio.org', stream: 'http://www.radiorethink.com/tuner/?stationCode=KAFM&amp;stream=lo'},
-//   'ltw' => { url: 'https://louderthanwar.com/louder-than-war-radio/', stream: 'https://s2.radio.co/sab795a38d/listen'}
-// }
-
-// <p id="stream-link">
-// {% if next_airdate['location'] == 'kafm' %}
-//   <a class="button" href="" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;">Listen now!</a>
-// {% elsif next_airdate['location'] == 'ltw' %}
-//   <a class="button" href="https://s2.radio.co/sab795a38d/listen" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=350,top=1'); return false;">Listen now!</a>
-// {% else %}
-//   <a class="button" href="" target="_blank">Listen now!</a>
 </script>
 

@@ -4,7 +4,7 @@ site:
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: 4qWeKHht2OCpNWG4dYXhlPOl5xMJDvDfPJDSZCUqI0M
 
 # Default SEO metadata
 metadata:
@@ -18,9 +18,9 @@ metadata:
   openGraph:
     site_name: The Lacking Organization
     images:
-      - url: '~/assets/images/default.png'
+      - url: '~/assets/images/tlo.jpg'
         width: 1200
-        height: 628
+        height: 630
     type: website
   # twitter:
   #   handle: '@onwidget'
@@ -128,7 +128,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
-      id: null # or "G-XXXXXXXXXX"
+      id: G-J057DYBTBE
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"

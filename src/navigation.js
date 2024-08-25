@@ -111,7 +111,7 @@ export const headerData = {
     //   ],
     // },
     {
-      text: 'Mixtapes',
+      text: 'The&nbsp;Mixtape',
       href: getPermalink('mixtapes', 'category'),
     },
     {
