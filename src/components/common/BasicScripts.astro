@@ -158,5 +158,25 @@ import { UI } from 'astrowind:config';
     initTheme();
     onLoad();
     onPageShow();
+    tiltElements();
   });
+
+  /* eff shizz up */
+  function randomRotation(selector, fudgeFactor) {
+    const extraFudgeFactor = 1.5;
+    const nodeList = document.querySelectorAll(selector);
+    nodeList.forEach((n) => {
+      const randomRotation = (Math.random() - 0.5) * fudgeFactor * extraFudgeFactor;
+      n.style.transform = `rotate(${randomRotation}deg)`
+    });
+  }
+
+  function tiltElements() {
+    randomRotation('h2, h3, h4, a.button', 3.0);
+    randomRotation('img', 2.0);
+    randomRotation('p, li, time, .author', 2.0);
+    randomRotation('td', 2.5);
+  }
+  tiltElements();
+
 </script>

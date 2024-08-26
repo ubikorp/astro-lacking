@@ -95,7 +95,6 @@ const scheduleJSON = JSON.stringify(schedule);
   next_airdate = schedule.find((item) => {
     return (new Date(item.end_time) >= now)
   });
-  console.dir(next_airdate);
   // Convert to string and add to page
   const next_string = new Date(next_airdate.start_time).toLocaleString('en-US', {
     year: 'numeric',
