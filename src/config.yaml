@@ -128,7 +128,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
-      id: G-J057DYBTBE
+      id: null # G-J057DYBTBE
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
