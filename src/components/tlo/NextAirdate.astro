@@ -1,6 +1,6 @@
 ---
 import type { ImageMetadata } from 'astro';
-import { schedule } from '~/utils/tlo.ts';
+import { localTimeZone, schedule } from '~/utils/tlo.ts';
 import { twMerge } from 'tailwind-merge';
 import { findImage } from '~/utils/images';
 import Background from '~/components/ui/Background.astro';
@@ -44,7 +44,8 @@ const scheduleJSON = JSON.stringify(schedule);
 
   <!-- Airdate -->
   <h2 class="tlo-time font-bold leading-tighter tracking-tighter font-heading text-white text-heading text-4xl my-2">Tune in to The Lacking Organization</h2>
-
+  <p class="tlo-timezone font-bold text-white"></p>
+  
   <!-- Location -->
   <p class="text-xl text-white font-bold my-4">
     <a href="https://www.kafmradio.org" class="kafm-location hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
@@ -79,7 +80,7 @@ const scheduleJSON = JSON.stringify(schedule);
   <!-- Schedule + More -->
   <a
     type="button"
-    class="schedule-button btn-secondary text-black dark:text-black font-bold bg-neutral-100"
+    class="schedule-button btn-secondary text-black dark:text-black font-bold bg-neutral-100 hover:bg-neutral-200"
     href="/radio-activity"
   >Schedule + More</a>
 
@@ -104,6 +105,9 @@ const scheduleJSON = JSON.stringify(schedule);
     minute: 'numeric'
   });
   document.querySelector('.tlo-time').textContent = next_string;
+  // Set timezone
+  timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone}]`
+  document.querySelector('.tlo-timezone').textContent = timezone;
   // Set location
   const locationClass = `.${next_airdate.location}-location`
   document.querySelector(locationClass).classList.remove('hidden');
