@@ -26,7 +26,7 @@ tags:
 - Verbena
 - Waxahatchee
 airdate: '2024-02-01'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Foosvmj-217-have-you-tried-meditation%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Foosvmj-217-have-you-tried-meditation%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Have you tried meditation?

@@ -28,7 +28,7 @@ tags:
 - The Wee Turtles
 - The Woolly Bushmen
 airdate: '2024-05-30'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-237-the-way-you-say-it-2024-05-30%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-237-the-way-you-say-it-2024-05-30%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: The Way You Say It

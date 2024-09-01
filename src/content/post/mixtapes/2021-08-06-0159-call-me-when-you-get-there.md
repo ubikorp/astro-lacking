@@ -46,7 +46,7 @@ tags:
 - Trilok Gurtu & Robert Miles
 - The Wedding Present
 airdate: '2021-08-06'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Flg2xwf-159-call-me-when-you-get-there%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Flg2xwf-159-call-me-when-you-get-there%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Call Me When You Get There

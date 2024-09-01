@@ -27,7 +27,7 @@ tags:
 - Robyn Hitchcock
 - 'White Rabbits '
 airdate: '2024-07-25'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-247-scaled-to-survive-2024-07-25%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-247-scaled-to-survive-2024-07-25%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Scaled to Survive

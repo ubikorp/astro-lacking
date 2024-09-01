@@ -28,7 +28,7 @@ tags:
 - The Wrens
 - Youth Lagoon
 airdate: '2023-07-20'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fyvo7uo-182-affairs-of-state%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fyvo7uo-182-affairs-of-state%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Idaho Alien

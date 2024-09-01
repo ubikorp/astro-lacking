@@ -28,7 +28,7 @@ tags:
 - Terry
 - W.I.T.C.H.
 airdate: '2023-09-07'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F6nqt2a-191-avalanche-of-love%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F6nqt2a-191-avalanche-of-love%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Avalanche Of Love

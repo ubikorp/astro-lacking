@@ -45,7 +45,7 @@ tags:
 - Trio
 - Trombone Shorty
 airdate: '2020-10-02'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Feyo08f-134-identity-theft%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Feyo08f-134-identity-theft%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Identity Theft

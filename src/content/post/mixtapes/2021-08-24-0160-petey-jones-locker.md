@@ -46,7 +46,7 @@ tags:
 - The Wedding Present
 - X
 airdate: '2021-08-24'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F2xqjhd-160-petey-jones-locker&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F2xqjhd-160-petey-jones-locker&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Petey Jones' Locker

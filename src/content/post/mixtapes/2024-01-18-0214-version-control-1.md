@@ -27,7 +27,7 @@ tags:
 - Valis
 - Zach Uncles
 airdate: '2024-01-18'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fwoeeqk-214-version-control-1%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fwoeeqk-214-version-control-1%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Go!

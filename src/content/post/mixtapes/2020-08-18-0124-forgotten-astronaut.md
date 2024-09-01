@@ -41,7 +41,7 @@ tags:
 - The Vaccines
 - Youth + Jah Wobble
 airdate: '2020-08-18'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fwskqku-124-forgotten-astronaut%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fwskqku-124-forgotten-astronaut%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Forgotten Astronaut

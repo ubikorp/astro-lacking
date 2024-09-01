@@ -44,7 +44,7 @@ tags:
 - Yo La Tengo
 - Zig Speck & The Specktones
 airdate: '2020-06-12'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fgltinf-105-along-the-santa-fe-trail%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fgltinf-105-along-the-santa-fe-trail%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Along the Santa Fe Trail

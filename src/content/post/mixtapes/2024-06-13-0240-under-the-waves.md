@@ -28,7 +28,7 @@ tags:
 - The Unicorns
 - Ween
 airdate: '2024-06-13'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-240-under-the-waves-2024-06-13%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-240-under-the-waves-2024-06-13%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Under The Waves

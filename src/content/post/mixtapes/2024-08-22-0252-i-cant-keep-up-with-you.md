@@ -27,7 +27,7 @@ tags:
 - The Raveonettes
 - The Sugar Oaks
 airdate: '2024-08-22'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-252-i-cant-keep-up-with-you-2024-08-22%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-252-i-cant-keep-up-with-you-2024-08-22%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: I Can't Keep Up With You

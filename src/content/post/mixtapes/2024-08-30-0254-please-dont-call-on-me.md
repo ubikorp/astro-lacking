@@ -35,7 +35,7 @@ tags:
 - Skalpel
 - Squarepusher
 airdate: '2024-08-30'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-final-hour-254-please-dont-call-on-me-2024-08-30%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-final-hour-254-please-dont-call-on-me-2024-08-30%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Please Don't Call On Me

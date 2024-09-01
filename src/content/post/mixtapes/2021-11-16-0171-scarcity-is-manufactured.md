@@ -42,7 +42,7 @@ tags:
 - Ween
 - Woody & Jeremy
 airdate: '2021-11-16'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fcrxwv8-171-scarcity-is-manufactured%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fcrxwv8-171-scarcity-is-manufactured%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Scarcity Is Manufactured

@@ -42,7 +42,7 @@ tags:
 - Wavves
 - Woods
 airdate: '2020-08-07'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fjpaaxb-121-so-we-wont-forget%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fjpaaxb-121-so-we-wont-forget%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: So We Won't Forget

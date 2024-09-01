@@ -42,7 +42,7 @@ tags:
 - Waxahatchee
 - Zach Uncles
 airdate: '2020-06-23'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fitgmha-108-jaan-pehechaan-ho%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fitgmha-108-jaan-pehechaan-ho%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Jaan Pehechaan Ho

@@ -27,7 +27,7 @@ tags:
 - Thee Conductor
 - Waxahatchee
 airdate: '2024-05-02'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-233-big-congratulations-2024-05-02%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-233-big-congratulations-2024-05-02%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Big Congratulations

@@ -46,7 +46,7 @@ tags:
 - Ween
 - Young Fresh Fellows
 airdate: '2021-02-23'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fsmjyjt-152-the-power-of-the-one%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fsmjyjt-152-the-power-of-the-one%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: The Power of the One

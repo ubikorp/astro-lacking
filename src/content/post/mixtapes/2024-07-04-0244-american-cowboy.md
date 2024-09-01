@@ -27,7 +27,7 @@ tags:
 - Sega Bodega
 - Tapir!
 airdate: '2024-07-04'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-244-american-cowboy-2024-07-04%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-244-american-cowboy-2024-07-04%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: American Cowboy

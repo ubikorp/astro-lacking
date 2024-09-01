@@ -42,7 +42,7 @@ tags:
 - Teenage Bottlerocket
 - Wavves
 airdate: '2020-09-01'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F4mpfrm-127-roll-me-mama%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F4mpfrm-127-roll-me-mama%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Roll Me Mama, Roll Me

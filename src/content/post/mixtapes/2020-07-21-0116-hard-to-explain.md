@@ -42,7 +42,7 @@ tags:
 - Wilco
 - Z-Rock Hawaii
 airdate: '2020-07-21'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fuekmye-116-hard-to-explain%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fuekmye-116-hard-to-explain%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Hard to Explain

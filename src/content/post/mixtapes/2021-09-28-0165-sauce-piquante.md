@@ -45,7 +45,7 @@ tags:
 - Tele Novella
 - TLO
 airdate: '2021-09-28'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F27tvlr-165-sauce-piquante%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F27tvlr-165-sauce-piquante%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Sauce Piquante

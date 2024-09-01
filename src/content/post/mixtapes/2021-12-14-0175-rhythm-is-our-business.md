@@ -44,7 +44,7 @@ tags:
 - Tulip Sweet and Her Trail of Tears
 - Vulfpeck
 airdate: '2021-12-14'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Frc9oms-175-rhythm-is-our-business%2F&hide_artwork=1&hide_cover=1&light=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Frc9oms-175-rhythm-is-our-business%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Rhythm Is Our Business
