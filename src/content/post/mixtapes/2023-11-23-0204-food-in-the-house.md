@@ -31,7 +31,7 @@ tags:
 - that dog.
 - Ween
 airdate: '2023-11-23'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fsczfsc-204-food-in-the-house%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-204-food-in-the-house-2023-11-23%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Food in the House

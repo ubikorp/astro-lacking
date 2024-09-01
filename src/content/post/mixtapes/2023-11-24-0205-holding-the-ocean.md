@@ -31,7 +31,7 @@ tags:
 - Wooden Shjips
 - Yo La Tengo
 airdate: '2023-11-24'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Frhy6zz-205-holding-the-ocean%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-final-hour-205-holding-the-ocean-2023-11-24%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Holding the Ocean

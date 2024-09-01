@@ -33,7 +33,7 @@ tags:
 - Tricky
 - Water From Your Eyes
 airdate: '2023-12-29'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fvnckim-211-deep-blue-shade%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-final-hour-211-deep-blue-shade-2023-12-29%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Deep Blue Shade

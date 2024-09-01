@@ -28,7 +28,7 @@ tags:
 - Teenage Fanclub
 - Woody and Jeremy
 airdate: '2023-10-19'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fgsb5fw-198-everybodys-gone-to-sleep%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-198-everybodys-gone-to-sleep-2023-10-19%2F&hide_artwork=1&hide_cover=1
 playlist:
 - sequence: 1
   song: Everybody's Gone to Sleep
