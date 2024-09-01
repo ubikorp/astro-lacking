@@ -1,6 +1,5 @@
 ---
 import type { ImageMetadata } from 'astro';
-import { localTimeZone, schedule } from '~/utils/tlo.ts';
 import { twMerge } from 'tailwind-merge';
 import { findImage } from '~/utils/images';
 import Background from '~/components/ui/Background.astro';
@@ -9,114 +8,128 @@ const dashboard = await findImage('~/assets/images/dashboard.jpg') as ImageMetad
 
 const {
   bg = true,
+  hideScheduleLink = false,
+  announcement = false,
   class: className = '',
 } = Astro.props;
 
-const scheduleJSON = JSON.stringify(schedule);
 ---
 
-<div
-  id="schedule"
-  data-schedule={scheduleJSON}
-  class={twMerge("w-full text-center content-center p-12 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600 relative not-prose scroll-mt-[72px]", className)}
->
+{
+  announcement ? (
+    <div
+      class="dark text-muted text-sm bg-black dark:bg-transparent dark:border-b dark:border-slate-800 dark:text-slate-400 hidden md:flex gap-1 overflow-hidden px-3 py-2 relative text-ellipsis whitespace-nowrap"
+    >
+      <!-- Label -->
+      <span
+        class="dark:bg-slate-700 bg-white/40 dark:text-slate-300 font-semibold px-1 py-0.5 text-xs mr-0.5 rtl:mr-0 rtl:ml-0.5 inline-block"
+        >NEXT AIRDATE</span
+      >
+      <!-- Airdate -->
+        <a href="/radio-activity" class="tlo-time hover:underline dark:text-slate-400 font-medium">
+        Tune in to The Lacking Organization
+      </a>
+      <!-- Timezone -->
+      <span class="tlo-timezone"></span>
+      on
+      <!-- Location -->
+      <a href="https://www.kafmradio.org" class="kafm-location hover:underline hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
+      <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hover:underline hidden" target="_blank">Louder Than War Internet Radio</a>
+      <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hover:underline hidden" target="_blank">Streaming on Mixcloud</a>
+
+      <!-- KAFM Stream -->
+      <a
+        type="button"
+        class="kafm-stream btn-primary hidden animate-pulse"
+        href="http://www.radiorethink.com/tuner/?stationCode=KAFM&stream=lo"
+        onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;"
+      >ON THE AIR<br>LISTEN NOW</a>
+
+      <!-- LTW Stream -->
+      <a
+        class="ltw-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5 inline-block"
+        href="https://s2.radio.co/sab795a38d/listen"
+        onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=150,top=1'); return false;"
+      >ON THE AIR &bull; LISTEN NOW</a>
+
+      <!-- Mixcloud Stream -->
+      <a
+        type="button"
+        class="mixcloud-stream btn-primary hidden animate-pulse"
+        href="https://www.mixcloud.com/live/the-lacking-org/"
+        target="_blank"
+      >ON THE AIR<br>LISTEN NOW</a>
+
+    </div>
+  ) : (
+  <div class={twMerge("w-full text-center content-center p-8 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600 relative not-prose scroll-mt-[72px]", className)} >
 
   <!-- Background -->
-  <div class="absolute inset-0 pointer-events-none -z-[1]" aria-hidden="true">
-    {bg && (
-      <Background>
+    <div class="absolute inset-0 pointer-events-none -z-[1]" aria-hidden="true">
+      {bg && (
+        <Background>
 
-        <!-- Dashboard -->
-        <Image
-          src={dashboard}
-          alt="Automotive dashboard with radio"
-          class="object-cover object-center w-full h-full"
-        />
+          <!-- Dashboard -->
+          <Image
+            src={dashboard}
+            alt="Automotive dashboard with radio"
+            class="object-center w-full h-full"
+          />
 
-      </Background>
+        </Background>
+      )}
+    </div>
+
+    <div class="w-3/4 mx-auto bg-black/50 p-4 rounded-md">
+      
+    <!-- Kicker -->
+    <p class="text-base text-secondary text-white font-bold tracking-wide uppercase">Next Airdate</p>
+
+    <!-- Airdate -->
+    <h2 class="tlo-time font-bold leading-tighter tracking-tighter font-heading text-white text-heading text-4xl my-2">Tune in to The Lacking Organization</h2>
+    <p class="tlo-timezone font-bold text-white"></p>
+
+    <!-- Location -->
+    <p class="text-xl text-white font-bold my-4">
+      <a href="https://www.kafmradio.org" class="kafm-location hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
+      <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hidden" target="_blank">Louder Than War Internet Radio</a>
+      <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hidden" target="_blank">Streaming on Mixcloud</a>
+    </p>
+
+    <!-- KAFM Stream -->
+    <a
+      type="button"
+      class="kafm-stream btn-primary hidden animate-pulse"
+      href="http://www.radiorethink.com/tuner/?stationCode=KAFM&stream=lo"
+      onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;"
+    >ON THE AIR<br>LISTEN NOW</a>
+
+    <!-- LTW Stream -->
+    <a
+      type="button"
+      class="ltw-stream btn-primary hidden animate-pulse"
+      href="https://s2.radio.co/sab795a38d/listen"
+      onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=150,top=1'); return false;"
+    >ON THE AIR<br>LISTEN NOW</a>
+
+    <!-- Mixcloud Stream -->
+    <a
+      type="button"
+      class="mixcloud-stream btn-primary hidden animate-pulse"
+      href="https://www.mixcloud.com/live/the-lacking-org/"
+      target="_blank"
+    >ON THE AIR<br>LISTEN NOW</a>
+
+    <!-- Schedule + More -->
+    {hideScheduleLink ? '' : (
+      <a
+        type="button"
+        class="schedule-button btn-secondary text-black dark:text-black font-bold bg-neutral-100 hover:bg-neutral-200"
+        href="/radio-activity"
+      >Schedule + More</a>
     )}
+
+    </div>
   </div>
-
-  <div class="w-3/4 mx-auto bg-black/50 p-6 rounded-md">
-    
-  <!-- Kicker -->
-  <p class="text-base text-secondary text-white font-bold tracking-wide uppercase">Next Airdate</p>
-
-  <!-- Airdate -->
-  <h2 class="tlo-time font-bold leading-tighter tracking-tighter font-heading text-white text-heading text-4xl my-2">Tune in to The Lacking Organization</h2>
-  <p class="tlo-timezone font-bold text-white"></p>
-  
-  <!-- Location -->
-  <p class="text-xl text-white font-bold my-4">
-    <a href="https://www.kafmradio.org" class="kafm-location hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
-    <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hidden" target="_blank">Louder Than War Internet Radio</a>
-    <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hidden" target="_blank">Streaming on Mixcloud</a>
-  </p>
-
-  <!-- KAFM Stream -->
-  <a
-    type="button"
-    class="kafm-stream btn-primary hidden animate-pulse"
-    href="http://www.radiorethink.com/tuner/?stationCode=KAFM&stream=lo"
-    onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;"
-  >ON THE AIR<br>LISTEN NOW</a>
-
-  <!-- LTW Stream -->
-  <a
-    type="button"
-    class="ltw-stream btn-primary hidden animate-pulse"
-    href="https://s2.radio.co/sab795a38d/listen"
-    onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=150,top=1'); return false;"
-  >ON THE AIR<br>LISTEN NOW</a>
-
-  <!-- Mixcloud Stream -->
-  <a
-    type="button"
-    class="mixcloud-stream btn-primary hidden animate-pulse"
-    href="https://www.mixcloud.com/live/the-lacking-org/"
-    target="_blank"
-  >ON THE AIR<br>LISTEN NOW</a>
-
-  <!-- Schedule + More -->
-  <a
-    type="button"
-    class="schedule-button btn-secondary text-black dark:text-black font-bold bg-neutral-100 hover:bg-neutral-200"
-    href="/radio-activity"
-  >Schedule + More</a>
-
-</div>
-</div>
-
-<script is:inline data-astro-rerun>
-  const now = new Date()
-  // Get schedule
-  const scheduleJSON = document.getElementById('schedule').dataset.schedule;
-  const schedule = JSON.parse(scheduleJSON);
-  // Find next airdate
-  next_airdate = schedule.find((item) => {
-    return (new Date(item.end_time) >= now)
-  });
-  // Convert to string and add to page
-  const next_string = new Date(next_airdate.start_time).toLocaleString('en-US', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric'
-  });
-  document.querySelector('.tlo-time').textContent = next_string;
-  // Set timezone
-  timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone}]`
-  document.querySelector('.tlo-timezone').textContent = timezone;
-  // Set location
-  const locationClass = `.${next_airdate.location}-location`
-  document.querySelector(locationClass).classList.remove('hidden');
-  // Turn on stream buttons
-  const on_air = now >= new Date(next_airdate.start_time) && now <= new Date(next_airdate.end_time);
-  if (on_air) {
-    const streamClass = `.${next_airdate.location}-stream`
-    document.querySelector(streamClass).classList.remove('hidden');
-    document.querySelector('.schedule-button').classList.add('hidden');
-  }
-</script>
-
+  )
+}

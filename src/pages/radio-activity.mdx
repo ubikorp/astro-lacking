@@ -5,11 +5,12 @@ subtitle: Helpful instructions for the operation of this broadcast
 updated: 2024-05-04
 ---
 
+import NextAirdate from '../components/tlo/NextAirdate.astro';
 import Schedule from '../components/tlo/Schedule.astro';
 import Image from '../components/common/Image.astro';
 import dashboard from '../assets/images/dashboard.jpg'
 
-<Image src={dashboard} alt='Classic automotive dashboard featuring a pushbutton radio' />
+<NextAirdate hideScheduleLink={true} />
 
 ### Esteemed potential listeners--
 

@@ -158,7 +158,9 @@ import { UI } from 'astrowind:config';
     initTheme();
     onLoad();
     onPageShow();
+    // TLO
     tiltElements();
+    applyNextAirdate();
   });
 
   /* eff shizz up */
@@ -178,5 +180,71 @@ import { UI } from 'astrowind:config';
     randomRotation('td', 2.5);
   }
   tiltElements();
+
+  /* schedule + next airdate */
+
+  const scheduleId = 'schedule-data';
+
+  function initializeNextAirdate() {
+    console.log('initializeNextAirdate');
+    // Get schedule
+    const scheduleJSON = document.getElementById(scheduleId).dataset.schedule;
+    const schedule = JSON.parse(scheduleJSON);
+    // Get next airdate
+    const now = new Date()
+    next_airdate = schedule.find((item) => {
+      return (new Date(item.end_time) >= now)
+    });
+    // Convert start time to string and add to page
+    const next_string = new Date(next_airdate.start_time).toLocaleString('en-US', {
+      month: 'long',
+      day: 'numeric',
+      hour: 'numeric',
+      minute: 'numeric'
+    });
+    // TODO: Handle no next airdate
+    document.getElementById(scheduleId).dataset.next_airdate = next_string;
+    // Get timezone and add to page
+    timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone}]`
+    document.getElementById(scheduleId).dataset.timezone = timezone;
+    // Set location
+    document.getElementById(scheduleId).dataset.location = next_airdate.location;
+    // Turn on stream buttons
+    const on_air = now >= new Date(next_airdate.start_time) && now <= new Date(next_airdate.end_time);
+    console.log('on_air', on_air, now, new Date(next_airdate.start_time), new Date(next_airdate.end_time));
+    if (on_air) {
+      const streamClass = `.${next_airdate.location}-stream`
+      document.querySelector(streamClass)?.classList.remove('hidden');
+      document.querySelector('.schedule-button')?.classList.add('hidden');
+    }
+  }
+
+  function applyNextAirdate() {
+    console.log('applyNextAirdate');
+    // Get Airdate
+    let next_airdate = document.getElementById(scheduleId).dataset.next_airdate;
+    // Sanity check
+    if (!next_airdate) {
+      initializeNextAirdate();
+      next_airdate = document.getElementById(scheduleId).dataset.next_airdate;
+    }
+    // Get timezone
+    const timezone = document.getElementById(scheduleId).dataset.timezone;
+    // Get location
+    const location = document.getElementById(scheduleId).dataset.location;
+    // Replace text
+    document.querySelectorAll('.tlo-time').forEach((elem) => {
+      elem.textContent = next_airdate;
+    });
+    document.querySelectorAll('.tlo-timezone').forEach((elem) => {
+      elem.textContent = timezone;
+    });
+    // Show location
+    document.querySelectorAll(`.${location}-location`).forEach((elem) => {
+      elem.classList.remove('hidden');
+    });
+  }
+  applyNextAirdate();
+
 
 </script>
