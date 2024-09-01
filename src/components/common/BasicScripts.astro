@@ -186,7 +186,6 @@ import { UI } from 'astrowind:config';
   const scheduleId = 'schedule-data';
 
   function initializeNextAirdate() {
-    console.log('initializeNextAirdate');
     // Get schedule
     const scheduleJSON = document.getElementById(scheduleId).dataset.schedule;
     const schedule = JSON.parse(scheduleJSON);
@@ -211,7 +210,6 @@ import { UI } from 'astrowind:config';
     document.getElementById(scheduleId).dataset.location = next_airdate.location;
     // Turn on stream buttons
     const on_air = now >= new Date(next_airdate.start_time) && now <= new Date(next_airdate.end_time);
-    console.log('on_air', on_air, now, new Date(next_airdate.start_time), new Date(next_airdate.end_time));
     if (on_air) {
       const streamClass = `.${next_airdate.location}-stream`
       document.querySelector(streamClass)?.classList.remove('hidden');
@@ -220,7 +218,6 @@ import { UI } from 'astrowind:config';
   }
 
   function applyNextAirdate() {
-    console.log('applyNextAirdate');
     // Get Airdate
     let next_airdate = document.getElementById(scheduleId).dataset.next_airdate;
     // Sanity check

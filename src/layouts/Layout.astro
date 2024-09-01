@@ -46,9 +46,9 @@ const scheduleJSON = JSON.stringify(schedule);
   </head>
 
   <body class="antialiased text-default bg-page tracking-tight">
+    <div id="schedule-data" data-schedule={scheduleJSON} />
     <slot />
 
-    <div id="schedule-data" data-schedule={scheduleJSON} />
 
     <BasicScripts />
 

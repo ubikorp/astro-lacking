@@ -1,35 +1,9 @@
 ---
-import { schedule } from '~/utils/tlo.ts';
 import { twMerge } from 'tailwind-merge';
 
 const {
   class: className = '',
 } = Astro.props;
-
-// Translate schedule
-const airdates = schedule.map((airdate) => {
-  const date = new Date(airdate.start_time).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-  const startTime = new Date(airdate.start_time).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
-  const endTime = new Date(airdate.end_time).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
-  const time = `${startTime} - ${endTime}`;
-  const location = {
-    kafm: 'KAFM Grand Junction 88.1 FM',
-    ltw: 'Louder Than War Internet Radio',
-    mixcloud: 'Streaming on Mixcloud'
-  }[airdate.location];
-  const url = {
-    kafm: 'https://www.kafmradio.org',
-    ltw: 'https://louderthanwar.com/louder-than-war-radio/',
-    mixcloud: 'https://www.mixcloud.com/the-lacking-org/'
-  }[airdate.location];
-  return {
-    date,
-    time,
-    location,
-    url,
-    notes: airdate.notes,
-  };
-});
 
 ---
 
@@ -41,33 +15,82 @@ const airdates = schedule.map((airdate) => {
     <thead>
       <tr>
         <th class="text-left"><span class="ml-4">Date</span></th>
-        <th class="text-left">Time</th>
+        <th class="text-left">Time <span id="schedule-timezone" class="text-xs" /></th>
         <th class="text-left">Location</th>
         <th class="text-left">Notes</th>
       </tr>
     </thead>
-    <tbody>
-      {airdates.map((airdate) => (
-        <tr class="even:bg-white/5 odd:bg-black/5">
-          <td>
-            <div class="ml-4">
-              { airdate.date }
-            </div>
-          </td>
-          <td>
-            <div class="ml-4">
-              { airdate.time }
-            </div>
-          </td>
-          <td>{ airdate.location }</td>
-          <td>
-            <div class="mr-4">
-              { airdate.notes }
-            </div>
-          </td>
-        </tr>
-      ))}
-    </tbody>
+    <tbody id="schedule-table" />
   </table>
-
 </div>
+
+<script is:inline>
+
+// Set timezone
+  timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone}]`
+  document.getElementById('schedule-timezone').textContent = timezone;
+
+  // Get schedule
+  const scheduleId = 'schedule-data';
+  const scheduleJSON = document.getElementById(scheduleId).dataset.schedule;
+  const schedule = JSON.parse(scheduleJSON);
+  // Build schedule table
+  const airdates = schedule.map((airdate) => {
+    const date = new Date(airdate.start_time).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    const startTime = new Date(airdate.start_time).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
+    const endTime = new Date(airdate.end_time).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
+    const time = `${startTime} - ${endTime}`;
+    const location = {
+      kafm: 'KAFM Grand Junction 88.1 FM',
+      ltw: 'Louder Than War Internet Radio',
+      mixcloud: 'Streaming on Mixcloud'
+    }[airdate.location];
+    const url = {
+      kafm: 'https://www.kafmradio.org',
+      ltw: 'https://louderthanwar.com/louder-than-war-radio/',
+      mixcloud: 'https://www.mixcloud.com/the-lacking-org/'
+    }[airdate.location];
+    return {
+      date,
+      time,
+      location,
+      url,
+      notes: airdate.notes,
+    };
+  });
+  // Render schedule table
+  const tableBody = document.getElementById("schedule-table");
+  airdates.forEach((airdate) => {
+    // Create row
+    const tr = document.createElement('TR');
+    tr.classList.add('even:bg-white/5', 'odd:bg-black/5');
+    tableBody.appendChild(tr);
+    // Create date cell
+    let td = document.createElement('TD');
+    let tdDiv = document.createElement('DIV');
+    tdDiv.classList.add('ml-4');
+    tdDiv.appendChild(document.createTextNode(airdate.date));
+    td.appendChild(tdDiv);
+    tr.appendChild(td);
+    // Create time cell
+    td = document.createElement('TD');
+    td.appendChild(document.createTextNode(airdate.time));
+    tr.appendChild(td);
+    // Create location cell
+    td = document.createElement('TD');
+    const a = document.createElement('A');
+    a.classList.add('text-plain');
+    a.href = airdate.url;
+    a.appendChild(document.createTextNode(airdate.location));
+    td.appendChild(a);
+    tr.appendChild(td);
+    // Create notes cell
+    td = document.createElement('TD');
+    tdDiv = document.createElement('DIV');
+    tdDiv.classList.add('mr-4');
+    tdDiv.appendChild(document.createTextNode(airdate.notes || ''));
+    td.appendChild(tdDiv);
+    tr.appendChild(td);
+  });
+
+</script>
