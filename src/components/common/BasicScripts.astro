@@ -161,6 +161,7 @@ import { UI } from 'astrowind:config';
     // TLO
     tiltElements();
     applyNextAirdate();
+    applyMixcloudTheme();
   });
 
   /* eff shizz up */
@@ -243,5 +244,14 @@ import { UI } from 'astrowind:config';
   }
   applyNextAirdate();
 
+  /* theming mixcloud */
+  function applyMixcloudTheme() {
+    const mixcloud = document.getElementById('mixcloud-iframe');
+    if (!mixcloud) return;
+    const mixcloudIframe = document.getElementById('mixcloud-iframe');
+    const theme = localStorage.theme === 'dark' ? '0' : '1';
+    mixcloudIframe.setAttribute('src', `${mixcloud.dataset.src}&light=${theme}`);
+  }
+  applyMixcloudTheme();
 
 </script>

@@ -6,20 +6,13 @@
 const { post } = Astro.props
 ---
 
-<div
-	id="mixcloud"
-	data-src={post.mixcloud}
-	class="my-6"
->
+<div class="my-6">
 	<iframe
 		id="mixcloud-iframe"
 		width="100%"
 		style="margin-bottom: 1em;"
 		height="120"
 		src=""
-	></iframe>
+		data-src={post.mixcloud}
+		></iframe>
 </div>
-
-<script is:inline>
-	document.getElementById('mixcloud-iframe').setAttribute('src', `${document.getElementById('mixcloud').dataset.src}&light=${localStorage.theme === 'dark' ? '0' : '1'}`)
-</script>
