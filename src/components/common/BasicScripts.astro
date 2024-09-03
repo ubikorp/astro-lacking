@@ -205,7 +205,7 @@ import { UI } from 'astrowind:config';
     // TODO: Handle no next airdate
     document.getElementById(scheduleId).dataset.next_airdate = next_string;
     // Get timezone and add to page
-    timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone}]`
+    timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone.replace(/_/g, ' ')}]`;
     document.getElementById(scheduleId).dataset.timezone = timezone;
     // Set location
     document.getElementById(scheduleId).dataset.location = next_airdate.location;
