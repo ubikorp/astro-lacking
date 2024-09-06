@@ -116,6 +116,13 @@ apps:
           background:  site/banners/podcast_bg.jpg
           icon:        site/banners/podcast_icon.png
           social:      site/banners/podcast_social.jpg
+        videos:
+          title:       Seen and Heard
+          tagline:     Audiovisual representations of&nbsp;mood
+          description: Short musical films of particular interest, presented without additional commentary or context.
+          background:  site/banners/details_bg.jpg
+          icon:        site/banners/details_icon.png
+          social:      site/banners/details_social.jpg
         news:
           title:       News&nbsp;and Ramblings
           tagline:     Items&nbsp;of Lacking&nbsp;Importance

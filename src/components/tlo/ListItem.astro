@@ -1,0 +1,24 @@
+---
+import Item from '~/components/blog/ListItem.astro';
+import Video from '~/components/tlo/Video.astro';
+
+import type { Post } from '~/types';
+
+export interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+
+const isVideo = post.category?.slug === 'videos';
+console.log(post.category)
+const isItem = !isVideo;
+---
+
+{isVideo && (
+  <Video post={post} />
+)}
+
+{isItem && (
+  <Item post={post} />
+)}

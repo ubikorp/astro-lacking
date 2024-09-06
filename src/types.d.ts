@@ -49,6 +49,7 @@ export interface Post {
   playlist?: Play[];
   mixcloud?: string;
   youtube?: string;
+  video?: string;
 }
 
 export interface Play {
