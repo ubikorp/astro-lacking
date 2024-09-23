@@ -35,9 +35,9 @@ tags:
 - Janis Joplin
 - Japanese Breakfast
 - Jeff Rosenstock
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Mariachi El Bronx
-- Matt Sweeney & Bonnie 'Prince' Billy
+- Matt Sweeney + Bonnie “Prince” Billy
 - Mexican Institute of Sound
 - Nine Inch Nails
 - OCS
@@ -232,7 +232,7 @@ playlist:
   notes: It’s crowded in here
 - sequence: 31
   song: Watch What Happens
-  artist: Matt Sweeney & Bonnie 'Prince' Billy
+  artist: Matt Sweeney + Bonnie “Prince” Billy
   artist_slug: matt-sweeney-bonnie-prince-billy
   album: Superwolves
   time: '2:56'
@@ -285,7 +285,7 @@ playlist:
   notes: Disaffected affectation
 - sequence: 40
   song: Shanghai
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Butterfly 3000
   time: '4:01'

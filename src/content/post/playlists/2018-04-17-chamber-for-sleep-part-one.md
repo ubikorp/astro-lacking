@@ -15,7 +15,7 @@ tags:
 - Born Ruffians
 - Car Seat Headrest
 - Daft Punk
-- Dean Ween Group
+- The Dean Ween Group
 - Ed Schrader's Music Beat
 - Elvis Perkins In Dearland
 - Five-Eight
@@ -63,7 +63,7 @@ playlist:
   notes: Infectious stuff
 - sequence: 2
   song: Fingerbangin
-  artist: Dean Ween Group
+  artist: The Dean Ween Group
   artist_slug: dean-ween-group
   album: Rock 2
   time: '2:38'
@@ -305,7 +305,7 @@ playlist:
   notes: They go together
 - sequence: 43
   song: Hope
-  artist: Internal/External
+  artist: Internal / External
   artist_slug: internal-external
   album:
   time: '4:04'

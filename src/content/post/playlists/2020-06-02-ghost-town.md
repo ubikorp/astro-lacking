@@ -50,11 +50,11 @@ tags:
 - The Obscuritones
 - Of Montreal
 - Parquet Courts
-- Peter Bjorn and John
+- Peter, Bjorn + John
 - Post Animal
 - Scruffy The Cat
 - Shopping
-- Specials
+- The Specials
 - Tennis
 - Tony Cook
 - Waxahatchee
@@ -65,7 +65,7 @@ youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm7uZzupcBhKR-Tu3F_IFU
 playlist:
 - sequence: 1
   song: Ghost Town
-  artist: Specials
+  artist: The Specials
   artist_slug: specials
   album: Ian's Awesome Eighties Collection
   time: '3:40'
@@ -344,7 +344,7 @@ playlist:
   song: BREAK
 - sequence: 48
   song: Weekend
-  artist: Peter Bjorn and John
+  artist: Peter, Bjorn + John
   artist_slug: peter-bjorn-john
   album: Endless Dream
   time: '3:40'

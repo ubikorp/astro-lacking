@@ -14,7 +14,7 @@ tags:
 - The Bronx
 - Bully
 - Cherry
-- Courtney Barnett & Kurt Vile
+- Courtney Barnett + Kurt Vile
 - Dappled Cities
 - David Bowie
 - The Domestics
@@ -239,7 +239,7 @@ playlist:
   notes:
 - sequence: 31
   song: Over Everything
-  artist: Courtney Barnett & Kurt Vile
+  artist: Courtney Barnett + Kurt Vile
   artist_slug: courtney-barnett-kurt-vile
   album: Lotta Sea Lice
   time: '6:20'

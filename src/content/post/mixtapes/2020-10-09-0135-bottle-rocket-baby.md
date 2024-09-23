@@ -27,11 +27,11 @@ tags:
 - L.A. Witch
 - Lettuce
 - Lisa LeBlanc
-- Low Frequency In Stereo
+- The Low Frequency In Stereo
 - matt pond PA
 - Messer Chups
 - Mother Mother
-- Noisettes
+- The Noisettes
 - Old 97's
 - Otto von Schirach
 - The Pack A.D.
@@ -41,7 +41,7 @@ tags:
 - Soul Coughing
 - Soul Quality Quartet
 - They Might Be Giants
-- The Young Fresh Fellows
+- Young Fresh Fellows
 airdate: '2020-10-09'
 mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fshxvqb-135-bottle-rocket-baby%2F&hide_artwork=1&hide_cover=1
 playlist:
@@ -84,7 +84,7 @@ playlist:
   notes: That's a giant drum sound
 - sequence: 7
   song: Travelling Light
-  artist: Noisettes
+  artist: The Noisettes
   artist_slug: noisettes
   album:
   time: '4:37'
@@ -204,7 +204,7 @@ playlist:
   notes: Brilliant oddity
 - sequence: 27
   song: Travelling Ants Who Got Eaten By Moskus
-  artist: Low Frequency In Stereo
+  artist: The Low Frequency In Stereo
   artist_slug: low-frequency-in-stereo
   album: Travelling Ants Who Got Eaten By Moskus
   time: '5:45'
@@ -234,7 +234,7 @@ playlist:
   notes: I forgot the bag! Panic!
 - sequence: 32
   song: Hard to Mention
-  artist: The Young Fresh Fellows
+  artist: Young Fresh Fellows
   artist_slug: young-fresh-fellows
   album:
   time: '3:21'

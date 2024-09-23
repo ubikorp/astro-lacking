@@ -30,7 +30,7 @@ tags:
 - Delicate Steve
 - Derby
 - Fort Lauderdale
-- Four Corners
+- The Four Corners
 - Grandaddy
 - Hell Baby
 - The Hives
@@ -191,7 +191,7 @@ playlist:
   notes: Big chunks of self
 - sequence: 23
   song: The Girl From U.N.C.L.E.
-  artist: Four Corners
+  artist: The Four Corners
   artist_slug: four-corners
   album: Say You're A Scream
   time: '1:42'

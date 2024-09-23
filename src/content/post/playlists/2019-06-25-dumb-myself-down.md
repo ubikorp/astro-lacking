@@ -34,10 +34,10 @@ tags:
 - Janis Joplin
 - Jr. Jr.
 - Kal
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Manu Chao
 - Mastretta
-- Mekons
+- The Mekons
 - The Mountain Goats
 - Nikka Costa
 - Nouvelle Vague
@@ -48,9 +48,9 @@ tags:
 - The Ray Makers
 - Reptaliens
 - Sex Bob-omb
-- She & Him
+- She + Him
 - The Smugglers
-- The Starlight Mints
+- Starlight Mints
 - Stereolab
 - Thee Oh Sees
 - Violent Femmes
@@ -68,7 +68,7 @@ playlist:
   notes: Quite smart, actually
 - sequence: 2
   song: Popsickle
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album: The Dream That Stuff Was Made Of
   time: '3:04'
@@ -211,7 +211,7 @@ playlist:
   notes: Count it down
 - sequence: 26
   song: Vomit Coffin
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Murder Of The Universe
   time: '2:19'
@@ -264,7 +264,7 @@ playlist:
   notes: Originally by Altered Images
 - sequence: 35
   song: In The Sun
-  artist: She & Him
+  artist: She + Him
   artist_slug: she-him
   album: Volume Two
   time: '2:51'
@@ -303,7 +303,7 @@ playlist:
   song: BREAK
 - sequence: 42
   song: Lawrence of California
-  artist: Mekons
+  artist: The Mekons
   artist_slug: mekons
   album: Deserted
   time: '4:38'

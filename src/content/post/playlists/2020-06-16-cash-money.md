@@ -30,7 +30,7 @@ tags:
 - Clifffs
 - Cornershop
 - The Frights
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Gothic Tropic
 - Isobel Campbell
 - Jonathan Wilson
@@ -42,7 +42,7 @@ tags:
 - Mad Professor
 - Margaret Glaspy
 - Material
-- Micachu & The Shapes
+- Micachu + the Shapes
 - Money Mark
 - Mr. Elevator & The Brain Hotel
 - Nathaniel Rateliff
@@ -95,7 +95,7 @@ playlist:
   song: BREAK
 - sequence: 6
   song: The Juice (feat. Marcus King)
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: The Juice
   time: '3:07'
@@ -162,7 +162,7 @@ playlist:
   notes: Some assembly required
 - sequence: 17
   song: Calculator
-  artist: Micachu & The Shapes
+  artist: Micachu + the Shapes
   artist_slug: micachu-shapes
   album:
   time: '3:09'

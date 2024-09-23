@@ -44,13 +44,13 @@ tags:
 - Pepe Deluxe
 - Pixies
 - Protovulcan
-- R Stevie Moore
+- R. Stevie Moore
 - Ray Corvair Trio
 - The Red Button
 - Reverend Horton Heat
 - Shantel
 - The Skiffle Players
-- The Spirit Of The Beehive
+- Spirit of the Beehive
 - Spiritualized
 - Temples
 - Tim Blake Nelson
@@ -98,7 +98,7 @@ playlist:
   notes: The robots dig the reggae
 - sequence: 7
   song: D.O.U.B.L.E.U.R.O.N.G.
-  artist: The Spirit Of The Beehive
+  artist: Spirit of the Beehive
   artist_slug: spirit-of-beehive
   album: Hypnic Jerks
   time: '3:46'
@@ -234,7 +234,7 @@ playlist:
   notes: Undiminished
 - sequence: 30
   song: Pop Music
-  artist: R Stevie Moore
+  artist: R. Stevie Moore
   artist_slug: r-stevie-moore
   album: Afterlife
   time: '3:50'

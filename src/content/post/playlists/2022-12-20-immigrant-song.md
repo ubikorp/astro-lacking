@@ -13,7 +13,7 @@ image: "~/assets/images/playlists/2022/12-20-sex-clark-five.jpg"
 caption: Sex Clark Five
 tags:
 - Abraxas
-- Belle & Sebastian
+- Belle + Sebastian
 - Bill Callahan
 - Black Lips
 - Brian Eno
@@ -170,7 +170,7 @@ playlist:
   song: BREAK
 - sequence: 21
   song: Young and Stupid
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: A Bit of Previous
   time: '2:55'

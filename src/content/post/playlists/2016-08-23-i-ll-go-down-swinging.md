@@ -13,14 +13,14 @@ tags:
 - The Babies
 - Brian Eno
 - Charming Turtlenecks
-- The Chemical Brothers
+- Chemical Brothers
 - The Claypool Lennon Delirium
 - Diamanda Galas with John Paul Jones
 - Family Of God
 - The Flamenco A Go Go
 - Flat Duo Jets
 - The Fratellis
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Guided By Voices
 - Guv'ner
 - The Hidden Cameras
@@ -80,7 +80,7 @@ playlist:
   notes: Dub hammer
 - sequence: 8
   song: Block Rockin' Beats
-  artist: The Chemical Brothers
+  artist: Chemical Brothers
   artist_slug: chemical-brothers
   album: The Fatboy Slim Collection
   time: '3:24'
@@ -149,7 +149,7 @@ playlist:
   notes: Not pulling any punches
 - sequence: 20
   song: Baby's Got Sauce
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album:
   time: '3:54'

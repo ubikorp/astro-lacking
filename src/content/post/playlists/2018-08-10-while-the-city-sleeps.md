@@ -32,7 +32,7 @@ tags:
 - Kid Koala + Dynomite D
 - Lemon Jelly
 - MC 900 Foot Jesus
-- Medeski Martin + Wood
+- Medeski, Martin + Wood
 - Montefiori Cocktail
 - Nortec Collective
 - Pizzicato Five
@@ -160,7 +160,7 @@ playlist:
   song: BREAK
 - sequence: 21
   song: Partido Alto
-  artist: Medeski Martin + Wood
+  artist: Medeski, Martin + Wood
   artist_slug: medeski-martin-wood
   album: The Dropper
   time: '5:45'

@@ -30,7 +30,7 @@ tags:
 - Oh Pep!
 - Oranger
 - The Pack A.D.
-- The Pillows
+- Pillows
 - R. Stevie Moore
 - Reverend Horton Heat
 - Ron Gallo
@@ -134,7 +134,7 @@ playlist:
   notes: Hitting old Lowes
 - sequence: 16
   song: Beautiful Morning With You
-  artist: The Pillows
+  artist: Pillows
   artist_slug: pillows
   album:
   time: '1:36'

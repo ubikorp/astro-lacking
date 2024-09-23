@@ -20,7 +20,7 @@ tags:
 - Elbow
 - Eyelids
 - Holiday Ghosts
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - Marshall Crenshaw
 - Master Peace
 - The Messthetics & James Brandon Lewis
@@ -70,7 +70,7 @@ playlist:
   notes: Grittier than expected
 - sequence: 8
   song: jamcod
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Glasgow Eyes
   time: '04:00'

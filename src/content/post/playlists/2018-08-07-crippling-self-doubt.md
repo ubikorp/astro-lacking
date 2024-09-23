@@ -11,7 +11,7 @@ excerpt: |-
 image: "~/assets/images/playlists/2018/courtney_barnett.jpg"
 caption: Courtney Barnett
 tags:
-- Add N To (X)
+- Add N to X
 - Adrian Belew
 - The Anubian Lights
 - Black Moth Super Rainbow
@@ -45,7 +45,7 @@ tags:
 - Ondatrópica
 - Quasi
 - The Record Company
-- Rock*a*Teens
+- The Rock*A*Teens
 - The Rubens
 - Shy Boys
 - Sir Millard Mulch
@@ -168,7 +168,7 @@ playlist:
   notes: Classic ThiefCo
 - sequence: 18
   song: Barry 7's Contraption
-  artist: Add N To (X)
+  artist: Add N to X
   artist_slug: add-n-to-x
   album: Avant Hard
   time: '4:10'
@@ -251,7 +251,7 @@ playlist:
   notes: Arnault the Dwarf!
 - sequence: 32
   song: Baby's On To Me
-  artist: Rock*a*Teens
+  artist: The Rock*A*Teens
   artist_slug: rock-a-teens
   album: Sixth House
   time: '3:28'

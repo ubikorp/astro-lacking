@@ -31,6 +31,7 @@ tags:
 - Sleepytime Gorilla Museum
 - Unexpect
 airdate: '2012-02-17'
+podcast: https://audio.lacking.org/podcast/0001-0100/0095.complicated-music-hour.mp3
 playlist:
 - sequence: 1
   song: Desert Urbania

@@ -248,7 +248,7 @@ playlist:
   notes: Channeling the Beach Boys
 - sequence: 33
   song: Radio
-  artist: Margo Price / Sharon Van Etten
+  artist: Margo Price + Sharon Van Etten
   artist_slug: margo-price-sharon-van-etten
   album: Strays
   time: '2:49'

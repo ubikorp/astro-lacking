@@ -29,7 +29,7 @@ tags:
 - Jeff Rosenstock
 - Johnny Sangster And Robb Benson
 - Kelley Stoltz
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Marvelous Liars
 - Mayor McCa
 - Mo Kenney
@@ -218,7 +218,7 @@ playlist:
   notes: Australian retro
 - sequence: 27
   song: Nuclear Fusion
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flying Microtonal Banana
   time: '4:15'

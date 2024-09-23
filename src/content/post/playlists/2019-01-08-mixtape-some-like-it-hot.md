@@ -12,7 +12,7 @@ image: "~/assets/images/playlists/2019/escape.png"
 caption: Photo by jcob nasyr via Unsplash
 tags:
 - Atomic 7
-- The Breeders
+- Breeders
 - Calvin Davidson
 - Chrome
 - The Flaming Lips
@@ -83,7 +83,7 @@ playlist:
   notes: Like the Cure when the Cure weren’t around
 - sequence: 9
   song: Happiness Is A Warm Gun
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Pod
   time: '2:47'

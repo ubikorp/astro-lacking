@@ -12,7 +12,7 @@ image: "~/assets/images/mixtapes/0116-coriky.jpg"
 caption: Coriky
 tags:
 - Applesaucer
-- Belle & Sebastian
+- Belle + Sebastian
 - Born Ruffians
 - Built To Spill
 - The Coctails
@@ -28,7 +28,7 @@ tags:
 - Harold Ousley
 - Igorrr
 - Isotope 217
-- Jony Iliev and Band
+- Jony Iliev + Band
 - Jungle Fire
 - Khruangbin
 - King Missile
@@ -136,7 +136,7 @@ playlist:
   notes: Gravelly rumble
 - sequence: 16
   song: The Blues Are Still Blue
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: The Life Pursuit
   time: '4:09'
@@ -173,7 +173,7 @@ playlist:
   notes: Skalabama
 - sequence: 22
   song: Gypsy's Kolo
-  artist: Jony Iliev and Band
+  artist: Jony Iliev + Band
   artist_slug: jony-iliev-band
   album: Borat Soundtrack
   time: '2:12'

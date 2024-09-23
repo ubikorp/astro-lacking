@@ -13,7 +13,7 @@ caption: Orville Peck
 tags:
 - AJJ
 - Asylum Street Spankers
-- Belle and Sebastian
+- Belle + Sebastian
 - Bully
 - Deer Tick
 - Die Moulinettes
@@ -31,7 +31,7 @@ tags:
 - Kane Strang
 - Khruangbin
 - Kirby Krackle
-- Leo Kottke & Mike Gordon
+- Leo Kottke + Mike Gordon
 - MC 900 Foot Jesus
 - Mo Kenney
 - My Morning Jacket
@@ -54,7 +54,7 @@ playlist:
   notes: Oh so lonesome sound
 - sequence: 2
   song: I Am Random
-  artist: Leo Kottke & Mike Gordon
+  artist: Leo Kottke + Mike Gordon
   artist_slug: leo-kottke-mike-gordon
   album: Noon
   time: '3:56'
@@ -98,7 +98,7 @@ playlist:
   notes: With T Rex vapors
 - sequence: 9
   song: The State I Am In
-  artist: Belle and Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: The BBC Sessions
   time: '4:42'

@@ -47,7 +47,7 @@ tags:
 - The Plugz
 - Pole
 - Rob Crow
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - Snake Eyes
 - The Sugarman Three & Co.
 - Tobacco
@@ -143,7 +143,7 @@ playlist:
   notes: Originally by Bob Dylan
 - sequence: 15
   song: Signed, Sealed, Delivered I'm Yours
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Just Dropped In (To See What Condition My Rendition Was In)
   time: '2:35'

@@ -22,7 +22,7 @@ tags:
 - The Capes
 - Coriky
 - The Front Bottoms
-- Gillian Welch and Alison Krauss
+- Gillian Welch + Alison Krauss
 - Golden Shoulders
 - The Haden Triplets
 - Hollie Cook
@@ -265,7 +265,7 @@ playlist:
   song: BREAK
 - sequence: 38
   song: I'll Fly Away
-  artist: Gillian Welch and Alison Krauss
+  artist: Gillian Welch + Alison Krauss
   artist_slug: gillian-welch-alison-krauss
   album:
   time: '3:58'

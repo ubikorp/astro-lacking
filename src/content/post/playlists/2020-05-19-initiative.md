@@ -19,7 +19,7 @@ tags:
 - Arto Lindsay
 - Atomic 7
 - Baby Shakes
-- Belle & Sebastian
+- Belle + Sebastian
 - Best Coast
 - Black Lips
 - The Blue Rags
@@ -31,7 +31,7 @@ tags:
 - David Bowie
 - Feist
 - The Frights
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Great Grandpa
 - Greg Dulli
 - The Growlers
@@ -45,7 +45,7 @@ tags:
 - Mojo Nixon
 - The Mountain Goats
 - Olivia Jean
-- Peter Bjorn and John
+- Peter, Bjorn + John
 - The Postal Service
 - Professor Elemental
 - Queen
@@ -147,7 +147,7 @@ playlist:
   song: BREAK
 - sequence: 15
   song: Shine On Moon (feat. Keb' Mo')
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: The Juice
   time: '3:23'
@@ -184,7 +184,7 @@ playlist:
   notes: Gravelly rumble
 - sequence: 21
   song: The Blues Are Still Blue
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: The Life Pursuit
   time: '4:09'
@@ -230,7 +230,7 @@ playlist:
   song: BREAK
 - sequence: 29
   song: Idiosyncrasy
-  artist: Peter Bjorn and John
+  artist: Peter, Bjorn + John
   artist_slug: peter-bjorn-john
   album: Endless Dream
   time: '2:49'

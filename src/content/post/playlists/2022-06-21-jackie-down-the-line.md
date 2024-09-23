@@ -45,7 +45,7 @@ tags:
 - Sondre Lerche
 - Speedy West + Jimmy Bryant
 - Spiritualized
-- The Starlight Mints
+- Starlight Mints
 - Talking Heads
 - Toro Y Moi
 - Waco Brothers
@@ -117,7 +117,7 @@ playlist:
   song: BREAK
 - sequence: 12
   song: The Bandit
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album:
   time: '2:26'

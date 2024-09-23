@@ -40,7 +40,7 @@ tags:
 - Kelley Stoltz
 - Khruangbin
 - Koop
-- Laika & The Cosmonauts
+- Laika + The Cosmonauts
 - Levitation Room
 - Los Fabulosos Cadillacs
 - Mikal Cronin
@@ -170,7 +170,7 @@ playlist:
   notes: What’s with the accent?
 - sequence: 18
   song: Apt. 23B
-  artist: Laika & The Cosmonauts
+  artist: Laika + The Cosmonauts
   artist_slug: laika-cosmonauts
   album: Local Warming
   time: '3:34'

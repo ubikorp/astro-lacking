@@ -35,7 +35,7 @@ tags:
 - Pluxus
 - Pom Pom Squad
 - Quantic
-- Ramones
+- The Ramones
 - Sault
 - Schneider TM
 - Squeeze
@@ -219,7 +219,7 @@ playlist:
   notes: Smart pops
 - sequence: 30
   song: We Want The Airwaves
-  artist: Ramones
+  artist: The Ramones
   artist_slug: ramones
   album: Ramones Mania
   time: '03:22'

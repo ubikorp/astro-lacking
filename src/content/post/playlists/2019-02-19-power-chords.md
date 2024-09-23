@@ -33,7 +33,7 @@ tags:
 - Klark Kent
 - LMNOP
 - Love And Rockets
-- Mach Kung-Fu
+- The Mach Kung-Fu
 - Mats + Morgan
 - Mike Krol
 - The Pilgrims
@@ -193,7 +193,7 @@ playlist:
   song: BREAK
 - sequence: 25
   song: Singapore ‘66
-  artist: Mach Kung-Fu
+  artist: The Mach Kung-Fu
   artist_slug: mach-kung-fu
   album:
   time: '2:05'

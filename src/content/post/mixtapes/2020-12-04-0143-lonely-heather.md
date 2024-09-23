@@ -17,13 +17,13 @@ tags:
 - The Apples In Stereo
 - Artichoke
 - Baby Jesus
-- Bill Callahan & Bonnie 'Prince' Billy
+- Bill Callahan & Bonnie "Prince" Billy
 - Bob Marley & The Wailers
 - Cop Shoot Cop
 - Drive-By Truckers
 - The Drums
 - Flat Duo Jets
-- Four Corners
+- The Four Corners
 - Foxygen
 - The Fratellis
 - Greezy Wheels
@@ -35,11 +35,11 @@ tags:
 - The Kazimier Krunk Band
 - Kinky
 - Los Lobos
-- MC 900 Ft Jesus
-- Medeski Martin & Wood
+- MC 900 Foot Jesus
+- Medeski, Martin + Wood
 - Messer Chups
 - The Nude Party
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - The Shivas
 - Split Enz
 - Status Quo
@@ -64,7 +64,7 @@ playlist:
   notes: From the early days of a 50-year career
 - sequence: 3
   song: Destination Danger
-  artist: Four Corners
+  artist: The Four Corners
   artist_slug: four-corners
   album: Say You're a Scream
   time: '2:26'
@@ -170,7 +170,7 @@ playlist:
   song: BREAK
 - sequence: 21
   song: Just Dropped In (To See What Condition My Condition Was In)
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Just Dropped In (To See What Condition My Rendition Was In)
   time: '3:01'
@@ -251,7 +251,7 @@ playlist:
   notes: So very fruity!
 - sequence: 34
   song: Anonymous Skulls
-  artist: Medeski Martin & Wood
+  artist: Medeski, Martin + Wood
   artist_slug: medeski-martin-wood
   album: End of the World Party (Just in Case)
   time: '4:25'
@@ -260,7 +260,7 @@ playlist:
   song: BREAK
 - sequence: 36
   song: OD'd in Denver (feat. Matt Sweeney)
-  artist: Bill Callahan & Bonnie 'Prince' Billy
+  artist: Bill Callahan & Bonnie "Prince" Billy
   artist_slug: bill-callahan-bonnie-prince-billy
   album: OD'd in Denver
   time: '3:30'
@@ -290,8 +290,8 @@ playlist:
   song: BREAK
 - sequence: 41
   song: New Moon
-  artist: MC 900 Ft Jesus
-  artist_slug: mc-900-ft-jesus
+  artist: MC 900 Foot Jesus
+  artist_slug: mc-900-foot-jesus
   album:
   time: '11:41'
   notes: Spooky, eh?

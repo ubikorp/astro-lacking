@@ -33,7 +33,7 @@ tags:
 - Os Mutantes
 - The Police
 - Reptaliens
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - Swarming Branch
 - Thee Oh Sees
 - Tobacco
@@ -153,7 +153,7 @@ playlist:
   notes: Originally by Bob Dylan
 - sequence: 19
   song: Signed, Sealed, Delivered I'm Yours
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Just Dropped In (To See What Condition My Rendition Was In)
   time: '2:35'

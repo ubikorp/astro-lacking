@@ -26,7 +26,7 @@ tags:
 - Dope Lemon
 - The Fall
 - Fatboy Slim
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Holly Golightly
 - Joanna Sternberg
 - The Kinks
@@ -39,7 +39,7 @@ tags:
 - Oranger
 - Pacing
 - Parquet Courts
-- Peter Bjorn and John
+- Peter, Bjorn + John
 - Push
 - Reverend Horton Heat
 - Rita Chaos & The Quests
@@ -196,7 +196,7 @@ playlist:
   notes: Propulsive tropical
 - sequence: 24
   song: Soda Pop
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: Coast To Coast Motel
   time: '3:50'
@@ -212,7 +212,7 @@ playlist:
   notes: Time to change them
 - sequence: 27
   song: Breaker Breaker
-  artist: Peter Bjorn and John
+  artist: Peter, Bjorn + John
   artist_slug: peter-bjorn-john
   album: Gimme Some
   time: '1:39'

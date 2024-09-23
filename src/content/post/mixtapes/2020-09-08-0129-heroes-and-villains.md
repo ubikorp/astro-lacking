@@ -24,7 +24,7 @@ tags:
 - Hot Hot Heat
 - Isobel Campbell
 - Joey Joesph
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kirby Krackle
 - Luna
 - Lux Aeterna
@@ -42,7 +42,7 @@ tags:
 - Spinning Coin
 - Unknown Mortal Orchestra
 - The Woggles
-- Wylie and the Wild West
+- Wylie + the Wild West
 airdate: '2020-09-08'
 mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F56buiq-129-heroes-and-villains%2F&hide_artwork=1&hide_cover=1
 playlist:
@@ -78,7 +78,7 @@ playlist:
   song: BREAK
 - sequence: 6
   song: Mr. Beat
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Nonagon Infinity
   time: '4:56'
@@ -99,7 +99,7 @@ playlist:
   notes: Piano mellow
 - sequence: 9
   song: Odessa Yodel
-  artist: Wylie and the Wild West
+  artist: Wylie + the Wild West
   artist_slug: wylie-wild-west
   album:
   time: '1:51'

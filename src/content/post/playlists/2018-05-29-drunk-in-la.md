@@ -19,13 +19,13 @@ tags:
 - The Clash
 - The Cleveland Steamers
 - Coldspot 8
-- Cryptkeeper Five
+- The Cryptkeeper Five
 - David Lindley
 - The Decemberists
 - Devo
 - Django Django
 - Dr. Octagon
-- Evaporators
+- The Evaporators
 - Femi Kuti
 - Five-Eight
 - Flat Duo Jets
@@ -215,7 +215,7 @@ playlist:
   song: BREAK
 - sequence: 28
   song: Addicted To Cheese
-  artist: Evaporators
+  artist: The Evaporators
   artist_slug: evaporators
   album:
   time: '1:59'
@@ -358,7 +358,7 @@ playlist:
   notes: No chorus!
 - sequence: 52
   song: Little Girl
-  artist: Cryptkeeper Five
+  artist: The Cryptkeeper Five
   artist_slug: cryptkeeper-five
   album:
   time: '2:00'

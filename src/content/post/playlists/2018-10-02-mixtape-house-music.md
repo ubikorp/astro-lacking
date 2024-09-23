@@ -13,7 +13,7 @@ caption: Breno Assis on Unsplash
 tags:
 - Admiral Sir Cloudesley Shovell
 - Adrian Belew
-- Belle and Sebastian
+- Belle + Sebastian
 - Blind Faith
 - Cake
 - Chappo
@@ -105,7 +105,7 @@ playlist:
   notes: Groovin' rendition
 - sequence: 13
   song: The Eighth Station Of The Cross Kebab House
-  artist: Belle and Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: The Third Eye Centre
   time: '3:58'

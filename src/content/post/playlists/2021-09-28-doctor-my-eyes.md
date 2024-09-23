@@ -23,7 +23,7 @@ tags:
 - The Catenary Wires
 - Dr. Octagon
 - Drug Store Romeos
-- Elvis Costello & The Attractions
+- Elvis Costello + The Attractions
 - Enon
 - Erin McKeown
 - Feist
@@ -55,7 +55,7 @@ tags:
 - Wavves
 - Ween
 - White Hassle
-- Woody and Jeremy
+- Woody + Jeremy
 airdate: '2021-09-28'
 playlist:
 - sequence: 1
@@ -212,7 +212,7 @@ playlist:
   notes: In a sly mood
 - sequence: 27
   song: Yo Te Vi (The Beat) (feat. Draco Rosa)
-  artist: Elvis Costello & The Attractions
+  artist: Elvis Costello + The Attractions
   artist_slug: elvis-costello-attractions
   album: Spanish Model
   time: '3:47'
@@ -362,7 +362,7 @@ playlist:
   notes: Goin’ all nite
 - sequence: 52
   song: He's Cass McCombs
-  artist: Woody and Jeremy
+  artist: Woody + Jeremy
   artist_slug: woody-jeremy
   album: Gravy In My Coffee
   time: '1:55'

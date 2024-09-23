@@ -24,11 +24,11 @@ tags:
 - Hanni El Khatib
 - Hollie Cook
 - illuminati hotties
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Lunchbox
 - The Manatees
 - Mayor McCa
-- Micachu & The Shapes
+- Micachu + the Shapes
 - The Moore Brothers
 - Neil Cicierega
 - The Nude Party
@@ -38,7 +38,7 @@ tags:
 - Primus
 - Socalled
 - Split Enz
-- Strange Boys
+- The Strange Boys
 - Temples
 - Unknown Mortal Orchestra
 - Uptown Sinclair
@@ -56,7 +56,7 @@ playlist:
   notes: Indie to the core
 - sequence: 2
   song: Golden Phone
-  artist: Micachu & The Shapes
+  artist: Micachu + the Shapes
   artist_slug: micachu-shapes
   album: Jewellery
   time: '2:44'
@@ -86,7 +86,7 @@ playlist:
   notes: Wandering about the decades
 - sequence: 7
   song: A Walk On the Bleach
-  artist: Strange Boys
+  artist: The Strange Boys
   artist_slug: strange-boys
   album:
   time: '3:06'
@@ -153,7 +153,7 @@ playlist:
   notes: Australian retro
 - sequence: 18
   song: Nuclear Fusion
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flying Microtonal Banana
   time: '4:15'

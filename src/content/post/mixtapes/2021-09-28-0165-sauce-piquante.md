@@ -25,9 +25,9 @@ tags:
 - Girlpool
 - Hypnolovewheel
 - Julien Baker
-- King Gizzard And The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kiwi jr.
-- LD & The New Criticism
+- LD + the New Criticism
 - Lightning Orchestra
 - Lilys
 - Manchester Orchestra
@@ -41,7 +41,7 @@ tags:
 - Sly & the Family Stone
 - Soundgarden
 - Spirit of the Beehive
-- T.Rex
+- T Rex
 - Tele Novella
 - TLO
 airdate: '2021-09-28'
@@ -146,7 +146,7 @@ playlist:
   notes: Running with chainsaws
 - sequence: 17
   song: Minimum Brain Size
-  artist: King Gizzard And The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: K.G.
   time: '04:19'
@@ -160,7 +160,7 @@ playlist:
   notes: Bludgeoned by paisley
 - sequence: 19
   song: 20th Century Boy
-  artist: T.Rex
+  artist: T Rex
   artist_slug: t-rex
   album:
   time: '03:38'
@@ -176,7 +176,7 @@ playlist:
   notes: Taking a pill
 - sequence: 22
   song: Elegy For An Ex-
-  artist: LD & The New Criticism
+  artist: LD + the New Criticism
   artist_slug: ld-new-criticism
   album: Tragic Realism
   time: '1:50'

@@ -48,7 +48,7 @@ tags:
 - Real Estate
 - Royel Otis
 - Sheer Mag
-- Still Flyin
+- Still Flyin'
 - STRFKR
 - Those Darlins
 - Trespassers W
@@ -171,7 +171,7 @@ playlist:
   notes: With nefarious intentions
 - sequence: 20
   song: Follow The Itinerary
-  artist: Still Flyin
+  artist: Still Flyin'
   artist_slug: still-flyin
   album: Never Gonna Touch the Ground
   time: '3:27'

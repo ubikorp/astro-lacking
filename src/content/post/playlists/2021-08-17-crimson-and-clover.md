@@ -43,7 +43,7 @@ tags:
 - Meat Wave
 - Palberta
 - Pom Pom Squad
-- Ramones
+- The Ramones
 - Real Estate
 - Rebar
 - The Routes
@@ -356,7 +356,7 @@ playlist:
   notes: Smart pops
 - sequence: 51
   song: We Want The Airwaves
-  artist: Ramones
+  artist: The Ramones
   artist_slug: ramones
   album: Ramones Mania
   time: '3:22'

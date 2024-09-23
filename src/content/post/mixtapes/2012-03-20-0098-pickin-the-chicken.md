@@ -33,6 +33,7 @@ tags:
 - Speedy West + Jimmy Bryant
 - Split Enz
 airdate: '2012-03-20'
+podcast: https://audio.lacking.org/podcast/0001-0100/0098.pickin-the-chicken.mp3
 playlist:
 - sequence: 1
   song: Pickin' The Chicken

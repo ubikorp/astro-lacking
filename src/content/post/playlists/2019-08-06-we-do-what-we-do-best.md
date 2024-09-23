@@ -29,7 +29,7 @@ tags:
 - Dude York
 - The Fearless Flyers
 - The Folksmen
-- The French Kicks
+- French Kicks
 - The Fresh & Onlys
 - Gauche
 - Generationals
@@ -39,7 +39,7 @@ tags:
 - Imperial Teen
 - The Jazz Butcher
 - Jeff Tweedy
-- King Gizzard And The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kyle Craft
 - Lonely Trailer
 - Los Amigos Invisibles
@@ -115,7 +115,7 @@ playlist:
   song: BREAK
 - sequence: 10
   song: Cyboogie
-  artist: King Gizzard And The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Fishing For Fishies
   time: '6:48'
@@ -304,7 +304,7 @@ playlist:
   notes: It’s not too far
 - sequence: 42
   song: Piano
-  artist: The French Kicks
+  artist: French Kicks
   artist_slug: french-kicks
   album: Young Lawyer EP
   time: '2:58'

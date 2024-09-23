@@ -16,9 +16,9 @@ excerpt: The courier unrolled the blueprints onto the brightly-lit drafting tabl
 image: "~/assets/images/playlists/2019/b_boys.jpg"
 caption: B Boys
 tags:
-- The Afghan Whigs
+- Afghan Whigs
 - B Boys
-- The Bird and The Bee
+- The Bird + the Bee
 - black midi
 - Boogie Balagan
 - Buffalo Daughter
@@ -37,7 +37,7 @@ tags:
 - The Jon Spencer Blues Explosion
 - Keller Williams
 - Khruangbin
-- King Gizzard And The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - King Harvest
 - Kyle Craft
 - Looper
@@ -118,7 +118,7 @@ playlist:
   song: BREAK
 - sequence: 10
   song: Hot for Teacher
-  artist: The Bird and The Bee
+  artist: The Bird + the Bee
   artist_slug: bird-bee
   album: Interpreting the Masters, Volume 2 (A Tribute to Van Halen)
   time: '4:44'
@@ -252,7 +252,7 @@ playlist:
   notes: Routine
 - sequence: 32
   song: The Cruel Millennial
-  artist: King Gizzard And The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Fishing For Fishies
   time: '4:57'
@@ -298,7 +298,7 @@ playlist:
   notes: Doot doo doo
 - sequence: 40
   song: Parked Outside
-  artist: The Afghan Whigs
+  artist: Afghan Whigs
   artist_slug: afghan-whigs
   album: Do To The Beast
   time: '4:37'

@@ -34,6 +34,7 @@ tags:
 - Ween
 - Willy DeVille
 airdate: '2012-01-31'
+podcast: https://audio.lacking.org/podcast/0001-0100/0092.nero-worst-dressed.mp3
 playlist:
 - sequence: 1
   song: Nero (Worst Dressed)

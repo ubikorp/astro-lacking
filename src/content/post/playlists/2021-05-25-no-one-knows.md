@@ -28,7 +28,7 @@ tags:
 - Jimbo Mathus & Andrew Bird
 - Josh Caterer
 - Juliana Hatfield
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Le Hammond Inferno
 - The Lonesome Organist
 - Los Straitjackets
@@ -294,7 +294,7 @@ playlist:
   notes: A bit of the far out there
 - sequence: 41
   song: Pleura
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: L.W.
   time: '4:11'

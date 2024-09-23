@@ -29,7 +29,7 @@ tags:
 - Middle Kids
 - Okkervil River
 - Postdata
-- Rock*a*Teens
+- The Rock*A*Teens
 - Rolling Blackouts Coastal Fever
 - The Rubens
 - Ruler
@@ -200,7 +200,7 @@ playlist:
   notes: Such talent
 - sequence: 27
   song: Listen, Sonny Boy
-  artist: Rock*a*Teens
+  artist: The Rock*A*Teens
   artist_slug: rock-a-teens
   album: Sixth House
   time: '2:52'

@@ -17,7 +17,7 @@ tags:
 - Billy Bragg
 - Boom Pam
 - Cagney & Lacee
-- Mach Kung-Fu
+- The Mach Kung-Fu
 - Mano Negra
 - Quintron
 - Ratatat
@@ -53,7 +53,7 @@ playlist:
   notes: Burning up
 - sequence: 5
   song: Singapore `66
-  artist: Mach Kung-Fu
+  artist: The Mach Kung-Fu
   artist_slug: mach-kung-fu
   album:
   time: '2:05'

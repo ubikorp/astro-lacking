@@ -13,7 +13,7 @@ tags:
 - Asylum Street Spankers
 - The Barrence Whitfield Soul Savage Arkestra
 - Ben Lee
-- Bill Callahan & Bonnie 'Prince' Billy
+- Bill Callahan & Bonnie "Prince" Billy
 - Boise Cover Band
 - Built To Spill
 - Cheap Trick
@@ -29,10 +29,10 @@ tags:
 - Jools Holland Orchestra And Jamiroquai
 - Juliana Hatfield
 - Knoxville Girls
-- Laika & The Cosmonauts
+- Laika + The Cosmonauts
 - The Lothars
 - Luna
-- Melvins & Shitkid
+- Melvins + Shitkid
 - Messer Chups
 - Milo Binder
 - Nick Lowe
@@ -43,7 +43,7 @@ tags:
 - The Rezillos
 - Robyn Hitchcock
 - The Scofflaws
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - The Sneetches With Shoes
 - The Soft Boys
 - The Squirrels
@@ -134,7 +134,7 @@ playlist:
   notes: Originally from the Beach Boys
 - sequence: 13
   song: Just Dropped In (To See What Condition My Condition Was In)
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Just Dropped In (To See What Condition My Rendition Was In)
   time: '3:01'
@@ -143,7 +143,7 @@ playlist:
   song: BREAK
 - sequence: 15
   song: Mission Impossible
-  artist: Laika & The Cosmonauts
+  artist: Laika + The Cosmonauts
   artist_slug: laika-cosmonauts
   album: Laika Sex Machine
   time: '2:09'
@@ -240,7 +240,7 @@ playlist:
   notes: Originally from Harry Nilsson
 - sequence: 31
   song: Tattooed Love Boys
-  artist: Melvins & Shitkid
+  artist: Melvins + Shitkid
   artist_slug: melvins-shitkid
   album: 'Bangers '
   time: '3:07'
@@ -256,7 +256,7 @@ playlist:
   song: BREAK
 - sequence: 34
   song: OD'd in Denver (feat. Matt Sweeney)
-  artist: Bill Callahan & Bonnie 'Prince' Billy
+  artist: Bill Callahan & Bonnie "Prince" Billy
   artist_slug: bill-callahan-bonnie-prince-billy
   album: OD'd in Denver
   time: '3:30'

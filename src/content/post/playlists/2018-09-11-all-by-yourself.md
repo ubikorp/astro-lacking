@@ -11,7 +11,7 @@ image: "~/assets/images/playlists/2018/cullen_omori.jpg"
 caption: Cullen Omori
 tags:
 - Brendan Benson
-- The Buzzcocks
+- Buzzcocks
 - Clap Your Hands Say Yeah
 - Coastwest Unrest
 - Courtney Barnett
@@ -38,7 +38,7 @@ tags:
 - Popcanon
 - Postdata
 - Rinôçerôse
-- Rock*a*Teens
+- The Rock*A*Teens
 - Rollercoasterwater
 - Rolling Blackouts Coastal Fever
 - Ron Gallo
@@ -147,7 +147,7 @@ playlist:
   notes: I could hear this all day
 - sequence: 16
   song: Closest To Heaven
-  artist: Rock*a*Teens
+  artist: The Rock*A*Teens
   artist_slug: rock-a-teens
   album: Sixth House
   time: '4:43'
@@ -207,7 +207,7 @@ playlist:
   notes: What is going on here?
 - sequence: 26
   song: What Do I Get?
-  artist: The Buzzcocks
+  artist: Buzzcocks
   artist_slug: buzzcocks
   album: Operators Manual
   time: '2:54'

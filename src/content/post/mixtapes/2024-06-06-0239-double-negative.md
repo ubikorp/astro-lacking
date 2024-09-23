@@ -16,7 +16,7 @@ tags:
 - Elbow
 - Frankie and the Witch Fingers
 - Islands and David Shrigley
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - Johnny Sangster And Robb Benson
 - Less Pain Forever
 - The Libertines
@@ -56,7 +56,7 @@ playlist:
   notes: Sliding out of control
 - sequence: 5
   song: The Eagles and the Beatles
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Glasgow Eyes
   time: '03:10'

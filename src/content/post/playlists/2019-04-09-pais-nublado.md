@@ -39,8 +39,8 @@ tags:
 - Mellow
 - Mercury Rev, Lucinda Williams
 - Monty Alexander
-- Movits
-- Mr B The Gentleman Rhymer
+- Movits!
+- Mr. B The Gentleman Rhymer
 - mr. Gnome
 - Mulamba
 - The Oranges Band
@@ -242,7 +242,7 @@ playlist:
   notes: Lovely psychedelia
 - sequence: 31
   song: A Piece Of My Mind
-  artist: Mr B The Gentleman Rhymer
+  artist: Mr. B The Gentleman Rhymer
   artist_slug: mr-b-gentleman-rhymer
   album: Flattery Not Included
   time: '2:00'
@@ -341,7 +341,7 @@ playlist:
   notes: Getting international
 - sequence: 48
   song: "...Fast Tvärtom"
-  artist: Movits
+  artist: Movits!
   artist_slug: movits
   album:
   time: '1:49'

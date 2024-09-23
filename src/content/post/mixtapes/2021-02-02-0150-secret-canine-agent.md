@@ -11,7 +11,7 @@ excerpt: 'Viagra Boys don’t care what you think… there’s plenty of room fo
 image: "~/assets/images/mixtapes/0151-viagra-boys.jpg"
 caption: Viagra Boys
 tags:
-- A Big Yes And A Small No
+- A Big Yes + A Small No
 - Andre Williams
 - Boh Runga
 - Certain Animals
@@ -257,7 +257,7 @@ playlist:
   notes: Hanging ten or twenty
 - sequence: 36
   song: Faded Away
-  artist: A Big Yes And A Small No
+  artist: A Big Yes + A Small No
   artist_slug: a-big-yes-a-small-no
   album: Jesus That Looks Terrible On You
   time: '3:08'

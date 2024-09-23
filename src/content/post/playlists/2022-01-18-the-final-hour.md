@@ -25,7 +25,7 @@ tags:
 - Genghis Tron
 - International Sangman
 - Jah Wobble
-- Kruder & Dorfmeister
+- Kruder + Dorfmeister
 - Low
 - Mad Professor
 - Mark Mothersbaugh
@@ -137,7 +137,7 @@ playlist:
   notes: Try some melatonin
 - sequence: 17
   song: King Size
-  artist: Kruder & Dorfmeister
+  artist: Kruder + Dorfmeister
   artist_slug: kruder-dorfmeister
   album: '1995'
   time: '4:57'

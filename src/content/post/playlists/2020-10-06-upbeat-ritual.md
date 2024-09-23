@@ -37,7 +37,7 @@ tags:
 - The Just Joans
 - Kaki King
 - Khruangbin
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Locksley
 - Mike Pinto
 - Milo Binder
@@ -47,7 +47,7 @@ tags:
 - Nortec Collective
 - Oh Sees
 - Old 97's
-- Otoboke Beaver - おとぼけビ〜バ〜
+- Otoboke Beaver
 - Pinback
 - PJ Harvey
 - Push Kings
@@ -344,7 +344,7 @@ playlist:
   song: BREAK
 - sequence: 48
   song: S'il vous plait - シルブプレ
-  artist: Otoboke Beaver - おとぼけビ〜バ〜
+  artist: Otoboke Beaver
   artist_slug: otoboke-beaver
   album: Itekoma Hits - いてこまヒッツ
   time: '2:15'
@@ -404,7 +404,7 @@ playlist:
   song: BREAK
 - sequence: 58
   song: Rattlesnake
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flying Microtonal Banana
   time: '7:48'

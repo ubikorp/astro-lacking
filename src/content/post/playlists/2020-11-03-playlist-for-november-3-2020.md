@@ -17,7 +17,7 @@ caption: The Bobby Lees
 tags:
 - The Apples In Stereo
 - Artichoke
-- Bill Callahan & Bonnie 'Prince' Billy
+- Bill Callahan & Bonnie "Prince" Billy
 - Blitzen Trapper
 - The Bobby Lees
 - The Brunettes
@@ -28,7 +28,7 @@ tags:
 - Fila Brazillia
 - Flat Duo Jets
 - Flour
-- Four Corners
+- The Four Corners
 - The Fratellis
 - Greezy Wheels
 - Herb Remington
@@ -41,7 +41,7 @@ tags:
 - Les Claypool's Frog Brigade
 - Mad Professor
 - MC Frontalot
-- Medeski Scofield Martin & Wood
+- Medeski, Scofield, Martin + Wood
 - Messer Chups
 - The Misfits
 - Monte Video
@@ -54,7 +54,7 @@ tags:
 - Rift Valley Brothers
 - Robyn Hitchcock
 - Shantel
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - The Snitches
 - State Of Bengal
 - Status Quo
@@ -202,7 +202,7 @@ playlist:
   notes: From the early days of a 50-year career
 - sequence: 23
   song: Destination Danger
-  artist: Four Corners
+  artist: The Four Corners
   artist_slug: four-corners
   album: Say You're a Scream
   time: '2:26'
@@ -248,7 +248,7 @@ playlist:
   song: BREAK
 - sequence: 31
   song: Just Dropped In (To See What Condition My Condition Was In)
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Just Dropped In (To See What Condition My Rendition Was In)
   time: '3:01'
@@ -308,7 +308,7 @@ playlist:
   song: BREAK
 - sequence: 41
   song: OD'd in Denver (feat. Matt Sweeney)
-  artist: Bill Callahan & Bonnie 'Prince' Billy
+  artist: Bill Callahan & Bonnie "Prince" Billy
   artist_slug: bill-callahan-bonnie-prince-billy
   album: OD'd in Denver
   time: '3:30'
@@ -420,7 +420,7 @@ playlist:
   notes: It’s a 14-hour flight
 - sequence: 59
   song: The Times They Are a-Changin
-  artist: Medeski Scofield Martin & Wood
+  artist: Medeski, Scofield, Martin + Wood
   artist_slug: medeski-scofield-martin-wood
   album: Juice
   time: '3:41'

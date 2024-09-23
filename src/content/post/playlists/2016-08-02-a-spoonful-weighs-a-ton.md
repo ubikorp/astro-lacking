@@ -31,7 +31,7 @@ tags:
 - Mates Of State
 - Montefiori Cocktail
 - The Moog Cookbook
-- Persuasions
+- The Persuasions
 - The Puppini Sisters
 - Shawn Lee's Ping Pong Orchestra
 - The Specials
@@ -126,7 +126,7 @@ playlist:
   notes: Ay ay ay
 - sequence: 15
   song: You Are What You Is
-  artist: Persuasions
+  artist: The Persuasions
   artist_slug: persuasions
   album:
   time: '4:14'

@@ -39,7 +39,7 @@ tags:
 - The Handsome Family
 - The Incredible Jimmy Smith
 - Joe Pastrana & His Orchestra
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Little Scream
 - Mikal Cronin
 - Mitski
@@ -350,7 +350,7 @@ playlist:
   notes: A hard decision
 - sequence: 49
   song: The Book
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Sketches Of Brunswick East
   time: '4:59'

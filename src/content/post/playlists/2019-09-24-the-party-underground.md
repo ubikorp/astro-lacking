@@ -21,7 +21,7 @@ caption: Redd Kross
 tags:
 - 1990s
 - Beachwood Sparks
-- The Bird and The Bee
+- The Bird + the Bee
 - Boredoms
 - Brave Combo
 - C. Gibbs And The Cardia Bros.
@@ -205,7 +205,7 @@ playlist:
   song: BREAK
 - sequence: 24
   song: Runnin’ with the Devil
-  artist: The Bird and The Bee
+  artist: The Bird + the Bee
   artist_slug: bird-bee
   album: Interpreting the Masters, Volume 2 (A Tribute to Van Halen)
   time: '3:25'

@@ -383,7 +383,7 @@ playlist:
   song: BREAK
 - sequence: 56
   song: I'll Fly Away
-  artist: Gillian Welch/Alison Krauss
+  artist: Gillian Welch + Alison Krauss
   artist_slug: gillian-welch-alison-krauss
   album:
   time: '3:58'

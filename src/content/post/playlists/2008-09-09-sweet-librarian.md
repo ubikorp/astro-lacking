@@ -28,7 +28,7 @@ tags:
 - Elis Regina
 - Erin McKeown
 - The Flamenco A Go Go
-- G Love + Special Sauce
+- G. Love + Special Sauce
 - Global Goon
 - Golden Shoulders
 - Head of Femur
@@ -38,7 +38,7 @@ tags:
 - LD + the New Criticism
 - Madness
 - Monsieur LeRoc
-- Moore Brothers
+- The Moore Brothers
 - Niños Con Bombas
 - OK GO
 - Railroad Jerk
@@ -96,7 +96,7 @@ playlist:
   notes: Rocksteady from Boston
 - sequence: 8
   song: Bye Bye Baby
-  artist: G Love + Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album:
   time:
@@ -203,7 +203,7 @@ playlist:
   song: BREAK
 - sequence: 26
   song: The Puppet
-  artist: Moore Brothers
+  artist: The Moore Brothers
   artist_slug: moore-brothers
   album:
   time:

@@ -16,7 +16,7 @@ image: "~/assets/images/playlists/2019/american_high.jpg"
 caption: American High
 tags:
 - American High
-- The Beastie Boys
+- Beastie Boys
 - Coco Hames
 - Commercial
 - The Dandy Warhols
@@ -26,19 +26,19 @@ tags:
 - Ladytron
 - The Low Frequency In Stereo
 - Lush
-- Medeski, Martin & Wood
+- Medeski, Martin + Wood
 - Mike Krol
 - Mike West
 - Nick Lowe
 - Oranger
 - Pavo Pavo
-- Photon Band
-- R Stevie Moore
+- The Photon Band
+- R. Stevie Moore
 - The Samuel Jackson Five
 - Shadowy Men on a Shadowy Planet
 - The Silos
 - Stereo Total
-- Ted Leo + The Pharmacists
+- Ted Leo + the Pharmacists
 - They Might Be Giants
 - They Might Be Giants (with Robin 'Goldie' Goldwasser)
 - Tony Cook
@@ -56,7 +56,7 @@ playlist:
   notes: Sweet sweet collapse
 - sequence: 2
   song: National Debate
-  artist: R Stevie Moore
+  artist: R. Stevie Moore
   artist_slug: r-stevie-moore
   album: Afterlife
   time: '3:46'
@@ -132,7 +132,7 @@ playlist:
   song: BREAK
 - sequence: 15
   song: Bubblehouse
-  artist: Medeski, Martin & Wood
+  artist: Medeski, Martin + Wood
   artist_slug: medeski-martin-wood
   album: Bubblehouse - EP
   time: '4:30'
@@ -176,7 +176,7 @@ playlist:
   notes: That new old sound
 - sequence: 22
   song: End Of The Week
-  artist: Photon Band
+  artist: The Photon Band
   artist_slug: photon-band
   album: Oh the Sweet, Sweet Changes
   time: '4:54'
@@ -206,7 +206,7 @@ playlist:
   notes: Languid
 - sequence: 27
   song: Biomusicology
-  artist: Ted Leo + The Pharmacists
+  artist: Ted Leo + the Pharmacists
   artist_slug: ted-leo-pharmacists
   album: The Tyranny of Distance
   time: '4:18'
@@ -252,7 +252,7 @@ playlist:
   notes: Implacable stuff from Norway
 - sequence: 35
   song: She's Crafty
-  artist: The Beastie Boys
+  artist: Beastie Boys
   artist_slug: beastie-boys
   album: Licensed to Ill
   time: '3:35'

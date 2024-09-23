@@ -26,7 +26,7 @@ tags:
 - Luna
 - Maximilian Hecker
 - Ozric Tentacles
-- Photon Band
+- The Photon Band
 - The Polyphonic Spree
 - The Serfs
 - Sun City Girls
@@ -136,7 +136,7 @@ playlist:
   notes: Is there a doctor in the house?
 - sequence: 18
   song: Disillusion
-  artist: Photon Band
+  artist: The Photon Band
   artist_slug: photon-band
   album: Oh the Sweet, Sweet Changes
   time: '06:33'

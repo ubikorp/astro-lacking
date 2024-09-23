@@ -31,10 +31,11 @@ tags:
 - Lali Puna
 - The Ruby Suns
 - Tamba Trio
-- Thao & Mirah
+- Thao + Mirah
 - Top Shelf Jazz
 - Wugazi
 airdate: '2012-01-17'
+podcast: https://audio.lacking.org/podcast/0001-0100/0090.lather-rinse-repeat.mp3
 playlist:
 - sequence: 1
   song: Lather, Rinse, Repeat
@@ -135,7 +136,7 @@ playlist:
   notes: So romantic
 - sequence: 17
   song: Folks
-  artist: Thao & Mirah
+  artist: Thao + Mirah
   artist_slug: thao-mirah
   album:
   time:

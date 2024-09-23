@@ -24,7 +24,7 @@ tags:
 - Deerhunter
 - Dept of Energy
 - Fanfarlo
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Galactic
 - The Glands
 - Grandaddy
@@ -40,7 +40,7 @@ tags:
 - Nina Simone
 - Pink Martini
 - The Presidents of The United States of America
-- Rave-Ups
+- The Rave-Ups
 - Ray Davies
 - Redd Kross
 - Reverend Horton Heat
@@ -119,7 +119,7 @@ playlist:
   notes: Certainly not me
 - sequence: 11
   song: Yeah, It's That Easy
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album:
   time: '5:38'
@@ -172,7 +172,7 @@ playlist:
   notes: Swirling electronics
 - sequence: 20
   song: You Ain't Going Nowhere
-  artist: Rave-Ups
+  artist: The Rave-Ups
   artist_slug: rave-ups
   album:
   time: '4:26'

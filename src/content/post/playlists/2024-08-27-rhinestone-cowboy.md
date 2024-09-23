@@ -24,8 +24,8 @@ tags:
 - Ivy
 - JD Pinkus
 - The Jesus Lizard
-- Kid Congo & The Pink Monkey Birds
-- King Gizzard & The Lizard Wizard
+- Kid Congo + the Pink Monkey Birds
+- King Gizzard + the Lizard Wizard
 - King Hannah
 - Lord Nap
 - Los Bitchos
@@ -72,7 +72,7 @@ playlist:
   notes: Picking up the dry cleaning
 - sequence: 4
   song: Ese Vicio Delicioso
-  artist: Kid Congo & The Pink Monkey Birds
+  artist: Kid Congo + the Pink Monkey Birds
   artist_slug: kid-congo-pink-monkey-birds
   album: That Delicious Vice
   time: '4:22'
@@ -118,7 +118,7 @@ playlist:
   song: BREAK
 - sequence: 12
   song: Raw Feel
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flight b741
   time: '4:17'

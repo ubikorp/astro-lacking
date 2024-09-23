@@ -23,7 +23,7 @@ tags:
 - Dub Narcotic
 - Dub Syndicate
 - Dub Trio
-- Dylan Group
+- The Dylan Group
 - Elvis Costello
 - Jah Wobble
 - John Zorn
@@ -148,7 +148,7 @@ playlist:
   notes: Not your papa’s dub
 - sequence: 19
   song: Towers of Dub
-  artist: Dylan Group
+  artist: The Dylan Group
   artist_slug: dylan-group
   album:
   time: '6:41'

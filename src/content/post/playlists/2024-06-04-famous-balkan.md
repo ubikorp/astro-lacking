@@ -25,7 +25,7 @@ tags:
 - Cake
 - Camper Van Beethoven
 - "!Dela Dap"
-- DelaDap
+- "!DelaDap"
 - Fanfare Ciocarlia
 - Gaëtano Fabri vs. Koçani Orkestar
 - Gogol Bordello
@@ -35,7 +35,7 @@ tags:
 - Hefner
 - Hip Hop Hoodíos
 - Human Sexual Response
-- Jony Iliev & band
+- Jony Iliev + Band
 - Kalman Balogh
 - Kiril feat MC Wasp & Rucl
 - Lightning Head vs. Koçani Orkestar
@@ -317,7 +317,7 @@ playlist:
   song: BREAK
 - sequence: 45
   song: Goldregen (n.o.h.a. Mix)
-  artist: DelaDap
+  artist: "!DelaDap"
   artist_slug: deladap
   album: Dela Paji
   time: '3:39'
@@ -354,7 +354,7 @@ playlist:
   notes: Next level
 - sequence: 51
   song: Gypsy's Kolo
-  artist: Jony Iliev & band
+  artist: Jony Iliev + Band
   artist_slug: jony-iliev-band
   album: Ma Maren Ma
   time: '2:12'

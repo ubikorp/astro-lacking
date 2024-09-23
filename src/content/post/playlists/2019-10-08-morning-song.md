@@ -44,7 +44,7 @@ tags:
 - Nick Lowe
 - Oh Sees
 - The Paranoyds
-- The Pretenders
+- Pretenders
 - Purple Mountains
 - Roy Loney and the Young Fresh Fellows
 - Sébastien Tellier
@@ -55,7 +55,7 @@ tags:
 - The Squirrels
 - Supersuckers
 - Surfer Blood
-- Ted Leo + The Pharmacists
+- Ted Leo + the Pharmacists
 - They Might Be Giants
 - To Rococo Rot
 - Twin Peaks
@@ -339,7 +339,7 @@ playlist:
   notes: Such an easy swagger
 - sequence: 45
   song: Brass in Pocket (I'm Special)
-  artist: The Pretenders
+  artist: Pretenders
   artist_slug: pretenders
   album: Pretenders
   time: '3:05'
@@ -429,7 +429,7 @@ playlist:
   notes: With Brendan Benson
 - sequence: 60
   song: Gimme The Wire
-  artist: Ted Leo + The Pharmacists
+  artist: Ted Leo + the Pharmacists
   artist_slug: ted-leo-pharmacists
   album: The Brutalist Bricks
   time: '2:55'

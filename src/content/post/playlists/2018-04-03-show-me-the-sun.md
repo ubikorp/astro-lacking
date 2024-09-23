@@ -11,11 +11,11 @@ caption: Belle and Sebastian
 tags:
 - American Pleasure Club
 - The Bad Plus
-- Belle & Sebastian
+- Belle + Sebastian
 - Car Seat Headrest
-- Dean Ween Group
+- The Dean Ween Group
 - Death By Unga Bunga
-- Dylan Group
+- The Dylan Group
 - Eagles of Death Metal
 - Ed Schrader's Music Beat
 - Emiliana Torrini
@@ -78,7 +78,7 @@ playlist:
   song: BREAK
 - sequence: 5
   song: Show Me The Sun
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: How To Solve Our Human Problems
   time: '3:53'
@@ -306,7 +306,7 @@ playlist:
   notes: Slide fireworks
 - sequence: 44
   song: The Heart Of Palm
-  artist: Dean Ween Group
+  artist: The Dean Ween Group
   artist_slug: dean-ween-group
   album: Rock 2
   time: '3:50'
@@ -368,7 +368,7 @@ playlist:
   song: BREAK
 - sequence: 55
   song: Avila
-  artist: Dylan Group
+  artist: The Dylan Group
   artist_slug: dylan-group
   album:
   time: '6:28'

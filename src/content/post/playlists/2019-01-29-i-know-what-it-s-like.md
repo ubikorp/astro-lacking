@@ -18,7 +18,7 @@ tags:
 - Big Sandy
 - Billy F Gibbons
 - The Bottle Rockets
-- The Bran Flakes
+- Bran Flakes
 - BRONCHO
 - Dead Meadow
 - Downtown Boys
@@ -42,7 +42,7 @@ tags:
 - The Minders
 - Mission Of Burma
 - The Mountain Goats
-- Mr. T Experience
+- The Mr. T Experience
 - Oh Pep!
 - Os Mutantes
 - Pizzicato 5
@@ -50,7 +50,7 @@ tags:
 - Ratcat
 - Sick Thoughts
 - The Simpsons
-- The Spirit Of The Beehive
+- Spirit of the Beehive
 - The Thermals
 - They Might Be Giants
 - Tipsy
@@ -99,7 +99,7 @@ playlist:
   notes: Legendary Australian chiming
 - sequence: 7
   song: Hypnic Jerks
-  artist: The Spirit Of The Beehive
+  artist: Spirit of the Beehive
   artist_slug: spirit-of-beehive
   album: Hypnic Jerks
   time: '3:42'
@@ -265,7 +265,7 @@ playlist:
   song: BREAK
 - sequence: 35
   song: Two Of Us
-  artist: Mr. T Experience
+  artist: The Mr. T Experience
   artist_slug: mr-t-experience
   album: Alcatraz
   time: '2:37'
@@ -385,7 +385,7 @@ playlist:
   song: BREAK
 - sequence: 55
   song: Evil Knievel
-  artist: The Bran Flakes
+  artist: Bran Flakes
   artist_slug: bran-flakes
   album: I Don't Have A Friend
   time: '2:05'

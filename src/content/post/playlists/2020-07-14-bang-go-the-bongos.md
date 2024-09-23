@@ -53,14 +53,14 @@ tags:
 - The Mountain Goats
 - 'The Needs '
 - Olivia Jean
-- Peter Bjorn and John
+- Peter, Bjorn + John
 - The Rezillos
 - Shopping
 - Sparks
 - Stop Calling Me Frank
 - Ty Segall
 - The Washdown
-- Wolf & Moon
+- Wolf + Moon
 airdate: '2020-07-14'
 youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkblHNufEfXUnB4WlSipmrQ
 playlist:
@@ -216,7 +216,7 @@ playlist:
   song: BREAK
 - sequence: 26
   song: Simple Song of Sin
-  artist: Peter Bjorn and John
+  artist: Peter, Bjorn + John
   artist_slug: peter-bjorn-john
   album: Endless Dream
   time: '5:10'
@@ -283,7 +283,7 @@ playlist:
   notes: Staggering time
 - sequence: 37
   song: Shoot For The Moon
-  artist: Wolf & Moon
+  artist: Wolf + Moon
   artist_slug: wolf-moon
   album: Before It Gets Dark
   time: '3:07'

@@ -19,7 +19,7 @@ tags:
 - Bombay Bicycle Club
 - Boygenius
 - Brazilian Girls
-- The Breeders
+- Breeders
 - Built To Spill
 - Can
 - Cheekface
@@ -33,7 +33,7 @@ tags:
 - Jeff Rosenstock
 - Jenny Lewis
 - Karate School Dropout
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kitty In The Tree
 - Lionel Limiñana
 - Los Amigos Invisibles
@@ -50,7 +50,7 @@ tags:
 - Sounds Of Swami
 - Speedy Ortiz
 - Spencer Krug
-- The Starlight Mints
+- Starlight Mints
 - The Streets
 - Tommy Guerrero
 - Tupelo Chain Sex
@@ -226,14 +226,14 @@ playlist:
   notes: Can’t stop thinking
 - sequence: 29
   song: The Eyes Of The Night
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album: Drowaton
   time: '2:51'
   notes: For your spooky season
 - sequence: 30
   song: Cannonball (2023 Remaster)
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash (30th Anniversary Edition)
   time: '3:33'
@@ -324,7 +324,7 @@ playlist:
   notes: Working hard
 - sequence: 45
   song: The Silver Cord
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: The Silver Cord
   time: '4:20'

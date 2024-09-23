@@ -19,7 +19,7 @@ tags:
 - The Bobs
 - Chappo
 - The Countdown Quartet
-- Elvis Costello & The Attractions
+- Elvis Costello + The Attractions
 - Eugene McGuinness
 - Flat Duo Jets
 - Flight of the Conchords
@@ -27,7 +27,7 @@ tags:
 - Guster
 - Jungle Brothers
 - Les Savy Fav
-- Medeski, Martin & Wood
+- Medeski, Martin + Wood
 - Pixies
 - The Puppini Sisters
 - Rube Waddell
@@ -36,6 +36,7 @@ tags:
 - They Might Be Giants
 - The Wee Turtles
 airdate: '2012-01-24'
+podcast: https://audio.lacking.org/podcast/0001-0100/0091.fit-but-you-know-it.mp3
 playlist:
 - sequence: 1
   song: Fit But You Know It
@@ -83,7 +84,7 @@ playlist:
   notes: A truly tragic tale
 - sequence: 8
   song: Coconut Boogaloo
-  artist: Medeski, Martin & Wood
+  artist: Medeski, Martin + Wood
   artist_slug: medeski-martin-wood
   album:
   time:
@@ -127,7 +128,7 @@ playlist:
   notes: Awaiting the first lead
 - sequence: 15
   song: "(What's So Funny 'Bout) Peace, Love And Understanding?"
-  artist: Elvis Costello & The Attractions
+  artist: Elvis Costello + The Attractions
   artist_slug: elvis-costello-attractions
   album:
   time:

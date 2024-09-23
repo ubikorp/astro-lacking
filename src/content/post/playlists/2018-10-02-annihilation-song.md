@@ -15,7 +15,7 @@ tags:
 - Arling + Cameron
 - Asleep At The Wheel
 - Bênní
-- The Breeders
+- Breeders
 - Brother Brother
 - Courtney Barnett
 - The Creation Factory
@@ -271,7 +271,7 @@ playlist:
   notes: Manic beatbox
 - sequence: 38
   song: I Just Wanna Get Along
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash
   time: '1:44'

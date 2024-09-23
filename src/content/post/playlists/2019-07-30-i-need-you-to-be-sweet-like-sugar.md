@@ -50,7 +50,7 @@ tags:
 - The Specials
 - Squarepusher
 - SSM
-- St Germain
+- St. Germain
 - Supernova
 - Tommy Guerrero
 - Treat Her Right
@@ -149,7 +149,7 @@ playlist:
   notes: This many
 - sequence: 16
   song: Rose Rouge
-  artist: St Germain
+  artist: St. Germain
   artist_slug: st-germain
   album: Tourist
   time: '6:57'

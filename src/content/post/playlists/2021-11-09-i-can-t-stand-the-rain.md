@@ -23,7 +23,7 @@ tags:
 - Concrete Blonde
 - Danny Clarke + Lee Perry
 - Darrin Bradbury
-- David Hillyard and the Rocksteady 7
+- David Hillyard + the Rocksteady 7
 - Deerhoof
 - El Mató a un Policía Motorizado
 - Film School
@@ -35,7 +35,7 @@ tags:
 - Liily
 - Lindsey Buckingham
 - Lizard Music
-- Low Frequency In Stereo
+- The Low Frequency In Stereo
 - Morphine
 - My Morning Jacket
 - Naytronix
@@ -334,7 +334,7 @@ playlist:
   notes: Don’t make eye contact
 - sequence: 47
   song: Slow Train Coming
-  artist: Low Frequency In Stereo
+  artist: The Low Frequency In Stereo
   artist_slug: low-frequency-in-stereo
   album: Travelling Ants Who Got Eaten By Moskus
   time: '4:04'
@@ -389,7 +389,7 @@ playlist:
   song: BREAK
 - sequence: 57
   song: Duppy Conqueror
-  artist: David Hillyard and the Rocksteady 7
+  artist: David Hillyard + the Rocksteady 7
   artist_slug: david-hillyard-rocksteady-7
   album:
   time: '7:57'

@@ -23,7 +23,7 @@ tags:
 - DJ Shadow
 - Emily Reo
 - Gabin
-- Giraffes
+- The Giraffes
 - I Am The World Trade Center
 - Jagwar Ma
 - John Vanderslice
@@ -41,7 +41,7 @@ tags:
 - Panda Bear
 - Pixies
 - Pom Poko
-- The Pretenders
+- Pretenders
 - Señor Coconut vs. Koçani Orkestar
 - The Soft Boys
 - Starlight Mints
@@ -188,7 +188,7 @@ playlist:
   notes: A dizzying shuffle
 - sequence: 22
   song: Message of Love
-  artist: The Pretenders
+  artist: Pretenders
   artist_slug: pretenders
   album: Pretenders II
   time: '3:29'
@@ -271,7 +271,7 @@ playlist:
   notes: We all have one
 - sequence: 36
   song: Nothin' 2 Looz
-  artist: Giraffes
+  artist: The Giraffes
   artist_slug: giraffes
   album: 13 Other Dimensions
   time: '2:36'

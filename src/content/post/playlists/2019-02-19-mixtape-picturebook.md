@@ -19,7 +19,7 @@ tags:
 - Chaz & The Motorbikes
 - 'Datarock '
 - Dopo Yume
-- Elvis Costello & The Attractions
+- Elvis Costello + The Attractions
 - Ito-k
 - King Leg
 - Niños Con Bombas
@@ -122,7 +122,7 @@ playlist:
   notes: It will haunt you
 - sequence: 15
   song: Baby Pictures
-  artist: Elvis Costello & The Attractions
+  artist: Elvis Costello + The Attractions
   artist_slug: elvis-costello-attractions
   album: Punch The Clock (Bonus Disc)
   time: '1:31'

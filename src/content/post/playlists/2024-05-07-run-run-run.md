@@ -29,7 +29,7 @@ tags:
 - Frank Never Dies
 - Frankie and the Witch Fingers
 - Islands and David Shrigley
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - Johnny Sangster And Robb Benson
 - Khruangbin
 - Laurel Aitken
@@ -196,7 +196,7 @@ playlist:
   notes: Sliding out of control
 - sequence: 24
   song: The Eagles and the Beatles
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Glasgow Eyes
   time: '3:10'

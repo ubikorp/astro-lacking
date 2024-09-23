@@ -30,7 +30,7 @@ tags:
 - The Glands
 - Gogol Bordello
 - Jennyanykind
-- Jon Spencer Blues Explosion
+- The Jon Spencer Blues Explosion
 - Kim & Buran
 - Kramer
 - Lettuce
@@ -139,7 +139,7 @@ playlist:
   song: BREAK
 - sequence: 16
   song: Money Rock N Roll
-  artist: Jon Spencer Blues Explosion
+  artist: The Jon Spencer Blues Explosion
   artist_slug: jon-spencer-blues-explosion
   album:
   time:

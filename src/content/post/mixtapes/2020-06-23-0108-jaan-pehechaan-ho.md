@@ -20,7 +20,7 @@ tags:
 - David Bowie
 - Drink Me
 - The Frights
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - The Growlers
 - Habibi
 - Kruder + Dorfmeister
@@ -28,7 +28,7 @@ tags:
 - Mexican Institute of Sound
 - The Mountain Goats
 - Olivia Jean
-- Peter Bjorn and John
+- Peter, Bjorn + John
 - Pinback
 - The Postal Service
 - Professor Elemental
@@ -159,7 +159,7 @@ playlist:
   song: BREAK
 - sequence: 20
   song: Shine On Moon (feat. Keb' Mo')
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: The Juice
   time: '3:23'
@@ -212,7 +212,7 @@ playlist:
   song: BREAK
 - sequence: 29
   song: Idiosyncrasy
-  artist: Peter Bjorn and John
+  artist: Peter, Bjorn + John
   artist_slug: peter-bjorn-john
   album: Endless Dream
   time: '2:49'

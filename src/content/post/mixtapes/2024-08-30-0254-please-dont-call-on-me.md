@@ -25,7 +25,7 @@ tags:
 - Full Body 2
 - Hotel Pools
 - Juana Molina
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - KOKOKO!
 - Maya Fadeeva
 - MC 900 Foot Jesus
@@ -175,7 +175,7 @@ playlist:
   notes: In flames
 - sequence: 24
   song: Mirage City
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flight b741
   time: '04:48'

@@ -49,7 +49,7 @@ tags:
 - Satisfact
 - The Skiffle Players
 - The Smugglers
-- The Starlight Mints
+- Starlight Mints
 - Villagers
 - Wanda De Sah
 - X
@@ -132,7 +132,7 @@ playlist:
   notes: Lost classic
 - sequence: 13
   song: Sir Prize
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album:
   time: '3:11'

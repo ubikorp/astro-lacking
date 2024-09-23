@@ -11,12 +11,12 @@ image: "~/assets/images/mixtapes/236-version-control-2.jpg"
 caption: ''
 tags:
 - Asylum Street Spankers
-- Bill Callahan & Bonnie 'Prince' Billy
+- Bill Callahan & Bonnie "Prince" Billy
 - Cheap Trick
 - Deerhoof
 - Jen Cloher
 - Juliana Hatfield
-- Melvins & Shitkid
+- Melvins + Shitkid
 - Olivia Jean
 - Polvo
 - The Rezillos
@@ -106,7 +106,7 @@ playlist:
   notes: Originally from Harry Nilsson
 - sequence: 14
   song: Tattooed Love Boys
-  artist: Melvins & Shitkid
+  artist: Melvins + Shitkid
   artist_slug: melvins-shitkid
   album: 'Bangers '
   time: '03:07'
@@ -115,7 +115,7 @@ playlist:
   song: BREAK
 - sequence: 16
   song: OD'd in Denver (feat. Matt Sweeney)
-  artist: Bill Callahan & Bonnie 'Prince' Billy
+  artist: Bill Callahan & Bonnie "Prince" Billy
   artist_slug: bill-callahan-bonnie-prince-billy
   album: OD'd in Denver
   time: '03:30'

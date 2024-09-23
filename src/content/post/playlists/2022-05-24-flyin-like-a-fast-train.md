@@ -17,7 +17,7 @@ tags:
 - Arcade Fire
 - black midi
 - Bleachers
-- The Breeders
+- Breeders
 - Calexico
 - The Crystal Method
 - Daniel Johns
@@ -255,7 +255,7 @@ playlist:
   song: BREAK
 - sequence: 35
   song: Cannonball
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash
   time: '3:34'

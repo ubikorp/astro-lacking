@@ -21,7 +21,7 @@ tags:
 - George Harrison
 - The Gravel Pit
 - Illinois
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - The Like Young
 - The Love Language
 - Marc Ribot's Ceramic Dog
@@ -225,7 +225,7 @@ playlist:
   notes: Original Australian lo-fi
 - sequence: 31
   song: If Not Now, Then When?
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: L.W.
   time: '03:50'

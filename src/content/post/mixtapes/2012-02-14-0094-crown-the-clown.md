@@ -18,7 +18,7 @@ caption: Hillstomp
 tags:
 - The Black Keys
 - Chinese Man
-- Edward Sharpe + The Magnetic Zeros
+- Edward Sharpe & The Magnetic Zeros
 - Elf Power
 - Eugene McGuinness
 - Hillstomp
@@ -33,6 +33,7 @@ tags:
 - Smack Dab
 - Sugarman Three
 airdate: '2012-02-14'
+podcast: https://audio.lacking.org/podcast/0001-0100/0094.crown-the-clown.mp3
 playlist:
 - sequence: 1
   song: Crown the Clown
@@ -126,7 +127,7 @@ playlist:
   song: BREAK
 - sequence: 16
   song: 40 Day Dream
-  artist: Edward Sharpe + The Magnetic Zeros
+  artist: Edward Sharpe & The Magnetic Zeros
   artist_slug: edward-sharpe-magnetic-zeros
   album:
   time:

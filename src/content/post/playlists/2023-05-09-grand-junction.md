@@ -16,7 +16,7 @@ tags:
 - 100 gecs
 - Adanowsky
 - The Agents
-- Belle & Sebastian
+- Belle + Sebastian
 - Boygenius
 - Cage The Elephant
 - Cherry Poppin' Daddies
@@ -34,7 +34,7 @@ tags:
 - Kid Koala
 - 'Klint '
 - Lali Puna
-- Lee Bains III & The Glory Fires
+- Lee Bains III + the Glory Fires
 - Lord High Fixers
 - Manchester Orchestra
 - MC Paul Barman
@@ -46,7 +46,7 @@ tags:
 - Paul McCartney & Wings
 - Posh Swat
 - Raz Ohara
-- Sam Coffey & The Iron Lungs
+- Sam Coffey + the Iron Lungs
 - Sprints
 - Sunny War
 - Takako Minekawa
@@ -190,14 +190,14 @@ playlist:
   notes: Still menacing
 - sequence: 23
   song: Tough
-  artist: Sam Coffey & The Iron Lungs
+  artist: Sam Coffey + the Iron Lungs
   artist_slug: sam-coffey-iron-lungs
   album: Sam Coffey & The Iron Lungs
   time: '3:57'
   notes: Feeling Lizzy
 - sequence: 24
   song: Breaking It Down!
-  artist: Lee Bains III & The Glory Fires
+  artist: Lee Bains III + the Glory Fires
   artist_slug: lee-bains-iii-glory-fires
   album: Youth Detention (Nail My Feet Down To The Southside Of Town)
   time: '3:10'
@@ -236,7 +236,7 @@ playlist:
   song: BREAK
 - sequence: 31
   song: Give A Little Time
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: Late Developers
   time: '3:23'

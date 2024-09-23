@@ -27,7 +27,7 @@ tags:
 - Dumb Heavy
 - Ekko Astral
 - Eyelids
-- Fergus & Geronimo
+- Fergus + Geronimo
 - Frankie and the Witch Fingers
 - Half Japanese
 - The High Llamas
@@ -194,7 +194,7 @@ playlist:
   notes: Put them on the table
 - sequence: 24
   song: Baby Don't You Cry
-  artist: Fergus & Geronimo
+  artist: Fergus + Geronimo
   artist_slug: fergus-geronimo
   album: Unlearn
   time: '2:46'

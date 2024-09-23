@@ -22,13 +22,13 @@ tags:
 - Death From Above 1979
 - The Deathray Davies
 - The Elected
-- Fastbacks
+- The Fastbacks
 - The Fleshtones
 - Genghis Tron
 - Guedra Guedra
 - Heavy Trash
 - The Jimi Hendrix Experience
-- King Gizzard And The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Lake Street Dive
 - Lene Lovich
 - Lilys
@@ -113,7 +113,7 @@ playlist:
   notes: Drifting through
 - sequence: 10
   song: Went For A Swim
-  artist: Fastbacks
+  artist: The Fastbacks
   artist_slug: fastbacks
   album: Answer the Phone, Dummy
   time: '1:55'
@@ -309,7 +309,7 @@ playlist:
   notes: Relentlessness
 - sequence: 43
   song: Intrasport
-  artist: King Gizzard And The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: K.G.
   time: '4:13'

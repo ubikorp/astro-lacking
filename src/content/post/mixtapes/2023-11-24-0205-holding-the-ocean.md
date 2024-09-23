@@ -22,7 +22,7 @@ tags:
 - Goat
 - Hollie Cook
 - Japancakes
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Nolan Potter's Nightmare Band
 - RS Produções
 - Snapped Ankles
@@ -135,7 +135,7 @@ playlist:
   notes: Working hard
 - sequence: 18
   song: The Silver Cord
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: The Silver Cord
   time: '04:20'

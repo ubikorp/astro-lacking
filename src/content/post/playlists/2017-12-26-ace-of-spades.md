@@ -15,7 +15,7 @@ tags:
 - Benjamin Gibbard
 - Black Gardenia Featuring Daphne Roubini
 - Cibo Matto
-- Courtney Barnett & Kurt Vile
+- Courtney Barnett + Kurt Vile
 - Dearly Beloved
 - Deer Tick
 - Destroyer
@@ -42,7 +42,7 @@ tags:
 - Nada Surf
 - "*Repeat Repeat"
 - Robert Plant
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - The Soft Boys
 - Stereo Total
 - Sugarcubes
@@ -140,7 +140,7 @@ playlist:
   notes: Bass sounds like Peter Hook
 - sequence: 15
   song: Matter Of Time
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Soul of a Woman
   time: '3:22'
@@ -343,7 +343,7 @@ playlist:
   notes: West Coast solipsism
 - sequence: 49
   song: Continental Breakfast
-  artist: Courtney Barnett & Kurt Vile
+  artist: Courtney Barnett + Kurt Vile
   artist_slug: courtney-barnett-kurt-vile
   album: Lotta Sea Lice
   time: '4:53'

@@ -41,12 +41,12 @@ tags:
 - Real Estate
 - The Record Company
 - Red Baraat
-- Rock*a*Teens
+- The Rock*A*Teens
 - The Rubens
 - Ruler
 - Shantel
 - Snail Mail
-- The Starlight Mints
+- Starlight Mints
 - Stephen Malkmus & The Jicks
 - Thievery Corporation
 - Ty Segall
@@ -56,7 +56,7 @@ airdate: '2018-07-24'
 playlist:
 - sequence: 1
   song: Turn And Smile
-  artist: Rock*a*Teens
+  artist: The Rock*A*Teens
   artist_slug: rock-a-teens
   album: Sixth House
   time: '4:07'
@@ -169,7 +169,7 @@ playlist:
   notes: Somewhat Love and Rockets?
 - sequence: 20
   song: The Eyes Of The Night
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album:
   time: '2:51'

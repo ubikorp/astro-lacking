@@ -34,7 +34,7 @@ tags:
 - Francis Bebey
 - Geraldo Pino
 - The Growlers
-- Jony Iliev and Band
+- Jony Iliev + Band
 - Juliana Hatfield
 - Khruangbin
 - MOTOR
@@ -51,7 +51,7 @@ tags:
 - Sacred Paws
 - Serge Gainsbourg
 - Shannon Wright
-- the Sisterhood of Convoluted Thinkers
+- The Sisterhood of Convoluted Thinkers
 - Solaris
 - The Staple Singers
 - Starcrawler
@@ -336,7 +336,7 @@ playlist:
   notes: Skalabama
 - sequence: 46
   song: Gypsy's Kolo
-  artist: Jony Iliev and Band
+  artist: Jony Iliev + Band
   artist_slug: jony-iliev-band
   album: Borat Soundtrack
   time: '2:12'
@@ -376,7 +376,7 @@ playlist:
   song: BREAK
 - sequence: 53
   song: Ne-ne Ami-chan
-  artist: the Sisterhood of Convoluted Thinkers
+  artist: The Sisterhood of Convoluted Thinkers
   artist_slug: sisterhood-of-convoluted-thinkers
   album: Ume Sour
   time: '2:58'

@@ -17,7 +17,7 @@ tags:
 - Black Pumas
 - Blur
 - Boogie Balagan
-- The Breeders
+- Breeders
 - The Bug Club
 - Butterglory
 - Cass McCombs
@@ -30,7 +30,7 @@ tags:
 - Explosions In The Sky
 - Fastball
 - Fizz
-- The Flamin Groovies
+- The Flamin' Groovies
 - Grandaddy
 - Hank May
 - Islands
@@ -42,10 +42,10 @@ tags:
 - Lush
 - The Make-Up
 - Margo Price
-- Photon Band
+- The Photon Band
 - Psychedelic Porn Crumpets
 - Seks Bomba
-- She & Him
+- She + Him
 - Sparklehorse
 - The Struts
 - Tim Tim
@@ -185,7 +185,7 @@ playlist:
   notes: A simple request
 - sequence: 23
   song: No Aloha (2023 Remaster)
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash (30th Anniversary Edition)
   time: '2:07'
@@ -238,14 +238,14 @@ playlist:
   notes: A sad departure
 - sequence: 32
   song: Shake Some Action
-  artist: The Flamin Groovies
+  artist: The Flamin' Groovies
   artist_slug: flamin-groovies
   album: Groovies Greatest Grooves
   time: '4:34'
   notes: The archetype of power pop
 - sequence: 33
   song: Why Do You Let Me Stay Here?
-  artist: She & Him
+  artist: She + Him
   artist_slug: she-him
   album: Volume One
   time: '2:32'
@@ -298,7 +298,7 @@ playlist:
   notes: Is there a doctor in the house?
 - sequence: 42
   song: Disillusion
-  artist: Photon Band
+  artist: The Photon Band
   artist_slug: photon-band
   album: Oh the Sweet, Sweet Changes
   time: '6:33'

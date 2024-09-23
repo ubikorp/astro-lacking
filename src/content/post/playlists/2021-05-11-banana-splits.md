@@ -24,15 +24,15 @@ tags:
 - Gang Of Four
 - Head of Femur
 - The Jazz Butcher
-- The Jesus & Mary Chain
+- The Jesus + Mary Chain
 - Jimbo Mathus & Andrew Bird
 - Joe "King" Carrasco
 - Josh Caterer
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Los Amigos Invisibles
 - M.I.A.
 - Mariachi El Bronx
-- Medeski, Martin & Wood
+- Medeski, Martin + Wood
 - Metal Molly
 - Mister Heavenly
 - The Moles
@@ -47,11 +47,11 @@ tags:
 - The Routes
 - Schneider TM
 - Sir Millard Mulch
-- Soft Boys
+- The Soft Boys
 - Sonic Boom
 - Spirit of the Beehive
 - Squarepusher
-- The Sucka MCs
+- Sucka MCs
 - Sue Garner
 - The Sugar Oaks
 - Ween
@@ -69,7 +69,7 @@ playlist:
   song: BREAK
 - sequence: 3
   song: I Like Bananas (Because They Have No Bones)
-  artist: Soft Boys
+  artist: The Soft Boys
   artist_slug: soft-boys
   album: Live at the Portland Arms
   time: '2:52'
@@ -150,7 +150,7 @@ playlist:
   notes: Powerful combo
 - sequence: 16
   song: Coconut Boogaloo
-  artist: Medeski, Martin & Wood
+  artist: Medeski, Martin + Wood
   artist_slug: medeski-martin-wood
   album: Combustication
   time: '3:57'
@@ -234,7 +234,7 @@ playlist:
   notes: Texan to the core
 - sequence: 30
   song: Presidici (Et Chapaquiditch)
-  artist: The Jesus & Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Damage And Joy
   time: '3:36'
@@ -370,7 +370,7 @@ playlist:
   notes: Original Australian lo-fi
 - sequence: 53
   song: If Not Now, Then When?
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: L.W.
   time: '3:50'
@@ -393,7 +393,7 @@ playlist:
   notes: Or is it Borg 9?
 - sequence: 57
   song: Dairy Queen (DJ Donger Jazzy Mix)
-  artist: The Sucka MCs
+  artist: Sucka MCs
   artist_slug: sucka-mcs
   album: Da Album
   time: '3:21'

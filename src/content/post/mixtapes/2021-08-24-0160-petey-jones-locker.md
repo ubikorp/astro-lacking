@@ -23,10 +23,10 @@ tags:
 - Harry J. All Stars
 - HHY & The Kampala Unit
 - Jason Lytle
-- The Jesus & Mary Chain
+- The Jesus + Mary Chain
 - Jimbo Mathus & Andrew Bird
 - Joe "King" Carrasco
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Lilys
 - The Lonesome Organist
 - Mainframe
@@ -147,7 +147,7 @@ playlist:
   song: BREAK
 - sequence: 17
   song: Static Electricity
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: L.W.
   time: '5:50'
@@ -222,7 +222,7 @@ playlist:
   notes:
 - sequence: 29
   song: Presidici (Et Chapaquiditch)
-  artist: The Jesus & Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Damage And Joy
   time: '3:36'

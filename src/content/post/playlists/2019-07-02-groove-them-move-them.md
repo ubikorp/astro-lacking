@@ -45,7 +45,7 @@ tags:
 - The Presidents of The United States of America
 - The Rad Trads
 - Reptaliens
-- Slavic Soul Party
+- Slavic Soul Party!
 - Smoove & Turrell
 - Solid Bronze
 - Southern Culture On The Skids
@@ -180,7 +180,7 @@ playlist:
   notes: Proceed with stealth
 - sequence: 21
   song: Look-Ka Py Py
-  artist: Slavic Soul Party
+  artist: Slavic Soul Party!
   artist_slug: slavic-soul-party
   album:
   time: '4:17'

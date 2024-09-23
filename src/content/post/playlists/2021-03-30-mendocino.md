@@ -26,9 +26,9 @@ tags:
 - Hefner
 - Here Lies Man
 - Jacques Dutronc
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kiwi jr.
-- LD & The New Criticism
+- LD + the New Criticism
 - Les Wampas
 - The Like Young
 - Lilys
@@ -122,7 +122,7 @@ playlist:
   song: BREAK
 - sequence: 12
   song: Static Electricity
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: L.W.
   time: '5:50'
@@ -235,7 +235,7 @@ playlist:
   notes: Taking a pill
 - sequence: 31
   song: Elegy For An Ex-
-  artist: LD & The New Criticism
+  artist: LD + the New Criticism
   artist_slug: ld-new-criticism
   album: Tragic Realism
   time: '1:50'

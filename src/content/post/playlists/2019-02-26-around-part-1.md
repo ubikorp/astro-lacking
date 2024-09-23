@@ -33,7 +33,7 @@ tags:
 - Ian Brown
 - Jason Lytle
 - Johnny Cash + Joe Strummer
-- Jon Spencer Blues Explosion
+- The Jon Spencer Blues Explosion
 - Jools Holland Orchestra
 - Larkin Poe
 - Los Lobos
@@ -41,7 +41,7 @@ tags:
 - The Menzingers
 - The Meters
 - Middle Kids
-- The Minutemen
+- Minutemen
 - My Morning Jacket
 - The Pack A.D.
 - Pavo Pavo
@@ -53,7 +53,7 @@ tags:
 - The Specials
 - Stereo Total
 - Stray Cats
-- Ted Leo + The Pharmacists
+- Ted Leo + the Pharmacists
 - The Ting Tings
 - Tommy Womack
 - The Unicorns
@@ -79,7 +79,7 @@ playlist:
   notes: The tape wobbles
 - sequence: 3
   song: Bottled In Cork
-  artist: Ted Leo + The Pharmacists
+  artist: Ted Leo + the Pharmacists
   artist_slug: ted-leo-pharmacists
   album: The Brutalist Bricks
   time: '3:18'
@@ -116,7 +116,7 @@ playlist:
   notes: Using a silo for reverb
 - sequence: 9
   song: Afro
-  artist: Jon Spencer Blues Explosion
+  artist: The Jon Spencer Blues Explosion
   artist_slug: jon-spencer-blues-explosion
   album: Extra Width
   time: '2:55'
@@ -222,7 +222,7 @@ playlist:
   notes: with the fabulous talents of Mr. Dave Hill
 - sequence: 27
   song: The Glory Of Man
-  artist: The Minutemen
+  artist: Minutemen
   artist_slug: minutemen
   album: Double Nickels On The Dime
   time: '2:58'
@@ -282,7 +282,7 @@ playlist:
   notes: Scotty dogs eat chili nachos
 - sequence: 37
   song: Tellin' Lies
-  artist: The Menzingers
+  artist: The  Menzingers
   artist_slug: menzingers
   album: After The Party
   time: '4:00'

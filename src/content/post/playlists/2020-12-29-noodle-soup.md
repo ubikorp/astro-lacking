@@ -17,7 +17,7 @@ image: "~/assets/images/playlists/2020/born-ruffians-2.jpg"
 caption: Born Ruffians
 tags:
 - A Tale of Golden Keys
-- The Afghan Whigs
+- Afghan Whigs
 - Asian Dub Foundation
 - Bad Bad Meow
 - The Bobby Lees
@@ -306,7 +306,7 @@ playlist:
   notes: Off kilter retroactivity
 - sequence: 41
   song: Turn On The Water
-  artist: The Afghan Whigs
+  artist: Afghan Whigs
   artist_slug: afghan-whigs
   album: Congregation
   time: '4:18'

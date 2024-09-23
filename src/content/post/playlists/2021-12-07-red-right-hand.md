@@ -13,16 +13,16 @@ caption: Nell Smith + the Flaming Lips
 tags:
 - The The
 - The Allergies
-- Belle & Sebastian
+- Belle + Sebastian
 - Big Thief
-- Booker T. & the MG's
+- Booker T. + the MG's
 - Chester & Lester
 - 'Chris Knox '
 - Concrete Blonde
 - Courtney Barnett
 - Darrin Bradbury
 - The Dodos
-- Elvis Costello & The Attractions
+- Elvis Costello + The Attractions
 - Fishbone
 - Fontaines D.C.
 - Goodbye Honolulu
@@ -140,7 +140,7 @@ playlist:
   notes: With a Scottish bounce
 - sequence: 16
   song: The State That I Am In
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album:
   time: '4:45'
@@ -186,7 +186,7 @@ playlist:
   notes: Hot and heavy
 - sequence: 24
   song: Lipstick Vogue (feat. Morat)
-  artist: Elvis Costello & The Attractions
+  artist: Elvis Costello + The Attractions
   artist_slug: elvis-costello-attractions
   album: Spanish Model
   time: '3:32'
@@ -276,7 +276,7 @@ playlist:
   notes: Implacable bassline
 - sequence: 39
   song: Green Onions
-  artist: Booker T. & the MG's
+  artist: Booker T. + the MG's
   artist_slug: booker-t-mg-s
   album: The Complete Stax Singles, Vol. 1 (1962-1967)
   time: '2:54'

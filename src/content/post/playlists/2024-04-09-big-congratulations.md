@@ -34,9 +34,9 @@ tags:
 - The Grates
 - Holiday Ghosts
 - Jenny Toomey
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - Julia Holter
-- Kim Lenz And Her Jaguars
+- Kim Lenz + her Jaguars
 - Marshall Crenshaw
 - Master Peace
 - Meatbodies
@@ -105,7 +105,7 @@ playlist:
   notes: An old-fashioned drubbing
 - sequence: 9
   song: Somebody Lied
-  artist: Kim Lenz And Her Jaguars
+  artist: Kim Lenz + her Jaguars
   artist_slug: kim-lenz-her-jaguars
   album: The One And Only
   time: '2:36'
@@ -271,7 +271,7 @@ playlist:
   notes: Grittier than expected
 - sequence: 37
   song: jamcod
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Glasgow Eyes
   time: '4:00'

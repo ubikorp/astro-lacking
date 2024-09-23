@@ -11,7 +11,7 @@ tags:
 - Alvvays
 - Asylum Street Spankers
 - Beck
-- Belle and Sebastian
+- Belle + Sebastian
 - Benjamin Gibbard
 - Bully
 - Cherry Glazerr
@@ -32,7 +32,7 @@ tags:
 - The Jazz Butcher
 - JD McPherson
 - Kane Strang
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - La Louma
 - Langhorne Slim
 - Lettuce
@@ -94,7 +94,7 @@ playlist:
   notes: Hymn for the skeptics
 - sequence: 7
   song: Melting
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flying Microtonal Banana
   time: '5:27'
@@ -161,7 +161,7 @@ playlist:
   notes: With T Rex vapors
 - sequence: 18
   song: The State I Am In
-  artist: Belle and Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: The BBC Sessions
   time: '4:42'

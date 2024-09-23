@@ -16,7 +16,7 @@ tags:
 - Bill Callahan
 - Bob Dylan
 - Boogarins
-- Booker T. & the MG's
+- Booker T. + the MG's
 - Car Seat Headrest
 - The Chats
 - Dan Auerbach
@@ -28,7 +28,7 @@ tags:
 - Golden Shoulders
 - Jonathan Richman
 - The Just Joans
-- Mekons
+- The Mekons
 - Mikal Cronin
 - The Mountain Goats
 - Nightmares On Wax (featuring Jordan Rakei)
@@ -49,7 +49,7 @@ mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fh7hc
 playlist:
 - sequence: 1
   song: What Happened to Delilah?
-  artist: Mekons
+  artist: The Mekons
   artist_slug: mekons
   album: EXQUISITE
   time: '3:56'
@@ -176,7 +176,7 @@ playlist:
   notes: Channelling ZZ Top at some point
 - sequence: 22
   song: Red Beans and Rice
-  artist: Booker T. & the MG's
+  artist: Booker T. + the MG's
   artist_slug: booker-t-mg-s
   album: The Complete Stax Singles, Vol. 1 (1962-1967)
   time: '2:14'

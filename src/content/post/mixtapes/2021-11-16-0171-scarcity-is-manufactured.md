@@ -25,7 +25,7 @@ tags:
 - Jimbo Mathus & Andrew Bird
 - Junior Murvin
 - Kid Congo Powers
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Les Paul & Mary Ford
 - Lilys
 - Low
@@ -40,7 +40,7 @@ tags:
 - TLO
 - The Wedding Present
 - Ween
-- Woody & Jeremy
+- Woody + Jeremy
 airdate: '2021-11-16'
 mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fcrxwv8-171-scarcity-is-manufactured%2F&hide_artwork=1&hide_cover=1
 playlist:
@@ -212,7 +212,7 @@ playlist:
   song: BREAK
 - sequence: 29
   song: Butterfly 3000
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Butterfly 3000
   time: '02:51'
@@ -233,7 +233,7 @@ playlist:
   notes:
 - sequence: 32
   song: Behold a Pale Rider
-  artist: Woody & Jeremy
+  artist: Woody + Jeremy
   artist_slug: woody-jeremy
   album: Gravy in My Coffee
   time: '04:26'

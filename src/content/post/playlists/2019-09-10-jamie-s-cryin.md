@@ -17,7 +17,7 @@ image: "~/assets/images/playlists/2019/the_bird_and_the_bee.jpg"
 caption: The Bird and the Bee
 tags:
 - AC Newman
-- The Bird and The Bee
+- The Bird + the Bee
 - The Black Keys
 - black midi
 - Boat
@@ -64,7 +64,7 @@ airdate: '2019-09-10'
 playlist:
 - sequence: 1
   song: Jamie's Cryin'
-  artist: The Bird and The Bee
+  artist: The Bird + the Bee
   artist_slug: bird-bee
   album: Interpreting the Masters, Volume 2 (A Tribute to Van Halen)
   time: '3:54'

@@ -28,7 +28,7 @@ tags:
 - Guided By Voices
 - Hafdis Huld
 - Jason Collett
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - The Kinks
 - La Zikabilo
 - The Last
@@ -37,7 +37,7 @@ tags:
 - The Mountain Goats
 - The Police
 - Primitons
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - Squeeze
 - Star Feminine Band
 - They Might Be Giants
@@ -57,7 +57,7 @@ playlist:
   notes: George feels it
 - sequence: 2
   song: Inspiration Information
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Just Dropped In (To See What Condition My Rendition Was In)
   time: '4:04'
@@ -71,7 +71,7 @@ playlist:
   notes: Happiness guaranteed
 - sequence: 4
   song: Its Got Old
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Oddments
   time: '2:59'

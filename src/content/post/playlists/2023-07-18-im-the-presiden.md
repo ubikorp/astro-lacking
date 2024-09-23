@@ -24,7 +24,7 @@ tags:
 - Enon
 - Everything But The Girl
 - The Felice Brothers
-- Fergus & Geronimo
+- Fergus + Geronimo
 - The Future Kings of Nowhere
 - The Giant Robots
 - Groovie Ghoulies
@@ -104,7 +104,7 @@ playlist:
   notes: A different Miranda
 - sequence: 9
   song: Girls With English Accents
-  artist: Fergus & Geronimo
+  artist: Fergus + Geronimo
   artist_slug: fergus-geronimo
   album: Unlearn
   time: '2:28'

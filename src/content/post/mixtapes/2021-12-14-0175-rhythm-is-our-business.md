@@ -18,7 +18,7 @@ tags:
 - The Avett Brothers
 - Beach House
 - Brian Ritchie
-- David Hillyard and the Rocksteady 7
+- David Hillyard + the Rocksteady 7
 - El Mató a un Policía Motorizado
 - George Harrison
 - Goat Girl
@@ -27,14 +27,14 @@ tags:
 - Hasil Adkins
 - Josh Caterer
 - Liily
-- Low Frequency In Stereo
+- The Low Frequency In Stereo
 - The Mabuses
 - Mary Stallings
 - The Mommyheads
 - Mongo Santamaria
 - Red Lorry Yellow Lorry
 - Santiago Motorizado
-- Shannon & the Clams
+- Shannon + The Clams
 - Snapped Ankles
 - Sparklehorse
 - The Stranglers
@@ -69,7 +69,7 @@ playlist:
   notes: Don’t make eye contact
 - sequence: 4
   song: Slow Train Coming
-  artist: Low Frequency In Stereo
+  artist: The Low Frequency In Stereo
   artist_slug: low-frequency-in-stereo
   album: Travelling Ants Who Got Eaten By Moskus
   time: '04:04'
@@ -161,7 +161,7 @@ playlist:
   song: BREAK
 - sequence: 20
   song: The Boy
-  artist: Shannon & the Clams
+  artist: Shannon + The Clams
   artist_slug: shannon-clams
   album: Onion
   time: '03:03'
@@ -281,7 +281,7 @@ playlist:
   song: BREAK
 - sequence: 40
   song: Duppy Conqueror
-  artist: David Hillyard and the Rocksteady 7
+  artist: David Hillyard + the Rocksteady 7
   artist_slug: david-hillyard-rocksteady-7
   album:
   time: '07:57'

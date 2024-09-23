@@ -22,7 +22,7 @@ tags:
 - Ben Vaughn
 - Big Fish Ensemble
 - Cage The Elephant
-- The Chemical Brothers
+- Chemical Brothers
 - Com Truise
 - Deerhoof
 - Devo
@@ -43,12 +43,12 @@ tags:
 - Jeff Tweedy
 - Joe Jackson
 - Juana Molina
-- King Gizzard And The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Lykke Li
 - Orville Johnson
 - Pepe Deluxe
 - Psychedelic Porn Crumpets
-- Slavic Soul Party
+- Slavic Soul Party!
 - Surf Günz
 - Tame Impala
 - Temples
@@ -69,7 +69,7 @@ playlist:
   notes: A pensive start
 - sequence: 2
   song: Fishing For Fishies
-  artist: King Gizzard And The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Fishing For Fishies
   time: '5:01'
@@ -191,7 +191,7 @@ playlist:
   song: BREAK
 - sequence: 23
   song: Eve Of Destruction
-  artist: The Chemical Brothers
+  artist: Chemical Brothers
   artist_slug: chemical-brothers
   album: No Geography
   time: '4:40'
@@ -318,7 +318,7 @@ playlist:
   notes: Syncopated style
 - sequence: 44
   song: Malina
-  artist: Slavic Soul Party
+  artist: Slavic Soul Party!
   artist_slug: slavic-soul-party
   album: Bigger
   time: '4:58'

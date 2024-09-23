@@ -25,7 +25,7 @@ tags:
 - Gallygows
 - Garotas Suecas
 - Heavy Trash
-- Kitty, Daisy & Lewis
+- Kitty, Daisy + Lewis
 - Les Claypool's Frog Brigade
 - Los Amigos Invisibles
 - Margaret Glaspy
@@ -183,7 +183,7 @@ playlist:
   notes: Startling composition
 - sequence: 23
   song: What Quid?
-  artist: Kitty, Daisy & Lewis
+  artist: Kitty, Daisy + Lewis
   artist_slug: kitty-daisy-lewis
   album: Smoking In Heaven
   time: '7:31'

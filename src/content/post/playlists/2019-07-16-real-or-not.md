@@ -30,10 +30,10 @@ tags:
 - The Fratellis
 - French Vanilla
 - hollAnd
-- Hoosegow
+- The Hoosegow
 - Jr. Jr.
 - Keith Mansfield
-- King Gizzard And The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kinky
 - Kraftwerk
 - Modern Mal
@@ -76,7 +76,7 @@ playlist:
   notes: Somewhat sedate
 - sequence: 3
   song: Are You Waiting For Me?
-  artist: Hoosegow
+  artist: The Hoosegow
   artist_slug: hoosegow
   album: Mighty
   time: '3:55'
@@ -198,7 +198,7 @@ playlist:
   song: BREAK
 - sequence: 24
   song: Boogieman Sam
-  artist: King Gizzard And The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Fishing For Fishies
   time: '4:42'

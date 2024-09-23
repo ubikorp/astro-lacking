@@ -34,9 +34,9 @@ tags:
 - The Jon Spencer Blues Explosion
 - Kinski
 - Kurt Vile
-- Laika & The Cosmonauts
+- Laika + The Cosmonauts
 - Looper
-- Low Frequency In Stereo
+- The Low Frequency In Stereo
 - Medeski, Martin + Wood
 - Medicine
 - The Mommyheads
@@ -141,7 +141,7 @@ playlist:
   notes: Mama got it right
 - sequence: 15
   song: N.Y. '79
-  artist: Laika & The Cosmonauts
+  artist: Laika + The Cosmonauts
   artist_slug: laika-cosmonauts
   album: Local Warming
   time: '3:42'
@@ -254,7 +254,7 @@ playlist:
   notes: Disorganized thinking
 - sequence: 34
   song: Hi-Ace
-  artist: Low Frequency In Stereo
+  artist: The Low Frequency In Stereo
   artist_slug: low-frequency-in-stereo
   album: Travelling Ants Who Got Eaten by Moskus
   time: '2:03'

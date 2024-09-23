@@ -22,7 +22,7 @@ tags:
 - The Flaming Lips
 - Foxygen
 - Frente!
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Grand Analog
 - The Herbaliser
 - The Hollywood Persuaders
@@ -257,7 +257,7 @@ playlist:
   notes: Not available Stateside?!
 - sequence: 36
   song: Nancy
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: Coast To Coast Motel
   time: '3:22'

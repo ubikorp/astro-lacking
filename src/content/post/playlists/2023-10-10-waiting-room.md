@@ -20,7 +20,7 @@ tags:
 - Billiam
 - Blonde Redhead
 - Bongwater
-- The Breeders
+- Breeders
 - The Bronx
 - Chinese Man
 - Copa 7
@@ -77,7 +77,7 @@ playlist:
   notes: Smooth sailing
 - sequence: 4
   song: Divine Hammer (2023 Remaster)
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash (30th Anniversary Edition)
   time: '2:38'

@@ -27,7 +27,7 @@ tags:
 - Dr. Frank
 - Dr. Octagon
 - Ezra Furman
-- Fetchin' Bones
+- Fetchin’ Bones
 - Gogol Bordello
 - Greezy Wheels
 - Guaxe
@@ -84,7 +84,7 @@ playlist:
   notes: Like the Sugar Oaks
 - sequence: 4
   song: Stray
-  artist: Fetchin' Bones
+  artist: Fetchin’ Bones
   artist_slug: fetchin-bones
   album: Galaxy 500
   time: '3:23'

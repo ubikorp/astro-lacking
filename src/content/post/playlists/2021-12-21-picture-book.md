@@ -24,7 +24,7 @@ tags:
 - 'Datarock '
 - The Dodos
 - Dopo Yume
-- Elvis Costello & The Attractions
+- Elvis Costello + The Attractions
 - Flaming Fire
 - Goodbye Honolulu
 - Hotline TNT
@@ -33,7 +33,7 @@ tags:
 - Ito-k
 - King Leg
 - Liily
-- Mach Kung-Fu
+- The Mach Kung-Fu
 - Montefiori Cocktail
 - Niños Con Bombas
 - Oranger
@@ -144,7 +144,7 @@ playlist:
   notes: That Billy Conway rumble
 - sequence: 15
   song: Baby Pictures
-  artist: Elvis Costello & The Attractions
+  artist: Elvis Costello + The Attractions
   artist_slug: elvis-costello-attractions
   album: Punch The Clock (Bonus Disc)
   time: '1:31'
@@ -241,7 +241,7 @@ playlist:
   notes: Walking it easy
 - sequence: 31
   song: Radio, Radio (feat. Fito Páez)
-  artist: Elvis Costello & The Attractions
+  artist: Elvis Costello + The Attractions
   artist_slug: elvis-costello-attractions
   album: Spanish Model
   time: '3:09'
@@ -271,7 +271,7 @@ playlist:
   notes: Featuring Muffin Spencer
 - sequence: 36
   song: Come On
-  artist: Mach Kung-Fu
+  artist: The Mach Kung-Fu
   artist_slug: mach-kung-fu
   album:
   time: '2:17'

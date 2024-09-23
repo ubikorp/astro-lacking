@@ -13,7 +13,7 @@ caption: Sparklehorse
 tags:
 - Andre Williams & The Sadies
 - Bongwater
-- The Breeders
+- Breeders
 - Copa 7
 - Downtown Harvest
 - The Giant Robots
@@ -26,7 +26,7 @@ tags:
 - Snõõper
 - Sparklehorse
 - Teenage Fanclub
-- Woody and Jeremy
+- Woody + Jeremy
 airdate: '2023-10-19'
 mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-198-everybodys-gone-to-sleep-2023-10-19%2F&hide_artwork=1&hide_cover=1
 playlist:
@@ -48,7 +48,7 @@ playlist:
   notes: Smooth sailing
 - sequence: 4
   song: Divine Hammer
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash (30th Anniversary Edition)
   time: '02:38'
@@ -147,7 +147,7 @@ playlist:
   song: BREAK
 - sequence: 21
   song: Closed Eyes
-  artist: Woody and Jeremy
+  artist: Woody + Jeremy
   artist_slug: woody-jeremy
   album: Gravy in My Coffee
   time: '03:45'

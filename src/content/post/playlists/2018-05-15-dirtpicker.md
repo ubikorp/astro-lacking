@@ -11,7 +11,7 @@ caption: Post Animal
 tags:
 - The Avett Brothers
 - Barcelona
-- Belle & Sebastian
+- Belle + Sebastian
 - Born Ruffians
 - Brandon Can't Dance
 - Brazilian Girls
@@ -49,7 +49,7 @@ tags:
 - Sonny Smith
 - Southern Culture On The Skids
 - Speedy Ortiz
-- The Starlight Mints
+- Starlight Mints
 airdate: '2018-05-15'
 playlist:
 - sequence: 1
@@ -130,7 +130,7 @@ playlist:
   song: BREAK
 - sequence: 14
   song: Black Champaign
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album:
   time: '3:25'
@@ -174,7 +174,7 @@ playlist:
   notes: Cavernous dainty
 - sequence: 21
   song: Everything Is Now
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: How To Solve Our Human Problems
   time: '5:28'

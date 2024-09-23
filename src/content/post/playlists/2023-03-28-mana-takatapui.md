@@ -16,7 +16,7 @@ tags:
 - African Magic Combo
 - The Apples In Stereo
 - The Arcs
-- Belle & Sebastian
+- Belle + Sebastian
 - Bow Wow Wow
 - Buraka Som Sistema
 - CocoRosie
@@ -46,7 +46,7 @@ tags:
 - Quasi
 - Spot 1019
 - Sprints
-- The Starlight Mints
+- Starlight Mints
 - Steady Holiday
 - The Telescopes
 - Tennis
@@ -90,7 +90,7 @@ playlist:
   notes: Just trying to stay warm
 - sequence: 6
   song: I Don't Know What You See In Me
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: Late Developers
   time: '3:39'
@@ -167,7 +167,7 @@ playlist:
   notes: Big hunks of sweet sound
 - sequence: 19
   song: Zoomba
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album: Change Remains
   time: '3:42'

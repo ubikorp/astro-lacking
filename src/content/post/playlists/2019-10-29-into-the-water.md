@@ -20,7 +20,7 @@ tags:
 - The Astroglides
 - Babe Rainbow
 - Balkan Beat Box vs Mahala Raï Banda
-- Belle and Sebastian
+- Belle + Sebastian
 - Bettie Serveert
 - The Bobby Tenderloin Universe
 - Bodeco
@@ -29,7 +29,7 @@ tags:
 - Caravan Palace
 - Chicano Batman
 - Cones
-- David Hillyard & The Rocksteady 7
+- David Hillyard + the Rocksteady 7
 - differentGear vs The Police
 - Drunken Prayer
 - Ezra Furman
@@ -50,7 +50,7 @@ tags:
 - Pixies
 - The Plimsouls
 - Queens Of The Stone Age
-- Schizophonics
+- The Schizophonics
 - Stan Getz avec Astrud et Joao Gilberto
 - STRFKR
 - Team USA
@@ -101,7 +101,7 @@ playlist:
   notes: Interlude
 - sequence: 7
   song: Duppy Conqueror
-  artist: David Hillyard & The Rocksteady 7
+  artist: David Hillyard + the Rocksteady 7
   artist_slug: david-hillyard-rocksteady-7
   album: United Front
   time: '7:57'
@@ -117,7 +117,7 @@ playlist:
   song: BREAK
 - sequence: 10
   song: Something's Got To Give
-  artist: Schizophonics
+  artist: The Schizophonics
   artist_slug: schizophonics
   album: People In The Sky
   time: '5:30'
@@ -200,7 +200,7 @@ playlist:
   song: BREAK
 - sequence: 24
   song: I Know Where The Summer Goes
-  artist: Belle and Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: Days of the Bagnold Summer
   time: '4:23'

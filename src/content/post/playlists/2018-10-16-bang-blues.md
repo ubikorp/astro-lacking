@@ -19,7 +19,7 @@ tags:
 - DeVotchKa
 - Django Reinhardt
 - Haircut One Hundred
-- Iron & Wine
+- Iron + Wine
 - Jens Lekman
 - Jesse and the Dandelions
 - King Brothers
@@ -125,7 +125,7 @@ playlist:
   notes: The darkened path
 - sequence: 12
   song: Last Of Your Rock 'n' Roll Heroes
-  artist: Iron & Wine
+  artist: Iron + Wine
   artist_slug: iron-wine
   album: Weed Garden [EP]
   time: '3:21'

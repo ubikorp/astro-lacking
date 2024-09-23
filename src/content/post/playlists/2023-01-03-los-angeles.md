@@ -16,7 +16,7 @@ tags:
 - 1990s
 - 2nd Grade
 - Arca
-- Beat Farmers
+- The Beat Farmers
 - Bill Callahan
 - Cake
 - Chris Murray
@@ -143,7 +143,7 @@ playlist:
   notes: Surf and turf
 - sequence: 15
   song: Lakeside Trailer Park
-  artist: Beat Farmers
+  artist: The Beat Farmers
   artist_slug: beat-farmers
   album:
   time: '2:01'

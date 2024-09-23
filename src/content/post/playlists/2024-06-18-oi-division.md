@@ -18,7 +18,7 @@ tags:
 - Art Lord And The Self Portraits
 - The Avett Brothers
 - Babe Rainbow
-- Baldwin Brothers
+- The Baldwin Brothers
 - Being Dead
 - BIG SPECIAL
 - Boredoms
@@ -55,7 +55,7 @@ tags:
 - Pufftube
 - Rainbow Kitten Surprise
 - Sega Bodega
-- Shannon & the Clams
+- Shannon + The Clams
 - Shellac
 - Tapir!
 - Van Halen
@@ -102,7 +102,7 @@ playlist:
   song: BREAK
 - sequence: 8
   song: The Hourglass
-  artist: Shannon & the Clams
+  artist: Shannon + The Clams
   artist_slug: shannon-clams
   album: The Moon Is In The Wrong Place
   time: '3:45'
@@ -393,7 +393,7 @@ playlist:
   notes: Bagel goes under
 - sequence: 56
   song: Funky Junkyard
-  artist: Baldwin Brothers
+  artist: The Baldwin Brothers
   artist_slug: baldwin-brothers
   album: Cooking With Lasers
   time: '3:26'

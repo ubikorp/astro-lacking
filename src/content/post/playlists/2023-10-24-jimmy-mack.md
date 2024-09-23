@@ -20,7 +20,7 @@ tags:
 - Black Moth Super Rainbow
 - Blonde Redhead
 - Brassy
-- The Breeders
+- Breeders
 - Camper Van Beethoven
 - Clark
 - Dojo Cuts feat. Roxie Ray
@@ -249,7 +249,7 @@ playlist:
   song: BREAK
 - sequence: 33
   song: Drivin' on 9
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Last Splash (30th Anniversary Edition)
   time: '3:22'

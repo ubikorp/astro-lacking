@@ -36,7 +36,7 @@ tags:
 - The Rentals
 - The Scofflaws
 - Starcrawler
-- Ted Leo + The Pharmacists
+- Ted Leo + the Pharmacists
 - Tracker
 - The Vaccines
 - Youth + Jah Wobble
@@ -121,7 +121,7 @@ playlist:
   song: BREAK
 - sequence: 14
   song: The Unwanted Things
-  artist: Ted Leo + The Pharmacists
+  artist: Ted Leo + the Pharmacists
   artist_slug: ted-leo-pharmacists
   album:
   time: '4:32'

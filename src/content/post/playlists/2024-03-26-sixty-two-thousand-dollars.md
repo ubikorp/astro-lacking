@@ -34,7 +34,7 @@ tags:
 - Gibbous Moon
 - Gruff Rhys
 - IDLES
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - The Jon Spencer Blues Explosion
 - Kid Kapichi
 - Kim Gordon
@@ -72,7 +72,7 @@ playlist:
   song: BREAK
 - sequence: 3
   song: Chemical Animal
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Glasgow Eyes
   time: '4:34'

@@ -20,10 +20,10 @@ tags:
 - Apostle Of Hustle (feat. The Huskys)
 - Ashtech
 - The Avett Brothers
-- Buke and Gase
+- Buke + Gase
 - Camper Van Beethoven
 - Cass McCombs
-- The Chemical Brothers
+- Chemical Brothers
 - The Claypool Lennon Delirium
 - Cochemea
 - Darediablo
@@ -324,14 +324,14 @@ playlist:
   notes: Drinking music
 - sequence: 46
   song: Orange Wedge
-  artist: The Chemical Brothers
+  artist: Chemical Brothers
   artist_slug: chemical-brothers
   album: Surrender
   time: '3:07'
   notes: Ridealong
 - sequence: 47
   song: Stumbler
-  artist: Buke and Gase
+  artist: Buke + Gase
   artist_slug: buke-gase
   album: Scholars
   time: '3:27'

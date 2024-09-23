@@ -49,7 +49,7 @@ tags:
 - Phoenix Afrobeat Orchestra
 - The Police
 - Swervedriver
-- Ted Leo + The Pharmacists
+- Ted Leo + the Pharmacists
 - Toro Y Moi
 - Ty Segall
 - The Urinals
@@ -212,7 +212,7 @@ playlist:
   song: BREAK
 - sequence: 27
   song: Six Months in a Leaky Boat
-  artist: Ted Leo + The Pharmacists
+  artist: Ted Leo + the Pharmacists
   artist_slug: ted-leo-pharmacists
   album: Tell Balgeary, Balguery is Dead
   time: '4:40'

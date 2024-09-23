@@ -19,7 +19,7 @@ tags:
 - Half-Handed Cloud
 - John P. Strohm
 - Kurt Vile
-- Laika & The Cosmonauts
+- Laika + The Cosmonauts
 - Looper
 - The Mommyheads
 - Neutral Milk Hotel
@@ -109,7 +109,7 @@ playlist:
   notes: Mama got it right
 - sequence: 14
   song: N.Y. '79
-  artist: Laika & The Cosmonauts
+  artist: Laika + The Cosmonauts
   artist_slug: laika-cosmonauts
   album: Local Warming
   time: '03:42'

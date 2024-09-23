@@ -17,7 +17,7 @@ tags:
 - Alvvays
 - Arctic Monkeys
 - Beachwood Sparks
-- Belle & Sebastian
+- Belle + Sebastian
 - Black Lips
 - Blithe
 - Bodega
@@ -38,7 +38,7 @@ tags:
 - International Beat
 - Jascha Ephraim
 - Johnny Society
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Low
 - Moby
 - Osees
@@ -46,7 +46,7 @@ tags:
 - Rubblebucket
 - The Rubinoos
 - Shen
-- The Starlight Mints
+- Starlight Mints
 - Stereo Total
 - Suzi Quatro
 - Tracy Spuehler
@@ -181,7 +181,7 @@ playlist:
   song: BREAK
 - sequence: 22
   song: Talk to Me, Talk to Me
-  artist: Belle & Sebastian
+  artist: Belle + Sebastian
   artist_slug: belle-sebastian
   album: A Bit of Previous
   time: '4:27'
@@ -255,7 +255,7 @@ playlist:
   notes: Classic moves
 - sequence: 34
   song: Valerie Flames
-  artist: The Starlight Mints
+  artist: Starlight Mints
   artist_slug: starlight-mints
   album: Dream That Stuff Was Made Of
   time: '3:28'
@@ -324,7 +324,7 @@ playlist:
   song: BREAK
 - sequence: 46
   song: Mycelium
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Ice, Death, Planets, Lungs, Mushrooms and Lava
   time: '7:34'

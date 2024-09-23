@@ -21,11 +21,11 @@ tags:
 - The Bobs
 - Built To Spill
 - Camper Van Beethoven
-- Chris & Tad
+- Chris + Tad
 - The Ditty Mu
 - The Evolution Control Committee
-- Fergus & Geronimo
-- Fujiya And Miyagi
+- Fergus + Geronimo
+- Fujiya + Miyagi
 - King Missile
 - Los Amigos Invisibles
 - The Maxwell Implosion
@@ -35,6 +35,7 @@ tags:
 - Thomas Function
 - Those Darlins
 airdate: '2012-02-07'
+podcast: https://audio.lacking.org/podcast/0001-0100/0093.take-stuff-from-work.mp3
 playlist:
 - sequence: 1
   song: Take Stuff From Work
@@ -45,7 +46,7 @@ playlist:
   notes: Sage advice for the bottom fifty
 - sequence: 2
   song: Drool At You
-  artist: Chris & Tad
+  artist: Chris + Tad
   artist_slug: chris-tad
   album:
   time:
@@ -98,7 +99,7 @@ playlist:
   song: BREAK
 - sequence: 11
   song: Baby Don't You Cry
-  artist: Fergus & Geronimo
+  artist: Fergus + Geronimo
   artist_slug: fergus-geronimo
   album:
   time:
@@ -119,7 +120,7 @@ playlist:
   notes: El disco fantastico
 - sequence: 14
   song: Sixteen Shades Of Black & Blue
-  artist: Fujiya And Miyagi
+  artist: Fujiya + Miyagi
   artist_slug: fujiya-miyagi
   album:
   time:

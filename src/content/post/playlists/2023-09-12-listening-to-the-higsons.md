@@ -46,7 +46,7 @@ tags:
 - Pixies
 - The Promise Ring
 - Ratboys
-- Sonny & The Sunsets
+- Sonny + the Sunsets
 - Spacewalk
 - Sparklehorse
 - Split Enz
@@ -181,7 +181,7 @@ playlist:
   notes: Your conscience is singing at you
 - sequence: 22
   song: E.S.P.
-  artist: Sonny & The Sunsets
+  artist: Sonny + the Sunsets
   artist_slug: sonny-sunsets
   album: Self Awareness Through Macrame
   time: '3:08'

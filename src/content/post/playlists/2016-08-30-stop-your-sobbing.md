@@ -18,7 +18,7 @@ tags:
 - Here Come The Mummies
 - The Hives
 - Hot Hot Heat
-- Jamaicans
+- The Jamaicans
 - Jimi Hendrix
 - The Julie Ruin
 - King Crimson
@@ -27,12 +27,12 @@ tags:
 - Mosquitos
 - The Oranges Band
 - Pixies
-- The Pretenders
+- Pretenders
 - Project Wirehead
 - Quasi
 - The Rentals
 - Ruins
-- Siouxsie + The Banshees
+- Siouxsie + the Banshees
 - Tapes 'N Tapes
 - that dog.
 - Trespassers W
@@ -44,7 +44,7 @@ airdate: '2016-08-30'
 playlist:
 - sequence: 1
   song: Stop Your Sobbing
-  artist: The Pretenders
+  artist: Pretenders
   artist_slug: pretenders
   album: Pretenders
   time: '2:39'
@@ -60,7 +60,7 @@ playlist:
   notes: Preview for BOOM later on
 - sequence: 4
   song: Peek-A-Boo
-  artist: Siouxsie + The Banshees
+  artist: Siouxsie + the Banshees
   artist_slug: siouxsie-banshees
   album:
   time: '3:10'
@@ -233,7 +233,7 @@ playlist:
   notes: Tropical sensation
 - sequence: 33
   song: Baba Boom
-  artist: Jamaicans
+  artist: The Jamaicans
   artist_slug: jamaicans
   album:
   time: '3:20'

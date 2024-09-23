@@ -29,7 +29,7 @@ tags:
 - Disq
 - DJ Danifox
 - Dub Narcotic
-- Dylan Group
+- The Dylan Group
 - The Fastbacks
 - The Giant Robots
 - Hazel English
@@ -363,7 +363,7 @@ playlist:
   song: BREAK
 - sequence: 52
   song: Towers of Dub
-  artist: Dylan Group
+  artist: The Dylan Group
   artist_slug: dylan-group
   album: Ur-Klang Search
   time: '6:41'

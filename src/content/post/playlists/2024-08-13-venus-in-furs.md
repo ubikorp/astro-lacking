@@ -35,7 +35,7 @@ tags:
 - Holly Golightly
 - Hotel Pools
 - Jack White
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - King Hannah
 - KOKOKO!
 - Los Diablos Rojos
@@ -43,7 +43,7 @@ tags:
 - marine eyes
 - Mestizo Beat
 - Molecular Steve
-- Mr B The Gentleman Rhymer
+- Mr. B The Gentleman Rhymer
 - Orville Peck
 - Pepe Deluxe
 - Petty Booka
@@ -246,7 +246,7 @@ playlist:
   notes: Don’t forsake the ape
 - sequence: 33
   song: Sherry Monocle
-  artist: Mr B The Gentleman Rhymer
+  artist: Mr. B The Gentleman Rhymer
   artist_slug: mr-b-gentleman-rhymer
   album: O.G. Original Gentleman
   time: '2:59'
@@ -299,7 +299,7 @@ playlist:
   notes: Darkness in sound
 - sequence: 42
   song: Mirage City
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Flight b741
   time: '4:48'

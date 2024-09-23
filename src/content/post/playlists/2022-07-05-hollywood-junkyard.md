@@ -11,7 +11,7 @@ excerpt: Exploding out of upstate New York, **The Bobby Lees** have returned wit
 image: "~/assets/images/playlists/2022/07-05-bobby-lees.jpg"
 caption: The Bobby Lees
 tags:
-- The 5.6.7.8’s
+- The 5.6.7.8's
 - Aldous Harding
 - The Bobby Lees
 - Boredoms
@@ -230,7 +230,7 @@ playlist:
   notes: Sweetly old-fashioined
 - sequence: 31
   song: Surfing And Spying
-  artist: The 5.6.7.8’s
+  artist: The 5.6.7.8's
   artist_slug: 5-6-7-8-s
   album: 'If You Gotta Go-Go, Go-Go Now: A Tribute To The Go-Go''s'
   time: '2:15'

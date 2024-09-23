@@ -19,7 +19,7 @@ tags:
 - Eyelids
 - The Fratellis
 - IDLES
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - The Jon Spencer Blues Explosion
 - Leyla McCalla
 - Mannequin Pussy
@@ -33,7 +33,7 @@ mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mi
 playlist:
 - sequence: 1
   song: Chemical Animal
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: Glasgow Eyes
   time: '04:34'

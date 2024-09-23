@@ -21,7 +21,7 @@ tags:
 - Cornelius
 - The Dandy Warhols
 - Dappled Cities
-- Dean Ween Group
+- The Dean Ween Group
 - decker.
 - The Domestics
 - Escape-ism
@@ -52,7 +52,7 @@ tags:
 - Reptaliens
 - The Scofflaws
 - Shame
-- Sharon Jones & The Dap-Kings
+- Sharon Jones + The Dap-Kings
 - Spice Boys
 - Squeeze
 - St. Vincent
@@ -100,7 +100,7 @@ playlist:
   notes: Story time
 - sequence: 6
   song: Love Theme From Skinheads Kicking Your Ass
-  artist: Dean Ween Group
+  artist: The Dean Ween Group
   artist_slug: dean-ween-group
   album: Rock 2
   time: '2:21'
@@ -199,7 +199,7 @@ playlist:
   notes: For the lady in the radiator
 - sequence: 23
   song: Rumors
-  artist: Sharon Jones & The Dap-Kings
+  artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
   album: Soul of a Woman
   time: '2:34'

@@ -42,17 +42,17 @@ tags:
 - The Lovemakers
 - The Mattoid
 - Montefiori Cocktail
-- Mr B The Gentleman Rhymer
+- Mr. B The Gentleman Rhymer
 - The New Duncan Imperials
 - Pain
 - Pepe Deluxe
 - Professor Elemental
 - Public Enemy
-- Ramones
+- The Ramones
 - The Rezillos
 - Robbie Fulks
 - Robyn Hitchcock
-- Rondelles
+- The Rondelles
 - The Sadies
 - The Soft Boys
 - Spoon
@@ -111,7 +111,7 @@ playlist:
   notes: The ever-lasting conflict
 - sequence: 9
   song: A Piece Of My Mind
-  artist: Mr B The Gentleman Rhymer
+  artist: Mr. B The Gentleman Rhymer
   artist_slug: mr-b-gentleman-rhymer
   album: Flattery Not Included
   time: '2:00'
@@ -141,14 +141,14 @@ playlist:
   notes: Sway and stagger
 - sequence: 14
   song: Backstabber
-  artist: Rondelles
+  artist: The Rondelles
   artist_slug: rondelles
   album: Shined Nickels and Loose Change
   time: '1:20'
   notes: Howling from New Mexico
 - sequence: 15
   song: Beat On The Brat
-  artist: Ramones
+  artist: The Ramones
   artist_slug: ramones
   album:
   time: '2:33'

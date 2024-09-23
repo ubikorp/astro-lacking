@@ -12,7 +12,7 @@ image: "~/assets/images/mixtapes/0105-m-ward.jpg"
 caption: M. Ward
 tags:
 - 1990s
-- The Breeders
+- Breeders
 - Brendan Benson
 - The Brian Jonestown Massacre
 - CocoRosie
@@ -235,7 +235,7 @@ playlist:
   notes: Featuring legendary seagulls
 - sequence: 32
   song: Bang On
-  artist: The Breeders
+  artist: Breeders
   artist_slug: breeders
   album: Mountain Battles
   time: '2:03'

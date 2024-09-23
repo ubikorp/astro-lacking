@@ -17,7 +17,7 @@ tags:
 - The Beat
 - Better Oblivion Community Center
 - Bongwater
-- Buke and Gase
+- Buke + Gase
 - Carl Henry Brueggen
 - Chatham County Line
 - Chris Murray
@@ -33,7 +33,7 @@ tags:
 - Juana Molina
 - k-os
 - Kaytranada
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kraftwerk
 - Los Fabulosos Cadillacs
 - Los Straitjackets
@@ -56,7 +56,7 @@ tags:
 - United Future Organization
 - Vinicius Cantuaria
 - Vulfpeck
-- Wylie & The Wild West
+- Wylie + the Wild West
 - Young Fresh Fellows
 airdate: '2019-04-02'
 playlist:
@@ -176,7 +176,7 @@ playlist:
   song: BREAK
 - sequence: 20
   song: Ranger
-  artist: Buke and Gase
+  artist: Buke + Gase
   artist_slug: buke-gase
   album: Scholars
   time: '1:11'
@@ -333,7 +333,7 @@ playlist:
   notes: Swagger along
 - sequence: 46
   song: Big Sky Lullaby
-  artist: Wylie & The Wild West
+  artist: Wylie + the Wild West
   artist_slug: wylie-wild-west
   album: Sky Tones
   time: '2:22'
@@ -372,7 +372,7 @@ playlist:
   song: BREAK
 - sequence: 53
   song: Altered Beast I
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Murder Of The Universe
   time: '2:24'

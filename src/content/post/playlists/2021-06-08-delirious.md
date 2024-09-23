@@ -27,7 +27,7 @@ tags:
 - The English Beat
 - Field Music
 - Frank Black
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Genghis Tron
 - Ghoulies
 - Grauzone
@@ -161,7 +161,7 @@ playlist:
   notes: Under some form of suggestion
 - sequence: 18
   song: Baby's Got Sauce
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: G. Love And Special Sauce
   time: '3:54'

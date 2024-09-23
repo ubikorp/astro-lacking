@@ -14,9 +14,9 @@ image: "~/assets/images/playlists/2019/tommy_guerrero.jpg"
 caption: Tommy Guerrero
 tags:
 - 2 Many DJs
-- A Big Yes And A Small No
+- A Big Yes + A Small No
 - Afro B
-- The Aislers Set
+- Aislers Set
 - Anbessa Orchestra
 - Aphex Twin
 - Bath Salt Zombies
@@ -34,7 +34,7 @@ tags:
 - Head of Femur
 - Holly Golightly & The Brokeoffs
 - Jeff Tweedy
-- The Jesus and Mary Chain
+- The Jesus + Mary Chain
 - John Medeski + DJ Logic
 - Klark Kent
 - Lee Bains III + the Glory Fires
@@ -96,7 +96,7 @@ playlist:
   notes: I knew he was not lying
 - sequence: 7
   song: Composure
-  artist: A Big Yes And A Small No
+  artist: A Big Yes + A Small No
   artist_slug: a-big-yes-a-small-no
   album: Jesus That Looks Terrible On You
   time: '3:49'
@@ -315,7 +315,7 @@ playlist:
   notes: Just about perfect
 - sequence: 44
   song: One Half Laughing
-  artist: The Aislers Set
+  artist: Aislers Set
   artist_slug: aislers-set
   album: The Last Match
   time: '2:02'
@@ -331,7 +331,7 @@ playlist:
   notes: Shakin that stick!
 - sequence: 47
   song: Vegetable Man
-  artist: The Jesus and Mary Chain
+  artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
   album: 'Just a Bad Dream: Sixty British Garage & Trash Nuggets 1981–89'
   time: '3:34'

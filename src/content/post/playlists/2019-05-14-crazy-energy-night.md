@@ -41,7 +41,7 @@ tags:
 - The Oranges Band
 - Øzwald
 - Pom Poko
-- The Sensualists
+- Sensualists
 - Spoon
 - Spot 1019
 - Steely Dan
@@ -355,7 +355,7 @@ playlist:
   song: BREAK
 - sequence: 52
   song: Dips + Peaks
-  artist: The Sensualists
+  artist: Sensualists
   artist_slug: sensualists
   album: The Sensualists
   time: '3:41'

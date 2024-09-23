@@ -24,11 +24,11 @@ tags:
 - David Garza
 - Devo
 - Django Django
-- Evaporators
+- The Evaporators
 - Frankie & The Poolboys
 - Goat Girl
 - Jason Trachtenburg
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Lilys
 - Link Wray
 - Lucas
@@ -54,7 +54,7 @@ tags:
 - Superchunk
 - Trilok Gurtu & Robert Miles
 - Ui
-- The Vulgar Boatmen
+- Vulgar Boatmen
 - The Wailers
 - Waxahatchee
 airdate: '2021-03-02'
@@ -167,7 +167,7 @@ playlist:
   notes: Look up the Gondry video
 - sequence: 18
   song: The 23rd of September
-  artist: The Vulgar Boatmen
+  artist: Vulgar Boatmen
   artist_slug: vulgar-boatmen
   album: Please Panic
   time: '3:37'
@@ -266,7 +266,7 @@ playlist:
   song: BREAK
 - sequence: 35
   song: Fried
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Teenage Gizzard
   time: '3:10'
@@ -317,7 +317,7 @@ playlist:
   notes: Manic japanic
 - sequence: 43
   song: Barney Rubble Is My Double
-  artist: Evaporators
+  artist: The Evaporators
   artist_slug: evaporators
   album: Ripple Rock
   time: '1:38'

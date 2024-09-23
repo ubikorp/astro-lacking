@@ -21,14 +21,14 @@ tags:
 - The English Beat
 - The Epizootis
 - Erin McKeown
-- Evaporators
+- The Evaporators
 - Fastball
 - Frankie & The Poolboys
-- G. Love & Special Sauce
+- G. Love + Special Sauce
 - Head of Femur
 - Josh Caterer
 - Juana Molina
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Link Wray
 - Madness
 - The Mountain Goats
@@ -138,7 +138,7 @@ playlist:
   notes: Manic japanic
 - sequence: 15
   song: Barney Rubble Is My Double
-  artist: Evaporators
+  artist: The Evaporators
   artist_slug: evaporators
   album: Ripple Rock
   time: '1:38'
@@ -154,7 +154,7 @@ playlist:
   notes: A bit of the far out there
 - sequence: 18
   song: Pleura
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: L.W.
   time: '4:11'
@@ -177,7 +177,7 @@ playlist:
   notes: Under some form of suggestion
 - sequence: 22
   song: Baby's Got Sauce
-  artist: G. Love & Special Sauce
+  artist: G. Love + Special Sauce
   artist_slug: g-love-special-sauce
   album: G. Love And Special Sauce
   time: '3:54'

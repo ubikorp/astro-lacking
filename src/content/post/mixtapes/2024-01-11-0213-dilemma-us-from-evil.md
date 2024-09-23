@@ -19,7 +19,7 @@ tags:
 - Earth Girl Helen Brown
 - Joe Jackson
 - The Jon Spencer Blues Explosion
-- Low Frequency In Stereo
+- The Low Frequency In Stereo
 - Medicine
 - Nirvana
 - Pacing
@@ -110,7 +110,7 @@ playlist:
   notes: Disorganized thinking
 - sequence: 14
   song: Hi-Ace
-  artist: Low Frequency In Stereo
+  artist: The Low Frequency In Stereo
   artist_slug: low-frequency-in-stereo
   album: Travelling Ants Who Got Eaten by Moskus
   time: '02:03'

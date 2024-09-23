@@ -27,7 +27,7 @@ tags:
 - Jah Wobble
 - Jason Trachtenburg
 - Jeepster
-- King Gizzard & The Lizard Wizard
+- King Gizzard + the Lizard Wizard
 - Kiwi jr.
 - Le Hammond Inferno
 - Lilys
@@ -72,7 +72,7 @@ playlist:
   notes: I reached for a brick
 - sequence: 4
   song: Trench Foot
-  artist: King Gizzard & The Lizard Wizard
+  artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
   album: Teenage Gizzard
   time: '1:56'
