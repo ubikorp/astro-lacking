@@ -24,8 +24,7 @@ tags:
 - Brave Combo
 - Cake
 - Camper Van Beethoven
-- "!Dela Dap"
-- "!DelaDap"
+- DelaDap
 - Fanfare Ciocarlia
 - Gaëtano Fabri vs. Koçani Orkestar
 - Gogol Bordello
@@ -257,8 +256,8 @@ playlist:
   song: BREAK
 - sequence: 35
   song: Lautlos
-  artist: "!Dela Dap"
-  artist_slug: dela-dap
+  artist: DelaDap
+  artist_slug: deladap
   album: Lautlos
   time: '3:49'
   notes: Dig that squeezebox
@@ -317,7 +316,7 @@ playlist:
   song: BREAK
 - sequence: 45
   song: Goldregen (n.o.h.a. Mix)
-  artist: "!DelaDap"
+  artist: DelaDap
   artist_slug: deladap
   album: Dela Paji
   time: '3:39'

@@ -11,7 +11,6 @@ excerpt: The story of Nell Smith & The Flaming Lips is as improbable and unexpec
 image: "~/assets/images/playlists/2021/nell-smith-flaming-lips-tlo.png"
 caption: Nell Smith + the Flaming Lips
 tags:
-- The The
 - The Allergies
 - Belle + Sebastian
 - Big Thief
@@ -49,6 +48,7 @@ tags:
 - Taraka
 - Ten Years After
 - That 1 Guy
+- The The
 - This Is The Kit
 - The Toasters
 airdate: '2021-12-07'
@@ -293,7 +293,7 @@ playlist:
 - sequence: 42
   song: Armageddon Days (Are Here Again) (Live)
   artist: The The
-  artist_slug: ''
+  artist_slug: the-the
   album: The Comeback Special
   time: '5:30'
   notes: Not quite a ballroom blitz

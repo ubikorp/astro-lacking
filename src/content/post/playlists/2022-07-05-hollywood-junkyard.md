@@ -330,7 +330,7 @@ playlist:
 - sequence: 48
   song: This Is Pop 2
   artist: "!!!"
-  artist_slug: ''
+  artist_slug: chk-chk-chk
   album: Let It Be Blue
   time: '4:27'
   notes: Donkey music

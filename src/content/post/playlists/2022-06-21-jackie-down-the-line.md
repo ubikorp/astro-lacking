@@ -148,7 +148,7 @@ playlist:
 - sequence: 17
   song: Panama Canal (feat. Meah Pace)
   artist: "!!!"
-  artist_slug: ''
+  artist_slug: chk-chk-chk
   album: Let It Be Blue
   time: '2:43'
   notes: You will be singing along

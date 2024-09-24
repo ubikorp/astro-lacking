@@ -19,7 +19,7 @@ tags:
 - Bonaparte
 - Brix Smith & Marty Willson-Piper
 - Cansei de Ser Sexy
-- "!Dela Dap"
+- DelaDap
 - Delicate Steve
 - The Diasonics
 - doubleVee
@@ -158,8 +158,8 @@ playlist:
   notes: An unmistakable drone
 - sequence: 18
   song: Lautlos (Album Version)
-  artist: "!Dela Dap"
-  artist_slug: dela-dap
+  artist: DelaDap
+  artist_slug: deladap
   album: Dela Paji
   time: '3:49'
   notes: Exotic breezes

@@ -118,7 +118,7 @@ playlist:
 - sequence: 12
   song: Normal People
   artist: "!!!"
-  artist_slug: ''
+  artist_slug: chk-chk-chk
   album: Let It Be Blue
   time: '2:11'
   notes: Who you calling normal?

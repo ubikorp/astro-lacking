@@ -13,7 +13,7 @@ excerpt: "**Mimi Parker**, vocalist and drummer and half of the Minnesota band *
 image: "~/assets/images/playlists/2022/11-22-mimi-parker.jpg"
 caption: Mimi Parker / Low
 tags:
-- 1920's Wurlitzer Carousel Organ
+- 1920s Wurlitzer Carousel Organ
 - Adrian Belew
 - Alt-J
 - Apollo Sunshine
@@ -293,8 +293,8 @@ playlist:
   notes: It’s the way to live
 - sequence: 41
   song: Tiger Rag
-  artist: 1920's Wurlitzer Carousel Organ
-  artist_slug: 1920-s-wurlitzer-carousel-organ
+  artist: 1920s Wurlitzer Carousel Organ
+  artist_slug: 1920s-wurlitzer-carousel-organ
   album: Carousel Organ Varieties, Vol. 1
   time: '2:32'
   notes: Hold that tiger!

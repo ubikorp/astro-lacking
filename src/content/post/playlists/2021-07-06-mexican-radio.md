@@ -21,7 +21,7 @@ tags:
 - Cilantro Boombox
 - The Cure
 - Datblygu
-- "!Dela Dap"
+- DelaDap
 - Dry Cleaning
 - El Michels Affair
 - Five Alarm Funk
@@ -292,8 +292,8 @@ playlist:
   notes: Wander through the Chinese scale
 - sequence: 41
   song: Goldregen (n.o.h.a. Mix)
-  artist: "!Dela Dap"
-  artist_slug: dela-dap
+  artist: DelaDap
+  artist_slug: deladap
   album:
   time: '3:39'
   notes: Opa

@@ -14,7 +14,6 @@ excerpt: The rich wood floorboards were squeaking under the strain of the game. 
 image: "~/assets/images/playlists/2021/clinic-tlo.png"
 caption: Clinic
 tags:
-- The The
 - Absolutely Free
 - Alt-J
 - Bad Bad Hats
@@ -54,6 +53,7 @@ tags:
 - Sukia
 - Swell
 - Tenor Saw
+- The The
 - They Might Be Giants
 - Tulip Sweet and Her Trail of Tears
 - Ultrababyfat
@@ -261,7 +261,7 @@ playlist:
 - sequence: 35
   song: This Is the Day (Live)
   artist: The The
-  artist_slug: ''
+  artist_slug: the-the
   album: The Comeback Special
   time: '4:17'
   notes: It has all the feels
