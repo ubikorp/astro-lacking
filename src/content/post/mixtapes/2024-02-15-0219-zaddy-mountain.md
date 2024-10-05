@@ -2,10 +2,10 @@
 title: 'Mixtape 219 :: Zaddy Mountain'
 subtitle: ''
 category: mixtapes
-name: Zaddy Mountain
-episode: '0219'
 publishDate: '2024-02-15T15:30:00Z'
 slug: '0219-zaddy-mountain'
+name: Zaddy Mountain
+episode: '0219'
 excerpt: Thick Paint has a sound you just want to slather and spread on.
 image: "~/assets/images/mixtapes/219-thick-paint.jpg"
 caption: Thick Paint

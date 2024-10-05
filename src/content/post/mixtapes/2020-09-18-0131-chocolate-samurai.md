@@ -2,10 +2,10 @@
 title: 'Mixtape 131 :: Chocolate Samurai'
 subtitle: ''
 category: mixtapes
-name: Chocolate Samurai
-episode: '0131'
 publishDate: '2020-09-18T07:30:00Z'
 slug: 0131-chocolate-samurai
+name: Chocolate Samurai
+episode: '0131'
 excerpt: Listening to Fantastic Negrito is like lifting the lid on a simmering pot
   to a wonderfully exotic yet very familiar blend of spices.
 image: "~/assets/images/mixtapes/0131-fantastic-negrito.jpg"

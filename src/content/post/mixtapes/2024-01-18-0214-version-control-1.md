@@ -2,10 +2,10 @@
 title: 'Mixtape 214 :: Version Control 1'
 subtitle: ''
 category: mixtapes
-name: Version Control 1
-episode: '0214'
 publishDate: '2024-01-18T15:30:00Z'
 slug: 0214-version-control-1
+name: Version Control 1
+episode: '0214'
 excerpt: 'Presenting a collection of musical flatteries and facsimiles! '
 image: "~/assets/images/mixtapes/214-version-control-1.jpg"
 caption: ''

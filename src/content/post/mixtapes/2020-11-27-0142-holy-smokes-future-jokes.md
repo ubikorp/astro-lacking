@@ -2,10 +2,10 @@
 title: 'Mixtape 142 :: Holy Smokes Future Jokes'
 subtitle: ''
 category: mixtapes
-name: Holy Smokes Future Jokes
-episode: '0142'
 publishDate: '2020-11-27T07:30:00Z'
 slug: 0142-holy-smokes-future-jokes
+name: Holy Smokes Future Jokes
+episode: '0142'
 excerpt: There are many two-genre combos that will fit on Blitzen Trapper like a tailored
   suit, but my current favorite is “country psychedelia”.
 image: "~/assets/images/mixtapes/0142-blitzen-trapper.jpg"

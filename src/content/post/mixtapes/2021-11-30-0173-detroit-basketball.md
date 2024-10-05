@@ -2,10 +2,10 @@
 title: 'Mixtape 173 :: Detroit Basketball'
 subtitle: ''
 category: mixtapes
-name: Detroit Basketball
-episode: '0173'
 publishDate: '2021-11-30T07:30:00Z'
 slug: 0173-detroit-basketball
+name: Detroit Basketball
+episode: '0173'
 excerpt: The three-piece punchy pop formula should be familiar to everyone by now,
   but the sounds of Bad Bad Hats are an elegant proof of their own.
 image: "~/assets/images/mixtapes/0173-bad-bad-hats.jpg"

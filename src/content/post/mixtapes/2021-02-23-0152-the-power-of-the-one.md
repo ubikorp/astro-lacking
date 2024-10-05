@@ -2,10 +2,10 @@
 title: 'Mixtape 152 :: The Power of the One'
 subtitle: ''
 category: mixtapes
-name: The Power of the One
-episode: '0152'
 publishDate: '2021-02-23T07:30:00Z'
 slug: 0152-the-power-of-the-one
+name: The Power of the One
+episode: '0152'
 excerpt: You can say that bedrock funk bassist Bootsy Collins is The One, and you
   would be right on so many levels.
 image: "~/assets/images/mixtapes/0152-bootsy-collins.jpg"

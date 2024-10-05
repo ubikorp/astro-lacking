@@ -2,10 +2,10 @@
 title: 'Mixtape 160 :: Petey Jones'' Locker'
 subtitle: ''
 category: mixtapes
-name: Petey Jones' Locker
-episode: '0160'
 publishDate: '2021-08-24T07:30:00Z'
 slug: 0160-petey-jones-locker
+name: Petey Jones' Locker
+episode: '0160'
 excerpt: The Ghoulies from Perth, Australia look like regular blokes caught out grocery
   shopping, but the sound they make is an urgent, insistent punk rock howl with a
   frenetic keyboard bubbling through.

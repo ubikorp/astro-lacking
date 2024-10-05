@@ -2,10 +2,10 @@
 title: 'Mixtape 204 :: Food In The House'
 subtitle: ''
 category: mixtapes
-name: Food In The House
-episode: '0204'
 publishDate: '2023-11-23T16:30:00Z'
 slug: 0204-food-in-the-house
+name: Food In The House
+episode: '0204'
 excerpt: It's American Thanksgiving time, and there is nothing quite like food in
   the house.
 image: "~/assets/images/mixtapes/204-food-in-the-house.jpg"

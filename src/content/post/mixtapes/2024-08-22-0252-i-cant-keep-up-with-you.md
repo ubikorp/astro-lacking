@@ -2,10 +2,10 @@
 title: 'Mixtape 252 :: I Can’t Keep Up With You'
 subtitle: ''
 category: mixtapes
-name: I Can’t Keep Up With You
-episode: '0252'
 publishDate: '2024-08-22T15:30:00Z'
 slug: 0252-i-cant-keep-up-with-you
+name: I Can’t Keep Up With You
+episode: '0252'
 excerpt: Crowded House brings us some of that uniquely shaped New Zealand sonic architecture.
 image: "~/assets/images/mixtapes/252-crowded-house.jpg"
 caption: Crowded House

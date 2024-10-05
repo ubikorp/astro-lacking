@@ -2,10 +2,10 @@
 title: 'Mixtape 231 :: Danzig With Myself'
 subtitle: ''
 category: mixtapes
-name: Danzig With Myself
-episode: '0231'
 publishDate: '2024-04-25T15:30:00Z'
 slug: 0231-danzig-with-myself
+name: Danzig With Myself
+episode: '0231'
 excerpt: The Dandy Warhols are singing about a band, but it’s not the Misfits
 image: "~/assets/images/mixtapes/231-dandy-warhols.jpg"
 caption: The Dandy Warhols

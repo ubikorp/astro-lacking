@@ -2,10 +2,10 @@
 title: 'Mixtape 150 :: Secret Canine Agent'
 subtitle: ''
 category: mixtapes
-name: Secret Canine Agent
-episode: '0150'
 publishDate: '2021-02-02T00:00:00Z'
 slug: 0150-secret-canine-agent
+name: Secret Canine Agent
+episode: '0150'
 excerpt: 'Viagra Boys don’t care what you think… there’s plenty of room for a saxophone
   and John Prine covers in the backseat of a 21st century punk band. '
 image: "~/assets/images/mixtapes/0151-viagra-boys.jpg"

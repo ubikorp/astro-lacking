@@ -2,10 +2,10 @@
 title: 'Mixtape 245 :: Sociometer Blues'
 subtitle: ''
 category: mixtapes
-name: Sociometer Blues
-episode: '0245'
 publishDate: '2024-07-10T15:30:00Z'
 slug: 0245-sociometer-blues
+name: Sociometer Blues
+episode: '0245'
 excerpt: Arab Strap return with their particularly caustic sense of delicacy.
 image: "~/assets/images/mixtapes/245-arab-strap.jpg"
 caption: Arab Strap

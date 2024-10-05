@@ -2,10 +2,10 @@
 title: 'Mixtape 156 :: Dimes Make Dollars'
 subtitle: ''
 category: mixtapes
-name: Dimes Make Dollars
-episode: '0156'
 publishDate: '2021-06-25T00:00:00Z'
 slug: 0156-dimes-make-dollars
+name: Dimes Make Dollars
+episode: '0156'
 excerpt: Taking a vibrantly psychedelic sound and drenching it in cavernous production
   has made sure  Lilys have always floated through time with a sound that is clearly
   from the past but also obviously from the future.

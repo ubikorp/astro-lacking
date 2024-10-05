@@ -2,10 +2,10 @@
 title: 'Mixtape 105 :: Along the Santa Fe Trail'
 subtitle: ''
 category: mixtapes
-name: Along the Santa Fe Trail
-episode: '0105'
 publishDate: '2020-06-12T07:30:00Z'
 slug: 0105-along-the-santa-fe-trail
+name: Along the Santa Fe Trail
+episode: '0105'
 excerpt: M. Ward could get by on his smoky velvet voice alone, but he also happens
   to be a supreme connoisseur of what alert musicians call songcraft.
 image: "~/assets/images/mixtapes/0105-m-ward.jpg"

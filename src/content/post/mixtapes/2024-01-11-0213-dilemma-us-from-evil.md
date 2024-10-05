@@ -2,10 +2,10 @@
 title: 'Mixtape 213 :: Dilemma Us From Evil'
 subtitle: ''
 category: mixtapes
-name: Dilemma Us From Evil
-episode: '0213'
 publishDate: '2024-01-11T15:30:00Z'
 slug: 0213-dilemma-us-from-evil
+name: Dilemma Us From Evil
+episode: '0213'
 excerpt: The Psychedelic Porn Crumpets would like to welcome you aboard and advise
   you to buckle in tight.
 image: "~/assets/images/mixtapes/213-psychedelic-porn-crumpets.jpg"

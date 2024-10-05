@@ -2,10 +2,10 @@
 title: 'Mixtape 180 :: How Was I to Know'
 subtitle: ''
 category: mixtapes
-name: How Was I to Know
-episode: '0180'
 publishDate: '2023-07-06T16:00:00Z'
 slug: '0180-how-was-i-to-know'
+name: How Was I to Know
+episode: '0180'
 excerpt: The Boo Radleys are eager to share their sweet shocking intensity and it
   will instantly lift your day.
 image: "~/assets/images/mixtapes/180-boo-radleys.jpg"

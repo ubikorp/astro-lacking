@@ -2,10 +2,10 @@
 title: 'Mixtape 233 :: Big Congratulations'
 subtitle: ''
 category: mixtapes
-name: Big Congratulations
-episode: '0233'
 publishDate: '2024-05-02T15:30:00Z'
 slug: 0233-big-congratulations
+name: Big Congratulations
+episode: '0233'
 excerpt: Holiday Ghosts bring you that refreshing fizzy jangle in a tall frosted glass.
 image: "~/assets/images/mixtapes/233-holiday-ghosts.jpg"
 caption: Holiday Ghosts

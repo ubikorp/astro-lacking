@@ -2,10 +2,10 @@
 title: 'Mixtape 138 :: Political Song'
 subtitle: ''
 category: mixtapes
-name: Political Song
-episode: '0138'
 publishDate: '2020-10-30T07:30:00Z'
 slug: '0138-political-song'
+name: Political Song
+episode: '0138'
 excerpt: Supremely independent for going on three decades, Superchunk’s incisive nervous
   energy is still one of the purest indie highs you can find.
 image: "~/assets/images/mixtapes/0138-superchunk.jpg"

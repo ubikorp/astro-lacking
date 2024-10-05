@@ -2,10 +2,10 @@
 title: 'Mixtape 258 :: Finger In Your Eye'
 subtitle: ''
 category: mixtapes
-name: Finger In Your Eye
-episode: '0258'
 publishDate: '2024-09-26T15:30:00Z'
 slug: '0258-finger-in-your-eye'
+name: Finger In Your Eye
+episode: '0258'
 excerpt: Looks like YACHT is back and gesticulating wildly about.
 image: "~/assets/images/mixtapes/258-yacht.jpg"
 caption: YACHT

@@ -2,10 +2,10 @@
 title: 'Mixtape 145 :: Gin Tonic State of Mind'
 subtitle: ''
 category: mixtapes
-name: Gin Tonic State of Mind
-episode: '0145'
 publishDate: '2020-12-18T07:30:00Z'
 slug: 0145-gin-tonic-state-of-mind
+name: Gin Tonic State of Mind
+episode: '0145'
 excerpt: The effervescent jangle of German trio A Tale of Golden Keys is intricately
   engineered to make your ears ask “what was that?”
 image: "~/assets/images/mixtapes/0145-a-tale-of-golden-keys.jpg"

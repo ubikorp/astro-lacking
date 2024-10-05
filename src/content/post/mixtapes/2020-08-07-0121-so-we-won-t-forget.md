@@ -2,10 +2,10 @@
 title: 'Mixtape 121 :: So We Won''t Forget'
 subtitle: ''
 category: mixtapes
-name: So We Won't Forget
-episode: '0121'
 publishDate: '2020-08-07T07:30:00Z'
 slug: 0121-so-we-won-t-forget
+name: So We Won't Forget
+episode: '0121'
 excerpt: The world of Khruangbin is made up of velvet sunsets, shimmering dunes, and
   cool river rocks. There’s also a guitar, some drums, and a bass. And lately, vocals.
 image: "~/assets/images/mixtapes/0121-khruangbin.jpg"

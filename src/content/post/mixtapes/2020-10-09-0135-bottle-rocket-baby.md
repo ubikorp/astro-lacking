@@ -2,10 +2,10 @@
 title: 'Mixtape 135 :: Bottle Rocket Baby'
 subtitle: ''
 category: mixtapes
-name: Bottle Rocket Baby
-episode: '0135'
 publishDate: '2020-10-09T07:30:00Z'
 slug: 0135-bottle-rocket-baby
+name: Bottle Rocket Baby
+episode: '0135'
 excerpt: Hissing steam and spitting fire, the Old 97s chew up the rails and cross-ties  by
   playing country music with a punk attitude.
 image: "~/assets/images/mixtapes/0135-old-97s.jpg"

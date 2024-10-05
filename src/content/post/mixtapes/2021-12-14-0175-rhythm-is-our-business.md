@@ -2,10 +2,10 @@
 title: 'Mixtape 175 :: Rhythm Is Our Business'
 subtitle: ''
 category: mixtapes
-name: Rhythm Is Our Business
-episode: '0175'
 publishDate: '2021-12-14T07:30:00Z'
 slug: 0175-rhythm-is-our-business
+name: Rhythm Is Our Business
+episode: '0175'
 excerpt: The mysterious Snapped Ankles are descended from the forest people, though
   it seems they took a detour through some harsh industrial spaces to bring their
   stuttering electro-strangulation to our ears.

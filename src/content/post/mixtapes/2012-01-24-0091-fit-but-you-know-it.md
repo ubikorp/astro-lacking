@@ -2,6 +2,8 @@
 title: 'Mixtape 91 :: Fit But You Know It'
 subtitle: ''
 category: mixtapes
+publishDate: '2012-01-24T00:00:00Z'
+slug: '0091-fit-but-you-know-it'
 name: Fit But You Know It
 episode: '0091'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0091.fit-but-you-know-it.mp3
   cover_art_url: "~/assets/images/mixtapes/0091-the-streets.jpg"
-publishDate: '2012-01-24T00:00:00Z'
-slug: '0091-fit-but-you-know-it'
 excerpt: There’s something simply ADORABLE about a rapper with a British accent. Mike
   Skinner is no longer fronting the project, but expect more great things from him.
 image: "~/assets/images/mixtapes/0091-the-streets.jpg"

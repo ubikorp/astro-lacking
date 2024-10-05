@@ -2,10 +2,10 @@
 title: 'Mixtape 143 :: Lonely Heather'
 subtitle: ''
 category: mixtapes
-name: Lonely Heather
-episode: '0143'
 publishDate: '2020-12-04T07:30:00Z'
 slug: 0143-lonely-heather
+name: Lonely Heather
+episode: '0143'
 excerpt: If you got The Nude Party to perform at your next get-together, it would
   be the kind of shindig that produces two marriages, three break-ups, and gossip
   for years to come.

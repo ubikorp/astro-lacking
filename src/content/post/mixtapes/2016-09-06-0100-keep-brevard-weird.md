@@ -2,6 +2,8 @@
 title: 'Mixtape 100 :: Keep Brevard Weird'
 subtitle: ''
 category: mixtapes
+publishDate: '2016-09-06T00:00:00Z'
+slug: 0100-keep-brevard-weird
 name: Keep Brevard Weird
 episode: '0100'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0100.keep-brevard-weird.mp3
   cover_art_url: "~/assets/images/mixtapes/0100-keep-brevard-weird.jpg"
-publishDate: '2016-09-06T00:00:00Z'
-slug: 0100-keep-brevard-weird
 excerpt: |-
   This is the final episode of The Lacking Organization broadcast on WFIT on September 6, 2016. It features guests Ryan Blount and Patty Bleu, who perform songs from their upcoming split 7" and get dragged down the verbal path by yours truly. In between and all around, we play a selection of original music originating in the Brevard County, Florida area, ranging from the last 30 years.
 

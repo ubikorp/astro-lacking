@@ -2,10 +2,10 @@
 title: 'Mixtape 251 :: Black Country Gothic'
 subtitle: ''
 category: mixtapes
-name: Black Country Gothic
-episode: '0251'
 publishDate: '2024-08-15T15:30:00Z'
 slug: 0251-black-country-gothic
+name: Black Country Gothic
+episode: '0251'
 excerpt: Only a few bands sound large enough to warrant their use of all-caps, and
   BIG SPECIAL is one of them.
 image: "~/assets/images/mixtapes/251-big-special.jpg"

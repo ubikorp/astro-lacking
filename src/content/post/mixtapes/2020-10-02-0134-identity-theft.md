@@ -2,10 +2,10 @@
 title: 'Mixtape 134 :: Identity Theft'
 subtitle: ''
 category: mixtapes
-name: Identity Theft
-episode: '0134'
 publishDate: '2020-10-02T07:30:00Z'
 slug: 0134-identity-theft
+name: Identity Theft
+episode: '0134'
 excerpt: Taking their name from Australian slang for something not good, The Chats
   are here to strike fear in the hearts of parents and guidance counselors across
   the globe.

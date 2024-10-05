@@ -2,10 +2,10 @@
 title: 'Mixtape 116 :: Hard To Explain'
 subtitle: ''
 category: mixtapes
-name: Hard To Explain
-episode: '0116'
 publishDate: '2020-07-21T07:30:00Z'
 slug: 0116-hard-to-explain
+name: Hard To Explain
+episode: '0116'
 excerpt: Coriky is three musicians crumpling up their resumes, throwing them to the
   floor, and showing you exactly what they can do.
 image: "~/assets/images/mixtapes/0116-coriky.jpg"

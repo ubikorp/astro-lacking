@@ -2,10 +2,10 @@
 title: 'Mixtape 217 :: Have you tried meditation?'
 subtitle: ''
 category: mixtapes
-name: Have you tried meditation?
-episode: '0217'
 publishDate: '2024-02-01T15:30:00Z'
 slug: 0217-have-you-tried-meditation
+name: Have you tried meditation?
+episode: '0217'
 excerpt: Pacing keeps it steady with a forward approach and some decent advice.
 image: "~/assets/images/mixtapes/217-pacing.jpg"
 caption: Pacing

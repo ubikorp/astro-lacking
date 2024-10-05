@@ -2,6 +2,8 @@
 title: 'Mixtape 95 :: Complicated Music Hour'
 subtitle: ''
 category: mixtapes
+publishDate: '2012-02-17T00:00:00Z'
+slug: '0095-complicated-music-hour'
 name: Complicated Music Hour
 episode: '0095'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0095.complicated-music-hour.mp3
   cover_art_url: "~/assets/images/mixtapes/0095-secret-chiefs-3.jpg"
-publishDate: '2012-02-17T00:00:00Z'
-slug: '0095-complicated-music-hour'
 excerpt: 'It’s worth repeating: This is a music hour that is complicated. Any other
   interpretations based on how you chose to associate the words are strictly your
   problem.'

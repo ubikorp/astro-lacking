@@ -2,10 +2,10 @@
 title: 'Mixtape 127 :: Roll Me Mama, Roll Me'
 subtitle: ''
 category: mixtapes
-name: Roll Me Mama, Roll Me
-episode: '0127'
 publishDate: '2020-09-01T07:30:00Z'
 slug: 0127-roll-me-mama-roll-me
+name: Roll Me Mama, Roll Me
+episode: '0127'
 excerpt: It’s easy to suspect Ray LaMontagne came from a recently unearthed time capsule
   documenting the folkie scene of half a century ago.
 image: "~/assets/images/mixtapes/0127-ray-lamontagne.jpg"

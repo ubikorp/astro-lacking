@@ -2,10 +2,10 @@
 title: 'Mixtape 162 :: The Shame of Love'
 subtitle: ''
 category: mixtapes
-name: The Shame of Love
-episode: '0162'
 publishDate: '2021-09-07T07:30:00Z'
 slug: 0162-the-shame-of-love
+name: The Shame of Love
+episode: '0162'
 excerpt: Juliana Hatfield is once again in the middle of an unstoppable creative streak,
   now mixing her needle-sharp pop sensibilities with some truly out-there production.
 image: "~/assets/images/mixtapes/0162-juliana-hatfield.jpg"

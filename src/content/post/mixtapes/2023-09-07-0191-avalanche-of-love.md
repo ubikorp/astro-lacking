@@ -2,10 +2,10 @@
 title: 'Mixtape 191 :: Avalanche Of Love'
 subtitle: ''
 category: mixtapes
-name: Avalanche Of Love
-episode: '0191'
 publishDate: '2023-09-07T14:00:00Z'
 slug: '0191-avalanche-of-love'
+name: Avalanche Of Love
+episode: '0191'
 excerpt: There are many bands that go by W.I.T.C.H. but this is the only one where
   it stands for “we intend to cause havoc.”
 image: "~/assets/images/mixtapes/191-witch.jpg"

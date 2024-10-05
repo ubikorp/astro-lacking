@@ -2,10 +2,10 @@
 title: 'Mixtape 239 :: Double Negative'
 subtitle: ''
 category: mixtapes
-name: Double Negative
-episode: '0239'
 publishDate: '2024-06-06T15:30:00Z'
 slug: '0239-double-negative'
+name: Double Negative
+episode: '0239'
 excerpt: Omni unites their sound with the thinnest of guitar strings and rhythms of
   utmost precision.
 image: "~/assets/images/mixtapes/239-omni.jpg"

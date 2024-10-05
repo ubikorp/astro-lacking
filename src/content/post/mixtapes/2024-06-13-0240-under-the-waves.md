@@ -2,10 +2,10 @@
 title: 'Mixtape 240 :: Under The Waves'
 subtitle: ''
 category: mixtapes
-name: Under The Waves
-episode: '0240'
 publishDate: '2024-06-13T15:30:00Z'
 slug: 0240-under-the-waves
+name: Under The Waves
+episode: '0240'
 excerpt: A special collection of songs about humans and their interactions with water.
 image: "~/assets/images/mixtapes/240-under-the-waves.jpg"
 caption: ''

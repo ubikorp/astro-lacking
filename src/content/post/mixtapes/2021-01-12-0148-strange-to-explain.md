@@ -2,10 +2,10 @@
 title: 'Mixtape 148 :: Strange To Explain'
 subtitle: ''
 category: mixtapes
-name: Strange To Explain
-episode: '0148'
 publishDate: '2021-01-12T07:30:00Z'
 slug: '0148-strange-to-explain'
+name: Strange To Explain
+episode: '0148'
 excerpt: If I could use synesthesia to describe Woods’ music, I would say it sounds
   like sparkling pastel day-go colors.
 image: "~/assets/images/mixtapes/0148-woods.jpg"

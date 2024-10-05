@@ -2,10 +2,10 @@
 title: 'Mixtape 124 :: Forgotten Astronaut'
 subtitle: ''
 category: mixtapes
-name: Forgotten Astronaut
-episode: '0124'
 publishDate: '2020-08-18T07:30:00Z'
 slug: 0124-forgotten-astronaut
+name: Forgotten Astronaut
+episode: '0124'
 excerpt: 'Matt Sharp and The Rentals have always attracted a stellar cast of musicians
   to help them assemble their popsong symphonies. '
 image: "~/assets/images/mixtapes/0124-rentals.jpg"

@@ -2,10 +2,10 @@
 title: 'Mixtape 168 :: Shame Reactions'
 subtitle: ''
 category: mixtapes
-name: Shame Reactions
-episode: '0168'
 publishDate: '2021-10-19T07:30:00Z'
 slug: '0168-shame-reactions'
+name: Shame Reactions
+episode: '0168'
 excerpt: Pom Pom Squad began as songwriter Mia Berrin's solo operation but now employs
   four full-time experts in musical munitions and lethal lyrical techniques
 image: "~/assets/images/mixtapes/0168-pom-pom-squad.jpg"

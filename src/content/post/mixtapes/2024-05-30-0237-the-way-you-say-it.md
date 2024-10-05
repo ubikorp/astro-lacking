@@ -2,10 +2,10 @@
 title: 'Mixtape 237 :: The Way You Say It'
 subtitle: ''
 category: mixtapes
-name: The Way You Say It
-episode: '0237'
 publishDate: '2024-05-30T15:30:00Z'
 slug: 0237-the-way-you-say-it
+name: The Way You Say It
+episode: '0237'
 excerpt: The sound of Chicano Batman is a half-dozen ice-cubes liquidly clinking in
   a tall glass.
 image: "~/assets/images/mixtapes/237-chicano-batman.jpg"

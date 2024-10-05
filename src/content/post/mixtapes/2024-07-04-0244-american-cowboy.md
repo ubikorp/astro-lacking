@@ -2,10 +2,10 @@
 title: 'Mixtape 244 :: American Cowboy'
 subtitle: ''
 category: mixtapes
-name: American Cowboy
-episode: '0244'
 publishDate: '2024-07-04T15:30:00Z'
 slug: 0244-american-cowboy
+name: American Cowboy
+episode: '0244'
 excerpt: Guppy will make you feel like a million bucks, wreck your car, and make you
   lose your security deposit.
 image: "~/assets/images/mixtapes/244-guppy.jpg"

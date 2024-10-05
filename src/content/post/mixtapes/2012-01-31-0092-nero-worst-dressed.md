@@ -2,6 +2,8 @@
 title: 'Mixtape 92 :: Nero Worst Dressed'
 subtitle: ''
 category: mixtapes
+publishDate: '2012-01-31T00:00:00Z'
+slug: '0092-nero-worst-dressed'
 name: Nero Worst Dressed
 episode: '0092'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0092.nero-worst-dressed.mp3
   cover_art_url: "~/assets/images/mixtapes/0092-sara-valenzuela.jpg"
-publishDate: '2012-01-31T00:00:00Z'
-slug: '0092-nero-worst-dressed'
 excerpt: It’s a hard turn to the left from Mexican funk pop to electronic soundscapes,
   but Sara Valenzuela has made the transition well.
 image: "~/assets/images/mixtapes/0092-sara-valenzuela.jpg"

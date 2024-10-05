@@ -2,10 +2,10 @@
 title: 'Mixtape 247 :: Scaled to Survive'
 subtitle: ''
 category: mixtapes
-name: Scaled to Survive
-episode: '0247'
 publishDate: '2024-07-25T15:30:00Z'
 slug: 0247-scaled-to-survive
+name: Scaled to Survive
+episode: '0247'
 excerpt: Leyla McCalla’s music opens up a portal into a universe of previously impossible
   musical geometries.
 image: "~/assets/images/mixtapes/247-leyla-mccalla.jpg"

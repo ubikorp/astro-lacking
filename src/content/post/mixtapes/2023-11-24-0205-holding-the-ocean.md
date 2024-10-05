@@ -2,10 +2,10 @@
 title: 'Mixtape 205 :: Holding The Ocean'
 subtitle: ''
 category: mixtapes
-name: Holding The Ocean
-episode: '0205'
 publishDate: '2023-11-24T17:30:00Z'
 slug: 0205-holding-the-ocean
+name: Holding The Ocean
+episode: '0205'
 excerpt: Enter Tommy Guerrero’s world of light breeze and perfect t-shirt weather.
 image: "~/assets/images/mixtapes/205-tommy-guerrero.jpg"
 caption: Tommy Guerrero

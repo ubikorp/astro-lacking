@@ -2,10 +2,10 @@
 title: 'Mixtape 108 :: Jaan Pehechaan Ho'
 subtitle: ''
 category: mixtapes
-name: Jaan Pehechaan Ho
-episode: '0108'
 publishDate: '2020-06-23T07:30:00Z'
 slug: '0108-jaan-pehechaan-ho'
+name: Jaan Pehechaan Ho
+episode: '0108'
 excerpt: If a mermaid learned to play surf guitar, she could give Olivia Jean some
   exciting competition, at least for a little while.
 image: "~/assets/images/mixtapes/0108-olivia-jean.jpg"

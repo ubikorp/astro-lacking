@@ -2,10 +2,10 @@
 title: 'Mixtape 165 :: Sauce Piquante'
 subtitle: ''
 category: mixtapes
-name: Sauce Piquante
-episode: '0165'
 publishDate: '2021-09-28T07:30:00Z'
 slug: 0165-sauce-piquante
+name: Sauce Piquante
+episode: '0165'
 excerpt: At a time when we need the positive carefree sound of French yeh-yeh the
   most, April March comes through with a spicy new number.
 image: "~/assets/images/mixtapes/0165-april-march.jpg"

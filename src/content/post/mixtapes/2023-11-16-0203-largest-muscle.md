@@ -2,10 +2,10 @@
 title: 'Mixtape 203 :: Largest Muscle'
 subtitle: ''
 category: mixtapes
-name: Largest Muscle
-episode: '0203'
 publishDate: '2023-11-16T16:30:00Z'
 slug: 0203-largest-muscle
+name: Largest Muscle
+episode: '0203'
 excerpt: Cheekface takes nothing seriously, not even my undying love for their questionable
   attitude.
 image: "~/assets/images/mixtapes/203-cheekface.jpg"

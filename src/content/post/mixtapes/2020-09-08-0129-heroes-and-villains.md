@@ -2,10 +2,10 @@
 title: 'Mixtape 129 :: Heroes and Villains'
 subtitle: ''
 category: mixtapes
-name: Heroes and Villains
-episode: '0129'
 publishDate: '2020-09-08T07:30:00Z'
 slug: '0129-heroes-and-villains'
+name: Heroes and Villains
+episode: '0129'
 excerpt: In order to locate the psychedelic rainbow treasure trove that is Joey Joesph,
   you will have to navigate and defeat countless auto-corrects.
 image: "~/assets/images/mixtapes/0129-Joey_Joesphs.jpg"

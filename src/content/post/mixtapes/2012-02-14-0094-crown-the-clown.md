@@ -2,6 +2,8 @@
 title: 'Mixtape 94 :: Crown The Clown'
 subtitle: ''
 category: mixtapes
+publishDate: '2012-02-14T00:00:00Z'
+slug: '0094-crown-the-clown'
 name: Crown The Clown
 episode: '0094'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0094.crown-the-clown.mp3
   cover_art_url: "~/assets/images/mixtapes/0094-hillstomp.jpg"
-publishDate: '2012-02-14T00:00:00Z'
-slug: '0094-crown-the-clown'
 excerpt: Despite coming from the hollers of Portland, Oregon, Hillstomp still manage
   to churn out the kind of thrumming crackle only a guitar-and-washboard duo can provide.
 image: "~/assets/images/mixtapes/0094-hillstomp.jpg"

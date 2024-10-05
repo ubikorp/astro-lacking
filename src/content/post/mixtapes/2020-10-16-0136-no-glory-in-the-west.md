@@ -2,10 +2,10 @@
 title: 'Mixtape 136 :: No Glory in the West'
 subtitle: ''
 category: mixtapes
-name: No Glory in the West
-episode: '0136'
 publishDate: '2020-10-16T07:30:00Z'
 slug: 0136-no-glory-in-the-west
+name: No Glory in the West
+episode: '0136'
 excerpt: The mysterious Orville Peck is a modern cowboy marvel, a rare and legendary
   masked man with a dusty guitar and a lonesome coyote howl.
 image: "~/assets/images/mixtapes/0136-orville-peck.jpg"

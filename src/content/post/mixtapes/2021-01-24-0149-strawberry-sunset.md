@@ -2,10 +2,10 @@
 title: 'Mixtape 149 :: Strawberry Sunset'
 subtitle: ''
 category: mixtapes
-name: Strawberry Sunset
-episode: '0149'
 publishDate: '2021-01-24T00:00:00Z'
 slug: '0149-strawberry-sunset'
+name: Strawberry Sunset
+episode: '0149'
 excerpt: When your arrangements are razor-sharp, your moods mercurial and psychedelic,
   and your melodies constantly off-kilter, you’re probably a Dutch band like Certain
   Animals.

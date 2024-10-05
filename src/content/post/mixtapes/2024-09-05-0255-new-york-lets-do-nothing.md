@@ -2,10 +2,10 @@
 title: 'Mixtape 255 :: New York, Let’s Do Nothing'
 subtitle: ''
 category: mixtapes
-name: New York, Let’s Do Nothing
-episode: '0255'
 publishDate: '2024-09-05T15:30:00Z'
 slug: 0255-new-york-lets-do-nothing
+name: New York, Let’s Do Nothing
+episode: '0255'
 excerpt: All hail new royalty King Hannah and their studious and efficient delivery.
 image: "~/assets/images/mixtapes/255-king-hannah.jpg"
 caption: King Hannah

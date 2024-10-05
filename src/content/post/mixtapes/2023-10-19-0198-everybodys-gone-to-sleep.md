@@ -2,10 +2,10 @@
 title: 'Mixtape 198 :: Everybody’s Gone to Sleep'
 subtitle: ''
 category: mixtapes
-name: Everybody’s Gone to Sleep
-episode: '0198'
 publishDate: '2023-10-19T15:30:00Z'
 slug: '0198-everybodys-gone-to-sleep'
+name: Everybody’s Gone to Sleep
+episode: '0198'
 excerpt: "“New music from Sparklehorse” sounds like something from a fever dream,
   and it sounds like something from a fever dream."
 image: "~/assets/images/mixtapes/198-sparklehorse.jpg"

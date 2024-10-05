@@ -2,10 +2,10 @@
 title: 'Mixtape 230 :: Chemical Animal'
 subtitle: ''
 category: mixtapes
-name: Chemical Animal
-episode: '0230'
 publishDate: '2024-04-18T15:30:00Z'
 slug: 0230-chemical-animal
+name: Chemical Animal
+episode: '0230'
 excerpt: The Jesus and Mary Chain continue to produce their signature hydrochloric
   treacle.
 image: "~/assets/images/mixtapes/230-jesus-and-mary-chain.jpg"

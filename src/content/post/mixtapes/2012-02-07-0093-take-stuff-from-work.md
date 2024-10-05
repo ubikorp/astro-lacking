@@ -2,6 +2,8 @@
 title: 'Mixtape 93 :: Take Stuff From Work'
 subtitle: ''
 category: mixtapes
+publishDate: '2012-02-07T00:00:00Z'
+slug: '0093-take-stuff-from-work'
 name: Take Stuff From Work
 episode: '0093'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0093.take-stuff-from-work.mp3
   cover_art_url: "~/assets/images/mixtapes/0093-sex-clark-five.jpg"
-publishDate: '2012-02-07T00:00:00Z'
-slug: '0093-take-stuff-from-work'
 excerpt: It must be heartbreaking to be a slapdash concoction of musical genius… in
   Alabama. The Sex Clark Five were done and gone by the time the world really took
   notice, but we can still enjoy the limited artifacts they left behind.

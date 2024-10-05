@@ -2,10 +2,10 @@
 title: 'Mixtape 256 :: Version Control 3'
 subtitle: ''
 category: mixtapes
-name: Version Control 3
-episode: '0256'
 publishDate: '2024-09-12T15:30:00Z'
 slug: 0256-version-control-3
+name: Version Control 3
+episode: '0256'
 excerpt: A third installment of Version Control, our semi-regular exploration of tribute
   and imitation.
 image: "~/assets/images/mixtapes/256-version-control-3.jpg"

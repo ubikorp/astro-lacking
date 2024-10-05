@@ -2,10 +2,10 @@
 title: 'Mixtape 171 :: Scarcity Is Manufactured'
 subtitle: ''
 category: mixtapes
-name: Scarcity Is Manufactured
-episode: '0171'
 publishDate: '2021-11-16T07:30:00Z'
 slug: 0171-scarcity-is-manufactured
+name: Scarcity Is Manufactured
+episode: '0171'
 excerpt: For a quarter century, Deerhoof have been a benchmark for the contrasting
   dynamics of sweet and sour, spiked and pillowy, and all manner of sounds that should
   not get along but quite obviously do.

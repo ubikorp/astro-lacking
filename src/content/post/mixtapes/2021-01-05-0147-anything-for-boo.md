@@ -2,10 +2,10 @@
 title: 'Mixtape 147 :: Anything For Boo'
 subtitle: ''
 category: mixtapes
-name: Anything For Boo
-episode: '0147'
 publishDate: '2021-01-05T07:30:00Z'
 slug: 0147-anything-for-boo
+name: Anything For Boo
+episode: '0147'
 excerpt: There’s no detail too small or scar too deep for Eels to pick up and examine
   in a wry musical light.
 image: "~/assets/images/mixtapes/0147-eels.jpg"

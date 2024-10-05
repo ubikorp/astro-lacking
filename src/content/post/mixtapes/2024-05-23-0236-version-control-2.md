@@ -2,10 +2,10 @@
 title: 'Mixtape 236 :: Version Control 2'
 subtitle: ''
 category: mixtapes
-name: Version Control 2
-episode: '0236'
 publishDate: '2024-05-23T15:30:00Z'
 slug: 0236-version-control-2
+name: Version Control 2
+episode: '0236'
 excerpt: Another batch of duplicates and substitutes!
 image: "~/assets/images/mixtapes/236-version-control-2.jpg"
 caption: ''

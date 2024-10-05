@@ -2,10 +2,10 @@
 title: 'Mixtape 128 :: What Happened to Delilah?'
 subtitle: ''
 category: mixtapes
-name: What Happened to Delilah?
-episode: '0128'
 publishDate: '2020-09-04T07:30:00Z'
 slug: '0128-what-happened-to-delilah'
+name: What Happened to Delilah?
+episode: '0128'
 excerpt: The first wave of UK punk crested and shrank back, but the Mekons are still
   thrashing and foaming.
 image: "~/assets/images/mixtapes/0128-mekons.jpg"

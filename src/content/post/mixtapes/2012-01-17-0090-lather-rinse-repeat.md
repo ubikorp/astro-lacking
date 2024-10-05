@@ -2,6 +2,8 @@
 title: 'Mixtape 90 :: Lather Rinse Repeat'
 subtitle: ''
 category: mixtapes
+publishDate: '2012-01-17T00:00:00Z'
+slug: '0090-lather-rinse-repeat'
 name: Lather Rinse Repeat
 episode: '0090'
 audio:
@@ -9,8 +11,6 @@ audio:
   artist: with your host Julius C. Lacking
   url: podcast/0001-0100/0090.lather-rinse-repeat.mp3
   cover_art_url: "~/assets/images/mixtapes/0090-future-kings-of-nowhere.jpg"
-publishDate: '2012-01-17T00:00:00Z'
-slug: '0090-lather-rinse-repeat'
 excerpt: Acoustic punk rock is always a dicey proposition, but The Future Kings of
   Nowhere and Shayne O’Neill rip through the genre like a blowtorch on toilet paper.
   Slick!

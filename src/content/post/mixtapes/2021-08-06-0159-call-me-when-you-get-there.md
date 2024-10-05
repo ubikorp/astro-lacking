@@ -2,10 +2,10 @@
 title: 'Mixtape 159 :: Call Me When You Get There'
 subtitle: ''
 category: mixtapes
-name: Call Me When You Get There
-episode: '0159'
 publishDate: '2021-08-06T07:30:00Z'
 slug: '0159-call-me-when-you-get-there'
+name: Call Me When You Get There
+episode: '0159'
 excerpt: 'I will let you in on a secret weakness: a band like The Rare Occasions can
   seize control of my playlist just by showing up with a surplus of pop hooks and
   grade AAA harmonies.'

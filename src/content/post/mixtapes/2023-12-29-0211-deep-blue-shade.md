@@ -2,10 +2,10 @@
 title: 'Mixtape 211 :: Deep Blue Shade'
 subtitle: ''
 category: mixtapes
-name: Deep Blue Shade
-episode: '0211'
 publishDate: '2023-12-29T17:30:00Z'
 slug: 0211-deep-blue-shade
+name: Deep Blue Shade
+episode: '0211'
 excerpt: From the benthic depths, Ozric Tentacles rules their empire of resinous drone.
 image: "~/assets/images/mixtapes/211-ozric-tentacles.jpg"
 caption: Ozric Tentacles

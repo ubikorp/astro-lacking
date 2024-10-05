@@ -2,10 +2,10 @@
 title: 'Mixtape 182 :: Affairs Of State'
 subtitle: ''
 category: mixtapes
-name: Affairs Of State
-episode: '0182'
 publishDate: '2023-07-20T15:00:00Z'
 slug: '0182-affairs-of-state'
+name: Affairs Of State
+episode: '0182'
 excerpt: Behold, a special collection of songs about individual states in the United
   States of America!
 image: "~/assets/images/mixtapes/182-affairs-of-state.jpg"
