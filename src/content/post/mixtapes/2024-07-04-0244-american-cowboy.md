@@ -33,8 +33,6 @@ playlist:
   song: American Cowboy
   artist: Guppy
   artist_slug: guppy
-  album: Something Is Happening…
-  time: '03:48'
   notes: Something I can actually feel
 - sequence: 2
   song: BREAK
@@ -44,29 +42,21 @@ playlist:
   song: Love Of A Girl
   artist: The Avett Brothers
   artist_slug: avett-brothers
-  album: The Avett Brothers
-  time: '03:17'
   notes: Works every time
 - sequence: 5
   song: The Great American Picnic
   artist: Being Dead
   artist_slug: being-dead
-  album: When Horses Would Run
-  time: '02:17'
   notes: Lonesome and distant
 - sequence: 6
   song: Quality Pints
   artist: The Bug Club
   artist_slug: bug-club
-  album: Quality Pints
-  time: '02:19'
   notes: In your town!
 - sequence: 7
   song: Untitled
   artist: Tapir!
   artist_slug: tapir
-  album: The Pilgrim, Their God and the King of My Decrepit Mountain
-  time: '03:34'
   notes: A doomed type of relaxing
 - sequence: 8
   song: BREAK
@@ -74,22 +64,16 @@ playlist:
   song: Oh Sweet Susanna
   artist: The Mooney Suzuki
   artist_slug: mooney-suzuki
-  album: Electric Sweat
-  time: '03:34'
   notes: Those handclaps
 - sequence: 10
   song: Love Theme from Emergency Peanut
   artist: Pufftube
   artist_slug: pufftube
-  album: Emergency Peanut
-  time: '01:34'
   notes: Unsettled
 - sequence: 11
   song: You're The One
   artist: Humbert
   artist_slug: humbert
-  album: Plant The Trees Closer Together
-  time: '03:54'
   notes: South Florida crunch pop
 - sequence: 12
   song: BREAK
@@ -97,22 +81,16 @@ playlist:
   song: We're Going to Make It in a Man's World
   artist: Camera Obscura
   artist_slug: camera-obscura
-  album: Look to the East, Look to the West
-  time: '04:17'
   notes: Scottish country music
 - sequence: 14
   song: Destroy The Flower
   artist: Lisa Germano
   artist_slug: lisa-germano
-  album: Happiness
-  time: '03:12'
   notes: Shards and shatters
 - sequence: 15
   song: Adulter8
   artist: Sega Bodega
   artist_slug: sega-bodega
-  album: Dennis
-  time: '03:08'
   notes: Bitcrushed
 - sequence: 16
   song: BREAK
@@ -120,22 +98,16 @@ playlist:
   song: So Long Chicago
   artist: Pokey Lafarge
   artist_slug: pokey-lafarge
-  album: Rhumba Country
-  time: '03:37'
   notes: Strutting away
 - sequence: 18
   song: Sleepwalk
   artist: Los Straitjackets
   artist_slug: los-straitjackets
-  album: "¡Damas y Caballeros!"
-  time: '04:04'
   notes: Originally from Santo and Johnny
 - sequence: 19
   song: Caliente
   artist: Los Amigos Invisibles
   artist_slug: los-amigos-invisibles
-  album: Arepa 3000
-  time: '04:23'
   notes: Muy calentey!
 - sequence: 20
   song: BREAK
@@ -143,8 +115,6 @@ playlist:
   song: Clearly Of You
   artist: The Countdown Quartet
   artist_slug: countdown-quartet
-  album: The Countdown Quartet
-  time: '04:22'
   notes: Feeling romantic
 ---
 
