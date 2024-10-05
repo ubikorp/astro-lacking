@@ -30,7 +30,7 @@ tags:
 - Ellen McIlwaine
 - Holly Golightly
 - The Holy Modal Rounders
-- Jack Johnson & Lee "Scratch" Perry
+- Jack Johnson + Lee "Scratch" Perry
 - Joe Jackson
 - The Jolly Boys feat. Albert Minott
 - Lionel Limiñana
@@ -346,7 +346,7 @@ playlist:
   notes: Breaking in the botanicals
 - sequence: 50
   song: Traffic in the Sky (Lee “Scratch” Perry Dub)
-  artist: Jack Johnson & Lee "Scratch" Perry
+  artist: Jack Johnson + Lee "Scratch" Perry
   artist_slug: jack-johnson-lee-scratch-perry
   album: In Between Dub
   time: '2:55'

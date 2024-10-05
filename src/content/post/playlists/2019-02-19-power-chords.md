@@ -34,7 +34,7 @@ tags:
 - LMNOP
 - Love And Rockets
 - The Mach Kung-Fu
-- Mats + Morgan
+- Mats / Morgan
 - Mike Krol
 - The Pilgrims
 - Pixies

@@ -26,7 +26,7 @@ tags:
 - Gwenno
 - The Hush Sound
 - Ill Ease
-- Internal + External
+- Internal / External
 - Jen Cloher
 - Jennyanykind
 - Julia P. Hersheimer
@@ -154,33 +154,33 @@ playlist:
 - sequence: 17
   song: BREAK
 - sequence: 18
-  song: Collegiate Dope Slingaz
-  artist: All That
-  artist_slug: all-that
-  album:
-  time: '4:08'
-  notes: True story
-- sequence: 19
-  song: 3's & 7's
-  artist: Queens Of The Stone Age
-  artist_slug: queens-of-stone-age
-  album: Era Vulgaris
-  time: '3:34'
-  notes: Off beats
-- sequence: 20
   song: Daftendirekt
   artist: Daft Punk
   artist_slug: daft-punk
   album: Homework
   time: '2:47'
   notes: Let's hear it for filters
-- sequence: 21
+- sequence: 19
   song: Up Early In The Morning
   artist: Jennyanykind
   artist_slug: jennyanykind
   album:
   time: '5:07'
   notes: It me
+- sequence: 20
+  song: Collegiate Dope Slingaz
+  artist: All That
+  artist_slug: all-that
+  album:
+  time: '4:08'
+  notes: True story
+- sequence: 21
+  song: 3's & 7's
+  artist: Queens Of The Stone Age
+  artist_slug: queens-of-stone-age
+  album: Era Vulgaris
+  time: '3:34'
+  notes: Off beats
 - sequence: 22
   song: BREAK
 - sequence: 23

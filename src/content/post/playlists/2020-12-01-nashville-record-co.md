@@ -90,7 +90,7 @@ playlist:
   notes: What about the other two?
 - sequence: 6
   song: Are 'Friends' Electric?
-  artist: Gary Numan/Tubeway Army
+  artist: Gary Numan + Tubeway Army
   artist_slug: gary-numan-tubeway-army
   album:
   time: '5:23'

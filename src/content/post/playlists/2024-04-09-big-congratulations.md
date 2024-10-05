@@ -151,7 +151,7 @@ playlist:
   song: BREAK
 - sequence: 17
   song: Tellin' Lies
-  artist: The  Menzingers
+  artist: The Menzingers
   artist_slug: menzingers
   album: After The Party
   time: '4:00'

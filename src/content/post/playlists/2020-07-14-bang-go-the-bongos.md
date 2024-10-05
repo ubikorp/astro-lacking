@@ -62,7 +62,6 @@ tags:
 - The Washdown
 - Wolf + Moon
 airdate: '2020-07-14'
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkblHNufEfXUnB4WlSipmrQ
 playlist:
 - sequence: 1
   song: Bang Go The Bongos

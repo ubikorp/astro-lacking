@@ -111,7 +111,7 @@ playlist:
   song: BREAK
 - sequence: 10
   song: Worried Shoes
-  artist: Daniel Smith / Sufjan Stevens
+  artist: Daniel Smith + Sufjan Stevens
   artist_slug: daniel-smith-sufjan-stevens
   album:
   time: '3:55'

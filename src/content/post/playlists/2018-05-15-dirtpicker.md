@@ -349,7 +349,7 @@ playlist:
   notes: Lullaby time
 - sequence: 51
   song: Dreamworld
-  artist: Byrne/Veloso
+  artist: Byrne + Veloso
   artist_slug: byrne-veloso
   album:
   time: '5:03'

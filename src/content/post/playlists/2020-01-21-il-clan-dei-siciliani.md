@@ -62,7 +62,6 @@ tags:
 - Ween
 - Young Fresh Fellows
 airdate: '2020-01-21'
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glPpDfSfExZIkiDBXrnaEcS
 playlist:
 - sequence: 1
   song: Il Clan Dei Siciliani

@@ -35,7 +35,7 @@ tags:
 - Great Grandpa
 - Illinois
 - Imperial Teen
-- Internal + External
+- Internal / External
 - Islands
 - Junior Varsity
 - Kimberley Rew

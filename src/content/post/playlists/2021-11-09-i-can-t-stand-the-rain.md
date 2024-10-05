@@ -20,7 +20,7 @@ tags:
 - Chet Faker
 - Clinic
 - Concrete Blonde
-- Danny Clarke + Lee Perry
+- Danny Clarke + Lee "Scratch" Perry
 - Darrin Bradbury
 - David Hillyard + the Rocksteady 7
 - Deerhoof
@@ -350,7 +350,7 @@ playlist:
   notes: A neat introduction
 - sequence: 50
   song: Nuh Fi Run It Down
-  artist: Danny Clarke / Lee Perry
+  artist: Danny Clarke + Lee "Scratch" Perry
   artist_slug: danny-clarke-lee-perry
   album: Black Art From The Black Ark
   time: '3:45'

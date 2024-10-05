@@ -60,7 +60,6 @@ tags:
 - Supergrass
 - XTC
 airdate: '2020-03-03'
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glZiyBthviJiuh6LgcWTISr
 playlist:
 - sequence: 1
   song: Social Man

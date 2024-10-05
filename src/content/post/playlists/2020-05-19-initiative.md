@@ -60,7 +60,6 @@ tags:
 - The Wood Brothers
 - Zach Uncles
 airdate: '2020-05-19'
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glFX0UFF128QDiIE7lNtflp
 playlist:
 - sequence: 1
   song: Initiative

@@ -61,7 +61,6 @@ tags:
 - Ui
 - Ween
 airdate: '2020-02-04'
-youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm5oQO9r9-aHCfOZVS1TpEM
 playlist:
 - sequence: 1
   song: La Cumbia De La Muerte

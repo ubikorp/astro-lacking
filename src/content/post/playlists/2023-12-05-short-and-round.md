@@ -307,7 +307,7 @@ playlist:
   notes: Feel the night rain
 - sequence: 43
   song: Que Calor ! (feat. Edi Pistolas)
-  artist: The Limiñanas / Laurent Garnier
+  artist: The Limiñanas + Laurent Garnier
   artist_slug: liminanas-laurent-garnier
   album: De Película
   time: '6:33'
