@@ -61,6 +61,7 @@ tags:
 - Wolf + Moon
 - Z-Rock Hawaii
 airdate: '2020-02-18'
+youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gkaqKUnAOlqz41ei2HmqSBo
 playlist:
 - sequence: 1
   song: Angola Rodeo

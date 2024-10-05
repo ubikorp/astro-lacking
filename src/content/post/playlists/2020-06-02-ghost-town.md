@@ -61,6 +61,7 @@ tags:
 - Wesley Willis
 - The Wrens
 airdate: '2020-06-02'
+youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_gm7uZzupcBhKR-Tu3F_IFUZ
 playlist:
 - sequence: 1
   song: Ghost Town

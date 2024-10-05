@@ -61,6 +61,7 @@ tags:
 - Westbound Train
 - The Young-Holt Trio
 airdate: '2020-06-16'
+youtube: https://www.youtube.com/playlist?list=PLChm3Ffgt_glWX5KPaLZgWRk3zkmNGcpM
 playlist:
 - sequence: 1
   song: Cash Money
