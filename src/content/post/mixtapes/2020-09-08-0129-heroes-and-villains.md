@@ -35,7 +35,7 @@ tags:
 - Pretenders
 - Rah Brahs
 - Richard "Groove" Holmes
-- Rodrigo y Gabriela + C.U.B.A.
+- Rodrigo y Gabriela / C.U.B.A.
 - Ruins
 - The Selecter
 - Shitkid
@@ -198,7 +198,7 @@ playlist:
   song: BREAK
 - sequence: 26
   song: Diablo Rojo
-  artist: Rodrigo y Gabriela/C.U.B.A.
+  artist: Rodrigo y Gabriela / C.U.B.A.
   artist_slug: rodrigo-y-gabriela-c-u-b-a
   album:
   time: '5:10'

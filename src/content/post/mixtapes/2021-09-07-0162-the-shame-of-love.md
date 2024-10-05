@@ -272,7 +272,7 @@ playlist:
   notes: Was that a fruit stand?
 - sequence: 38
   song: Cruzando el Río
-  artist: Mexican Institute of Sound / Joe Crepúsculo
+  artist: Mexican Institute of Sound + Joe Crepúsculo
   artist_slug: mexican-institute-of-sound-joe-crepusculo
   album: Distrito Federal
   time: '3:48'

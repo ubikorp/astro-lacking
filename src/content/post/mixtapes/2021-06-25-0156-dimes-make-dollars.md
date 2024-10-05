@@ -208,7 +208,7 @@ playlist:
   song: BREAK
 - sequence: 27
   song: My America Is Not Your America
-  artist: Mexican Institute of Sound / Graham Coxon
+  artist: Mexican Institute of Sound + Graham Coxon
   artist_slug: mexican-institute-of-sound-graham-coxon
   album: Distrito Federal
   time: '5:06'

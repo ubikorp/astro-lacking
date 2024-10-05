@@ -24,8 +24,8 @@ tags:
 - Electrocution 250
 - John Scofield
 - Marco Minnemann
-- Mats + Morgan Band
-- Mike Keneally + Steve Vai
+- Mats / Morgan Band
+- Mike Keneally / Steve Vai
 - Rejectionary Art
 - Secret Chiefs 3
 - Sleepytime Gorilla Museum
@@ -49,7 +49,7 @@ playlist:
   notes: Through-composed stick, guitar, and drums power trio
 - sequence: 3
   song: En Schizofrens Dagbok
-  artist: Mats/Morgan Band
+  artist: Mats / Morgan Band
   artist_slug: mats-morgan-band
   album:
   time:
