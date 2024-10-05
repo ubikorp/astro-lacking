@@ -41,7 +41,6 @@ tags:
 - Ratboys
 - Sirconical
 - That Handsome Devil
-- TLO
 - Tommy Guerrero
 - The Wedding Present
 - X

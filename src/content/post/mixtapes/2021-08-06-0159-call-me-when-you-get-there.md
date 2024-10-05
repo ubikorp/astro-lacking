@@ -42,7 +42,6 @@ tags:
 - Rube Waddell
 - Sonic Boom
 - Spirit of the Beehive
-- TLO
 - Trilok Gurtu & Robert Miles
 - The Wedding Present
 airdate: '2021-08-06'

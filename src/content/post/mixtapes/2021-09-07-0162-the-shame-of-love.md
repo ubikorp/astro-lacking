@@ -37,7 +37,6 @@ tags:
 - Southern Culture On The Skids
 - STRFKR
 - Those Peabodys
-- TLO
 - Tommy Guerrero
 - Uncle Tupelo
 - The Vaccines

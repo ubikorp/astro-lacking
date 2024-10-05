@@ -37,7 +37,6 @@ tags:
 - The Safes
 - Sleigh Bells
 - Snapped Ankles
-- TLO
 - The Wedding Present
 - Ween
 - Woody + Jeremy

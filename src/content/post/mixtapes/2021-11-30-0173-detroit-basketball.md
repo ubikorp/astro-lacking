@@ -37,7 +37,6 @@ tags:
 - The Shivas
 - The Slackers
 - Switches
-- TLO
 - Tom Tom Club
 - µ-Ziq
 airdate: '2021-11-30'

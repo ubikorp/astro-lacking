@@ -40,7 +40,6 @@ tags:
 - The Stranglers
 - Swell
 - They Might Be Giants
-- TLO
 - Tulip Sweet and Her Trail of Tears
 - Vulfpeck
 airdate: '2021-12-14'

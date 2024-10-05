@@ -40,7 +40,6 @@ tags:
 - Snake Eyes
 - The Strypes
 - The Sugarman Three & Co.
-- TLO
 - Vampire Weekend
 airdate: '2021-01-24'
 mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fpntls7-149-strawberry-sunset%2F&hide_artwork=1&hide_cover=1

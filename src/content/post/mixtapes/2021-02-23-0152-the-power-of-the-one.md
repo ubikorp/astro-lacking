@@ -41,7 +41,6 @@ tags:
 - Squeeze
 - Star Feminine Band
 - They Might Be Giants
-- TLO
 - True Love
 - Ween
 - Young Fresh Fellows

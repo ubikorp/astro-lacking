@@ -38,7 +38,6 @@ tags:
 - Robyn Hitchcock
 - Stereo Total
 - The Stillmen
-- TLO
 - Viagra Boys
 - The Wedding Present
 - The Z Kamp Express
