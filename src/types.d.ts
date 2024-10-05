@@ -44,10 +44,12 @@ export interface Post {
   readingTime?: number;
 
   /** TLO */
+  subtitle?: string;
   caption?: string;
   airdate?: string;
   playlist?: Play[];
   mixcloud?: string;
+  spotify?: string;
   youtube?: string;
   video?: string;
 }

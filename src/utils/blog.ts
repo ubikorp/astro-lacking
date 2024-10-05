@@ -58,10 +58,12 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     draft = false,
     metadata = {},
     // TLO
+    subtitle,
     caption,
     playlist,
     airdate,
     mixcloud,
+    spotify,
     youtube,
     video,
   } = data;
@@ -112,10 +114,12 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     // readingTime: remarkPluginFrontmatter?.readingTime,
 
     // TLO
+    subtitle: subtitle,
     caption: caption,
     airdate: airdate,
     playlist: playlist,
     mixcloud: mixcloud,
+    spotify: spotify,
     youtube: youtube,
     video: video,
   };
