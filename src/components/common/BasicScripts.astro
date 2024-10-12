@@ -195,6 +195,9 @@ import { UI } from 'astrowind:config';
     next_airdate = schedule.find((item) => {
       return (new Date(item.end_time) >= now)
     });
+    // Uh oh, ran out of airdates
+    if (!next_airdate) return
+
     // Convert start time to string and add to page
     const next_string = new Date(next_airdate.start_time).toLocaleString('en-US', {
       month: 'long',
@@ -202,7 +205,6 @@ import { UI } from 'astrowind:config';
       hour: 'numeric',
       minute: 'numeric'
     });
-    // TODO: Handle no next airdate
     document.getElementById(scheduleId).dataset.next_airdate = next_string;
     // Get timezone and add to page
     timezone = `[${Intl.DateTimeFormat().resolvedOptions().timeZone.replace(/_/g, ' ')}]`;
@@ -225,6 +227,12 @@ import { UI } from 'astrowind:config';
     if (!next_airdate) {
       initializeNextAirdate();
       next_airdate = document.getElementById(scheduleId).dataset.next_airdate;
+      // Uh oh, no next airdate
+      if (!next_airdate) {
+        document.querySelectorAll('.tlo-next-airdate-label').forEach((elem) => {
+          elem.classList.add('hidden')
+        })
+      }
     }
     // Get timezone
     const timezone = document.getElementById(scheduleId).dataset.timezone;

@@ -19,10 +19,10 @@ const { post } = Astro.props;
 const image = (await findImage(post.image)) as ImageMetadata | undefined;
 ---
 
-<article class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 ${image ? 'md:grid-cols-2' : ''}`}>
+<article class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 ${image || post.spotify ? 'md:grid-cols-2' : ''}`}>
   {
     post.spotify ? (
-    <iframe style="border-radius:12px" src={`https://open.spotify.com/embed/album/${post.spotify}?utm_source=generator`} width="100%" height="352" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe width="400" class="rounded" src={`https://open.spotify.com/embed/album/${post.spotify}?utm_source=generator`} width="100%" height="352" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     ) : (
       <div class="relative flex justify-items-end h-0 pb-[56.25%] md:pb-[75%] md:h-72 lg:pb-[56.25%] overflow-hidden rounded shadow-lg">
         {image && (

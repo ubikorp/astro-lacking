@@ -4,8 +4,12 @@
 // -----------
 
 const { post } = Astro.props
+
+const mixcloudFeed = post.mixcloud.replace('https://www.mixcloud.com', '').replaceAll('/', '%2F')
+const mixcloudSrc = `https://www.mixcloud.com/widget/iframe/?feed=${mixcloudFeed}&hide_artwork=1&hide_cover=1`
 ---
 
+<p><pre>{ mixcloudSrc }</pre></p>
 <div class="my-6">
 	<iframe
 		id="mixcloud-iframe"
@@ -13,6 +17,6 @@ const { post } = Astro.props
 		style="margin-bottom: 1em;"
 		height="120"
 		src=""
-		data-src={post.mixcloud}
+		data-src={mixcloudSrc}
 		></iframe>
 </div>

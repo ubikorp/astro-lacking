@@ -20,46 +20,48 @@ const {
     <div
       class="dark text-muted text-sm bg-black dark:bg-transparent dark:border-b dark:border-slate-800 dark:text-slate-400 hidden md:flex gap-1 overflow-hidden px-3 py-2 relative text-ellipsis whitespace-nowrap"
     >
-      <!-- Label -->
-      <span
-        class="dark:bg-slate-700 bg-white/40 dark:text-slate-300 font-semibold px-1 py-0.5 text-xs mr-0.5 rtl:mr-0 rtl:ml-0.5 inline-block"
-        >NEXT AIRDATE</span
-      >
-      <!-- Airdate -->
-        <a href="/radio-activity" class="tlo-time hover:underline dark:text-slate-400 font-medium">
-        Tune in to The Lacking Organization
-      </a>
-      <!-- Timezone -->
-      <span class="tlo-timezone"></span>
-      on
-      <!-- Location -->
-      <a href="https://www.kafmradio.org" class="kafm-location hover:underline hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
-      <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hover:underline hidden" target="_blank">Louder Than War Internet Radio</a>
-      <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hover:underline hidden" target="_blank">Streaming on Mixcloud</a>
+      <div class="tlo-next-airdate-label">
 
-      <!-- KAFM Stream -->
-      <a
-        type="button"
-        class="kafm-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5"
-        href="http://www.radiorethink.com/tuner/?stationCode=KAFM&stream=lo"
-        onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;"
-      >ON THE AIR<br>LISTEN NOW</a>
+        <!-- Label -->
+        <span
+          class="dark:bg-slate-700 bg-white/40 dark:text-slate-300 font-semibold px-1 py-0.5 text-xs mr-0.5 rtl:mr-0 rtl:ml-0.5 inline-block"
+          >NEXT AIRDATE</span
+        >
+        <!-- Airdate -->
+          <a href="/radio-activity" class="tlo-time hover:underline dark:text-slate-400 font-medium">
+          Tune in to The Lacking Organization
+        </a>
+        <!-- Timezone -->
+        <span class="tlo-timezone"></span>
+        on
+        <!-- Location -->
+        <a href="https://www.kafmradio.org" class="kafm-location hover:underline hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
+        <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hover:underline hidden" target="_blank">Louder Than War Internet Radio</a>
+        <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hover:underline hidden" target="_blank">Streaming on Mixcloud</a>
 
-      <!-- LTW Stream -->
-      <a
-        class="ltw-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5"
-        href="https://s2.radio.co/sab795a38d/listen"
-        onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=150,top=1'); return false;"
-      >ON THE AIR &bull; LISTEN NOW</a>
+        <!-- KAFM Stream -->
+        <a
+          type="button"
+          class="kafm-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5"
+          href="http://www.radiorethink.com/tuner/?stationCode=KAFM&stream=lo"
+          onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=800,top=1'); return false;"
+        >ON THE AIR<br>LISTEN NOW</a>
 
-      <!-- Mixcloud Stream -->
-      <a
-        type="button"
-        class="mixcloud-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5"
-        href="https://www.mixcloud.com/live/the-lacking-org/"
-        target="_blank"
-      >ON THE AIR<br>LISTEN NOW</a>
+        <!-- LTW Stream -->
+        <a
+          class="ltw-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5"
+          href="https://s2.radio.co/sab795a38d/listen"
+          onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=350,left=1,height=150,top=1'); return false;"
+        >ON THE AIR &bull; LISTEN NOW</a>
 
+        <!-- Mixcloud Stream -->
+        <a
+          type="button"
+          class="mixcloud-stream hidden ltr:ml-auto rtl:mr-auto bg-primary animate-pulse text-white font-bold px-1 py-0.5 text-xs mr-0.5"
+          href="https://www.mixcloud.com/live/the-lacking-org/"
+          target="_blank"
+        >ON THE AIR<br>LISTEN NOW</a>
+      </div>
     </div>
   ) : (
   <div class={twMerge("w-full text-center content-center p-8 rounded-md shadow-xl dark:shadow-none dark:border dark:border-slate-600 relative not-prose scroll-mt-[72px]", className)} >
@@ -83,14 +85,14 @@ const {
     <div class="w-3/4 mx-auto bg-black/50 p-4 rounded-md">
       
     <!-- Kicker -->
-    <p class="text-base text-secondary text-white font-bold tracking-wide uppercase">Next Airdate</p>
+    <p class="tlo-next-airdate-label text-base text-secondary text-white font-bold tracking-wide uppercase">Next Airdate</p>
 
     <!-- Airdate -->
-    <h2 class="tlo-time font-bold leading-tighter tracking-tighter font-heading text-white text-heading text-4xl my-2">Tune in to The Lacking Organization</h2>
+    <h2 class="tlo-time tlo-next-airdate-label font-bold leading-tighter tracking-tighter font-heading text-white text-heading text-4xl my-2">Tune in to The Lacking Organization</h2>
     <p class="tlo-timezone font-bold text-white"></p>
 
     <!-- Location -->
-    <p class="text-xl text-white font-bold my-4">
+    <p class="tlo-next-airdate-label text-xl text-white font-bold my-4">
       <a href="https://www.kafmradio.org" class="kafm-location hidden" target="_blank">KAFM Grand Junction 88.1 FM</a>
       <a href="https://louderthanwar.com/louder-than-war-radio/" class="ltw-location hidden" target="_blank">Louder Than War Internet Radio</a>
       <a href="https://www.mixcloud.com/the-lacking-org/" class="mixcloud-location hidden" target="_blank">Streaming on Mixcloud</a>
