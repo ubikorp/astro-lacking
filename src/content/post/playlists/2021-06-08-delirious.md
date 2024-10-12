@@ -73,7 +73,7 @@ playlist:
   artist_slug: rare-occasions
   notes: Make no mistakes
 - sequence: 4
-  song: shake yer mop
+  song: Shake Yer Mop
   artist: Nevada Bachelors
   artist_slug: nevada-bachelors
   notes: Professing to be neither
@@ -100,7 +100,7 @@ playlist:
   artist_slug: shins
   notes: Fresh take on old Squeeze
 - sequence: 10
-  song: Duke Of Earl
+  song: Duke of Earl
   artist: Frank Black
   artist_slug: frank-black
   notes: Had to throw in that twisted chord
@@ -283,7 +283,7 @@ playlist:
   artist_slug: robyn-hitchcock
   notes: It's a comfortable existence
 - sequence: 52
-  song: 'When I Drink '
+  song: When I Drink
   artist: The Avett Brothers
   artist_slug: avett-brothers
   notes: A classic from the start

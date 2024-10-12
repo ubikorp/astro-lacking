@@ -14,7 +14,7 @@ excerpt: The chauffeur peered at the rear-view mirror. The scattered reflection 
 image: "~/assets/images/playlists/2019/aggrolites.jpg"
 caption: The Aggrolites
 tags:
-- Ages And Ages
+- Ages + Ages
 - The Aggrolites
 - Aluminum Babe
 - Apostle of Hustle
@@ -81,7 +81,7 @@ playlist:
   artist_slug: cate-le-bon
   notes: Majestic, orchestral
 - sequence: 6
-  song: Block Of Ice
+  song: Block of Ice
   artist: Thee Oh Sees
   artist_slug: thee-oh-sees
   notes: An introspective version
@@ -237,7 +237,7 @@ playlist:
   artist_slug: los-amigos-invisibles
   notes: Recognize the handwriting
 - sequence: 42
-  song: Índios Do Norte
+  song: Indios do Norte
   artist: Forro In The Dark
   artist_slug: forro-in-dark
   notes: Sparks in the bonfire

@@ -40,10 +40,10 @@ tags:
 - The Stranglers
 - Swell
 - They Might Be Giants
-- Tulip Sweet and Her Trail of Tears
+- Tulip Sweet + Her Trail of Tears
 - Vulfpeck
 airdate: '2021-12-14'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Frc9oms-175-rhythm-is-our-business%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/rc9oms-175-rhythm-is-our-business/
 playlist:
 - sequence: 1
   song: Rhythm Is Our Business

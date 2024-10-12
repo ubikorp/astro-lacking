@@ -163,7 +163,7 @@ playlist:
   artist_slug: black-lips
   notes: Staggering through
 - sequence: 24
-  song: I'd Like That
+  song: I’d Like That
   artist: XTC
   artist_slug: xtc
   notes: Quite Beatlesque

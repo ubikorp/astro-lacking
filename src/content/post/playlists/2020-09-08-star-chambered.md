@@ -93,7 +93,7 @@ playlist:
   artist_slug: greyboy-allstars
   notes: Grooving with the little buddy
 - sequence: 8
-  song: Children of Popcorn
+  song: Children of The Popcorn
   artist: Messer Chups
   artist_slug: messer-chups
   notes: Surf St. Petersburg

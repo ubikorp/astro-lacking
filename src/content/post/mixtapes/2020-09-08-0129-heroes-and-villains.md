@@ -35,7 +35,7 @@ tags:
 - Pretenders
 - Rah Brahs
 - Richard "Groove" Holmes
-- Rodrigo y Gabriela / C.U.B.A.
+- Rodrigo y Gabriela | C.U.B.A.
 - Ruins
 - The Selecter
 - Shitkid
@@ -44,7 +44,7 @@ tags:
 - The Woggles
 - Wylie + the Wild West
 airdate: '2020-09-08'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F56buiq-129-heroes-and-villains%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/56buiq-129-heroes-and-villains/
 playlist:
 - sequence: 1
   song: Heroes and Villains

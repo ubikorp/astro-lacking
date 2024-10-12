@@ -17,7 +17,7 @@ tags:
 - Bob Marley & The Wailers
 - Boise Cover Band
 - Buck Meek
-- Bunny Wailer and The Wailers
+- Bunny Wailer + The Wailers
 - Camper Van Beethoven
 - Cherry Glazerr
 - Cut Worms

@@ -27,7 +27,7 @@ tags:
 - Ty Richards
 - Ween
 airdate: '2024-09-05'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-255-new-york-lets-do-nothing-2024-08-05%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-255-new-york-lets-do-nothing-2024-08-05/
 playlist:
 - sequence: 1
   song: New York, Let's Do Nothing

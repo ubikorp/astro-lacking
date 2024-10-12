@@ -43,7 +43,7 @@ tags:
 - Ursula 1000
 - Whitney Rose
 airdate: '2020-10-16'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Ffqgynq-136-no-glory-in-the-west%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/fqgynq-136-no-glory-in-the-west/
 playlist:
 - sequence: 1
   song: No Glory in the West

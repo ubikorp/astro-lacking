@@ -297,7 +297,7 @@ playlist:
   artist_slug: free-radicals
   notes: Morning coffee
 - sequence: 54
-  song: 'Munt '
+  song: Munt
   artist: Boom Pam
   artist_slug: boom-pam
   notes: Sabre dancing

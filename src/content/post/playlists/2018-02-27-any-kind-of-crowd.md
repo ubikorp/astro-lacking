@@ -49,7 +49,7 @@ tags:
 - Southern Culture On The Sklds
 - St. Vincent
 - Starcrawler
-- Swear And Shake
+- Swear + Shake
 - Teenage Bottlerocket
 - Tune-Yards
 - The Wailin' Jennys

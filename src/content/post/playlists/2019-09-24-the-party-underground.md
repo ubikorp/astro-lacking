@@ -24,7 +24,7 @@ tags:
 - The Bird + the Bee
 - Boredoms
 - Brave Combo
-- C. Gibbs And The Cardia Bros.
+- C. Gibbs + The Cardia Bros.
 - Close Talker
 - Dr. Octagon
 - The Elected
@@ -266,7 +266,7 @@ playlist:
   artist_slug: close-talker
   notes: Is it a Seinfeld reference?
 - sequence: 46
-  song: 'It Takes A Muscle '
+  song: It Takes A Muscle
   artist: M.I.A.
   artist_slug: m-i-a
   notes: Vocodering

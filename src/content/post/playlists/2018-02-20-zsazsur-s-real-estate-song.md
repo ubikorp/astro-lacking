@@ -27,7 +27,7 @@ tags:
 - Holy
 - J. Roddy Walston & The Business
 - Jeff Rosenstock
-- Johnny Sangster And Robb Benson
+- Johnny Sangster + Robb Benson
 - Kelley Stoltz
 - King Gizzard + the Lizard Wizard
 - Marvelous Liars

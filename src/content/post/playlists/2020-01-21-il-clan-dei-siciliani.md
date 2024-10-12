@@ -153,7 +153,7 @@ playlist:
   artist_slug: mikal-cronin
   notes: Big sounds
 - sequence: 21
-  song: Coin-Operated Boy
+  song: Coin Operated Boy
   artist: The Dresden Dolls
   artist_slug: dresden-dolls
   notes: Or tokens

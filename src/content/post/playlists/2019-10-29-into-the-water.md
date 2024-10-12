@@ -33,7 +33,7 @@ tags:
 - differentGear vs The Police
 - Drunken Prayer
 - Ezra Furman
-- The Hair And Skin Trading Co
+- The Hair + Skin Trading Co
 - HalfNoise
 - The High Dials
 - The Holydrug Couple

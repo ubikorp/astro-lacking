@@ -28,7 +28,7 @@ tags:
 - The Unicorns
 - Ween
 airdate: '2024-06-13'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-240-under-the-waves-2024-06-13%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-240-under-the-waves-2024-06-13/
 playlist:
 - sequence: 1
   song: Under The Waves
@@ -38,7 +38,7 @@ playlist:
 - sequence: 2
   song: BREAK
 - sequence: 3
-  song: Where is My Mind?
+  song: Where Is My Mind
   artist: Pixies
   artist_slug: pixies
   notes: Isla del encanto
@@ -70,7 +70,7 @@ playlist:
   artist_slug: soft-boys
   notes: Scintillating rays
 - sequence: 10
-  song: Waves (The Time That Youre Awake)
+  song: Waves (The Time That You're Awake)
   artist: The Elected
   artist_slug: elected
   notes: Drifting through

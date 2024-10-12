@@ -46,7 +46,7 @@ tags:
 - Skankin' Pickle
 - Spoon
 - Status Quo
-- Susanna And The Magical Orchestra
+- Susanna + The Magical Orchestra
 - Taraka
 - Trailer Bride
 - Treat Her Right
@@ -116,7 +116,7 @@ playlist:
   artist_slug: chaz-motorbikes
   notes: Miss you Chaz
 - sequence: 14
-  song: Picture Of The Future
+  song: Picture of the Future
   artist: Treat Her Right
   artist_slug: treat-her-right
   notes: That Billy Conway rumble

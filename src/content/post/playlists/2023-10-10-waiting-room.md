@@ -49,7 +49,7 @@ tags:
 - The Shaolin Afronauts
 - Snapped Ankles
 - Snõõper
-- Sonic Boom, Panda Bear and Adrian Sherwood
+- Sonic Boom, Panda Bear + Adrian Sherwood
 - Sparklehorse
 - Squid
 - Teenage Fanclub

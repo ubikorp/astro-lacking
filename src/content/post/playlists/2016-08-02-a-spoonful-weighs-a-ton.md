@@ -38,7 +38,7 @@ tags:
 - The Wedding Present
 - William Shatner
 - X
-- Zed Bias Feat. Trigga and Trevor Roots
+- Zed Bias Feat. Trigga + Trevor Roots
 airdate: '2016-08-02'
 playlist:
 - sequence: 1

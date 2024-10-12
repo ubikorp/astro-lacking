@@ -19,7 +19,7 @@ tags:
 - The Bad Beats
 - Bass Drum Of Death
 - Being Dead
-- Brain Capps and the True Liars
+- Brain Capps + the True Liars
 - Bristler
 - The Bug
 - Camera Obscura

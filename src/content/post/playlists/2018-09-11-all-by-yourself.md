@@ -31,7 +31,7 @@ tags:
 - Les Wampas
 - LUMP
 - Margaret Glaspy
-- Nile Rogers And Roy Hargrove And Money Mark
+- Nile Rogers + Roy Hargrove And Money Mark
 - Nouvelle Vague
 - Phase Selector Sound
 - Pietasters

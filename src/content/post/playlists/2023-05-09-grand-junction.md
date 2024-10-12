@@ -287,7 +287,7 @@ playlist:
   artist_slug: lord-high-fixers
   notes: It's working, I believe
 - sequence: 53
-  song: Where Is My Mind
+  song: Where Is My Mind?
   artist: Raz Ohara
   artist_slug: raz-ohara
   notes: Versatile source material

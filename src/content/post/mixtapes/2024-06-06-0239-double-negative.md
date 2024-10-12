@@ -14,10 +14,10 @@ tags:
 - 'Asteroid #4'
 - The Dandy Warhols
 - Elbow
-- Frankie and the Witch Fingers
-- Islands and David Shrigley
+- Frankie + the Witch Fingers
+- Islands + David Shrigley
 - The Jesus + Mary Chain
-- Johnny Sangster And Robb Benson
+- Johnny Sangster + Robb Benson
 - Less Pain Forever
 - The Libertines
 - Omni
@@ -29,7 +29,7 @@ tags:
 - Taraf De Tucson
 - Ween
 airdate: '2024-06-06'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-239-double-negative-2024-06-06%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-239-double-negative-2024-06-06/
 playlist:
 - sequence: 1
   song: Double Negative

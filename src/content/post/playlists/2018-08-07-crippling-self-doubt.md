@@ -200,7 +200,7 @@ playlist:
   artist_slug: sir-millard-mulch
   notes: Arnault the Dwarf!
 - sequence: 32
-  song: Baby's On To Me
+  song: Baby’s On To Me
   artist: The Rock*A*Teens
   artist_slug: rock-a-teens
   notes: Slow and pained
@@ -249,7 +249,7 @@ playlist:
   artist_slug: father-john-misty
   notes: Quite pensive
 - sequence: 43
-  song: Our Happiness is Guaranteed
+  song: Our Happiness Is Guaranteed
   artist: Quasi
   artist_slug: quasi
   notes: Every day it comes closer

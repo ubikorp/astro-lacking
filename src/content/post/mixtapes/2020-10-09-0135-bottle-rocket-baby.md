@@ -22,7 +22,7 @@ tags:
 - Golden Shoulders
 - Holy Fuck
 - House of Freaks
-- Jackson And His Computerband
+- Jackson + His Computerband
 - The Just Joans
 - L.A. Witch
 - Lettuce
@@ -43,7 +43,7 @@ tags:
 - They Might Be Giants
 - Young Fresh Fellows
 airdate: '2020-10-09'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fshxvqb-135-bottle-rocket-baby%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/shxvqb-135-bottle-rocket-baby/
 playlist:
 - sequence: 1
   song: Bottle Rocket Baby

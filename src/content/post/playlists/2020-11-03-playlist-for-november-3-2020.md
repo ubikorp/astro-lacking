@@ -231,7 +231,7 @@ playlist:
   artist_slug: brunettes
   notes: A bit old-fashioned
 - sequence: 38
-  song: Lay Down Your Head, Child
+  song: Lay Down Your Head Child
   artist: Oranger
   artist_slug: oranger
   notes: After the gold rush

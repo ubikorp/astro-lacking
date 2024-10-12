@@ -46,7 +46,7 @@ tags:
 - Surfer Blood
 - Vocal Sampling
 airdate: '2021-06-25'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fii9zp4-156-dimes-make-dollars%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/ii9zp4-156-dimes-make-dollars/
 playlist:
 - sequence: 1
   song: Dimes Make Dollars

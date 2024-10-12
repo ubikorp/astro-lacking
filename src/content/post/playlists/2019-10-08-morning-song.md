@@ -46,7 +46,7 @@ tags:
 - The Paranoyds
 - Pretenders
 - Purple Mountains
-- Roy Loney and the Young Fresh Fellows
+- Roy Loney + the Young Fresh Fellows
 - Sébastien Tellier
 - Self
 - Sex Bob-omb
@@ -85,7 +85,7 @@ playlist:
   artist_slug: howe-gelb
   notes: Spiced with Calexico
 - sequence: 4
-  song: Captain Of Maybe
+  song: Captain of Maybe
   artist: Bettie Serveert
   artist_slug: bettie-serveert
   notes: Lowland brilliance
@@ -249,7 +249,7 @@ playlist:
   artist_slug: frankie-cosmos
   notes: Sweetness
 - sequence: 41
-  song: I'm Not In Love
+  song: I’m Not In Love
   artist: 10cc
   artist_slug: 10cc
   notes: Submerge yourself in the Mellotron

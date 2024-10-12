@@ -21,7 +21,7 @@ tags:
 - British Sea Power
 - The Bug Club
 - Caravan Palace
-- Charlie Chesterman and the Legendary Motorbikes
+- Charlie Chesterman + the Legendary Motorbikes
 - Corb Lund
 - Creedle
 - Dopo Yume

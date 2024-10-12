@@ -144,7 +144,7 @@ playlist:
   artist_slug: son-volt
   notes: Lonesome twang
 - sequence: 23
-  song: How About The Boys
+  song: How About The Boys?
   artist: Arling + Cameron
   artist_slug: arling-cameron
   notes: Totally bipolar
@@ -178,7 +178,7 @@ playlist:
   artist_slug: peach-kelli-pop
   notes: Cute and deadly sharp
 - sequence: 31
-  song: Dance Of The Eridani
+  song: Dance of the Eridani
   artist: Bênní
   artist_slug: benni
   notes: Do not be lured in by their dance

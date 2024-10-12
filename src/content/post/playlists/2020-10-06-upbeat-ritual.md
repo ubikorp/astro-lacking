@@ -96,7 +96,7 @@ playlist:
   artist_slug: nortec-collective
   notes: March to shake
 - sequence: 8
-  song: That's That
+  song: That’s That
   artist: Cass McCombs
   artist_slug: cass-mccombs
   notes: Eating up the miles
@@ -240,7 +240,7 @@ playlist:
   artist_slug: pinback
   notes: Urgent missive
 - sequence: 41
-  song: Baby's Way Cruel
+  song: Baby’s Way Cruel
   artist: Guv'ner
   artist_slug: guv-ner
   notes: Way cruel

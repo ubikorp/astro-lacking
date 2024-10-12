@@ -92,7 +92,7 @@ playlist:
   artist_slug: chaz-motorbikes
   notes: featuring the tremendous talents of Charlie Chesterman
 - sequence: 14
-  song: Picture Of The Future
+  song: Picture of the Future
   artist: Treat Her Right
   artist_slug: treat-her-right
   notes: It will haunt you

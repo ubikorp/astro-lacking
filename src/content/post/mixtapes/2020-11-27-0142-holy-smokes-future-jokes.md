@@ -37,14 +37,14 @@ tags:
 - The Rezillos
 - Rift Valley Brothers
 - Schrasj
-- Señor Coconut And His Orchestra
+- Señor Coconut + His Orchestra
 - The Snitches
 - To Roccoco Rot
 - Tom Petty
 - Tricky
 - Wagon Christ
 airdate: '2020-11-27'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fc1633v-142-holy-smokes-future-jokes%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/c1633v-142-holy-smokes-future-jokes/
 playlist:
 - sequence: 1
   song: Holy Smokes Future Jokes

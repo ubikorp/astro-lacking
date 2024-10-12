@@ -136,7 +136,7 @@ playlist:
   artist_slug: kocani-orkestar
   notes: Strict strict father
 - sequence: 18
-  song: Bang Bang to the Rock N Roll
+  song: Bang Bang To The Rock N' Roll
   artist: Gabin
   artist_slug: gabin
   notes: Sounds like good advice

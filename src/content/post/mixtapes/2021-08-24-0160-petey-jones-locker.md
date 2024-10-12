@@ -18,7 +18,7 @@ tags:
 - The Deathray Davies
 - Dengue Fever
 - Devo
-- Frankie and the Witch Fingers
+- Frankie + the Witch Fingers
 - Ghoulies
 - Harry J. All Stars
 - HHY & The Kampala Unit
@@ -45,7 +45,7 @@ tags:
 - The Wedding Present
 - X
 airdate: '2021-08-24'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F2xqjhd-160-petey-jones-locker&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/2xqjhd-160-petey-jones-locker
 playlist:
 - sequence: 1
   song: Petey Jones' Locker

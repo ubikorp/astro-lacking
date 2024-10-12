@@ -26,7 +26,7 @@ tags:
 - Devo
 - Discovery
 - The Dismemberment Plan
-- Doug and the Slugs
+- Doug + the Slugs
 - The Felice Brothers
 - French Kicks
 - Garageland
@@ -110,7 +110,7 @@ playlist:
   artist_slug: sir-simon
   notes: Sweet and sour
 - sequence: 13
-  song: Flavour Of Night
+  song: Flavour Of The Night
   artist: Robyn Hitchcock
   artist_slug: robyn-hitchcock
   notes: Dark pastels
@@ -164,7 +164,7 @@ playlist:
   artist_slug: doug-slugs
   notes: Ode to negativity
 - sequence: 25
-  song: Jerkin' Back 'n' Forth
+  song: Jerkin' Back 'N' Forth
   artist: Devo
   artist_slug: devo
   notes: Exhibiting great indecision

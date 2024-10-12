@@ -173,7 +173,7 @@ playlist:
   artist_slug: royal-arctic-instittue
   notes: Open up a window
 - sequence: 29
-  song: Salsa and Microchips
+  song: Salsa + Microchips
   artist: DJ Me DJ You
   artist_slug: dj-me-dj-you
   notes: Extra crunchy

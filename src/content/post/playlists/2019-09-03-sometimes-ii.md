@@ -268,7 +268,7 @@ playlist:
   artist_slug: stanton-moore
   notes: Gets you going
 - sequence: 47
-  song: Collapsed in the Superdome
+  song: Collapsed In The Superdome
   artist: Oranger
   artist_slug: oranger
   notes: When did you get those pangs?

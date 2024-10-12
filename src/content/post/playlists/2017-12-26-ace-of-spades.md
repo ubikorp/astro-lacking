@@ -288,7 +288,7 @@ playlist:
   artist_slug: thee-oh-sees
   notes: Yaaaargh!
 - sequence: 54
-  song: Have A Heart, Betty (I'm Not Fireproof)
+  song: Have A Heart Betty (I’m Not Fireproof)
   artist: The Soft Boys
   artist_slug: soft-boys
   notes: The cucumber was growing in my brains

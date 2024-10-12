@@ -236,7 +236,7 @@ playlist:
   artist_slug: stevie-wonder
   notes: Originally written for Jeff Beck
 - sequence: 41
-  song: Where Is My Mind
+  song: Where Is My Mind?
   artist: Raz Ohara
   artist_slug: raz-ohara
   notes: Tropical pixies

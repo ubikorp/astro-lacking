@@ -24,7 +24,7 @@ tags:
 - The Greyboy All Stars
 - Hissanol
 - Hot Hot Heat
-- Jenny and Johnny
+- Jenny + Johnny
 - Koby Israelite
 - Low
 - The Low Frequency In Stereo
@@ -227,7 +227,7 @@ playlist:
   artist_slug: new-mastersounds
   notes: Cops behind the wheel
 - sequence: 41
-  song: Sonnymoon for Two
+  song: Sonnymoon For Two
   artist: Eddie Harris
   artist_slug: eddie-harris
   notes: Scat sandwich

@@ -42,7 +42,7 @@ tags:
 - Wolf Parade
 - Woods
 airdate: '2021-01-12'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fi2lqo7-148-strange-to-explain%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/i2lqo7-148-strange-to-explain/
 playlist:
 - sequence: 1
   song: Strange to Explain

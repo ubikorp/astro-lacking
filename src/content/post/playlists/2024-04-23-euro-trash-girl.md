@@ -28,7 +28,7 @@ tags:
 - Ekko Astral
 - Eyelids
 - Fergus + Geronimo
-- Frankie and the Witch Fingers
+- Frankie + the Witch Fingers
 - Half Japanese
 - The High Llamas
 - Holiday Ghosts

@@ -45,7 +45,7 @@ tags:
 - X
 - Young Fresh Fellows
 airdate: '2020-09-04'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fh7hcps-128-what-happened-to-delilah%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/h7hcps-128-what-happened-to-delilah/
 playlist:
 - sequence: 1
   song: What Happened to Delilah?

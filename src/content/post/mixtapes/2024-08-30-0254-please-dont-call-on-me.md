@@ -35,7 +35,7 @@ tags:
 - Skalpel
 - Squarepusher
 airdate: '2024-08-30'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-final-hour-254-please-dont-call-on-me-2024-08-30%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-final-hour-254-please-dont-call-on-me-2024-08-30/
 playlist:
 - sequence: 1
   song: Please Don't Call On Me
@@ -77,7 +77,7 @@ playlist:
   artist_slug: moby
   notes: He wants his records back
 - sequence: 10
-  song: Lithium (Club Des Belugas Extended Mix)
+  song: Lithium (Club des Belugas Extended Mix)
   artist: Maya Fadeeva
   artist_slug: maya-fadeeva
   notes: Originally from Nirvana

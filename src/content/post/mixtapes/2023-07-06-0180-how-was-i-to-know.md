@@ -29,7 +29,7 @@ tags:
 - Yeah Yeah Yeahs
 - Yves Tumor
 airdate: '2023-07-06'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-how-was-i-to-know-2023-07-06%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-how-was-i-to-know-2023-07-06/
 playlist:
 - sequence: 1
   song: How Was I to Know

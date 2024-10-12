@@ -53,7 +53,7 @@ tags:
 - Skaguitar
 - The Slackers
 - The Snitches
-- Sol Ho’opii
+- Sol Hoopii
 - Surfer Blood
 - Tacocat
 - Thee Oh Sees
@@ -245,8 +245,8 @@ playlist:
   notes: A pleasant description
 - sequence: 42
   song: I Like You
-  artist: Sol Ho’opii
-  artist_slug: sol-ho-opii
+  artist: Sol Hoopii
+  artist_slug: sol-hoopii
   notes: From 1933!
 - sequence: 43
   song: Dragonflies

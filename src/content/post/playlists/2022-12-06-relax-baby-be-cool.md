@@ -236,7 +236,7 @@ playlist:
   artist_slug: confidence-man
   notes: You done messed up
 - sequence: 42
-  song: Salsa & Microchips
+  song: Salsa + Microchips
   artist: DJ Me DJ You
   artist_slug: dj-me-dj-you
   notes: Muy spicy

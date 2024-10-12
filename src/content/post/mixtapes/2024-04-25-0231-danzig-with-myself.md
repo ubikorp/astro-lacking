@@ -28,7 +28,7 @@ tags:
 - Tremelos
 - Vells
 airdate: '2024-04-25'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-231-danzig-with-myself-2024-04-25%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-231-danzig-with-myself-2024-04-25/
 playlist:
 - sequence: 1
   song: Danzig With Myself

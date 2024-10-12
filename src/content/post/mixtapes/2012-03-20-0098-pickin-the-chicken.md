@@ -63,7 +63,7 @@ playlist:
   artist_slug: kinks
   notes: Not online! Horrible
 - sequence: 7
-  song: Lay Down Your Head, Child
+  song: Lay Down Your Head Child
   artist: Oranger
   artist_slug: oranger
   notes: One of my favorite albums of 2000

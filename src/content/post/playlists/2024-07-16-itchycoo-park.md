@@ -92,7 +92,7 @@ playlist:
   artist_slug: psymon-spine
   notes: A dangerous assertion
 - sequence: 9
-  song: Kid on My Shoulders
+  song: Kid On My Shoulders
   artist: 'White Rabbits '
   artist_slug: white-rabbits
   notes: The circus is not what you expected

@@ -15,7 +15,7 @@ caption: Les Savy Fav
 tags:
 - Africa HiTech
 - The American Analog Set
-- Art Lord And The Self Portraits
+- Art Lord + The Self Portraits
 - The Avett Brothers
 - Babe Rainbow
 - The Baldwin Brothers

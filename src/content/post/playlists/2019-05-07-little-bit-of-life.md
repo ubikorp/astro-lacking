@@ -31,7 +31,7 @@ tags:
 - The Flaming Lips
 - Flat Duo Jets
 - Fontaines D.C.
-- Frankie and the Witch Fingers
+- Frankie + the Witch Fingers
 - Gary Clark Jr.
 - Gloria Wood
 - Ida Maria

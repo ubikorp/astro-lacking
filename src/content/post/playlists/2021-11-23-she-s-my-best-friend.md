@@ -157,7 +157,7 @@ playlist:
   artist_slug: pokey-lafarge
   notes: Muy tradicional
 - sequence: 25
-  song: Shy Kind Of Guy
+  song: Shy Kind of Guy
   artist: Gogol Bordello
   artist_slug: gogol-bordello
   notes: Your name carved in stone

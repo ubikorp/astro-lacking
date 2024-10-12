@@ -9,7 +9,7 @@ excerpt: Get ready for some uncomfortable oversharing, set to the tune of early 
   but it gets its hooks into you.
 author: jclacking
 image: "~/assets/images/details/2021/foxx-bodies.jpeg"
-spotify: 2MrrzNWf2Z9qOPyO44F8RU
+spotify: 2oLS5DjJhAosquOGNbuZpj
 tags:
 - L7
 - Bully

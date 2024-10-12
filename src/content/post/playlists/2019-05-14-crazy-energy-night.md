@@ -27,7 +27,7 @@ tags:
 - Elvis Hitler
 - Fontaines D.C.
 - Forro In The Dark
-- Frankie and the Witch Fingers
+- Frankie + the Witch Fingers
 - Habiluim
 - Imperial Wax
 - The Jimi Hendrix Experience
@@ -196,7 +196,7 @@ playlist:
   artist_slug: tracker
   notes: Dust blowing on the dry creek bed
 - sequence: 33
-  song: Soft Velvety 'Fer
+  song: Soft Velvety ‘Fer
   artist: MC Honky
   artist_slug: mc-honky
   notes: Are you there?
@@ -208,7 +208,7 @@ playlist:
   artist_slug: imperial-wax
   notes: Many movements
 - sequence: 36
-  song: אני מקיא
+  song: אין בגטים בגטו
   artist: Habiluim
   artist_slug: habiluim
   notes: A statement of anger

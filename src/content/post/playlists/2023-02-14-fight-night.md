@@ -152,7 +152,7 @@ playlist:
   artist_slug: forro-in-dark
   notes: What a mess
 - sequence: 21
-  song: Hablas Con Migo Senor???
+  song: Hablas Con Migo Señor?
   artist: Torpedo Boyz
   artist_slug: torpedo-boyz
   notes: Escuchenme cabrones

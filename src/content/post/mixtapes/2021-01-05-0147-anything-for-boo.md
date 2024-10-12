@@ -23,7 +23,7 @@ tags:
 - Howe Gelb
 - J. Roddy Walston & The Business
 - Jeff Rosenstock
-- Johnny Sangster And Robb Benson
+- Johnny Sangster + Robb Benson
 - Julieta Venegas
 - Kurt Vile
 - Malandro 95
@@ -42,7 +42,7 @@ tags:
 - XTC
 - Yo La Tengo
 airdate: '2021-01-05'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fldfadl-147-anything-for-boo%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/ldfadl-147-anything-for-boo/
 playlist:
 - sequence: 1
   song: Anything For Boo

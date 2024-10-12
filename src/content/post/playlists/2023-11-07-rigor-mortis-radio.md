@@ -181,7 +181,7 @@ playlist:
   artist_slug: karate-school-dropout
   notes: Can’t stop thinking
 - sequence: 29
-  song: The Eyes Of The Night
+  song: Eyes of the Night
   artist: Starlight Mints
   artist_slug: starlight-mints
   notes: For your spooky season

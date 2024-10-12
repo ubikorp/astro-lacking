@@ -46,7 +46,7 @@ tags:
 - Tomahawk
 - Ween
 airdate: '2020-12-04'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fwpdiuz-143-lonely-heather%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/wpdiuz-143-lonely-heather/
 playlist:
 - sequence: 1
   song: Lonely Heather

@@ -17,9 +17,9 @@ excerpt: Acoustic punk rock is always a dicey proposition, but The Future Kings 
 image: "~/assets/images/mixtapes/0090-future-kings-of-nowhere.jpg"
 caption: The Future Kings of Nowhere
 tags:
-- Casper Fandango And His Tiny Sick Tears
+- Casper Fandango + His Tiny Sick Tears
 - Cass McCombs
-- Charlie Chesterman and the Legendary Motorbikes
+- Charlie Chesterman + the Legendary Motorbikes
 - Cotton Candy
 - The Dismemberment Plan
 - Drive-By Truckers

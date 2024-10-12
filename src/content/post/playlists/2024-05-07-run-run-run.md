@@ -27,10 +27,10 @@ tags:
 - Elbow
 - Eyelids
 - Frank Never Dies
-- Frankie and the Witch Fingers
-- Islands and David Shrigley
+- Frankie + the Witch Fingers
+- Islands + David Shrigley
 - The Jesus + Mary Chain
-- Johnny Sangster And Robb Benson
+- Johnny Sangster + Robb Benson
 - Khruangbin
 - Laurel Aitken
 - Less Pain Forever
@@ -47,7 +47,7 @@ tags:
 - Primus
 - Psymon Spine
 - Pufftube
-- The Reds, Pinks and Purples
+- The Reds, Pinks + Purples
 - Shambolics
 - Shitkid
 - Stereolab
@@ -132,7 +132,7 @@ playlist:
   artist_slug: bendigo-fletcher
   notes: Filling all available bandwidth
 - sequence: 18
-  song: Straight to Hell
+  song: Straight To Hell
   artist: The Clash
   artist_slug: clash
   notes: Quite original

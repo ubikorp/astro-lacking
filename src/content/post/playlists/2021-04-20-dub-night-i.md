@@ -215,7 +215,7 @@ playlist:
 - sequence: 41
   song: BREAK
 - sequence: 42
-  song: Ring the Alarm
+  song: Ring The Alarm
   artist: Tenor Saw
   artist_slug: tenor-saw
   notes: Another sound is dying

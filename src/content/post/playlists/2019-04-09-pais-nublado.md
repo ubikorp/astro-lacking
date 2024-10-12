@@ -100,7 +100,7 @@ playlist:
 - sequence: 9
   song: BREAK
 - sequence: 10
-  song: The Tide Is High
+  song: Tide Is High
   artist: The Paragons
   artist_slug: paragons
   notes: Undiluted

@@ -43,7 +43,7 @@ tags:
 - Weezer
 - The Who
 airdate: '2021-09-07'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fair5x7-162-the-shame-of-love%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/air5x7-162-the-shame-of-love/
 playlist:
 - sequence: 1
   song: The Shame of Love
@@ -171,7 +171,7 @@ playlist:
   artist_slug: rare-occasions
   notes: Make no mistakes
 - sequence: 29
-  song: shake yer mop
+  song: Shake Yer Mop
   artist: Nevada Bachelors
   artist_slug: nevada-bachelors
   notes: Professing to be neither

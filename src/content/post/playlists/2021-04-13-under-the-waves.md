@@ -93,7 +93,7 @@ playlist:
   artist_slug: cherry-poppin-daddies
   notes: Swim faster
 - sequence: 9
-  song: Waves (The Time That You’re Awake)
+  song: Waves (The Time That You're Awake)
   artist: The Elected
   artist_slug: elected
   notes: Drifting through

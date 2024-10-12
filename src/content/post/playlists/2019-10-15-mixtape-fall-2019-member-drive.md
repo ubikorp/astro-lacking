@@ -12,7 +12,7 @@ caption: Photo by David Carboni on Unsplash
 tags:
 - Antibalas Afrobeat Orchestra
 - Barrett Strong
-- Bongos, Bass, and Bob
+- Bongos, Bass, + Bob
 - Daisy Chainsaw
 - Dan Hicks & His Hot Licks
 - Field Music

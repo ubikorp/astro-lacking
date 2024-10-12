@@ -41,7 +41,7 @@ tags:
 - Mexican Institute of Sound
 - Nine Inch Nails
 - OCS
-- Once And Future Band
+- Once + Future Band
 - Polvo
 - The Rare Occasions
 - Round Eye

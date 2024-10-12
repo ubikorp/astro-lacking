@@ -138,7 +138,7 @@ playlist:
   artist_slug: cleveland-steamers
   notes: Dark voices
 - sequence: 20
-  song: El Rayo-X
+  song: El Rayo X
   artist: David Lindley
   artist_slug: david-lindley
   notes: Ay ay ay

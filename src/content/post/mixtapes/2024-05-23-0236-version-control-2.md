@@ -26,7 +26,7 @@ tags:
 - Wagon Christ
 - White Hassle
 airdate: '2024-05-23'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-236-version-control-2-2024-05-23%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-236-version-control-2-2024-05-23/
 playlist:
 - sequence: 1
   song: You'd Be Surprised

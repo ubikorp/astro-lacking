@@ -169,7 +169,7 @@ playlist:
   artist_slug: cheap-trick
   notes: Originally by John Lennon
 - sequence: 26
-  song: Web in Front
+  song: Web In Front
   artist: Archers Of Loaf
   artist_slug: archers-of-loaf
   notes: Essence of Nineties

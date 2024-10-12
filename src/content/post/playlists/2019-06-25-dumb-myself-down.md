@@ -15,7 +15,7 @@ image: "~/assets/images/playlists/2019/jr_jr.jpg"
 caption: Jr. Jr.
 tags:
 - A Giant Dog
-- Ages And Ages
+- Ages + Ages
 - The Aggrolites
 - Andrew Bird
 - Animal Eyes
@@ -131,7 +131,7 @@ playlist:
   artist_slug: cheap-trick
   notes: The gentle version
 - sequence: 17
-  song: See You in Tokyo
+  song: See You In Tokyo
   artist: Books on Tape
   artist_slug: books-on-tape
   notes: Dark tradecraft
@@ -187,7 +187,7 @@ playlist:
   artist_slug: woolly-bushmen
   notes: Hot stuff
 - sequence: 30
-  song: כשנפוליאון יכבוש את עכו
+  song: אין בגטים בגטו
   artist: Habiluim
   artist_slug: habiluim
   notes: Something about Napeolon

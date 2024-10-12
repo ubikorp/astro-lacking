@@ -30,7 +30,7 @@ tags:
 - Fastball
 - The Flamenco A Go Go
 - Frank Black
-- Frankie and the Witch Fingers
+- Frankie + the Witch Fingers
 - Frikstailers
 - The Get Up Kids
 - Golden Shoulders
@@ -157,7 +157,7 @@ playlist:
   artist_slug: fastball
   notes: At a breakneck pace
 - sequence: 22
-  song: Everybody's Trying To Be My Villain
+  song: Everybody’s Trying To Be My Villain
   artist: Golden Shoulders
   artist_slug: golden-shoulders
   notes: Such unsung genius
@@ -223,7 +223,7 @@ playlist:
   artist_slug: quintron
   notes: From deep in the cave
 - sequence: 37
-  song: Make ME STiNKED
+  song: Make Me STiNKED
   artist: The Flamenco A Go Go
   artist_slug: flamenco-a-go-go
   notes: Nanananana

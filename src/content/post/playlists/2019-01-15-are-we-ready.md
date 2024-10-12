@@ -39,7 +39,7 @@ tags:
 - Mirah
 - Mitski
 - Morphine
-- Nikki and the Corvettes
+- Nikki + the Corvettes
 - Penguin Cafe Orchestra
 - Pepe Deluxe
 - Pixies
@@ -197,7 +197,7 @@ playlist:
   artist_slug: jack-oblivian
   notes: The source
 - sequence: 32
-  song: Where is My Mind?
+  song: Where Is My Mind
   artist: Pixies
   artist_slug: pixies
   notes: There's nothing in it
@@ -292,7 +292,7 @@ playlist:
   artist_slug: greezy-wheels
   notes: Shake it loosely
 - sequence: 54
-  song: Stare And Stare
+  song: Stare and Stare
   artist: MC 900 Foot Jesus
   artist_slug: mc-900-foot-jesus
   notes: Just chilling

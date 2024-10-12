@@ -38,7 +38,7 @@ tags:
 - Islands
 - Jason Falkner
 - Jason Trachtenburg
-- Jenny and Johnny
+- Jenny + Johnny
 - Juana Molina
 - King Hannah
 - KOKOKO!
@@ -154,7 +154,7 @@ playlist:
 - sequence: 22
   song: BREAK
 - sequence: 23
-  song: 'Firefighters '
+  song: Firefighters
   artist: Being Dead
   artist_slug: being-dead
   notes: Light them up, put them out
@@ -269,7 +269,7 @@ playlist:
   artist_slug: moby
   notes: He wants his records back
 - sequence: 49
-  song: Lithium (Club Des Belugas Extended Mix)
+  song: Lithium (Club des Belugas Extended Mix)
   artist: Maya Fadeeva
   artist_slug: maya-fadeeva
   notes: Originally from Nirvana

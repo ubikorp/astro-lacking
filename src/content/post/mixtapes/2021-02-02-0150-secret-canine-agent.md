@@ -42,7 +42,7 @@ tags:
 - The Wedding Present
 - The Z Kamp Express
 airdate: '2021-02-02'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fqdnqqe-150-secret-canine-agent%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/qdnqqe-150-secret-canine-agent/
 playlist:
 - sequence: 1
   song: Secret Canine Agent
@@ -109,7 +109,7 @@ playlist:
   artist_slug: dr-dog
   notes: Ten years old now
 - sequence: 15
-  song: You Can't Moan Can You?
+  song: You Can’t Moan Can You?
   artist: The Wedding Present
   artist_slug: wedding-present
   notes: Grinding the Gedge gears

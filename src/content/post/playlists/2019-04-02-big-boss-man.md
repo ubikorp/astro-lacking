@@ -225,7 +225,7 @@ playlist:
   artist_slug: nude-party
   notes: Shades of VU
 - sequence: 38
-  song: Fool's Paradise
+  song: Fool’s Paradise
   artist: United Future Organization
   artist_slug: united-future-organization
   notes: UFO boogie

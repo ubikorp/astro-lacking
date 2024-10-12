@@ -41,7 +41,7 @@ tags:
 - Squeeze
 - Thingy
 airdate: '2021-10-19'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fjntvoh-168-shame-reactions%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/jntvoh-168-shame-reactions/
 playlist:
 - sequence: 1
   song: Shame Reactions

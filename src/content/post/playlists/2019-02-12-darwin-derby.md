@@ -33,7 +33,7 @@ tags:
 - Les Hommes
 - Lyle Lovett
 - MAI LAN
-- Major And The Monbacks
+- Major + The Monbacks
 - Mark Feldman's LEVEL5
 - Mika
 - Mike Krol

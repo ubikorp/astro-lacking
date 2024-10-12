@@ -31,7 +31,7 @@ tags:
 - Dressy Bessy
 - Drive-By Truckers
 - Drugdealer
-- Evripidis And His Tragedies
+- Evripidis + His Tragedies
 - The Flaming Lips
 - Fountains Of Wayne
 - The Front Bottoms
@@ -149,7 +149,7 @@ playlist:
   artist_slug: dj-logic
   notes: He got it
 - sequence: 21
-  song: Theme from Starsky and Hutch
+  song: Theme from Starsky + Hutch
   artist: James Taylor Quartet
   artist_slug: james-taylor-quartet
   notes: Drive fast and aim for the fruit stands

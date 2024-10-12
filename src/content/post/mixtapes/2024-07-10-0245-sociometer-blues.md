@@ -27,7 +27,7 @@ tags:
 - Shannon + The Clams
 - St. Vincent
 airdate: '2024-07-10'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-245-sociometer-blues-2024-07-11%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-245-sociometer-blues-2024-07-11/
 playlist:
 - sequence: 1
   song: Sociometer Blues

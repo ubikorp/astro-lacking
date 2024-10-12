@@ -47,7 +47,7 @@ airdate: '2016-09-06'
 podcast: https://audio.lacking.org/podcast/0001-0100/0100.keep-brevard-weird.mp3
 playlist:
 - sequence: 1
-  song: Squeals Of Enjoyment
+  song: Squeals of Enjoyment
   artist: Dirty Poodle
   artist_slug: dirty-poodle
   notes: From Brevard about Brevard

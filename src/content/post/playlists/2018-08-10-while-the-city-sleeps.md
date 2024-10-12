@@ -183,7 +183,7 @@ playlist:
   artist_slug: fantastic-plastic-machine
   notes: Fun from the start
 - sequence: 33
-  song: Here We Go!
+  song: Here We Go
   artist: Arling + Cameron
   artist_slug: arling-cameron
   notes: Get things going

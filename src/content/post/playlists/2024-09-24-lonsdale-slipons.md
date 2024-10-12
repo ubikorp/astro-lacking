@@ -218,7 +218,7 @@ playlist:
   artist_slug: twang-bang
   notes: There is only one
 - sequence: 38
-  song: I'll Sink Manhattan
+  song: I’ll Sink Manhattan
   artist: They Might Be Giants
   artist_slug: they-might-be-giants
   notes: Right under the sea
@@ -291,7 +291,7 @@ playlist:
 - sequence: 54
   song: BREAK
 - sequence: 55
-  song: Diary Of A Lost Girl
+  song: Diary of a Lost Girl
   artist: Christian Zimmerman
   artist_slug: christian-zimmerman
   notes: Hit the birimbau

@@ -96,7 +96,7 @@ playlist:
 - sequence: 9
   song: BREAK
 - sequence: 10
-  song: Worried Shoes
+  song: Worried Shoes
   artist: Daniel Smith + Sufjan Stevens
   artist_slug: daniel-smith-sufjan-stevens
   notes: Killing the monster

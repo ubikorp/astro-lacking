@@ -55,7 +55,7 @@ tags:
 airdate: '2018-07-24'
 playlist:
 - sequence: 1
-  song: Turn And Smile
+  song: Turn and Smile
   artist: The Rock*A*Teens
   artist_slug: rock-a-teens
   notes: Nice and cleaner
@@ -138,7 +138,7 @@ playlist:
   artist_slug: johnny-marr
   notes: Somewhat Love and Rockets?
 - sequence: 20
-  song: The Eyes Of The Night
+  song: Eyes of the Night
   artist: Starlight Mints
   artist_slug: starlight-mints
   notes: Woo oo oo oo….
@@ -182,7 +182,7 @@ playlist:
   artist_slug: real-estate
   notes: Gentle washes
 - sequence: 30
-  song: Baby's In The Void
+  song: Baby’s In The Void
   artist: Black Moth Super Rainbow
   artist_slug: black-moth-super-rainbow
   notes: Synthetic dreams

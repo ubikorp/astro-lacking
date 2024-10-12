@@ -45,7 +45,7 @@ tags:
 - Oranger
 - Ozomatli
 - Pepe Deluxe
-- Petra Haden and Bill Frisell
+- Petra Haden + Bill Frisell
 - Petty Booka
 - The Philistines Jr.
 - Ra Ra Riot

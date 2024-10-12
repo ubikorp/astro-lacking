@@ -110,7 +110,7 @@ playlist:
   artist_slug: primus
   notes: The fretless dominates
 - sequence: 14
-  song: Cuchi-Cuchi
+  song: Cuchi Cuchi
   artist: Los Amigos Invisibles
   artist_slug: los-amigos-invisibles
   notes: Solo necesito un…

@@ -21,7 +21,7 @@ tags:
 - Haircut One Hundred
 - Iron + Wine
 - Jens Lekman
-- Jesse and the Dandelions
+- Jesse + the Dandelions
 - King Brothers
 - Knife In The Water
 - Komeda

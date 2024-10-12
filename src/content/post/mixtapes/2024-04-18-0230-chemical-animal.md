@@ -29,7 +29,7 @@ tags:
 - Rose City Band
 - Wreckless Eric & Amy Rigby
 airdate: '2024-04-18'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-230-chemical-animal-2024-04-18%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-230-chemical-animal-2024-04-18/
 playlist:
 - sequence: 1
   song: Chemical Animal

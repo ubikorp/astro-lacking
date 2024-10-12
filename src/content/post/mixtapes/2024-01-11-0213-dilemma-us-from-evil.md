@@ -30,7 +30,7 @@ tags:
 - The Serfs
 - Thee Headcoats
 airdate: '2024-01-11'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-213-dilemma-us-from-evil-2024-01-11%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-213-dilemma-us-from-evil-2024-01-11/
 playlist:
 - sequence: 1
   song: Dilemma Us from Evil

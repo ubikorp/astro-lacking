@@ -32,7 +32,7 @@ tags:
 - Hot Club Of Cowtown
 - Ian Brown
 - Janis Joplin
-- Jim Jones and the Righteous Mind
+- Jim Jones + the Righteous Mind
 - Julian Lage
 - Linus Of Hollywood
 - Magnetix

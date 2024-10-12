@@ -83,7 +83,7 @@ playlist:
   artist_slug: wand
   notes: Oscillating oscillators
 - sequence: 6
-  song: Dumb Drums
+  song: The Dumb Drums
   artist: Thee Oh Sees
   artist_slug: thee-oh-sees
   notes: A brief respite

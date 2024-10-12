@@ -127,7 +127,7 @@ playlist:
   artist_slug: toro-y-moi
   notes: How about that weather
 - sequence: 18
-  song: "(I'm A) Donkey For Your Love"
+  song: "(I’m A Donkey) For Your Love"
   artist: Boat
   artist_slug: boat
   notes: An unexpected twist
@@ -188,7 +188,7 @@ playlist:
   artist_slug: cafe-tacuba
   notes: Munster ska time
 - sequence: 32
-  song: Making Plans For Nigel
+  song: Making Plans for Nigel
   artist: Primus
   artist_slug: primus
   notes: Originally from XTC

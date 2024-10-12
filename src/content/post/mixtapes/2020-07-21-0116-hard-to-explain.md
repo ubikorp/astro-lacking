@@ -42,7 +42,7 @@ tags:
 - Wilco
 - Z-Rock Hawaii
 airdate: '2020-07-21'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fuekmye-116-hard-to-explain%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/uekmye-116-hard-to-explain/
 playlist:
 - sequence: 1
   song: Hard to Explain
@@ -111,7 +111,7 @@ playlist:
   artist_slug: ty-segall
   notes: Gravelly rumble
 - sequence: 16
-  song: The Blues Are Still Blue
+  song: Blues Are Still Blue
   artist: Belle + Sebastian
   artist_slug: belle-sebastian
   notes: Unfailing

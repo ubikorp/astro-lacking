@@ -152,7 +152,7 @@ playlist:
   artist_slug: besh-o-drom
   notes: Put it all in the blender
 - sequence: 23
-  song: Shy Kind Of Guy
+  song: Shy Kind of Guy
   artist: Gogol Bordello
   artist_slug: gogol-bordello
   notes: Like Peter the Great

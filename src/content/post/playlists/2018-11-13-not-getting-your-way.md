@@ -30,7 +30,7 @@ tags:
 - Illinois
 - Interpol
 - The Jack Moves
-- Jesse and the Dandelions
+- Jesse + the Dandelions
 - Jon Spencer
 - Juana Molina
 - King Brothers
@@ -96,7 +96,7 @@ playlist:
   artist_slug: brother-brothers
   notes: Lethal sad banjo action
 - sequence: 9
-  song: Take It From Me
+  song: Take It from Me
   artist: Phono Pony
   artist_slug: phono-pony
   notes: Organ grinding
@@ -169,7 +169,7 @@ playlist:
 - sequence: 25
   song: BREAK
 - sequence: 26
-  song: Sunlit Sparks (I Won't Break You)
+  song: Sunlit Sparks (I Won’t Break You)
   artist: Rubblebucket
   artist_slug: rubblebucket
   notes: Enter the discotheque of danger

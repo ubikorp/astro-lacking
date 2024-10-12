@@ -131,7 +131,7 @@ playlist:
   artist_slug: m-ward
   notes: All the kids are into it
 - sequence: 18
-  song: Me And Armini
+  song: Me + Armini
   artist: Emiliana Torrini
   artist_slug: emiliana-torrini
   notes: Icelandic reggae

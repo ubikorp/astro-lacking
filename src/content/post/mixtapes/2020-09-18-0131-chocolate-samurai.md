@@ -40,7 +40,7 @@ tags:
 - Whitey
 - Youth + Hollie Cook
 airdate: '2020-09-18'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Ffmcb9q-131-chocolate-samurai%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/fmcb9q-131-chocolate-samurai/
 playlist:
 - sequence: 1
   song: Chocolate Samurai
@@ -58,7 +58,7 @@ playlist:
   artist_slug: greyboy-allstars
   notes: Grooving with the little buddy
 - sequence: 4
-  song: Children of Popcorn
+  song: Children of The Popcorn
   artist: Messer Chups
   artist_slug: messer-chups
   notes: Surf St. Petersburg

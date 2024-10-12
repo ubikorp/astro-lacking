@@ -22,7 +22,7 @@ tags:
 - Devo
 - East River Pipe
 - Elvis Costello + The Attractions
-- Infected Mushroom and WHITENO1SE
+- Infected Mushroom + WHITENO1SE
 - Jim Noir
 - Juliana Hatfield
 - Khruangbin
@@ -42,7 +42,7 @@ tags:
 - Wavves
 - Woods
 airdate: '2020-08-07'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fjpaaxb-121-so-we-wont-forget%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/jpaaxb-121-so-we-wont-forget/
 playlist:
 - sequence: 1
   song: So We Won't Forget
@@ -138,7 +138,7 @@ playlist:
   artist_slug: devo
   notes: I know you know
 - sequence: 22
-  song: I'll Take You There
+  song: I’ll Take You There
   artist: The Staple Singers
   artist_slug: staple-singers
   notes: Such a groove
@@ -189,7 +189,7 @@ playlist:
   artist_slug: architecture-in-helsinki
   notes: A bit dancier than I’m used to from these Aussies
 - sequence: 34
-  song: Tazi - Tazi
+  song: Tazi-Tazi
   artist: Let 3
   artist_slug: let-3
   notes: What’s with that manic synth line?

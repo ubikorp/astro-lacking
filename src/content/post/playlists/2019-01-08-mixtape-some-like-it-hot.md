@@ -90,7 +90,7 @@ playlist:
   artist_slug: le-tigre
   notes: Does it make you shimmy
 - sequence: 14
-  song: The Hot Carl
+  song: Hot Carl
   artist: Monsieur LeRoc
   artist_slug: monsieur-leroc
   notes: Watch me now!
@@ -107,7 +107,7 @@ playlist:
   artist_slug: polysics
   notes: Manic extreme
 - sequence: 18
-  song: Have A Heart, Betty (I'm Not Fireproof)
+  song: Have A Heart Betty (I’m Not Fireproof)
   artist: The Soft Boys
   artist_slug: soft-boys
   notes: Unsteady lads

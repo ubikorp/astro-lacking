@@ -49,7 +49,7 @@ tags:
 - Palehound
 - Pixies
 - Public Image Ltd.
-- Sonic Boom, Panda Bear and Adrian Sherwood
+- Sonic Boom, Panda Bear + Adrian Sherwood
 - Spacewalk
 - Terry
 - Three Mile Pilot
@@ -166,7 +166,7 @@ playlist:
   artist_slug: hold-steady
   notes: Telling us a story
 - sequence: 25
-  song: All Or Nothing
+  song: All or Nothing
   artist: Derby
   artist_slug: derby
   notes: Take a fun ride

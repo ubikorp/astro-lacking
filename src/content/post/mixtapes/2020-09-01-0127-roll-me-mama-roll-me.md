@@ -38,11 +38,11 @@ tags:
 - The Slackers
 - St. Vincent
 - The Strange Boys
-- Swear And Shake
+- Swear + Shake
 - Teenage Bottlerocket
 - Wavves
 airdate: '2020-09-01'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F4mpfrm-127-roll-me-mama%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/4mpfrm-127-roll-me-mama/
 playlist:
 - sequence: 1
   song: Roll Me Mama, Roll Me

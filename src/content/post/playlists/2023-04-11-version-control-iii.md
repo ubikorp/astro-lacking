@@ -39,7 +39,7 @@ tags:
 - Mike Doughty
 - Money Mark
 - Negativland
-- Paul Collins and Marci Marks
+- Paul Collins + Marci Marks
 - Pierre Perpall
 - The Pretty Reckless
 - Primus
@@ -59,7 +59,7 @@ tags:
 airdate: '2023-04-11'
 playlist:
 - sequence: 1
-  song: Making Plans For Nigel
+  song: Making Plans for Nigel
   artist: Primus
   artist_slug: primus
   notes: Originally from XTC

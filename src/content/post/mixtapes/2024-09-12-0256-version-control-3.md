@@ -17,7 +17,7 @@ tags:
 - Drive-By Truckers
 - Frank Black
 - The Goldstars
-- Jools Holland Orchestra And Jamiroquai
+- Jools Holland Orchestra + Jamiroquai
 - The Lothars
 - Milo Binder
 - Nick Lowe
@@ -28,7 +28,7 @@ tags:
 - Viagra Boys
 - Yo La Tengo
 airdate: '2024-09-12'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-256-version-control-3-2024-09-12%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-256-version-control-3-2024-09-12/
 playlist:
 - sequence: 1
   song: Speeding Motorcycle
@@ -82,7 +82,7 @@ playlist:
   artist_slug: barrence-whitfield-soul-savage-arkestra
   notes: Originally from Sun Ra
 - sequence: 13
-  song: Duke Of Earl
+  song: Duke of Earl
   artist: Frank Black
   artist_slug: frank-black
   notes: Originally from Gene Chandler

@@ -29,7 +29,7 @@ tags:
 - Tune-Yards
 - Wreckless Eric
 airdate: '2024-02-15'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-219-zaddy-mountain-2024-02-15%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-219-zaddy-mountain-2024-02-15/
 playlist:
 - sequence: 1
   song: Zaddy Mountain

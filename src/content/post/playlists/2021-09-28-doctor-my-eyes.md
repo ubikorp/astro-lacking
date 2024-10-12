@@ -35,7 +35,7 @@ tags:
 - The Llamps
 - Luna
 - Lush
-- Margot & The Nuclear So And So's
+- Margot + the Nuclear So And Sos
 - Mariachi El Bronx
 - MC Honky
 - Meat Wave
@@ -150,8 +150,8 @@ playlist:
   notes: Almost ready to eat
 - sequence: 22
   song: Paper Kitten Nightmare
-  artist: Margot & The Nuclear So And So's
-  artist_slug: margot-nuclear-so-so-s
+  artist: Margot and the Nuclear So And Sos
+  artist_slug: margot-nuclear-so-sos
   notes: Meow meow
 - sequence: 23
   song: Pull The Curtains
@@ -264,7 +264,7 @@ playlist:
   artist_slug: blithe
   notes: Noted
 - sequence: 48
-  song: Mind Of Its Own
+  song: Mind of its Own
   artist: The Safes
   artist_slug: safes
   notes: Fun times

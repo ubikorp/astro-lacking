@@ -151,7 +151,7 @@ playlist:
   artist_slug: ty-segall
   notes: Gravelly rumble
 - sequence: 21
-  song: The Blues Are Still Blue
+  song: Blues Are Still Blue
   artist: Belle + Sebastian
   artist_slug: belle-sebastian
   notes: Unfailing
@@ -195,7 +195,7 @@ playlist:
   artist_slug: growlers
   notes: An unveiling
 - sequence: 31
-  song: It's Almost A Trap
+  song: It’s Almost A Trap
   artist: Architecture In Helsinki
   artist_slug: architecture-in-helsinki
   notes: Hide in the cupboard

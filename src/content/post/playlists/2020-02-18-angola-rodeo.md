@@ -46,7 +46,7 @@ tags:
 - The Police
 - Pop Will Eat Itself
 - Preservation Hall Jazz Band
-- Question Mark and The Mysterians
+- Question Mark + The Mysterians
 - Ramsey 2C-3D
 - Sacred Paws
 - Serge Gainsbourg
@@ -201,7 +201,7 @@ playlist:
   artist_slug: devo
   notes: I know you know
 - sequence: 32
-  song: I'll Take You There
+  song: I’ll Take You There
   artist: The Staple Singers
   artist_slug: staple-singers
   notes: Such a groove

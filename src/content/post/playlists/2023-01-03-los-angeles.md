@@ -26,7 +26,7 @@ tags:
 - Ghost Funk Orchestra
 - Hot Hot Heat
 - John Wilkes Booze
-- Johnny Sangster And Robb Benson
+- Johnny Sangster + Robb Benson
 - Just Jack
 - King Kong
 - The Kinks

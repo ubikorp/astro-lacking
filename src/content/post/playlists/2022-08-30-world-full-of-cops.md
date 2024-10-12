@@ -306,7 +306,7 @@ playlist:
   artist_slug: electrocute
   notes: Fascinating
 - sequence: 56
-  song: Hello Dad, I'm In Jail
+  song: Hello Dad, I'm in Jail
   artist: Was (Not Was)
   artist_slug: was-not-was
   notes: Happy birthday!

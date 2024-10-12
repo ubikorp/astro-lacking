@@ -41,7 +41,7 @@ tags:
 - Ween
 - Woody + Jeremy
 airdate: '2021-11-16'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fcrxwv8-171-scarcity-is-manufactured%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/crxwv8-171-scarcity-is-manufactured/
 playlist:
 - sequence: 1
   song: Scarcity Is Manufactured
@@ -54,7 +54,7 @@ playlist:
   artist_slug: low
   notes: Overwhelmed
 - sequence: 3
-  song: Get the Letter Out
+  song: Get The Letter Out
   artist: Enon
   artist_slug: enon
   notes: Backwards calligraphy
@@ -81,7 +81,7 @@ playlist:
   artist_slug: blithe
   notes: Noted
 - sequence: 9
-  song: Mind Of Its Own
+  song: Mind of its Own
   artist: The Safes
   artist_slug: safes
   notes: Fun times
@@ -144,7 +144,7 @@ playlist:
 - sequence: 23
   song: BREAK
 - sequence: 24
-  song: A Nanny in Manhattan
+  song: A Nanny In Manhattan
   artist: Lilys
   artist_slug: lilys
   notes: Tripping down the tune tunnel…

@@ -40,7 +40,7 @@ tags:
 - Naked Giants
 - Nortec (Bostich+Fussible)
 - Osaka Popstar
-- Parker And Lily
+- Parker + Lily
 - Pixies
 - Portishead
 - Post Animal

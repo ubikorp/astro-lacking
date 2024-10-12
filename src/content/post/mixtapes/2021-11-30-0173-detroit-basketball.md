@@ -12,7 +12,7 @@ image: "~/assets/images/mixtapes/0173-bad-bad-hats.jpg"
 caption: Bad Bad Hats
 tags:
 - Bad Bad Hats
-- C. Gibbs And The Cardia Bros.
+- C. Gibbs + The Cardia Bros.
 - Camper Van Beethoven
 - Datblygu
 - Death By Unga Bunga
@@ -40,7 +40,7 @@ tags:
 - Tom Tom Club
 - µ-Ziq
 airdate: '2021-11-30'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2F18hpft-173-detroit-basketball%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/18hpft-173-detroit-basketball/
 playlist:
 - sequence: 1
   song: Detroit Basketball

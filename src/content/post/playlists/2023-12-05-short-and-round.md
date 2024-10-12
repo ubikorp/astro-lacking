@@ -41,7 +41,7 @@ tags:
 - Nirvana
 - The Oranges Band
 - Ozric Tentacles
-- Parker And Lily
+- Parker + Lily
 - The Polyphonic Spree
 - The Pontiac Brothers
 - The Real Tuesday Weld

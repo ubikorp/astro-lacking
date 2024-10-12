@@ -146,7 +146,7 @@ playlist:
   artist_slug: aldous-harding
   notes: The definition of laconic
 - sequence: 22
-  song: 2 Fingers Cross'd
+  song: 2 Fingers Cross’d
   artist: White Hassle
   artist_slug: white-hassle
   notes: High lonesome rattle
@@ -212,7 +212,7 @@ playlist:
   artist_slug: housemartins
   notes: Live and a cappella!
 - sequence: 37
-  song: Hamp's Hump
+  song: Hamp’s Hump
   artist: Galactic
   artist_slug: galactic
   notes: A stompin’ good time

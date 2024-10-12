@@ -194,7 +194,7 @@ playlist:
 - sequence: 35
   song: BREAK
 - sequence: 36
-  song: Fatty Boom Boom!
+  song: Fatty Boom Boom
   artist: Westbound Train
   artist_slug: westbound-train
   notes: Where's my fatty fatty boom boom?

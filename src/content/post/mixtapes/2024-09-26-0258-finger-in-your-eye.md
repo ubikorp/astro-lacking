@@ -17,7 +17,7 @@ tags:
 - The Bug Club
 - Cagney & Lacee
 - Fake Fruit
-- Kid Congo & The Pink Monkey Birds
+- Kid Congo + the Pink Monkey Birds
 - Melt-Banana
 - The Molochs
 - Naked Giants
@@ -25,7 +25,7 @@ tags:
 - Ween
 - Yacht
 airdate: '2024-09-26'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-258-finger-in-your-eye-2024-09-26%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-258-finger-in-your-eye-2024-09-26/
 playlist:
 - sequence: 1
   song: Finger In Your Eye
@@ -46,8 +46,8 @@ playlist:
   notes: Just Ok
 - sequence: 5
   song: The Boy Had It All
-  artist: Kid Congo & The Pink Monkey Birds
-  artist_slug: kid-congo-pink-monkey-birds-1
+  artist: Kid Congo + the Pink Monkey Birds
+  artist_slug: kid-congo-pink-monkey-birds
   notes: For the completists
 - sequence: 6
   song: BREAK

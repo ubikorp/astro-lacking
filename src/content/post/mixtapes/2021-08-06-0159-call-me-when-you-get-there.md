@@ -45,7 +45,7 @@ tags:
 - Trilok Gurtu & Robert Miles
 - The Wedding Present
 airdate: '2021-08-06'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Flg2xwf-159-call-me-when-you-get-there%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/lg2xwf-159-call-me-when-you-get-there/
 playlist:
 - sequence: 1
   song: Call Me When You Get There
@@ -163,7 +163,7 @@ playlist:
   artist_slug: robyn-hitchcock
   notes: It's a comfortable existence
 - sequence: 27
-  song: 'When I Drink '
+  song: When I Drink
   artist: The Avett Brothers
   artist_slug: avett-brothers
   notes: A classic from the start

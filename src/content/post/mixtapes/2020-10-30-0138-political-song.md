@@ -42,7 +42,7 @@ tags:
 - Yello
 - Young Fresh Fellows
 airdate: '2020-10-30'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fqzlhhc-138-political-song%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/qzlhhc-138-political-song/
 playlist:
 - sequence: 1
   song: Political Song for Michael Jackson to Sing
@@ -55,7 +55,7 @@ playlist:
   artist_slug: pinback
   notes: Urgent missive
 - sequence: 3
-  song: Baby's Way Cruel
+  song: Baby’s Way Cruel
   artist: Guv'ner
   artist_slug: guv-ner
   notes: Way cruel
@@ -177,7 +177,7 @@ playlist:
   artist_slug: nortec-collective
   notes: March to shake
 - sequence: 31
-  song: That's That
+  song: That’s That
   artist: Cass McCombs
   artist_slug: cass-mccombs
   notes: Eating up the miles

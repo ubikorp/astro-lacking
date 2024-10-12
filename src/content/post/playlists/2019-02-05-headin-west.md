@@ -97,7 +97,7 @@ playlist:
 - sequence: 9
   song: BREAK
 - sequence: 10
-  song: Life Is Still Sweet
+  song: Life is Still Sweet
   artist: White Hassle
   artist_slug: white-hassle
   notes: Looking in parked car windows
@@ -158,7 +158,7 @@ playlist:
   artist_slug: meters
   notes: Nothing funkier
 - sequence: 24
-  song: Where's The Fire
+  song: Where’s The Fire
   artist: Head of Femur
   artist_slug: head-of-femur
   notes: Mutated possibilities
@@ -185,7 +185,7 @@ playlist:
   artist_slug: squirrel-nut-zippers
   notes: Groovy take
 - sequence: 30
-  song: 'Ziggy Stardust '
+  song: Ziggy Stardust
   artist: Seu Jorge
   artist_slug: seu-jorge
   notes: More Bowie

@@ -47,7 +47,7 @@ tags:
 - The Record Company
 - Red Lorry Yellow Lorry
 - The Rentals
-- Seu Jorge And Almaz
+- Seu Jorge + Almaz
 - Snapped Ankles
 - Speedy West + Jimmy Bryant
 - Sukia
@@ -55,7 +55,7 @@ tags:
 - Tenor Saw
 - The The
 - They Might Be Giants
-- Tulip Sweet and Her Trail of Tears
+- Tulip Sweet + Her Trail of Tears
 - Ultrababyfat
 - VV Brown
 airdate: '2021-11-09'
@@ -278,7 +278,7 @@ playlist:
   artist_slug: danny-clarke-lee-perry
   notes: The root of all evil
 - sequence: 51
-  song: Ring the Alarm
+  song: Ring The Alarm
   artist: Tenor Saw
   artist_slug: tenor-saw
   notes: Another sound is dying

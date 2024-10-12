@@ -24,8 +24,8 @@ tags:
 - Electrocution 250
 - John Scofield
 - Marco Minnemann
-- Mats / Morgan Band
-- Mike Keneally / Steve Vai
+- Mats | Morgan Band
+- Mike Keneally | Steve Vai
 - Rejectionary Art
 - Secret Chiefs 3
 - Sleepytime Gorilla Museum

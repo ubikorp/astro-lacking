@@ -27,7 +27,7 @@ tags:
 - Mother Mother
 - Optiganally Yours
 airdate: '2024-08-15'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-251-black-country-gothic-2024-08-15%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-251-black-country-gothic-2024-08-15/
 playlist:
 - sequence: 1
   song: BLACK COUNTRY GOTHIC

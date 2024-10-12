@@ -28,7 +28,7 @@ tags:
 - The Wee Turtles
 - The Woolly Bushmen
 airdate: '2024-05-30'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-237-the-way-you-say-it-2024-05-30%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-237-the-way-you-say-it-2024-05-30/
 playlist:
 - sequence: 1
   song: The Way You Say It
@@ -99,7 +99,7 @@ playlist:
   artist_slug: bendigo-fletcher
   notes: Filling all available bandwidth
 - sequence: 17
-  song: Straight to Hell
+  song: Straight To Hell
   artist: The Clash
   artist_slug: clash
   notes: Quite original

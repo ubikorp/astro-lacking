@@ -29,7 +29,7 @@ tags:
 - Spencer Krug
 - The Streets
 airdate: '2023-11-16'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-203-largest-muscle-2023-11-18%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-203-largest-muscle-2023-11-18/
 playlist:
 - sequence: 1
   song: Largest Muscle

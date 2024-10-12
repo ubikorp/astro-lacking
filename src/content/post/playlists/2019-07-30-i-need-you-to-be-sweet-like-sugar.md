@@ -14,7 +14,7 @@ excerpt: Shrugging through the rose thorns, protected by a heavy leather apron, 
 image: "~/assets/images/playlists/2019/ibibio_sound_machine.jpg"
 caption: Ibibio Sound Machine
 tags:
-- Ages And Ages
+- Ages + Ages
 - Beach House
 - Bells Atlas
 - black midi
@@ -26,7 +26,7 @@ tags:
 - Danielle Howle
 - Devo
 - Dressy Bessy
-- Drugdealer and Weyes Blood
+- Drugdealer + Weyes Blood
 - Fat White Family
 - Fruit Bats
 - Glass Eye
@@ -34,7 +34,7 @@ tags:
 - Ibibio Sound Machine
 - Jarvis Cocker
 - Jeff Tweedy
-- Lil' Queenie And The Percolators
+- Lil' Queenie + The Percolators
 - Los Fabulosos Cadillacs
 - Lush
 - The Mountain Goats
@@ -236,7 +236,7 @@ playlist:
   artist_slug: beach-house
   notes: Scandinavian details
 - sequence: 42
-  song: Nothing, Please
+  song: Nothing Please
   artist: Glass Eye
   artist_slug: glass-eye
   notes: Austin maniacs

@@ -20,7 +20,7 @@ tags:
 - Brian Eno
 - Brooklyn Funk Essential
 - Cable Ties
-- Charlie Chesterman and the Legendary Motorbikes
+- Charlie Chesterman + the Legendary Motorbikes
 - Circa Waves
 - The Clientele
 - Death By Unga Bunga

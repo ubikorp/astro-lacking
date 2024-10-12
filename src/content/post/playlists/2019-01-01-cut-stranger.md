@@ -114,7 +114,7 @@ playlist:
   artist_slug: komeda
   notes: Swede treat
 - sequence: 13
-  song: Lookin' Lookin' Gaa
+  song: Lookin Lookin Gaa
   artist: Polysics
   artist_slug: polysics
   notes: Whatever that is!

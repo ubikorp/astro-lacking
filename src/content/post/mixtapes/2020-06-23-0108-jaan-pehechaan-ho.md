@@ -42,7 +42,7 @@ tags:
 - Waxahatchee
 - Zach Uncles
 airdate: '2020-06-23'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fitgmha-108-jaan-pehechaan-ho%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/itgmha-108-jaan-pehechaan-ho/
 playlist:
 - sequence: 1
   song: Jaan Pehechaan Ho
@@ -177,7 +177,7 @@ playlist:
   artist_slug: growlers
   notes: An unveiling
 - sequence: 31
-  song: It's Almost A Trap
+  song: It’s Almost A Trap
   artist: Architecture In Helsinki
   artist_slug: architecture-in-helsinki
   notes: Hide in the cupboard

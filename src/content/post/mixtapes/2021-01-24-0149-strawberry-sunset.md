@@ -42,7 +42,7 @@ tags:
 - The Sugarman Three & Co.
 - Vampire Weekend
 airdate: '2021-01-24'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fpntls7-149-strawberry-sunset%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/pntls7-149-strawberry-sunset/
 playlist:
 - sequence: 1
   song: Strawberry Sunset

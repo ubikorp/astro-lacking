@@ -142,7 +142,7 @@ playlist:
   artist_slug: os-mutantes
   notes: Maybe my favorite baby
 - sequence: 25
-  song: Baby's Way Cruel
+  song: Baby’s Way Cruel
   artist: Guv'ner
   artist_slug: guv-ner
   notes: Way cruel
@@ -198,7 +198,7 @@ playlist:
 - sequence: 37
   song: BREAK
 - sequence: 38
-  song: Baby's On Fire
+  song: Baby’s On Fire
   artist: Brian Eno
   artist_slug: brian-eno
   notes: Like a heifer to the slaughter

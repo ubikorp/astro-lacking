@@ -307,7 +307,7 @@ playlist:
   artist_slug: motor-k
   notes: A fitting name
 - sequence: 56
-  song: Hardest Geometry Problem In The World
+  song: Hardest Geometry Problem in the World
   artist: Mark Mothersbaugh
   artist_slug: mark-mothersbaugh
   notes: Quite difficult

@@ -183,7 +183,7 @@ playlist:
   artist_slug: pluxus
   notes: Your digital barista
 - sequence: 30
-  song: Block Of Ice
+  song: Block of Ice
   artist: Thee Oh Sees
   artist_slug: thee-oh-sees
   notes: Cold cold cold

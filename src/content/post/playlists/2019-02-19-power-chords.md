@@ -32,9 +32,9 @@ tags:
 - Justus Proffit
 - Klark Kent
 - LMNOP
-- Love And Rockets
+- Love + Rockets
 - The Mach Kung-Fu
-- Mats / Morgan
+- Mats | Morgan
 - Mike Krol
 - The Pilgrims
 - Pixies
@@ -154,7 +154,7 @@ playlist:
 - sequence: 24
   song: BREAK
 - sequence: 25
-  song: Singapore ‘66
+  song: Singapore `66
   artist: The Mach Kung-Fu
   artist_slug: mach-kung-fu
   notes: Flash in Japan

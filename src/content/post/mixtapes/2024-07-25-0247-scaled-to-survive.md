@@ -27,7 +27,7 @@ tags:
 - Robyn Hitchcock
 - 'White Rabbits '
 airdate: '2024-07-25'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Flouderthanwar%2Fthe-mixtape-247-scaled-to-survive-2024-07-25%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-247-scaled-to-survive-2024-07-25/
 playlist:
 - sequence: 1
   song: Scaled to Survive
@@ -64,7 +64,7 @@ playlist:
   artist_slug: psymon-spine
   notes: A dangerous assertion
 - sequence: 9
-  song: Kid on My Shoulders
+  song: Kid On My Shoulders
   artist: 'White Rabbits '
   artist_slug: white-rabbits
   notes: The circus is not what you expected

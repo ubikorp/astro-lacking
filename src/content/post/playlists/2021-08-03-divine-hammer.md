@@ -26,7 +26,7 @@ tags:
 - The Goldstars
 - Jen Cloher
 - Joey Joesph
-- Jools Holland Orchestra And Jamiroquai
+- Jools Holland Orchestra + Jamiroquai
 - Juliana Hatfield
 - Knoxville Girls
 - Laika + The Cosmonauts
@@ -252,7 +252,7 @@ playlist:
   artist_slug: crocodiles
   notes: Originally from Robyn Hitchcock
 - sequence: 45
-  song: Duke Of Earl
+  song: Duke of Earl
   artist: Frank Black
   artist_slug: frank-black
   notes: Originally from Gene Chandler

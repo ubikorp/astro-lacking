@@ -192,7 +192,7 @@ playlist:
   artist_slug: rolling-blackouts-coastal-fever
   notes: Sparkling aggression
 - sequence: 32
-  song: Conspiracy Of Praise
+  song: Conspiracy of Praise
   artist: Thomas Function
   artist_slug: thomas-function
   notes: Relentless compliments

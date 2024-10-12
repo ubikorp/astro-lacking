@@ -26,7 +26,7 @@ tags:
 - Gwenno
 - The Hush Sound
 - Ill Ease
-- Internal / External
+- Internal | External
 - Jen Cloher
 - Jennyanykind
 - Julia P. Hersheimer

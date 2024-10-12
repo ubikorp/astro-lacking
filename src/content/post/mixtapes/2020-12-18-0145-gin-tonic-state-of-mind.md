@@ -45,7 +45,7 @@ tags:
 - Valis
 - Vulfpeck
 airdate: '2020-12-18'
-mixcloud: https://www.mixcloud.com/widget/iframe/?feed=%2Fthe-lacking-org%2Fbsfiol-145-gin-tonic-state-of-mind%2F&hide_artwork=1&hide_cover=1
+mixcloud: https://www.mixcloud.com/the-lacking-org/bsfiol-145-gin-tonic-state-of-mind/
 playlist:
 - sequence: 1
   song: Gin Tonic State of Mind
@@ -190,7 +190,7 @@ playlist:
   artist_slug: valis
   notes: Yeah, I don’t know either
 - sequence: 33
-  song: L'Heros
+  song: L’Heros
   artist: The Pinker Tones
   artist_slug: pinker-tones
   notes: Straight outta Barcelona

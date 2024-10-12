@@ -35,7 +35,7 @@ tags:
 - Great Grandpa
 - Illinois
 - Imperial Teen
-- Internal / External
+- Internal | External
 - Islands
 - Junior Varsity
 - Kimberley Rew
@@ -49,7 +49,7 @@ tags:
 - Redd Kross
 - Ride
 - The Rondelles
-- Rosie and Me
+- Rosie + Me
 - The Shivas
 - Stephen Malkmus
 - Super Furry Animals
@@ -229,7 +229,7 @@ playlist:
   artist_slug: redd-kross
   notes: Mancini time!
 - sequence: 39
-  song: Picture Of The Future
+  song: Picture of the Future
   artist: Treat Her Right
   artist_slug: treat-her-right
   notes: Enter Sandman
