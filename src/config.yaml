@@ -1,6 +1,6 @@
 site:
   name: lacking.org
-  site: 'https://the.lacking.org'
+  site: 'https://tlo.netlify.app'
   base: '/'
   trailingSlash: false
 
