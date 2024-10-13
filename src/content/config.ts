@@ -63,7 +63,6 @@ const postCollection = defineCollection({
     // Feature Image
     image: z.string().optional(),
     caption: z.string().optional(),
-    // TODO: Badge images
 
     // Playlists
 		airdate: z.string().optional(),
