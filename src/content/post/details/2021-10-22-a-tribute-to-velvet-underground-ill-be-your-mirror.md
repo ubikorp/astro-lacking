@@ -9,6 +9,7 @@ excerpt: There’s good reason the Velvet Underground is one of the most popular
   does not shy away from the more uncomfortable VU topics, which makes it a standout.
 author: jclacking
 image: "~/assets/images/details/2021/i-ll-be-your-mirror.jpeg"
+spotify: 3aR5uoIipwEdABYp1MHbHk
 tags:
 - Fontaines DC
 - Kurt Vile

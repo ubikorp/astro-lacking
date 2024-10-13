@@ -10,6 +10,7 @@ excerpt: Featuring a thunderous rhythm section unafraid to venture into lockstep
   Deerhoof.
 author: jclacking
 image: "~/assets/images/details/2021/deerhoof.jpeg"
+spotify: 3WVpMRRKz9BVU4koPEFpnF
 tags:
 - Blonde Redhead
 - Heavy Vegetable
