@@ -12,8 +12,8 @@ export interface Props {
 }
 
 const { post } = Astro.props;
+const link = getPermalink(post.permalink, 'post');
 
-const video_url = post.video;
 ---
 
 <div class="mt-2">
@@ -44,11 +44,17 @@ const video_url = post.video;
         }
       </span>
     </div>
-    <h2 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-300" set:html={post.title} />
+    <h2 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-300">
+      <a
+        href={link}
+        set:html={post.title}
+        class="hover:text-primary"
+      />
+    </h2>
   </header>
 
   <div class="w-full text-center bg-neutral-100 dark:bg-slate-800 p-4 rounded-md shadow-md dark:shadow-none dark:border dark:border-slate-600">
-    <YouTube id={video_url as string} class="mx-auto" />
+    <YouTube id={post.video as string} class="mx-auto" />
     <div class="mt-2" set:html={post.excerpt} />
   </div>
 

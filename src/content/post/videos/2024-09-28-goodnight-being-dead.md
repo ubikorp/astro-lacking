@@ -9,4 +9,4 @@ author: jclacking
 video: https://www.youtube.com/watch?v=JUWjf_MkpDs
 excerpt: Sweet dance moves!
 ---
-Sweet dance moves!
+

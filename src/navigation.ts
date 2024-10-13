@@ -137,6 +137,8 @@ export const footerData = {
       links: [
         { text: 'Mixtapes', href: getPermalink('mixtapes', 'category') },
         { text: 'Playlists', href: getPermalink('playlists', 'category') },
+        { text: 'Details', href: getPermalink('details', 'category') },
+        { text: 'Videos', href: getPermalink('videos', 'category') },
       ],
     },
     {

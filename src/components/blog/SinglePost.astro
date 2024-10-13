@@ -11,6 +11,8 @@ import { getFormattedDate } from '~/utils/utils';
 
 import type { Post } from '~/types';
 import Mixcloud from '../tlo/Mixcloud.astro';
+import Spotify from '../tlo/Spotify.astro';
+import { YouTube } from 'astro-embed';
 
 export interface Props {
   post: Post;
@@ -57,11 +59,21 @@ const { post, url } = Astro.props;
         </p>
       </div>
 
+      <!-- Headline -->
       <h1
         class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading"
-      >
-        {post.title}
-      </h1>
+        set:html={post.title}
+      />
+
+      <!-- Subhead -->
+      { post.subtitle && (
+        <h3
+          class="px-4 sm:px-6 max-w-3xl mx-auto text-xl md:text-2xl leading-tighter tracking-tighter font-heading"
+          set:html={post.subtitle}
+        />
+      )}
+
+      <!-- Excerpt -->
       <p
         class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
         set:html={post.excerpt}
@@ -69,7 +81,11 @@ const { post, url } = Astro.props;
       </p>
 
       {
-        post.image ? (
+        post.spotify ? (
+          <Spotify post={post} />
+        ) : post.video ? (
+          <YouTube id={post.video as string} class="mx-auto" />
+        ) : post.image ? (
           <Image
             src={post.image}
             class="max-w-full lg:max-w-[900px] mx-auto sm:rounded-md bg-gray-400 dark:bg-slate-700"

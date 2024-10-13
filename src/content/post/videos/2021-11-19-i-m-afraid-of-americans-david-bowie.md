@@ -9,4 +9,4 @@ author: jclacking
 video: https://youtu.be/LT3cERVRoQo
 excerpt: In unbelievably crisp 4K
 ---
-In unbelievably crisp 4K
+
