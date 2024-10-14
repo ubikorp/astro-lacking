@@ -95,6 +95,13 @@ apps:
           background:  site/banners/details_bg.jpg
           icon:        site/banners/details_icon.png
           social:      site/banners/details_social.jpg
+        links:
+          title:       Links
+          tagline:     Sources&nbsp;of&nbsp;entertainment and&nbsp;further&nbsp;distraction
+          description: External URLs representing the efforts of others which your host hs found to be particularly admirable.
+          background:  site/banners/details_bg.jpg
+          icon:        site/banners/details_icon.png
+          social:      site/banners/details_social.jpg
         details:
           title:       The&nbsp;Lacking Details
           tagline:     Selections of note and recent activity
