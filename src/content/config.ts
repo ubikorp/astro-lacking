@@ -81,6 +81,7 @@ const postCollection = defineCollection({
     youtube: z.string().optional(),
     spotify: z.string().optional(),
     video: z.string().optional(),
+    link_url: z.string().optional(),
 
     // Metadata
     metadata: metadataDefinition()

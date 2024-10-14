@@ -20,7 +20,8 @@ export interface Props {
 const { post } = Astro.props;
 const image = (await findImage(post.image)) as ImageMetadata | undefined;
 
-const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
+const link = post.link_url || getPermalink(post.permalink, 'post');
+const external = !!post.link_url
 ---
 
 <article class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 ${image ? 'md:grid-cols-2' : ''}`}>
@@ -63,8 +64,10 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
             <a
               class="inline-block hover:text-primary transition ease-in duration-200"
               href={link}
+              target={external ? '_blank' : ''}
             >
               {post.title}
+              { external && <Icon name="tabler:external-link" class="w-4.5 h-4.5 inline-block -mt-0.5 dark:text-gray-400" /> }
             </a>
           ) : (
             post.title

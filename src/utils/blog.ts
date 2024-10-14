@@ -66,6 +66,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     spotify,
     youtube,
     video,
+    link_url,
   } = data;
 
   const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
@@ -122,6 +123,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     spotify: spotify,
     youtube: youtube,
     video: video,
+    link_url: link_url,
   };
 };
 

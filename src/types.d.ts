@@ -52,6 +52,7 @@ export interface Post {
   spotify?: string;
   youtube?: string;
   video?: string;
+  link_url?: string;
 }
 
 export interface Play {
