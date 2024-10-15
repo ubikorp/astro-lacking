@@ -24,8 +24,6 @@ const isImage = !(isSpotify || isMixcloud)
 const spotifySrc = isSpotify ? `https://open.spotify.com/embed/album/${post.spotify}?utm_source=generator` : ''
 const mixcloudFeed = isMixcloud ? post.mixcloud?.replace('https://www.mixcloud.com', '').replaceAll('/', '%2F') : ''
 const mixcloudSrc = isMixcloud ? `https://player-widget.mixcloud.com/widget/iframe/?feed=${mixcloudFeed}&light=1` : ''
-
-console.log(post.title, isSpotify, isMixcloud, isImage)
 ---
 
 <!-- Spotify -->
