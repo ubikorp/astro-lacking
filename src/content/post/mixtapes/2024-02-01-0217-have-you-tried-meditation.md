@@ -1,0 +1,117 @@
+---
+title: 'Mixtape 217 :: Have you tried meditation?'
+subtitle: ''
+category: mixtapes
+publishDate: '2024-02-01T15:30:00Z'
+slug: 0217-have-you-tried-meditation
+name: Have you tried meditation?
+episode: '0217'
+excerpt: Pacing keeps it steady with a forward approach and some decent advice.
+image: "~/assets/images/mixtapes/217-pacing.jpg"
+caption: Pacing
+tags:
+- Asylum Street Spankers
+- The Bobs
+- The Cat Empire
+- Holly Golightly
+- The Kinks
+- The Moore Brothers
+- OFFICE
+- Pacing
+- Parquet Courts
+- Push
+- Rita Chaos & The Quests
+- Stone Roses
+- Trees Speak
+- Verbena
+- Waxahatchee
+airdate: '2024-02-01'
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-217-have-you-tried-meditation-2024-02-01/
+playlist:
+- sequence: 1
+  song: Have you tried meditation?
+  artist: Pacing
+  artist_slug: pacing
+  notes: It could work
+- sequence: 2
+  song: BREAK
+- sequence: 3
+  song: Right Back To It (feat. MJ Lenderman)
+  artist: Waxahatchee
+  artist_slug: waxahatchee
+  notes: Shake some dust
+- sequence: 4
+  song: Antifreeze
+  artist: Asylum Street Spankers
+  artist_slug: asylum-street-spankers
+  notes: Chock full of inside jokes
+- sequence: 5
+  song: Set Me Free
+  artist: The Kinks
+  artist_slug: kinks
+  notes: For the Mic Man
+- sequence: 6
+  song: No Big Thing
+  artist: Holly Golightly
+  artist_slug: holly-golightly
+  notes: Uncharacteristically lackadaisical
+- sequence: 7
+  song: BREAK
+- sequence: 8
+  song: Elements of Matter
+  artist: Trees Speak
+  artist_slug: trees-speak
+  notes: Hypnotic sizzle
+- sequence: 9
+  song: Total Football
+  artist: Parquet Courts
+  artist_slug: parquet-courts
+  notes: Going out to the fans
+- sequence: 10
+  song: Hanky Panky
+  artist: Rita Chaos & The Quests
+  artist_slug: rita-chaos-quests
+  notes: That is what I am talking about
+- sequence: 11
+  song: BREAK
+- sequence: 12
+  song: Nobody Knows You
+  artist: OFFICE
+  artist_slug: office
+  notes: Ungoogleable!
+- sequence: 13
+  song: Moleslica
+  artist: The Moore Brothers
+  artist_slug: moore-brothers
+  notes: A majestic soar and something else
+- sequence: 14
+  song: Fools Gold
+  artist: Stone Roses
+  artist_slug: stone-roses
+  notes: Commence the bidding war
+- sequence: 15
+  song: BREAK
+- sequence: 16
+  song: Be With You Again
+  artist: The Cat Empire
+  artist_slug: cat-empire
+  notes: Hit us with that Aussie samba
+- sequence: 17
+  song: The Flute Tune
+  artist: Push
+  artist_slug: push
+  notes: Delivering on the title
+- sequence: 18
+  song: Hot Blood
+  artist: Verbena
+  artist_slug: verbena
+  notes: Hotter than Foreigner
+- sequence: 19
+  song: BREAK
+- sequence: 20
+  song: The Wind Cries Mary
+  artist: The Bobs
+  artist_slug: bobs
+  notes: Originally from Jimi Hendrix
+---
+
