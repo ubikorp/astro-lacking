@@ -133,16 +133,17 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Categories',
+      title: 'Taxonomies',
       links: [
         { text: 'Mixtapes', href: getPermalink('mixtapes', 'category') },
         { text: 'Playlists', href: getPermalink('playlists', 'category') },
         { text: 'Details', href: getPermalink('details', 'category') },
         { text: 'Videos', href: getPermalink('videos', 'category') },
+        { text: 'Links', href: getPermalink('links', 'category') },
       ],
     },
     {
-      title: 'Pages',
+      title: 'Information',
       links: [
         { text: 'Radio Activity', href: getPermalink('/radio-activity')},
         { text: 'Your Host', href: getPermalink('/your-host') },
