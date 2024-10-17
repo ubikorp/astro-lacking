@@ -1,9 +1,4 @@
 ---
-- airdate: 2024-10-10
-  start_time: '2024-10-10T20:00:00Z'
-  end_time: '2024-10-10T21:00:00Z'
-  location: ltw
-  notes:
 - airdate: 2024-10-17
   start_time: '2024-10-17T20:00:00Z'
   end_time: '2024-10-17T21:00:00Z'
