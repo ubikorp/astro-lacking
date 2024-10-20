@@ -2,7 +2,7 @@
 title: "“Hypnic Jerks” &bull; Spirit of the Beehive"
 category: videos
 publishDate: '2024-10-18'
-slug: hypnic-jerks-spirit-of-the-beehive
+slug: hypnic-jerks-spirit-of-beehive
 tags:
 - Spirit of the Beehive
 author: jclacking

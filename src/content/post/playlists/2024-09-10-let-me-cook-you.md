@@ -51,7 +51,7 @@ tags:
 - Towa Tei
 - Velocity Girl
 - Ween
-- Yacht
+- YACHT
 airdate: '2024-09-10'
 playlist:
 - sequence: 1
@@ -63,7 +63,7 @@ playlist:
   song: BREAK
 - sequence: 3
   song: Finger In Your Eye
-  artist: Yacht
+  artist: YACHT
   artist_slug: yacht
   notes: Quit poking
 - sequence: 4

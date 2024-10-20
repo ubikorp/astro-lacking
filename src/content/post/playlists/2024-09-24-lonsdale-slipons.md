@@ -52,7 +52,7 @@ tags:
 - Velocity Girl
 - Ween
 - Why Bonnie
-- Yacht
+- YACHT
 - Yo La Tengo
 airdate: '2024-09-24'
 playlist:
@@ -170,7 +170,7 @@ playlist:
   notes: Friendship is deep
 - sequence: 27
   song: We’re Blowing Out (feat. Jennifer Vanilla)
-  artist: Yacht
+  artist: YACHT
   artist_slug: yacht
   notes: Chant right along
 - sequence: 28

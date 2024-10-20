@@ -6,7 +6,7 @@ slug: starburster-fontaines-dc
 tags:
 - Fontaines DC
 author: jclacking
-video: https://www.youtube.com/watch?v=KHocVRUlvkk
+video: KHocVRUlvkk
 excerpt: Breathe in, breathe out
 ---
 

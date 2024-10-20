@@ -23,13 +23,13 @@ tags:
 - Naked Giants
 - Nick Cave & The Bad Seeds
 - Ween
-- Yacht
+- YACHT
 airdate: '2024-09-26'
 mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-258-finger-in-your-eye-2024-09-26/
 playlist:
 - sequence: 1
   song: Finger In Your Eye
-  artist: Yacht
+  artist: YACHT
   artist_slug: yacht
   notes: Quit poking
 - sequence: 2
