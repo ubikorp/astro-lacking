@@ -5,7 +5,6 @@ import { Icon } from 'astro-icon/components';
 import PostTags from '~/components/blog/Tags.astro';
 import Tile from '~/components/tlo/Tile.astro';
 
-import { APP_BLOG } from 'astrowind:config';
 import type { Post } from '~/types';
 
 import { getPermalink } from '~/utils/permalinks';
@@ -66,11 +65,11 @@ const external = !!post.link_url
               href={link}
               target={external ? '_blank' : ''}
             >
-              {post.title}
+              <span set:html={post.title} />
               { external && <Icon name="tabler:external-link" class="w-4.5 h-4.5 inline-block -mt-0.5 dark:text-gray-400" /> }
             </a>
           ) : (
-            post.title
+            <span set:html={post.title} />
           )
         }
       </h2>
