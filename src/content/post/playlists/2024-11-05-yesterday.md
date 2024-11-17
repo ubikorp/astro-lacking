@@ -2,14 +2,14 @@
 title: Yesterday
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-11-05T21:00:00Z'
+publishDate: '2024-11-05'
 slug: 2024-11-05-yesterday
 excerpt: It’s election night in the US, but the whole point of today’s show is to
   pretend it isn’t. To that end, we are kicking off with my new favorites **AK/DK**
   — they sound ready to take the system apart using only the crudest electromechanical
   components. Big shout out to the crew near Rocket Park who enjoyed the show to the
   point of calling in. Long live the Gizzle!
-image: "~/assets/images/playlists/2024/2024-11-05-ak-dk.jpg"
+image: "~/assets/images/playlists/2024/11/2024-11-05-ak-dk.jpg"
 caption: AK/DK
 tags:
 - AK|DK

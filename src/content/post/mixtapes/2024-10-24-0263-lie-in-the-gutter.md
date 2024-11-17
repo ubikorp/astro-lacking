@@ -1,14 +1,11 @@
 ---
-title: 'Mixtape 263 :: Lie In the Gutter'
-subtitle: ''
+title: Mixtape 263 &bull; Lie In the Gutter
 category: mixtapes
-publishDate: '2024-10-24T15:30:00Z'
+publishDate: '2024-10-24'
 slug: 0263-lie-in-the-gutter
-name: Lie In the Gutter
-episode: '0263'
 excerpt: Peel Dream Magazine extend a cordial invitation to visit their hallucinogenic
   analog planet.
-image: "~/assets/images/mixtapes/263-peel-dream-magazine.jpg"
+image: "~/assets/images/mixtapes/2024/10/263-peel-dream-magazine.jpg"
 caption: Peel Dream Magazine
 tags:
 - Amy Rigby
@@ -28,7 +25,6 @@ tags:
 - Unknown
 - Ween
 - YACHT
-airdate: '2024-10-24'
 mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-263-lie-in-the-gutter-2024-10-24/
 playlist:
 - sequence: 1

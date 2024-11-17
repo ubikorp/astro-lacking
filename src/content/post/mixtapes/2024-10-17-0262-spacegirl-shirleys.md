@@ -1,14 +1,11 @@
 ---
-title: 'Mixtape 262 :: Spacegirl (Shirley’s)'
-subtitle: ''
+title: Mixtape 262 &bull; Spacegirl (Shirley’s)
 category: mixtapes
-publishDate: '2024-10-17T15:30:00Z'
+publishDate: '2024-10-17'
 slug: 0262-spacegirl-shirleys
-name: Spacegirl (Shirley’s)
-episode: '0262'
 excerpt: Raw as a blister and smooth as obsidian, Okay Kaya is a spinner of tales
   and shifter of moods.
-image: "~/assets/images/mixtapes/262-oka-kaya.jpg"
+image: "~/assets/images/mixtapes/2024/10/262-oka-kaya.jpg"
 caption: Okay Kaya
 tags:
 - Attic Ted
@@ -27,7 +24,6 @@ tags:
 - Velocity Girl
 - Why Bonnie
 - Yo La Tengo
-airdate: '2024-10-17'
 mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-262-spacegirl-shirleys/
 playlist:
 - sequence: 1

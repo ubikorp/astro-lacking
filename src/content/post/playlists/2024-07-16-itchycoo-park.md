@@ -2,7 +2,7 @@
 title: Itchycoo Park
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-07-16T21:00:00Z'
+publishDate: '2024-07-16'
 slug: 2024-07-16-itchycoo-park
 excerpt: 'I’ve been noticing a dry spell on covers making it onto the show, but that
   was busted tonight with an inordinate (and quite varied) set of songs, starting
@@ -10,7 +10,7 @@ excerpt: 'I’ve been noticing a dry spell on covers making it onto the show, bu
   album of mostly covers, specifically from the year 1967, on the way, and this single
   is blazing the way. Also covered tonight: David Bowie, Dire Straits, Duke Ellington,
   Daniel Johnston, and the Bar-Kays.'
-image: "~/assets/images/playlists/2024/2024-07-16-robyn-hitchcock.jpg"
+image: "~/assets/images/playlists/2024/07/2024-07-16-robyn-hitchcock.jpg"
 caption: Robyn Hitchcock
 tags:
 - Afghan Whigs
@@ -51,7 +51,7 @@ tags:
 - The Real Tuesday Weld
 - Robyn Hitchcock
 - Thunderpussy
-- 'White Rabbits '
+- White Rabbits
 - Wilco
 - World Standard
 - µ-Ziq

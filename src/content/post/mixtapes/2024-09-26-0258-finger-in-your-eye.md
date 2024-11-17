@@ -1,13 +1,10 @@
 ---
-title: 'Mixtape 258 :: Finger In Your Eye'
-subtitle: ''
+title: Mixtape 258 &bull; Finger In Your Eye
 category: mixtapes
-publishDate: '2024-09-26T15:30:00Z'
+publishDate: '2024-09-26'
 slug: '0258-finger-in-your-eye'
-name: Finger In Your Eye
-episode: '0258'
 excerpt: Looks like YACHT is back and gesticulating wildly about.
-image: "~/assets/images/mixtapes/258-yacht.jpg"
+image: "~/assets/images/mixtapes/2024/09/258-yacht.jpg"
 caption: YACHT
 tags:
 - Amy Rigby
@@ -24,7 +21,6 @@ tags:
 - Nick Cave & The Bad Seeds
 - Ween
 - YACHT
-airdate: '2024-09-26'
 mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-258-finger-in-your-eye-2024-09-26/
 playlist:
 - sequence: 1

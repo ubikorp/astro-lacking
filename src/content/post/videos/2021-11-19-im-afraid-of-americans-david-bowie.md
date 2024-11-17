@@ -1,12 +1,11 @@
 ---
-title: "“I’m Afraid Of Americans” &bull; David Bowie"
+title: "&#8220;I’m Afraid Of Americans&#8221; &bull; David Bowie"
 category: videos
 publishDate: '2021-11-19'
 slug: im-afraid-of-americans-david-bowie
+excerpt: In unbelievably crisp 4K
 tags:
 - David Bowie
-author: jclacking
 video: https://youtu.be/LT3cERVRoQo
-excerpt: In unbelievably crisp 4K
 ---
 

@@ -2,13 +2,13 @@
 title: The Lunatics
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-07-30T21:00:00Z'
+publishDate: '2024-07-30'
 slug: 2024-07-30-the-lunatics
 excerpt: We’re starting out with new music from **Beatsteaks**, who are taking on
   the Fun Boy Three’s “The Lunatics (Have Taken Over The Asylum)” for our opener.
   Tonight’s show featured both Molecular Steve and Delicate Steve, both of whom have
   new albums out, so I expect another couple of Steve-heavy shows in the future.
-image: "~/assets/images/playlists/2024/2024-07-30-beatsteaks.jpg"
+image: "~/assets/images/playlists/2024/08/2024-07-30-beatsteaks.jpg"
 caption: Beatsteaks
 tags:
 - Actress

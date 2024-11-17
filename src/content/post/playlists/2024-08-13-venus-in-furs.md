@@ -2,13 +2,13 @@
 title: Venus In Furs
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-08-13T21:00:00Z'
+publishDate: '2024-08-13'
 slug: 2024-08-13-venus-in-furs
 excerpt: It doesn’t get more mid-century Goth than **The Raveonettes** picking up
   on the Velvet Underground’s “Venus In Furs”. Besides that, the tenor of the night
   tended to lean towards the acoustic, with a handful of sets exploring the pluckier
   side of things.
-image: "~/assets/images/playlists/2024/2024-08-13-raveonettes.jpg"
+image: "~/assets/images/playlists/2024/08/2024-08-13-raveonettes.jpg"
 caption: The Raveonettes
 tags:
 - A Place to Bury Strangers

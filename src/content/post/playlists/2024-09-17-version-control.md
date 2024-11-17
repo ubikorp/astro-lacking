@@ -2,14 +2,13 @@
 title: Version Control
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-09-17T21:00:00Z'
+publishDate: '2024-09-17'
 slug: 2024-09-17-version-control
 excerpt: It’s time for the return of **Version Control**, the occasional gathering
   of music as interpreted by someone other than the artists that wrote the song or
   made it famous. You know, covers. After the notorious Cover Drought of 2023, we
   have a full episode of covers ranging from the obscure to the revolutionary.
-image: "~/assets/images/playlists/2024/2024-09-17-version-control.jpg"
-caption: ''
+image: "~/assets/images/playlists/2024/09/2024-09-17-version-control.jpg"
 tags:
 - ALA.NI
 - Andrew Bird, Alan Hampton & Ted Poor

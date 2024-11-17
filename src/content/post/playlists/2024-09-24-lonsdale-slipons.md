@@ -2,13 +2,13 @@
 title: Lonsdale Slipons
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-09-24T21:00:00Z'
+publishDate: '2024-09-24'
 slug: 2024-09-24-lonsdale-slipons
 excerpt: There’s a lot of great new music out there right now, and near the top of
   the heap is **The Bug Club**, whose most recent release is filled to the brim with
   joyful nuggets of everyday life. The school year has started and the coffers are
   overflowing with a lot of great new music.
-image: "~/assets/images/playlists/2024/2024-09-24-bug-club.jpg"
+image: "~/assets/images/playlists/2024/09/2024-09-24-bug-club.jpg"
 caption: The Bug Club
 tags:
 - A Place to Bury Strangers

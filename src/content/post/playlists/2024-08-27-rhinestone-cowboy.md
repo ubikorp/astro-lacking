@@ -2,13 +2,13 @@
 title: Rhinestone Cowboy
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-08-27T21:00:00Z'
+publishDate: '2024-08-27'
 slug: 2024-08-27-rhinestone-cowboy
 excerpt: Some of us are lucky. Some of us get to sit in a comfortable broadcasting
   studio and play **Orville Peck**, while others are hacking their way through a couple
   of gloomstalkers with nothing but the barely-magical weaponry a fifth-level figher
   can afford.
-image: "~/assets/images/playlists/2024/2024-08-27-orville-peck.jpg"
+image: "~/assets/images/playlists/2024/08/2024-08-27-orville-peck.jpg"
 caption: Orville Peck
 tags:
 - The Aristocrats

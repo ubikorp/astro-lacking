@@ -2,14 +2,14 @@
 title: Let Me Cook You
 subtitle: KAFM Grand Junction, 9pm - 12am
 category: playlists
-publishDate: '2024-09-10T21:00:00Z'
+publishDate: '2024-09-10'
 slug: 2024-09-10-let-me-cook-you
 excerpt: 'Magic is in the air, so we are starting most appropriately with Boom Pam
   and their take on Steve Miller’s “Abracadabra,” herein entitled “Alakazam.” It only
   got more magical from there with new music from Nick Cave, Fake Fruit, and **Los
   Bitchos**, all of whom are presently on desktop rotation. Next week: a special Fund
   Drive show.'
-image: "~/assets/images/playlists/2024/2024-09-10-los-bitchos.jpg"
+image: "~/assets/images/playlists/2024/09/2024-09-10-los-bitchos.jpg"
 caption: Los Bitchos
 tags:
 - Amy Rigby
