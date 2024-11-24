@@ -4,8 +4,9 @@ category: videos
 publishDate: '2021-11-19'
 slug: im-afraid-of-americans-david-bowie
 excerpt: In unbelievably crisp 4K
+image: "~/assets/images/videos/2024/09/im-afraid-of-americans.jpg"
 tags:
 - David Bowie
-video: https://youtu.be/LT3cERVRoQo
+video: LT3cERVRoQo
 ---
 

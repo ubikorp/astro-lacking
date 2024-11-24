@@ -4,8 +4,9 @@ category: videos
 publishDate: '2024-10-27'
 slug: alone-cure
 excerpt: Fragile and oppressive
+image: "~/assets/images/videos/2024/09/alone.jpg"
 tags:
 - The Cure
-video: https://www.youtube.com/watch?v=sx9SVAtMkJM
+video: sx9SVAtMkJM
 ---
 

@@ -4,8 +4,9 @@ category: videos
 publishDate: '2024-09-07'
 slug: one-raga-to-a-disco-beat-glass-beams
 excerpt: Cardamom and mirrorballs
+image: "~/assets/images/videos/2024/09/one-raga-to-a-disco-beat.jpg"
 tags:
 - Glass Beams
-video: https://www.youtube.com/watch?v=w_3hALBro5c
+video: w_3hALBro5c
 ---
 
