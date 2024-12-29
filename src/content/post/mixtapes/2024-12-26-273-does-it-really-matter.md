@@ -23,8 +23,7 @@ tags:
 - Neon Rayon
 - Peel Dream Magazine
 - Thee Sacred Souls
-- Unknown
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-273-does-it-really-matter-2024-12-26/
+airdate: '2024-12-26'
 playlist:
 - sequence: 1
   song: Does It Really Matter
@@ -141,5 +140,6 @@ playlist:
   album: Three
   time: '4:03'
   notes: Foreshadowing the later parts of the evening
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-273-does-it-really-matter-2024-12-26/
 ---
 
