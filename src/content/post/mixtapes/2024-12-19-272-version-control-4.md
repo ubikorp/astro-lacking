@@ -23,8 +23,7 @@ tags:
 - Sex Clark Five
 - Sharon Jones + The Dap-Kings
 - Siouxsie + the Banshees
-- Unknown
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-272-version-control-4-2024-12-19/
+airdate: '2024-12-19'
 playlist:
 - sequence: 1
   song: I Can't Stand The Rain
@@ -149,5 +148,6 @@ playlist:
   album: Hope
   time: '5:31'
   notes: Going out to Mike Hallberg!
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-272-version-control-4-2024-12-19/
 ---
 
