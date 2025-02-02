@@ -23,12 +23,14 @@ tags:
 - The Messthetics & James Brandon Lewis
 - Thee Conductor
 - Waxahatchee
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-233-big-congratulations-2024-05-02/
+airdate: '2024-05-02'
 playlist:
 - sequence: 1
   song: Big Congratulations
   artist: Holiday Ghosts
   artist_slug: holiday-ghosts
+  album: Coat of Arms
+  time: '2:50'
   notes: Rattling off the wagon
 - sequence: 2
   song: BREAK
@@ -36,16 +38,22 @@ playlist:
   song: Drive Slow
   artist: The Bad Beats
   artist_slug: bad-beats
+  album: Gotta Get Loose!
+  time: '3:04'
   notes: The ole organ grind
 - sequence: 4
   song: Last Living Buffalo
   artist: Being Dead
   artist_slug: being-dead
+  album: When Horses Would Run
+  time: '3:15'
   notes: Don’t mess with bison
 - sequence: 5
   song: Bank Robber
   artist: Bristler
   artist_slug: bristler
+  album: Cascades At Play
+  time: '3:58'
   notes: Take the money and run
 - sequence: 6
   song: BREAK
@@ -53,16 +61,22 @@ playlist:
   song: John Conquest
   artist: Alejandro Escovedo
   artist_slug: alejandro-escovedo
+  album: Echo Dancing
+  time: '3:16'
   notes: Grittier than expected
 - sequence: 8
   song: jamcod
   artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
+  album: Glasgow Eyes
+  time: '4:00'
   notes: They are quite back
 - sequence: 9
   song: Big Man
   artist: Thee Conductor
   artist_slug: thee-conductor
+  album: Ennoia
+  time: '3:01'
   notes: Large thoughts
 - sequence: 10
   song: BREAK
@@ -70,21 +84,29 @@ playlist:
   song: 'Los Narcos '
   artist: Master Peace
   artist_slug: master-peace
+  album: How To Make A Master Peace
+  time: '1:55'
   notes: Worth the edits
 - sequence: 12
   song: Alcohol And Cocainemarijuananicotine
   artist: The Dandy Warhols
   artist_slug: dandy-warhols
+  album: ROCKMAKER
+  time: '4:06'
   notes: Getting into it
 - sequence: 13
   song: "(Go On) The First Flight"
   artist: Eyelids
   artist_slug: eyelids
+  album: No Jigsaw
+  time: '3:54'
   notes: Don’t dilly dally
 - sequence: 14
   song: Her to the Earth
   artist: Elbow
   artist_slug: elbow
+  album: AUDIO VERTIGO
+  time: '5:01'
   notes: Funked out
 - sequence: 15
   song: BREAK
@@ -92,21 +114,29 @@ playlist:
   song: Cell Phone Says
   artist: Adrianne Lenker
   artist_slug: adrianne-lenker
+  album: Bright Future
+  time: '2:38'
   notes: Inside voice
 - sequence: 17
   song: Was Fort Worth Worth It?
   artist: Corb Lund
   artist_slug: corb-lund
+  album: El Viejo
+  time: '3:11'
   notes: Playing with words
 - sequence: 18
   song: Lone Star Lake
   artist: Waxahatchee
   artist_slug: waxahatchee
+  album: Tigers Blood
+  time: '3:16'
   notes: More true stories
 - sequence: 19
   song: Cynical Girl
   artist: Marshall Crenshaw
   artist_slug: marshall-crenshaw
+  album: Marshall Crenshaw (40th Anniversary Expanded Edition)
+  time: '2:35'
   notes: Get your own
 - sequence: 20
   song: BREAK
@@ -114,6 +144,9 @@ playlist:
   song: Emergence
   artist: The Messthetics & James Brandon Lewis
   artist_slug: messthetics-james-brandon-lewis
+  album: The Messthetics & James Brandon Lewis
+  time: '2:59'
   notes: Getting proggy in here
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-233-big-congratulations-2024-05-02/
 ---
 

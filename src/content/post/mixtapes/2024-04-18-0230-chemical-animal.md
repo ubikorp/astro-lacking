@@ -25,12 +25,14 @@ tags:
 - Pissed Jeans
 - Rose City Band
 - Wreckless Eric & Amy Rigby
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-230-chemical-animal-2024-04-18/
+airdate: '2024-04-18'
 playlist:
 - sequence: 1
   song: Chemical Animal
   artist: The Jesus + Mary Chain
   artist_slug: jesus-mary-chain
+  album: Glasgow Eyes
+  time: '4:34'
   notes: Honing that edge
 - sequence: 2
   song: BREAK
@@ -38,16 +40,22 @@ playlist:
   song: That Ain't Bad
   artist: Ben Lee
   artist_slug: ben-lee
+  album: ''
+  time: '1:42'
   notes: Originally from Ratcat
 - sequence: 4
   song: Treeland
   artist: Being Dead
   artist_slug: being-dead
+  album: When Horses Would Run
+  time: '3:36'
   notes: Getting ready to move in
 - sequence: 5
   song: Fireproof
   artist: Clap Your Hands Say Yeah
   artist_slug: clap-your-hands-say-yeah
+  album: The Tourist
+  time: '4:01'
   notes: Tripping through the icky ticky
 - sequence: 6
   song: BREAK
@@ -55,21 +63,29 @@ playlist:
   song: Modern Vanity
   artist: The Armed
   artist_slug: armed
+  album: Perfect Saviors
+  time: '3:49'
   notes: Slowly devouring
 - sequence: 8
   song: Orange
   artist: The Jon Spencer Blues Explosion
   artist_slug: jon-spencer-blues-explosion
+  album: Orange
+  time: '2:59'
   notes: Whoooo
 - sequence: 9
   song: Hall & Oates
   artist: IDLES
   artist_slug: idles
+  album: TANGK
+  time: '2:23'
   notes: Dead-eyed soul
 - sequence: 10
   song: Sixty-Two Thousand Dollars in Debt
   artist: Pissed Jeans
   artist_slug: pissed-jeans
+  album: Half Divorced
+  time: '1:55'
   notes: Things could be worse
 - sequence: 11
   song: BREAK
@@ -77,21 +93,29 @@ playlist:
   song: Softly
   artist: Mannequin Pussy
   artist_slug: mannequin-pussy
+  album: I Got Heaven
+  time: '3:27'
   notes: What you need
 - sequence: 13
   song: Is This The Music You Like?
   artist: The Bug Club
   artist_slug: bug-club
+  album: 'Rare Birds: Hour of Song'
+  time: '0:52'
   notes: This is the music I like
 - sequence: 14
   song: Vince The Loveable Stoner
   artist: The Fratellis
   artist_slug: fratellis
+  album: Costello Music
+  time: '3:14'
   notes: We all know a Vince
 - sequence: 15
   song: When I Can See The Valley
   artist: Leyla McCalla
   artist_slug: leyla-mccalla
+  album: 'Vari-colored Songs: A Tribute To Langston Hughes'
+  time: '2:10'
   notes: Singing the blue gospel
 - sequence: 16
   song: BREAK
@@ -99,21 +123,29 @@ playlist:
   song: Moonlight Highway
   artist: Rose City Band
   artist_slug: rose-city-band
+  album: Garden Party
+  time: '6:30'
   notes: Folkadelica
 - sequence: 18
   song: Here Comes My Ship
   artist: Wreckless Eric & Amy Rigby
   artist_slug: wreckless-eric-amy-rigby
+  album: Wreckless Eric & Amy Rigby
+  time: '2:52'
   notes: Married as hell
 - sequence: 19
   song: Mosquito
   artist: Mosquitos
   artist_slug: mosquitos
+  album: Mosquitos
+  time: '2:35'
   notes: Buzz buzz
 - sequence: 20
   song: "(You're My Favorite) Waste of Time (Original 4-Track Recording)"
   artist: Marshall Crenshaw
   artist_slug: marshall-crenshaw
+  album: Marshall Crenshaw (40th Anniversary Expanded Edition)
+  time: '2:37'
   notes: From an alternate universe
 - sequence: 21
   song: BREAK
@@ -121,6 +153,9 @@ playlist:
   song: Eye Of Fatima Pt 1
   artist: Eyelids
   artist_slug: eyelids
+  album: No Jigsaw
+  time: '3:04'
   notes: Originally from Camper Van Beethoven
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-230-chemical-animal-2024-04-18/
 ---
 

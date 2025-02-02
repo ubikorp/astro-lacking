@@ -24,12 +24,14 @@ tags:
 - The Third Mind
 - Tremelos
 - Vells
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-231-danzig-with-myself-2024-04-25/
+airdate: '2024-04-25'
 playlist:
 - sequence: 1
   song: Danzig With Myself
   artist: The Dandy Warhols
   artist_slug: dandy-warhols
+  album: ROCKMAKER
+  time: '3:56'
   notes: Going heavy on the heavy
 - sequence: 2
   song: BREAK
@@ -37,16 +39,22 @@ playlist:
   song: Nightshift
   artist: Eugene McGuinness
   artist_slug: eugene-mcguinness
+  album: Eugene McGuinness
+  time: '1:38'
   notes: In a hurry
 - sequence: 4
   song: A Little Bit Of Rain
   artist: The Third Mind
   artist_slug: third-mind
+  album: The Third Mind 2
+  time: '5:09'
   notes: About what you can expect
 - sequence: 5
   song: First Smile Ever
   artist: Cast
   artist_slug: cast
+  album: Love Is The Call
+  time: '4:35'
   notes: Feeling grand
 - sequence: 6
   song: BREAK
@@ -54,26 +62,36 @@ playlist:
   song: I’ll Keep Singing
   artist: Gruff Rhys
   artist_slug: gruff-rhys
+  album: Sadness Sets Me Free
+  time: '2:27'
   notes: Climbing out of it
 - sequence: 8
   song: Indivisible
   artist: Gibbous Moon
   artist_slug: gibbous-moon
+  album: Saturn V
+  time: '2:35'
   notes: Distant fuzz
 - sequence: 9
   song: Angeline
   artist: Kid Kapichi
   artist_slug: kid-kapichi
+  album: There Goes The Neighbourhood
+  time: '3:24'
   notes: Fun times if you can remember them
 - sequence: 10
   song: Freeze Brain
   artist: Real Estate
   artist_slug: real-estate
+  album: Daniel
+  time: '3:28'
   notes: You have to go slowly
 - sequence: 11
   song: Teenage Sequencer
   artist: Pedro the Lion
   artist_slug: pedro-lion
+  album: Havasu
+  time: '4:17'
   notes: 16 steps
 - sequence: 12
   song: BREAK
@@ -81,16 +99,22 @@ playlist:
   song: I'm So Tired
   artist: Lala Lala
   artist_slug: lala-lala
+  album: 'FADER & Friends: Volume 1'
+  time: '2:22'
   notes: Like sleep never comes
 - sequence: 14
   song: Ugly Human Heart Pt. 2
   artist: Daniel Romano
   artist_slug: daniel-romano
+  album: Modern Pressure
+  time: '1:59'
   notes: Feeling the Harrison
 - sequence: 15
   song: Ninja Please
   artist: Vells
   artist_slug: vells
+  album: Integreton
+  time: '2:43'
   notes: In an overdriven dream haze
 - sequence: 16
   song: BREAK
@@ -98,21 +122,29 @@ playlist:
   song: Mango Cool
   artist: Cheo
   artist_slug: cheo
+  album: ''
+  time: '3:01'
   notes: Originally from Los Amigos Invisibles
 - sequence: 18
   song: Here Comes My Baby
   artist: Tremelos
   artist_slug: tremelos
+  album: The Very Best Of The Tremeloes
+  time: '3:03'
   notes: Originally from Cat Stevens
 - sequence: 19
   song: All Night
   artist: The Countdown Quartet
   artist_slug: countdown-quartet
+  album: Party With!
+  time: '3:39'
   notes: Audio caffeine
 - sequence: 20
   song: All Rooms Cable A/C Free Coffee
   artist: The Extra Glenns
   artist_slug: extra-glenns
+  album: Martial Arts Weekend
+  time: '1:48'
   notes: Stay for a while
 - sequence: 21
   song: BREAK
@@ -120,6 +152,9 @@ playlist:
   song: Ruby, Don't Take Your Love to Town
   artist: Cake
   artist_slug: cake
+  album: B-Sides and Rarities
+  time: '2:56'
   notes: Originally from Kenny Rogers and First Edition
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-231-danzig-with-myself-2024-04-25/
 ---
 
