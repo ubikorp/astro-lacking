@@ -1,14 +1,4 @@
 ---
-- airdate: 2025-01-23
-  start_time: '2025-01-23T21:00:00Z'
-  end_time: '2025-01-23T22:00:00Z'
-  location: ltw
-  notes:
-- airdate: 2025-01-28
-  start_time: '2025-01-29T04:00:00Z'
-  end_time: '2025-01-28T07:00:00Z'
-  location: kafm
-  notes:
 - airdate: 2025-01-30
   start_time: '2025-01-30T21:00:00Z'
   end_time: '2025-01-30T22:00:00Z'
