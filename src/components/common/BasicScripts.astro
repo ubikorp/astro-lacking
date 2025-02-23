@@ -191,10 +191,13 @@ import { UI } from 'astrowind:config';
     const scheduleJSON = document.getElementById(scheduleId).dataset.schedule;
     const schedule = JSON.parse(scheduleJSON);
     // Get next airdate
-    const now = new Date()
+    const now = new Date();
     next_airdate = schedule.find((item) => {
-      return (new Date(item.end_time) >= now)
+      const start_time = new Date(item.start_time);
+      const end_time = new Date(start_time.getTime() + (item.duration * 60000));
+      return (end_time >= now)
     });
+
     // Uh oh, ran out of airdates
     if (!next_airdate) return
 
