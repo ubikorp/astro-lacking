@@ -38,7 +38,7 @@ const {
   const airdates = schedule.map((airdate) => {
     const date = new Date(airdate.start_time).toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
     const startTime = new Date(airdate.start_time).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
-    const endTime = new Date(airdate.end_time).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
+    const endTime = new Date(new Date(airdate.start_time).getTime() + (airdate.duration * 60000)).toLocaleTimeString('en-US', { hour: 'numeric', minute: 'numeric' });
     const time = `${startTime} - ${endTime}`;
     const location = {
       kafm: 'KAFM Grand Junction 88.1 FM',
