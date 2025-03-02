@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-08-30'
 slug: 0254-please-dont-call-on-me
 excerpt: Barry Adamson delivers soundtracks to cinematic masterpieces that don’t exist.
-image: "~/assets/images/mixtapes/2024/08/254-barry-adamson.jpg"
+image: "/images/mixtapes/2024/08/254-barry-adamson.jpg"
 caption: Barry Adamson
 tags:
 - A Place to Bury Strangers

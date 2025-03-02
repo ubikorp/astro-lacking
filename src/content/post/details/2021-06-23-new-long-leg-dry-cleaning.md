@@ -7,7 +7,7 @@ slug: new-long-leg-dry-cleaning
 excerpt: Trebled-out bass lines, disaffected vocals that could very well be reading
   from a dream journal, and a penchant for occasional dissonance are taking the forefront
   in this outing, refining their savage punk structures with a more stylized approach.
-image: "~/assets/images/details/2021/09/dry-cleaning.jpeg"
+image: "/images/details/2021/09/dry-cleaning.jpeg"
 tags:
 - The Fall
 - Bongwater

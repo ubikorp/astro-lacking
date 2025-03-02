@@ -7,7 +7,7 @@ slug: goodbye-honolulu-goodbye-honolulu
 excerpt: I am convinced that today’s Canada is much better at this jangly indie pop
   thing than the US ever was at the height of alternative music. This Toronto outfit
   will pull you out of your deep American misery faster than any prescription medication.
-image: "~/assets/images/details/2022/02/goodbye-honolulu.jpeg"
+image: "/images/details/2022/02/goodbye-honolulu.jpeg"
 tags:
 - Nevada Bachelors
 - Born Ruffians

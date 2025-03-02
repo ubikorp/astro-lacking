@@ -7,7 +7,7 @@ slug: in-a-ripped-dress-knoxville-girls
 excerpt: Kid Congo Powers has a musical resume you wouldn’t believe, and this particular
   outing for his talents is garage psychobilly supreme, a wonderfully uncouth expression
   of much-needed sophisticated boom boom.
-image: "~/assets/images/details/2021/09/knoxville-girls.jpeg"
+image: "/images/details/2021/09/knoxville-girls.jpeg"
 tags:
 - Jack Oblivian
 - The Brian Jonestown Massacre

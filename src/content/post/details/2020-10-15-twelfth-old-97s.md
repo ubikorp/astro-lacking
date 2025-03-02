@@ -7,7 +7,7 @@ slug: twelfth-old-97s
 excerpt: Someone threw a key party for a bunch of musical genres, and Americana, Rock,
   and Punk left together. On the dashboard radio on the way to the motel, the Old
   97’s were playing.
-image: "~/assets/images/details/2020/12/old-97-s.jpg"
+image: "/images/details/2020/12/old-97-s.jpg"
 tags:
 - The Sadies
 - The Bottlerockets

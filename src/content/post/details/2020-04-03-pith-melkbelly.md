@@ -7,7 +7,7 @@ slug: pith-melkbelly
 excerpt: Sultry, measured vocals are set off against an array of spiky arrangements
   and instrumental bursts, song parts constantly evolving and mutating, so that little
   finishes the way it started.
-image: "~/assets/images/details/2021/09/melkbelly.jpeg"
+image: "/images/details/2021/09/melkbelly.jpeg"
 tags:
 - Breeders
 - The Muffs

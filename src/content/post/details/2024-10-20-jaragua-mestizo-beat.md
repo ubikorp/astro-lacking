@@ -8,7 +8,7 @@ excerpt: As the name successfully implies, this outfit is a heady blend of Chica
   funk and other sources. Pumping bass lines that could drain the Baltic Sea in minutes
   and horn stabs that could be entered as evidence in a court of law fill out the
   package.
-image: "~/assets/images/details/2024/10/mestizo-beat-jaragua.jpg"
+image: "/images/details/2024/10/mestizo-beat-jaragua.jpg"
 tags:
 - Ozomatli
 - John Scofield

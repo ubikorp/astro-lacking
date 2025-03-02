@@ -6,7 +6,7 @@ publishDate: '2018-05-24'
 slug: bomb-pop-hawk
 excerpt: Solid power-pop outing with an all-star cast… a must for fans of the Yellow
   Pills series.
-image: "~/assets/images/details/2018/07/hawk.jpeg"
+image: "/images/details/2018/07/hawk.jpeg"
 tags:
 - Material Issue
 - The Posies

@@ -7,7 +7,7 @@ slug: walkman-bad-bad-hats
 excerpt: A strong, sometimes raspy female voice in front of a very clever power indie
   band can be the equivalent of beige wallpaper after all these years, but this outfit
   rises above that with a generous dose of unique hooks and singalong rhymes.
-image: "~/assets/images/details/2022/02/bad-bad-hats.jpeg"
+image: "/images/details/2022/02/bad-bad-hats.jpeg"
 tags:
 - Liz Phair
 - Waxahatchee

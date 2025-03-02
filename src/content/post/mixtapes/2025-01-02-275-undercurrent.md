@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2025-01-02'
 slug: 275-undercurrent
 excerpt: Listening to Toro y Moi is like sinking into a heavily-perfumed fluffy bed.
-image: "~/assets/images/mixtapes/2025/01/275-toro-y-moi.jpg"
+image: "/images/mixtapes/2025/01/275-toro-y-moi.jpg"
 caption: Toro y Moi
 tags:
 - Bran Flakes

@@ -6,7 +6,7 @@ publishDate: '2018-05-20'
 slug: bleenex-le-rug
 excerpt: Bewildering and enchanting solo project that can swing dramatically between
   lo-fi and supremely nuanced
-image: "~/assets/images/details/2018/07/le-rug.jpg"
+image: "/images/details/2018/07/le-rug.jpg"
 tags:
 - Japandroids
 - The Unicorns

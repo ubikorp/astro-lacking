@@ -7,7 +7,7 @@ slug: let-me-do-one-more-illuminati-hotties
 excerpt: While pop punk takes the energy and intensity of hardcore music and strips
   away all the negativity and rough edges, this is punk pop, like pouring maple syrup
   over a big coil of barbed wire.
-image: "~/assets/images/details/2022/02/illuminati-hotties.jpeg"
+image: "/images/details/2022/02/illuminati-hotties.jpeg"
 tags:
 - Foxx Bodies
 - Solex

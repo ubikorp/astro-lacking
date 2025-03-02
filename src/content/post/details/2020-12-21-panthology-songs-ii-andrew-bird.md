@@ -7,7 +7,7 @@ slug: panthology-songs-ii-andrew-bird
 excerpt: 'Years from now, the early 2020s will timestamp short albums recorded and
   released during isolation the way protest songs on the pop charts mark the late
   ‘60s. This one would be near the top of the heap, intimate yet meticulous. '
-image: "~/assets/images/details/2020/12/andrew-bird.jpg"
+image: "/images/details/2020/12/andrew-bird.jpg"
 tags:
 - Orville Peck
 - M. Ward

@@ -7,7 +7,7 @@ slug: power-seratones
 excerpt: The nostalgic approach strikes gold, as this goes back to the heyday of ‘60s
   girl groups, with heavenly vocals, shimmering production, and deep hooks that you
   will have a hard time shaking off.
-image: "~/assets/images/details/2019/10/seratones.jpg"
+image: "/images/details/2019/10/seratones.jpg"
 tags:
 - The Chiffons
 - Amy Winehouse

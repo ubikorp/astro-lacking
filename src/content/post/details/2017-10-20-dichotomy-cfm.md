@@ -6,7 +6,7 @@ publishDate: '2017-10-20'
 slug: dichotomy-cfm
 excerpt: Fuzzy solo project from LA fixture Charles Moothart, with a DIY ethic clearly
   in place.
-image: "~/assets/images/details/2019/08/cfm.jpg"
+image: "/images/details/2019/08/cfm.jpg"
 tags:
 - Ty Segall
 - Mykal Cronin

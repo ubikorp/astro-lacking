@@ -7,7 +7,7 @@ slug: glowing-in-dark-django-django
 excerpt: A heady brew of oscillations, arpeggios, and other pulsing throbbing sounds
   set against layered vocal harmonies that bring to mind multiple participants in
   a spacewalk aggregating to form a conga line.
-image: "~/assets/images/details/2022/12/django-django.jpg"
+image: "/images/details/2022/12/django-django.jpg"
 tags:
 - Daft Punk
 - The Beta Band

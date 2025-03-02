@@ -6,7 +6,7 @@ publishDate: '2018-09-14'
 slug: lo-la-ru-rubens
 excerpt: 'Fantastic Aussie rock-pop with a lot of variety, each song having its own
   strange melodic structure and personality. '
-image: "~/assets/images/details/2018/09/rubens.jpg"
+image: "/images/details/2018/09/rubens.jpg"
 tags:
 - Cage The Elephant
 - Jellyfish

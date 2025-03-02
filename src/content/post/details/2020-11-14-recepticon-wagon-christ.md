@@ -7,7 +7,7 @@ slug: recepticon-wagon-christ
 excerpt: Some people will slice and dice their way to a hostile disjointed soundscape
   filled with vague unease, but Wagon Christ’s approach yields something sunnier and
   wholesome, like fruit salad.
-image: "~/assets/images/details/2020/12/wagon-christ.jpg"
+image: "/images/details/2020/12/wagon-christ.jpg"
 tags:
 - Negativland
 - Tipsy

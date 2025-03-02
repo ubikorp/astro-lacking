@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-05-23'
 slug: 0236-version-control-2
 excerpt: Another batch of duplicates and substitutes!
-image: "~/assets/images/mixtapes/2024/05/236-version-control-2.jpg"
+image: "/images/mixtapes/2024/05/236-version-control-2.jpg"
 tags:
 - Asylum Street Spankers
 - Bill Callahan & Bonnie "Prince" Billy

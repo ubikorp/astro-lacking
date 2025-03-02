@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-09-05'
 slug: 0255-new-york-lets-do-nothing
 excerpt: All hail new royalty King Hannah and their studious and efficient delivery.
-image: "~/assets/images/mixtapes/2024/09/255-king-hannah.jpg"
+image: "/images/mixtapes/2024/09/255-king-hannah.jpg"
 caption: King Hannah
 tags:
 - The Blacks

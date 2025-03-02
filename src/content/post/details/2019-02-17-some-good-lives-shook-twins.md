@@ -6,7 +6,7 @@ publishDate: '2019-02-17'
 slug: some-good-lives-shook-twins
 excerpt: Solid songs that mix a generous dollop of traditional country elements with
   a big scoop of indie pop.
-image: "~/assets/images/details/2019/08/shook-twins.jpg"
+image: "/images/details/2019/08/shook-twins.jpg"
 tags:
 - Palehound
 - Jenny Lewis

@@ -7,7 +7,7 @@ slug: primitive-feelings-high-dials
 excerpt: A bit of a throwback to the sound of late ‘80s Manchester and subsequent
   British psychedelic pop, presented with a pulsating dance beat and dreamy multilayered
   vocals.
-image: "~/assets/images/details/2020/01/high-dials.jpg"
+image: "/images/details/2020/01/high-dials.jpg"
 tags:
 - The Stone Roses
 - Wooden Shjips

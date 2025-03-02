@@ -6,7 +6,7 @@ publishDate: '2018-11-10'
 slug: weed-garden-ep-iron-wine
 excerpt: A brief taste of Iron and Wine’s evolving style, filling out the expected
   introspective strumming with updated production and a fuller “band” feel.
-image: "~/assets/images/details/2018/11/iron-wine.jpg"
+image: "/images/details/2018/11/iron-wine.jpg"
 tags:
 - Nick Drake
 - Wilco

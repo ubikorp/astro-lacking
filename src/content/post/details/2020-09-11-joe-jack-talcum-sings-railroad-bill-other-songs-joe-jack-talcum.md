@@ -8,7 +8,7 @@ excerpt: A sparse yet not simple outing for this member of the Dead Milkmen, inc
   some truly folksy stuff like the title track and “Cool Water”, and surprisingly
   sophisticated original tracks delivered in the same man-and-his-acoustic guitar
   aesthetic.
-image: "~/assets/images/details/2021/03/joe-jack-talcum.jpg"
+image: "/images/details/2021/03/joe-jack-talcum.jpg"
 tags:
 - The Dead Milkmen
 - Daniel Johnston

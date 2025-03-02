@@ -7,7 +7,7 @@ slug: harmonizer-ty-segall
 excerpt: Ty’s arsenal of instrumentation continues to grow, as he fills out his domain
   of prog-rock, stoner drones, glam trash, and other Seventies detritus with keyboards,
   more keyboards, and an evolving sense of studio wizardry.
-image: "~/assets/images/details/2022/02/ty-segall.jpeg"
+image: "/images/details/2022/02/ty-segall.jpeg"
 tags:
 - Islands
 - Ween

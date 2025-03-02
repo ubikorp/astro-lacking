@@ -7,7 +7,7 @@ slug: feels-so-good-feels-so-bad-shivas
 excerpt: Exquisite rock and roll, filled with bombastic drenches of reverb and enough
   monster riffs to fill a stadium, powering through sounds psychedelic, surf-like,
   and power-chording, but with enough dynamics to keep it from becoming exhausting.
-image: "~/assets/images/details/2022/02/shivas.jpeg"
+image: "/images/details/2022/02/shivas.jpeg"
 tags:
 - Wavves
 - Surfer Blood

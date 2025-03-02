@@ -6,7 +6,7 @@ publishDate: '2018-07-14'
 slug: unreason-in-age-of-madness-grimskunk
 excerpt: Aggressive metal-reggae-funk, which is not something I generally like, but
   this one has some sort of undermined charm to it.
-image: "~/assets/images/details/2018/07/grimskunk.jpg"
+image: "/images/details/2018/07/grimskunk.jpg"
 tags:
 - Faith No More
 - Sublime

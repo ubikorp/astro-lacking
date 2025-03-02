@@ -7,7 +7,7 @@ slug: 8-of-space-schneider-tm
 excerpt: For a quarter century, Dirk Dresselhaus has been putting out sparse, intelligent
   electronic compositions that even at their calmest crackle with some subtle form
   of nervous energy.
-image: "~/assets/images/details/2021/09/schneider-tm.jpg"
+image: "/images/details/2021/09/schneider-tm.jpg"
 tags:
 - Com Truise
 - To Rococo Rot

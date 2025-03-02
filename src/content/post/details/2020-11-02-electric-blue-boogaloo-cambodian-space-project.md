@@ -6,7 +6,7 @@ publishDate: '2020-11-02'
 slug: electric-blue-boogaloo-cambodian-space-project
 excerpt: The name would lead you to expect old-school riff-heavy fuzzed-out psychedelia
   with a strong southeast Asian accent, and it would lead you true.
-image: "~/assets/images/details/2020/12/cambodian-space-project.jpg"
+image: "/images/details/2020/12/cambodian-space-project.jpg"
 tags:
 - Dengue Fever
 - La Luz

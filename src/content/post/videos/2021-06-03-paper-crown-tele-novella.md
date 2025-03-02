@@ -4,7 +4,7 @@ category: videos
 publishDate: '2021-06-03'
 slug: paper-crown-tele-novella
 excerpt: Live tarot action
-image: "~/assets/images/videos/2025/02/paper-crown.jpg"
+image: "/images/videos/2025/02/paper-crown.jpg"
 caption: ''
 tags:
 - Tele Novella

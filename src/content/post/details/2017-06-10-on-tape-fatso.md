@@ -6,7 +6,7 @@ publishDate: '2017-06-10'
 slug: on-tape-fatso
 excerpt: A nice set of New Orleans-style blue funk from this Colombian band on a German
   label
-image: "~/assets/images/details/2020/12/fatso.jpg"
+image: "/images/details/2020/12/fatso.jpg"
 tags:
 - Dr. John
 - Joe Jackson

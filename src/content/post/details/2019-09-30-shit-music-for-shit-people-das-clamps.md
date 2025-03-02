@@ -6,7 +6,7 @@ publishDate: '2019-09-30'
 slug: shit-music-for-shit-people-das-clamps
 excerpt: A rowdy, loving tribute to The Cramps, even rawer and more intransigent than
   the original, from two women furiously channeling Lux Interior and Poison Ivy.
-image: "~/assets/images/details/2020/05/das-clamps.jpg"
+image: "/images/details/2020/05/das-clamps.jpg"
 tags:
 - The Cramps
 - Flat Duo Jets

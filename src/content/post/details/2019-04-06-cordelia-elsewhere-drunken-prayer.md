@@ -7,7 +7,7 @@ slug: cordelia-elsewhere-drunken-prayer
 excerpt: There’s a handful of acts that can stand out in the vast prairie that makes
   up modern rural American music, transcending strummy acoustic guitars and introspective
   lyrics to make something deeper.
-image: "~/assets/images/details/2020/05/drunken-prayer.jpg"
+image: "/images/details/2020/05/drunken-prayer.jpg"
 tags:
 - The Elected
 - Gram Parsons

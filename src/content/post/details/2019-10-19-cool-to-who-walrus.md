@@ -6,7 +6,7 @@ publishDate: '2019-10-19'
 slug: cool-to-who-walrus
 excerpt: Sounding a lot like the heyday of 1990s indie dream pop, Walrus keeps it
   a little spicy if not very distinctive.
-image: "~/assets/images/details/2020/01/walrus.jpg"
+image: "/images/details/2020/01/walrus.jpg"
 tags:
 - Rubblebucket
 - Big Thief

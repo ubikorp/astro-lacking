@@ -5,7 +5,7 @@ category: details
 publishDate: '2018-09-28'
 slug: bambi-hippo-campus
 excerpt: Nicely done collection of funky pop, or poppy funk.
-image: "~/assets/images/details/2019/05/hippo-campus.jpg"
+image: "/images/details/2019/05/hippo-campus.jpg"
 tags:
 - Dr. Dog
 - Cage The Elephant

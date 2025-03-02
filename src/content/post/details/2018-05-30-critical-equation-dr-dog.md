@@ -6,7 +6,7 @@ publishDate: '2018-05-30'
 slug: critical-equation-dr-dog
 excerpt: The band returns with more of their particular brand of folksy psychedelia.
   Lots of great hooks and harmonies, as usual.
-image: "~/assets/images/details/2018/07/dr-dog.jpg"
+image: "/images/details/2018/07/dr-dog.jpg"
 tags:
 - Born Ruffians
 - My Morning Jacket

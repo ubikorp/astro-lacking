@@ -7,7 +7,7 @@ slug: natural-affair-growlers
 excerpt: 'You might expect rowdy blues, or thrash-worthy hardcore from the name, but
   this is some very creative indie rock, using your standard ingredients yet somehow
   wringing out a distinctive texture and taste. '
-image: "~/assets/images/details/2020/05/growlers.jpg"
+image: "/images/details/2020/05/growlers.jpg"
 tags:
 - Cage The Elephant
 - Dr. Dog

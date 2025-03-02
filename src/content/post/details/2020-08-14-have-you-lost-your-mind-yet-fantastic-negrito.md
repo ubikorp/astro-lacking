@@ -6,7 +6,7 @@ publishDate: '2020-08-14'
 slug: have-you-lost-your-mind-yet-fantastic-negrito
 excerpt: The essence of R&B, with a soulful vocals that range from besotted to anguished
   and lush harmonic arrangements covering slow jams, hot funk and everything in between.
-image: "~/assets/images/details/2020/09/fantastic-negrito.jpg"
+image: "/images/details/2020/09/fantastic-negrito.jpg"
 tags:
 - G. Love and Special Sauce
 - Har Mar Superstar

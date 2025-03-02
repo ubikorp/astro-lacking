@@ -6,7 +6,7 @@ publishDate: '2018-11-19'
 slug: untitled-mewithoutyou
 excerpt: Somewhat screamy post-punk filled with jagged stabs of guitar and a thundering
   rhythm section that casually locks in weirdly-metered fills.
-image: "~/assets/images/details/2018/11/mewithoutyou.jpg"
+image: "/images/details/2018/11/mewithoutyou.jpg"
 tags:
 - McClusky
 - Fugazi

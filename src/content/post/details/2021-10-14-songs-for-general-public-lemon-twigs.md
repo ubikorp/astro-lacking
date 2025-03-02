@@ -7,7 +7,7 @@ slug: songs-for-general-public-lemon-twigs
 excerpt: Bombastic pop filled with lush arrangements, bizarre chord extensions, and
   unexpected harmonies aren’t everyone’s cup of kombucha, but those of us that have
   acquired the taste will drink this stuff by the gallon.
-image: "~/assets/images/details/2021/03/lemon-twigs.jpg"
+image: "/images/details/2021/03/lemon-twigs.jpg"
 tags:
 - Todd Rundgren
 - Steely Dan

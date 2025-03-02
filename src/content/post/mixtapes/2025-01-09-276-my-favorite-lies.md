@@ -5,7 +5,7 @@ publishDate: '2025-01-09'
 slug: 276-my-favorite-lies
 excerpt: Let's have a skeptical listen to **My Favorite Lies**, a collection of songs
   about falsehoods, fabrications, and outright deception.
-image: "~/assets/images/mixtapes/2025/01/276-my-favorite-lies.jpg"
+image: "/images/mixtapes/2025/01/276-my-favorite-lies.jpg"
 caption: ''
 tags:
 - A Giant Dog

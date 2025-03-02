@@ -6,7 +6,7 @@ publishDate: '2020-01-24'
 slug: sing-in-a-world-thats-falling-apart-black-lips
 excerpt: The Black Lips are like looking outside the bar window and seeing country
   and punk having an argument then a fistfight.
-image: "~/assets/images/details/2020/05/black-lips.jpg"
+image: "/images/details/2020/05/black-lips.jpg"
 tags:
 - The Mekons
 - The Front Bottoms

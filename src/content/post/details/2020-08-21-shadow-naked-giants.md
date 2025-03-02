@@ -7,7 +7,7 @@ slug: shadow-naked-giants
 excerpt: 'Sometimes you just need a pounding beat and a shout-along chorus, and this
   is something Naked Giants truly excel at, throwing in plenty of inventive twists
   and turns to keep the whole thing from collapsing into a steaming pile of riffs. '
-image: "~/assets/images/details/2021/03/naked-giants.jpg"
+image: "/images/details/2021/03/naked-giants.jpg"
 tags:
 - Poster Children
 - Moistboyz

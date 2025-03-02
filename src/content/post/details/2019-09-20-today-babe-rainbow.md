@@ -7,7 +7,7 @@ slug: today-babe-rainbow
 excerpt: An extremely diverse outing, with songs cutting across many genres but sharing
   a generally sunny and engaging disposition, delivered with casual ease and filled
   with memorable hooks.
-image: "~/assets/images/details/2019/10/babe-rainbow.jpg"
+image: "/images/details/2019/10/babe-rainbow.jpg"
 tags:
 - Je Suis France
 - Gorky’s Zygotic Minci

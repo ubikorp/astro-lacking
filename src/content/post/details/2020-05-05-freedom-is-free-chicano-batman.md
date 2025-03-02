@@ -7,7 +7,7 @@ slug: freedom-is-free-chicano-batman
 excerpt: A fluid mixture of influences and identity, with tropical flavors and delicate
   pop sensibilities layering up with street-tough attitude for some songs, like a
   leather-jacketed hoodlum holding a bouquet of roses.
-image: "~/assets/images/details/2020/05/chicano-batman.jpg"
+image: "/images/details/2020/05/chicano-batman.jpg"
 tags:
 - Rocket Ship + the Moon
 - Ozomatli

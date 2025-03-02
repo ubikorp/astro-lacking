@@ -7,7 +7,7 @@ slug: radio-astro-hearty-har
 excerpt: Rock and roll is absent from the charts, and you’d hardly know there is a
   serious revival going on, this slab of shimmering paisley from the Fogerty kids
   being a prime example. Get your riffs, hooks, choruses, and more right here.
-image: "~/assets/images/details/2021/09/hearty-har.jpeg"
+image: "/images/details/2021/09/hearty-har.jpeg"
 tags:
 - Strawberry Alarm Clock
 - The Black Keys

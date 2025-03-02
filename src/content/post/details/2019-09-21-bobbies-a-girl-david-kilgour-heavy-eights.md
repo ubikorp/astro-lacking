@@ -6,7 +6,7 @@ publishDate: '2019-09-21'
 slug: bobbies-a-girl-david-kilgour-heavy-eights
 excerpt: Gentle music for a pastoral New Zealand scene, with tappity drums and soft
   jangles playfully jostling understated vocals.
-image: "~/assets/images/details/2020/01/david-kilgour-heavy-eights.jpg"
+image: "/images/details/2020/01/david-kilgour-heavy-eights.jpg"
 tags:
 - The Clean
 - Alfie

@@ -5,7 +5,7 @@ category: details
 publishDate: '2018-01-23'
 slug: soul-of-a-woman-sharon-jones-dap-kings
 excerpt: Posthumous release from one of the strongest voices in modern soul.
-image: "~/assets/images/details/2018/11/sharon-jones-dap-kings.jpg"
+image: "/images/details/2018/11/sharon-jones-dap-kings.jpg"
 tags:
 - Aretha Franklin
 - James Brown

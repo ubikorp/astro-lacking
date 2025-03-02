@@ -6,7 +6,7 @@ publishDate: '2020-08-07'
 slug: man-downstairs-demos-rarities-robyn-hitchcock
 excerpt: A variety of acoustic guitar performances from Hitchcock, of songs both original
   and by others, which results in a very contemplative sort of musical journey.
-image: "~/assets/images/details/2021/03/robyn-hitchcock.jpg"
+image: "/images/details/2021/03/robyn-hitchcock.jpg"
 tags:
 - Nick Drake
 - Syd Barrett

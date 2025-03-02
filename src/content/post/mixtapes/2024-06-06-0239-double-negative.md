@@ -5,7 +5,7 @@ publishDate: '2024-06-06'
 slug: '0239-double-negative'
 excerpt: Omni unites their sound with the thinnest of guitar strings and rhythms of
   utmost precision.
-image: "~/assets/images/mixtapes/2024/06/239-omni.jpg"
+image: "/images/mixtapes/2024/06/239-omni.jpg"
 caption: Omni
 tags:
 - 'Asteroid #4'

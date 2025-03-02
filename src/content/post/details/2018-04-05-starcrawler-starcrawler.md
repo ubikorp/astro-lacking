@@ -5,7 +5,7 @@ category: details
 publishDate: '2018-04-05'
 slug: starcrawler-starcrawler
 excerpt: Straightahead rock, no apologies.
-image: "~/assets/images/details/2018/09/starcrawler.jpg"
+image: "/images/details/2018/09/starcrawler.jpg"
 tags:
 - L7
 - Thin Lizzy

@@ -5,7 +5,7 @@ publishDate: '2024-07-04'
 slug: 0244-american-cowboy
 excerpt: Guppy will make you feel like a million bucks, wreck your car, and make you
   lose your security deposit.
-image: "~/assets/images/mixtapes/2024/07/244-guppy.jpg"
+image: "/images/mixtapes/2024/07/244-guppy.jpg"
 caption: Guppy
 tags:
 - The Avett Brothers

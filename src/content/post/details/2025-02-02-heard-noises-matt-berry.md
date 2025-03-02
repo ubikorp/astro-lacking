@@ -7,7 +7,7 @@ slug: heard-noises-matt-berry
 excerpt: Matt Berry returns, this time emerging from his velvet time machine with
   a suitcase full of pop psychedelia worthy of a light show and some very stiff drinks,
   and you are but a wide-eyed innocent allowed to hang out at his groovy pad.
-image: "~/assets/images/details/2025/02/matt-berry.webp"
+image: "/images/details/2025/02/matt-berry.webp"
 caption: ''
 tags:
 - Vampyros Lesbos

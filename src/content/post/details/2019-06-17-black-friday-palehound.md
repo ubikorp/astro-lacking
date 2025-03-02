@@ -5,7 +5,7 @@ category: details
 publishDate: '2019-06-17'
 slug: black-friday-palehound
 excerpt: Nice indie guitar sounds, with whispery vocals and a meandering melodic spirit.
-image: "~/assets/images/details/2019/08/palehound.jpg"
+image: "/images/details/2019/08/palehound.jpg"
 tags:
 - Liz Phair
 - Waxahatchie

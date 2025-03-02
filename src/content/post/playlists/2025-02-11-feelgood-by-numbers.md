@@ -9,7 +9,7 @@ excerpt: For whatever reason, listening to **The Go! Team** makes me think of th
   feature this music if it did. Elsewhere tonight, we trial a new more organized format
   for conveying the Lacking Information, such as this website and the Mixtapes produced
   by the org, into the radio play-by-play.
-image: "~/assets/images/playlists/2025/02/2025-02-11-go-team.jpg"
+image: "/images/playlists/2025/02/2025-02-11-go-team.jpg"
 caption: The Go! Team
 tags:
 - Ale Hop & Titi Bakorta

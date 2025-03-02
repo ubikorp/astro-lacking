@@ -7,7 +7,7 @@ slug: superwolves-matt-sweeney-bonnie-prince-billy
 excerpt: Sweeney’s carefully considered guitar lines are entwined with Will Oldham’s
   intimate quaver and lyrical prowess, and it’s uncanny how this occasional intersection
   of two very prolific artists sounds like it’s decades into its trajectory.
-image: "~/assets/images/details/2021/09/matt-sweeney-bonnie-prince-billy.jpg"
+image: "/images/details/2021/09/matt-sweeney-bonnie-prince-billy.jpg"
 tags:
 - Nick Cave
 - Silver Jews

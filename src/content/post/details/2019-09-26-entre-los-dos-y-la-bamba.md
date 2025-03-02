@@ -6,7 +6,7 @@ publishDate: '2019-09-26'
 slug: entre-los-dos-y-la-bamba
 excerpt: An exuberant mix of weird rock, Latin influences, and mysterious elements,
   resulting in some sort of white hot fusion.
-image: "~/assets/images/details/2020/01/y-la-bamba.jpg"
+image: "/images/details/2020/01/y-la-bamba.jpg"
 tags:
 - Ozomatli
 - Captain Beefheart

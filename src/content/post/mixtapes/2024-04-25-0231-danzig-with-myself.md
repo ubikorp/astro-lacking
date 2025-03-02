@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-04-25'
 slug: 0231-danzig-with-myself
 excerpt: The Dandy Warhols are singing about a band, but it’s not the Misfits
-image: "~/assets/images/mixtapes/2024/04/231-dandy-warhols.jpg"
+image: "/images/mixtapes/2024/04/231-dandy-warhols.jpg"
 caption: The Dandy Warhols
 tags:
 - Cake

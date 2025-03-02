@@ -7,7 +7,7 @@ slug: dream-dream-secret-colours
 excerpt: Is it possible to overuse the word “swirly” when describing modern psychedelia?
   Not at all! This paisley-hued collection of dream and drama will transport you to
   a kaleidoscopic land of… where was I going with this?
-image: "~/assets/images/details/2020/12/secret-colours.jpg"
+image: "/images/details/2020/12/secret-colours.jpg"
 tags:
 - STRFKR
 - Jagwar Ma

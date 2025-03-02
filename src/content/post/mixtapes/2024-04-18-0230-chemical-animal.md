@@ -5,7 +5,7 @@ publishDate: '2024-04-18'
 slug: 0230-chemical-animal
 excerpt: The Jesus and Mary Chain continue to produce their signature hydrochloric
   treacle.
-image: "~/assets/images/mixtapes/2024/04/230-jesus-and-mary-chain.jpg"
+image: "/images/mixtapes/2024/04/230-jesus-and-mary-chain.jpg"
 caption: The Jesus and Mary Chain
 tags:
 - The Armed

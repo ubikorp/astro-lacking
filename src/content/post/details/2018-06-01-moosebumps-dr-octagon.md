@@ -6,7 +6,7 @@ publishDate: '2018-06-01'
 slug: moosebumps-dr-octagon
 excerpt: Twenty years later, Dr. Octagon still sounds like the future of intelligent-slash-weird
   hip-hop
-image: "~/assets/images/details/2018/07/dr-octagon.jpg"
+image: "/images/details/2018/07/dr-octagon.jpg"
 tags:
 - Kool Keith
 - Gorillaz

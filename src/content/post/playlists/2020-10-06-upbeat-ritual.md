@@ -12,7 +12,7 @@ excerpt: The haberdasher heard a light thump and roll, then felt something tap a
   Hercules, shielded by its bulk from the bright Croatian summer sun. The peaches
   had hours to go, and they had forgotten to bring a game., having only whatever reading
   material they had managed to scrape up in the Hotel Pula lobby.
-image: "~/assets/images/playlists/2020/10/oh-sees.jpg"
+image: "/images/playlists/2020/10/oh-sees.jpg"
 caption: Oh Sees
 tags:
 - Arto Lindsay
@@ -67,16 +67,22 @@ playlist:
   song: Upbeat Ritual
   artist: Oh Sees
   artist_slug: oh-sees
+  album: Protean Threat
+  time: '2:11'
   notes: It’s that thumping
 - sequence: 2
   song: Harmonix
   artist: Surfer Blood
   artist_slug: surfer-blood
+  album: Astro Coast
+  time: '4:46'
   notes: Chiming sounds
 - sequence: 3
   song: Hey! Hey!
   artist: Moby & The Void Pacific Choir
   artist_slug: moby-void-pacific-choir
+  album: These Systems Are Failing
+  time: '4:23'
   notes: Getting your attention
 - sequence: 4
   song: BREAK
@@ -84,21 +90,29 @@ playlist:
   song: Nate Smith Is the Ace of Aces
   artist: The Fearless Flyers
   artist_slug: fearless-flyers
+  album: Tailwinds
+  time: '2:17'
   notes: Of this there is no doubt
 - sequence: 6
   song: Pump It Up
   artist: Elvis Costello
   artist_slug: elvis-costello
+  album: This Year’s Model
+  time: '3:18'
   notes: When you don’t really need it
 - sequence: 7
   song: Shake It Up
   artist: Nortec Collective
   artist_slug: nortec-collective
+  album: Tijuana Sound Machine
+  time: '3:35'
   notes: March to shake
 - sequence: 8
   song: That’s That
   artist: Cass McCombs
   artist_slug: cass-mccombs
+  album: Dropping the Writ
+  time: '4:14'
   notes: Eating up the miles
 - sequence: 9
   song: BREAK
@@ -106,21 +120,29 @@ playlist:
   song: Another Doomed Relationship
   artist: The Just Joans
   artist_slug: just-joans
+  album: The Private Memoirs And Confessions Of The Just Joans
+  time: '3:19'
   notes: Synthopia beckons
 - sequence: 11
   song: First Form
   artist: Great Shapes
   artist_slug: great-shapes
+  album: Somewhere In Between
+  time: '4:31'
   notes: Bring your own disco lights
 - sequence: 12
   song: A Penny For Your Brain
   artist: Shibboleth
   artist_slug: shibboleth
+  album: Shibboleth
+  time: '2:32'
   notes: Sesame avenue
 - sequence: 13
   song: Carnival Of Souls
   artist: Combustible Edison
   artist_slug: combustible-edison
+  album: I, Swinger
+  time: '3:13'
   notes: Spooooky
 - sequence: 14
   song: BREAK
@@ -128,21 +150,29 @@ playlist:
   song: melatonezone
   artist: illuminati hotties
   artist_slug: illuminati-hotties
+  album: 'FREE I.H: This Is Not The One You''ve Been Waiting For'
+  time: '2:13'
   notes: Unsettled rhumba
 - sequence: 16
   song: Down By The Water (Demo)
   artist: PJ Harvey
   artist_slug: pj-harvey
+  album: To Bring You My Love - Demos
+  time: '3:06'
   notes: Even more raw
 - sequence: 17
   song: Closer to Me
   artist: Mike Pinto
   artist_slug: mike-pinto
+  album: Everything I Got
+  time: '2:44'
   notes: Just Mike and his guitar
 - sequence: 18
   song: Time (You and I)
   artist: Khruangbin
   artist_slug: khruangbin
+  album: Mordechai
+  time: '5:42'
   notes: Channeling Tom Tom Club
 - sequence: 19
   song: BREAK
@@ -150,16 +180,22 @@ playlist:
   song: These Are My Friends
   artist: Fantastic Negrito
   artist_slug: fantastic-negrito
+  album: Have You Lost Your Mind Yet?
+  time: '3:45'
   notes: Growling admission
 - sequence: 21
   song: Born Stoned
   artist: Push Kings
   artist_slug: push-kings
+  album: Feel No Fade
+  time: '3:59'
   notes: Never change my mind
 - sequence: 22
   song: Junior Pyromaniacs
   artist: Hypnolovewheel
   artist_slug: hypnolovewheel
+  album: Space Mountain
+  time: '2:21'
   notes: Just getting started
 - sequence: 23
   song: BREAK
@@ -167,21 +203,29 @@ playlist:
   song: The Dropouts
   artist: Old 97's
   artist_slug: old-97-s
+  album: Twelfth
+  time: '3:44'
   notes: The same ole lament
 - sequence: 25
   song: Coffee
   artist: Split Lip Rayfield
   artist_slug: split-lip-rayfield
+  album: Split Lip Rayfield
+  time: '2:05'
   notes: It’s critical
 - sequence: 26
   song: La Costa Perdida
   artist: Camper Van Beethoven
   artist_slug: camper-van-beethoven
+  album: La Costa Perdida
+  time: '4:19'
   notes: Showing their roots
 - sequence: 27
   song: Steamed Juicy Little Bun
   artist: Kaki King
   artist_slug: kaki-king
+  album: Cabbagetown
+  time: '2:02'
   notes: High aspirations
 - sequence: 28
   song: BREAK
@@ -189,21 +233,29 @@ playlist:
   song: Core Shift
   artist: Yello
   artist_slug: yello
+  album: Point
+  time: '3:00'
   notes: Same low hustle
 - sequence: 30
   song: Clint Eastwood
   artist: Gorillaz
   artist_slug: gorillaz
+  album: Gorillaz
+  time: '5:42'
   notes: All the way to the beginning
 - sequence: 31
   song: Into The Sun
   artist: Locksley
   artist_slug: locksley
+  album: Don't Make Me Wait
+  time: '2:51'
   notes: Glorious harmonies
 - sequence: 32
   song: Sanity
   artist: Sneaks
   artist_slug: sneaks
+  album: Happy Birthday
+  time: '5:59'
   notes: Mother’s little helper, updated
 - sequence: 33
   song: BREAK
@@ -211,21 +263,29 @@ playlist:
   song: Kinder
   artist: David Garza
   artist_slug: david-garza
+  album: This Euphoria
+  time: '3:28'
   notes: It's in my back pocket
 - sequence: 35
   song: Dancing Queen
   artist: Milo Binder
   artist_slug: milo-binder
+  album: 20 More Explosive Fantastic Rockin' Mega Smash Hit Explosions!
+  time: '3:08'
   notes: Clear away the clutter
 - sequence: 36
   song: These Days
   artist: Nico
   artist_slug: nico
+  album: Femme Fatale
+  time: '3:33'
   notes: Fragile as steel
 - sequence: 37
   song: Coolest Fools
   artist: Delta Moon
   artist_slug: delta-moon
+  album: Cabbagetown
+  time: '2:51'
   notes: The juiciest
 - sequence: 38
   song: BREAK
@@ -233,16 +293,22 @@ playlist:
   song: Political Song for Michael Jackson to Sing
   artist: Superchunk
   artist_slug: superchunk
+  album: Good Music to Avert The Collapse Of American Democracy
+  time: '1:31'
   notes: A bold choice
 - sequence: 40
   song: From Nothing No Where
   artist: Pinback
   artist_slug: pinback
+  album: Autumn of the Seraphs
+  time: '3:28'
   notes: Urgent missive
 - sequence: 41
   song: Baby’s Way Cruel
   artist: Guv'ner
   artist_slug: guv-ner
+  album: Knight Moves
+  time: '3:00'
   notes: Way cruel
 - sequence: 42
   song: BREAK
@@ -250,21 +316,29 @@ playlist:
   song: Yoruba
   artist: Nano Banton
   artist_slug: nano-banton
+  album: Inna De Bedroom
+  time: '2:35'
   notes: Feeling tribal
 - sequence: 44
   song: Oops
   artist: Tipsy
   artist_slug: tipsy
+  album: Trip Tease
+  time: '3:46'
   notes: The navigation computer malfunctions
 - sequence: 45
   song: One Everything
   artist: Chris Murray
   artist_slug: chris-murray
+  album: 4-Trackaganza!
+  time: '3:08'
   notes: Join the singularity
 - sequence: 46
   song: Static Somewhere
   artist: Girlpool
   artist_slug: girlpool
+  album: Powerplant
+  time: '3:39'
   notes: Keeping it steady
 - sequence: 47
   song: BREAK
@@ -272,21 +346,29 @@ playlist:
   song: S'il vous plait - シルブプレ
   artist: Otoboke Beaver
   artist_slug: otoboke-beaver
+  album: Itekoma Hits - いてこまヒッツ
+  time: '2:15'
   notes: Highly charged
 - sequence: 49
   song: We Must Bleed
   artist: that dog.
   artist_slug: that-dog
+  album: 'Germs (Tribute): A Small Circle Of Friends'
+  time: '1:39'
   notes: Originally by the Germs
 - sequence: 50
   song: Number Three
   artist: They Might Be Giants
   artist_slug: they-might-be-giants
+  album: They Might Be Giants
+  time: '1:28'
   notes: Must keep track
 - sequence: 51
   song: That's What You Get With People Like That On Cruises Like These...
   artist: Solex
   artist_slug: solex
+  album: Pick Up
+  time: '3:02'
   notes: Distracting kilter
 - sequence: 52
   song: BREAK
@@ -294,21 +376,29 @@ playlist:
   song: Moving On
   artist: The Gaslamp Killer
   artist_slug: gaslamp-killer
+  album: Heart Math
+  time: '4:32'
   notes: Clattering away
 - sequence: 54
   song: Tales of Brave Ulysses
   artist: Cream
   artist_slug: cream
+  album: Disraeli Gears
+  time: '2:47'
   notes: Tiny purple fishes
 - sequence: 55
   song: Whirlwind
   artist: Arto Lindsay
   artist_slug: arto-lindsay
+  album: Noon Chill
+  time: '4:37'
   notes: Spinning around
 - sequence: 56
   song: Space Movement Section 4
   artist: Creation Rebel
   artist_slug: creation-rebel
+  album: Adrian Sherwood Presents The Master Recordings Vol. 2
+  time: '3:18'
   notes: The Mars-Ceres leg, I believe
 - sequence: 57
   song: BREAK
@@ -316,6 +406,8 @@ playlist:
   song: Rattlesnake
   artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
+  album: Flying Microtonal Banana
+  time: '7:48'
   notes: Weirdly sliced riffs
 ---
 

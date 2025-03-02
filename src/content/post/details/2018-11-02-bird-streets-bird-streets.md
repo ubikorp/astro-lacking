@@ -6,7 +6,7 @@ publishDate: '2018-11-02'
 slug: bird-streets-bird-streets
 excerpt: Smart guitar pop never goes out of style, and sharp lyrics make it all the
   better.
-image: "~/assets/images/details/2018/11/bird-streets.jpg"
+image: "/images/details/2018/11/bird-streets.jpg"
 tags:
 - Jason Falkner
 - Death Cab For Cutie

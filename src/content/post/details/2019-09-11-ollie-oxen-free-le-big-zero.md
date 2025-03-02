@@ -6,7 +6,7 @@ publishDate: '2019-09-11'
 slug: ollie-oxen-free-le-big-zero
 excerpt: Pop jigsaw symphonies, incongruous bits and pieces of songs interlocking
   together into a hypnotic cascade of rhythms, melodies, and harmonies.
-image: "~/assets/images/details/2019/10/le-big-zero.jpg"
+image: "/images/details/2019/10/le-big-zero.jpg"
 tags:
 - Pop Canon
 - Heavy Vegetable

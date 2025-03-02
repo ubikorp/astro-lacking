@@ -5,7 +5,7 @@ category: playlists
 publishDate: '2016-08-30'
 slug: 2016-08-30-stop-your-sobbing
 excerpt: You can always tell a Kinks song.
-image: "~/assets/images/playlists/2018/06/pretenders.jpg"
+image: "/images/playlists/2018/06/pretenders.jpg"
 caption: Pretenders
 tags:
 - Apache Indian
@@ -46,6 +46,8 @@ playlist:
   song: Stop Your Sobbing
   artist: Pretenders
   artist_slug: pretenders
+  album: Pretenders
+  time: '2:39'
   notes: Can you hear the Davies?
 - sequence: 2
   song: BREAK
@@ -53,21 +55,29 @@ playlist:
   song: Boomerang Baby
   artist: The Claypool Lennon Delirium
   artist_slug: claypool-lennon-delirium
+  album: Monolith of Phobos
+  time: '5:48'
   notes: Preview for BOOM later on
 - sequence: 4
   song: Peek-A-Boo
   artist: Siouxsie + the Banshees
   artist_slug: siouxsie-banshees
+  album:
+  time: '3:10'
   notes: The gothest accordion
 - sequence: 5
   song: I See You Baby (Fatboy Slim Radio Edit) (feat. Gram'ma Funk)
   artist: Groove Armada
   artist_slug: groove-armada
+  album: The Fatboy Slim Collection
+  time: '4:02'
   notes: Shaking what?
 - sequence: 6
   song: Family Functions
   artist: that dog.
   artist_slug: that-dog
+  album: that dog.
+  time: '2:22'
   notes: For all lonely librarians
 - sequence: 7
   song: BREAK
@@ -75,21 +85,29 @@ playlist:
   song: Brilliant Boy
   artist: The Rentals
   artist_slug: rentals
+  album: Return Of The Rentals
+  time: '4:16'
   notes: Can you feel the Weezer?
 - sequence: 9
   song: Bedbug Town
   artist: Quasi
   artist_slug: quasi
+  album: Mole City
+  time: '3:24'
   notes: "<clink>"
 - sequence: 10
   song: Master Manipulator
   artist: Bourbon Princess
   artist_slug: bourbon-princess
+  album: Dark Of Days
+  time: '4:05'
   notes: Dark stuff
 - sequence: 11
   song: Up On The Hill
   artist: Ween
   artist_slug: ween
+  album: 'GodWeenSatan: The Oneness (25th Anniversary Edition)'
+  time: '1:56'
   notes: Boognish was rising
 - sequence: 12
   song: BREAK
@@ -97,21 +115,29 @@ playlist:
   song: The Wind Cries Mary
   artist: Jimi Hendrix
   artist_slug: jimi-hendrix
+  album:
+  time: '3:21'
   notes: One of my favorites
 - sequence: 14
   song: Anything You Say
   artist: The Vines
   artist_slug: vines
+  album: Wicked Nature - Disc One
+  time: '1:43'
   notes: Power pop stuff
 - sequence: 15
   song: My Street
   artist: The Oranges Band
   artist_slug: oranges-band
+  album: All Around
+  time: '2:52'
   notes: Such a voice
 - sequence: 16
   song: Subbacultcha
   artist: Pixies
   artist_slug: pixies
+  album: The Purple Tape
+  time: '3:05'
   notes: At their weirdest
 - sequence: 17
   song: BREAK
@@ -119,21 +145,29 @@ playlist:
   song: Bobby Joan Sex Tape
   artist: Hot Hot Heat
   artist_slug: hot-hot-heat
+  album:
+  time: '3:17'
   notes: Double retro time
 - sequence: 19
   song: London Calling
   artist: The Clash
   artist_slug: clash
+  album: 'London Calling: 25th Anniversary Edition'
+  time: '3:20'
   notes: Get all riled up
 - sequence: 20
   song: I'm Done
   artist: The Julie Ruin
   artist_slug: julie-ruin
+  album: Uncut The Goldrush
+  time: '3:08'
   notes: Punk out new wave style
 - sequence: 21
   song: Skhanddraviza
   artist: Ruins
   artist_slug: ruins
+  album: Tzomborgha
+  time: '3:58'
   notes:
 - sequence: 22
   song: BREAK
@@ -141,16 +175,22 @@ playlist:
   song: Boom Boom
   artist: Trio
   artist_slug: trio
+  album: Da Da Da
+  time: '3:25'
   notes: A fine german tradition
 - sequence: 24
   song: Boom Shack-a-Lack
   artist: Apache Indian
   artist_slug: apache-indian
+  album: Make Way for the Indian
+  time: '4:31'
   notes: From Dumb + Dumber
 - sequence: 25
   song: Badaboom
   artist: Tapes 'N Tapes
   artist_slug: tapes-n-tapes
+  album:
+  time: '3:56'
   notes: Off kilter
 - sequence: 26
   song: BREAK
@@ -158,21 +198,29 @@ playlist:
   song: Tick Tick Boom
   artist: The Hives
   artist_slug: hives
+  album: Archive BM
+  time: '3:39'
   notes: Swedish mayhem
 - sequence: 28
   song: Shaboom They Said
   artist: From Bubblegum to Sky
   artist_slug: from-bubblegum-to-sky
+  album: Me and Amy and the Two French Boys
+  time: '2:52'
   notes: Elephant Six, right?
 - sequence: 29
   song: Boom Boom Room
   artist: Here Come The Mummies
   artist_slug: here-come-mummies
+  album: Archive DO
+  time: '3:54'
   notes: Fundead
 - sequence: 30
   song: This Is My Boomstick
   artist: Project Wirehead
   artist_slug: project-wirehead
+  album:
+  time: '3:50'
   notes: For Evil Dead fans
 - sequence: 31
   song: BREAK
@@ -180,38 +228,52 @@ playlist:
   song: Boombox
   artist: Mosquitos
   artist_slug: mosquitos
+  album: Mosquitos
+  time: '2:20'
   notes: Tropical sensation
 - sequence: 33
   song: Baba Boom
   artist: The Jamaicans
   artist_slug: jamaicans
+  album: Plebs Original Soundtrack
+  time: '3:20'
   notes: Island sounds
 - sequence: 34
   song: Chick-A-Boom
   artist: Trespassers W
   artist_slug: trespassers-w
+  album: ''
+  time: '4:06'
   notes: Find a position which the back wouldn't hurt so bad
 - sequence: 35
   song: BREAK
 - sequence: 36
-  song: Fatty Boom Boom
+  song: Fatty Boom Boom!
   artist: Westbound Train
   artist_slug: westbound-train
+  album: Transitions
+  time: '3:45'
   notes: Where's my fatty fatty boom boom?
 - sequence: 37
   song: Boom Pam
   artist: Boom Pam
   artist_slug: boom-pam
+  album:
+  time: '4:55'
   notes: Eponymous
 - sequence: 38
   song: Boom
   artist: Lo-Fi-Fnk
   artist_slug: lo-fi-fnk
+  album: Boom
+  time: '3:43'
   notes: DISKO BOOM
 - sequence: 39
   song: Boing Boom Tschak
   artist: Kraftwerk
   artist_slug: kraftwerk
+  album: Full House
+  time: '2:57'
   notes: More German onomatopaeia
 - sequence: 40
   song: BREAK
@@ -219,6 +281,8 @@ playlist:
   song: B'Boom
   artist: King Crimson
   artist_slug: king-crimson
+  album: Archive BH
+  time: '4:11'
   notes: So complicated
 ---
 

@@ -7,7 +7,7 @@ slug: bell-house-shy-boys
 excerpt: Very understated, yet completely engaging. Shy Boys live up to their name
   with this collection of softly-strummed, gently-tapped, whisper-harmonized indie
   basement gems.
-image: "~/assets/images/details/2018/09/shy-boys.jpg"
+image: "/images/details/2018/09/shy-boys.jpg"
 tags:
 - Stephen Malkmus
 - Real Estate

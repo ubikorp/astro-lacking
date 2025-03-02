@@ -7,7 +7,7 @@ slug: point-yello
 excerpt: The recipe for Yello’s bass-heavy, rhythmic, mid-tempo groovecake has not
   changed in forever, and it still makes the ideal soundtrack for putting on your
   sunglasses and slouching down in your seat.
-image: "~/assets/images/details/2020/12/yello.jpg"
+image: "/images/details/2020/12/yello.jpg"
 tags:
 - Trio
 - Arling + Cameron

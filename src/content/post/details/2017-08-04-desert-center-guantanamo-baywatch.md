@@ -6,7 +6,7 @@ publishDate: '2017-08-04'
 slug: desert-center-guantanamo-baywatch
 excerpt: The name is jokey but the songs are seriously warped surf-style instrumentals
   with occasional vocals and other trickery.
-image: "~/assets/images/details/2020/12/guantanamo-baywatch.jpg"
+image: "/images/details/2020/12/guantanamo-baywatch.jpg"
 tags:
 - Surf Instrumentals
 - Man Man

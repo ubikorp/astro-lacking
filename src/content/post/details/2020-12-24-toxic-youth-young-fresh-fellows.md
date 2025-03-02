@@ -7,7 +7,7 @@ slug: toxic-youth-young-fresh-fellows
 excerpt: The boys are back, fresh as ever and resplendent in stereo as they churn
   more of their distinctive hot-rod music, guitar-bass-drum sounds suitable for the
   open road and a full throttle.
-image: "~/assets/images/details/2020/12/young-fresh-fellows.jpg"
+image: "/images/details/2020/12/young-fresh-fellows.jpg"
 tags:
 - The Replacements
 - The Sonics

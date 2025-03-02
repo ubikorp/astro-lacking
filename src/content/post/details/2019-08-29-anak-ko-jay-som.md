@@ -7,7 +7,7 @@ slug: anak-ko-jay-som
 excerpt: Understated but solid set of songs with a strong female vocal presence. There’s
   a loving interlocking of guitar, bass, and keyboard lines that gives the music a
   rich and interesting texture.
-image: "~/assets/images/details/2019/10/jay-som.jpg"
+image: "/images/details/2019/10/jay-som.jpg"
 tags:
 - Pinback
 - This Is The Kit

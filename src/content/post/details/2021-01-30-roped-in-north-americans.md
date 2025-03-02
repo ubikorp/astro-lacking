@@ -7,7 +7,7 @@ slug: roped-in-north-americans
 excerpt: Subtle expressions of singing strings from a guitar and pedal steel, mixed
   with ambient sounds and other sources to make the soundtrack for the most intense
   relaxation you’ve had in a while.
-image: "~/assets/images/details/2021/03/north-americans.jpg"
+image: "/images/details/2021/03/north-americans.jpg"
 tags:
 - Calexico
 - Brian Eno

@@ -5,7 +5,7 @@ publishDate: '2024-09-12'
 slug: 0256-version-control-3
 excerpt: A third installment of Version Control, our semi-regular exploration of tribute
   and imitation.
-image: "~/assets/images/mixtapes/2024/09/256-version-control-3.jpg"
+image: "/images/mixtapes/2024/09/256-version-control-3.jpg"
 tags:
 - The Barrence Whitfield Soul Savage Arkestra
 - Boise Cover Band

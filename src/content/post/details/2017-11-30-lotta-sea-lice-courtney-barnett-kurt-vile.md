@@ -6,7 +6,7 @@ publishDate: '2017-11-30'
 slug: lotta-sea-lice-courtney-barnett-kurt-vile
 excerpt: Such grand disaffection from this US/AUS pairing … my new favorite Kurt and
   Courtney, providing the weirdest yet most natural male/female vocal duets.
-image: "~/assets/images/details/2018/11/courtney-barnett-kurt-vile.jpg"
+image: "/images/details/2018/11/courtney-barnett-kurt-vile.jpg"
 tags:
 - Paleface
 - Juliana Hatfield

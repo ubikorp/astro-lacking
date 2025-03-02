@@ -7,7 +7,7 @@ slug: invitation-filthy-friends
 excerpt: Supergroup featuring members from the Young Fresh Fellows, R.E.M., Sleater-Kinney
   and Baseball Project, driven by Peter Buck and Corin Tucker’s songwriting. Sounds
   like what you’d expect it to sound like.
-image: "~/assets/images/details/2020/12/filthy-friends.jpg"
+image: "/images/details/2020/12/filthy-friends.jpg"
 tags:
 - Young Fresh Fellows
 - R.E.M.

@@ -7,7 +7,7 @@ slug: paraty-brazil-guaxe
 excerpt: Intensely layered psychedelic outing from Brazil, with a collection of instrumentals
   and softly-sibilant Portuguese designed to transport you on a multicolored rainbow
   of spices.
-image: "~/assets/images/details/2020/01/guaxe.jpg"
+image: "/images/details/2020/01/guaxe.jpg"
 tags:
 - Os Mutantes
 - Oh Sees

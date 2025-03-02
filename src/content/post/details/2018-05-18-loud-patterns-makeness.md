@@ -6,7 +6,7 @@ publishDate: '2018-05-18'
 slug: loud-patterns-makeness
 excerpt: An engaging hybrid of analog and electronic sounds, with occasional soulful
   vocals intertwined in the mix.
-image: "~/assets/images/details/2018/07/makeness.jpg"
+image: "/images/details/2018/07/makeness.jpg"
 tags:
 - Nine Inch Nails
 - Daft Punk

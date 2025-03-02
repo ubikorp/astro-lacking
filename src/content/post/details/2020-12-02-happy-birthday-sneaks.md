@@ -7,7 +7,7 @@ slug: happy-birthday-sneaks
 excerpt: There is something familiar yet quite subversive in the way Sneaks assembles
   their synthetic layers and stream-of-consciousness vocalizations into a collage
   of desperate modern living.
-image: "~/assets/images/details/2020/12/sneaks.jpg"
+image: "/images/details/2020/12/sneaks.jpg"
 tags:
 - Gossip
 - Tom Tom Club

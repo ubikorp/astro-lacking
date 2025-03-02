@@ -5,7 +5,7 @@ category: details
 publishDate: '2017-09-29'
 slug: visions-of-a-life-wolf-alice
 excerpt: Guitars, synths, great production, and pop hooks a-plenty.
-image: "~/assets/images/details/2018/11/wolf-alice.jpg"
+image: "/images/details/2018/11/wolf-alice.jpg"
 tags:
 - The Horrors
 - Hole

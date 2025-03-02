@@ -6,7 +6,7 @@ publishDate: '2018-11-25'
 slug: skiff-skiffle-players
 excerpt: Words like “rollicking”, “thumping”, and “boisterous” apply to this fun mix
   of blues, boogie, and mystery meats.
-image: "~/assets/images/details/2018/11/skiffle-players.jpg"
+image: "/images/details/2018/11/skiffle-players.jpg"
 tags:
 - Ween
 - Marshall Crenshaw

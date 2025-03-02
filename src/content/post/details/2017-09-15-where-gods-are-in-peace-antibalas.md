@@ -6,7 +6,7 @@ publishDate: '2017-09-15'
 slug: where-gods-are-in-peace-antibalas
 excerpt: Great modern take on the Afrobeat genre, with a healthy dash of psychedelic
   punk.
-image: "~/assets/images/details/2019/08/antibalas.jpg"
+image: "/images/details/2019/08/antibalas.jpg"
 tags:
 - Fela
 - Tony Allen

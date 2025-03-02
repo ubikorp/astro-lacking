@@ -7,7 +7,7 @@ slug: originals-prince
 excerpt: Songs that the Purple One wrote for others, as performed by the person who
   wrote them. A good set of well-produced demos, but nothing that should have been
   released a long time ago and mostly of historical interest.
-image: "~/assets/images/details/2019/08/prince.jpg"
+image: "/images/details/2019/08/prince.jpg"
 tags:
 - Morris Day and the Time
 - The Bangles

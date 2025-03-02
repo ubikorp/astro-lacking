@@ -6,7 +6,7 @@ publishDate: '2019-09-25'
 slug: memory-vivian-girls
 excerpt: The girl group aesthetic survives, drenched in spring reverb and distant
   crooning, and it’s not just unscathed, it’s very agitated and ready to rip throats.
-image: "~/assets/images/details/2020/01/vivian-girls.jpg"
+image: "/images/details/2020/01/vivian-girls.jpg"
 tags:
 - La Luz
 - Phil Spector

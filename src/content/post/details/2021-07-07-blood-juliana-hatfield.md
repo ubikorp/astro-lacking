@@ -7,7 +7,7 @@ slug: blood-juliana-hatfield
 excerpt: Hatfield’s relentless output is given some inventive production, and I have
   to pause to carefully listen. There’s a lot to unpack, sonically and lyrically,
   and it refuses to fade into the background.
-image: "~/assets/images/details/2021/09/juliana-hatfield.jpg"
+image: "/images/details/2021/09/juliana-hatfield.jpg"
 tags:
 - Suzanne Vega
 - Eels

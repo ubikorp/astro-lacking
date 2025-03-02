@@ -9,7 +9,7 @@ excerpt: 'It’s fitting to receive instruction from **Art Brut** on how the who
   excited. Notice to the faithful listeners: the show will be off on the expected
   December 17, but will return for a special off-schedule holiday showcase on the
   24th.'
-image: "~/assets/images/playlists/2024/12/2024-12-03-art-brut.jpg"
+image: "/images/playlists/2024/12/2024-12-03-art-brut.jpg"
 caption: Art Brut
 tags:
 - AK|DK

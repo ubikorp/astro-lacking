@@ -6,7 +6,7 @@ publishDate: '2019-09-01'
 slug: twelve-nudes-ezra-furman
 excerpt: Furman sounds like he’s barely keeping it together as he blasts through a
   set of classic rockers, loaded with riffs and swagger.
-image: "~/assets/images/details/2019/10/ezra-furman.jpg"
+image: "/images/details/2019/10/ezra-furman.jpg"
 tags:
 - Ty Segall
 - Ron Gallo

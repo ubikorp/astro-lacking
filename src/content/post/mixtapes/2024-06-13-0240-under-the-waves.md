@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-06-13'
 slug: 0240-under-the-waves
 excerpt: A special collection of songs about humans and their interactions with water.
-image: "~/assets/images/mixtapes/2024/06/240-under-the-waves.jpg"
+image: "/images/mixtapes/2024/06/240-under-the-waves.jpg"
 tags:
 - Black Tambourine
 - David Garza

@@ -6,7 +6,7 @@ publishDate: '2017-07-20'
 slug: pearl-earl-pearl-earl
 excerpt: Reverb- and keyboard-drenched psychedelia fronted by urgent female vocals.
   Out of Denton, TX, a town whose bands always deliver.
-image: "~/assets/images/details/2020/12/pearl-earl.jpg"
+image: "/images/details/2020/12/pearl-earl.jpg"
 tags:
 - The Photon Band
 - The Gossip

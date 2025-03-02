@@ -6,7 +6,7 @@ publishDate: '2019-10-04'
 slug: natural-disguise-halfnoise
 excerpt: Forward-looking dance funk, the kind of music that immediately makes you
   grab the closest person by the wrist and drag them to the dance floor.
-image: "~/assets/images/details/2020/01/halfnoise.jpg"
+image: "/images/details/2020/01/halfnoise.jpg"
 tags:
 - Vulfpeck
 - Broncho

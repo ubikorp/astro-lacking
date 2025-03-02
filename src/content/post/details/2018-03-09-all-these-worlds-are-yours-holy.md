@@ -6,7 +6,7 @@ publishDate: '2018-03-09'
 slug: all-these-worlds-are-yours-holy
 excerpt: Dense arrangements make for a hallucinatory experience as each song feels
   like a symphony passing you by at light speed.
-image: "~/assets/images/details/2018/09/holy.jpg"
+image: "/images/details/2018/09/holy.jpg"
 tags:
 - Black Moth Super Rainbow
 - early Pink Floyd

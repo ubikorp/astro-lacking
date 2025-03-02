@@ -7,7 +7,7 @@ slug: 3-mutagenicos
 excerpt: Straight up garage-billy from Spain, filled with surf rock, psychedelic,
   and British Invasion references. The vocals are in Spanish, but the bad bad attitude
   is unmistakable.
-image: "~/assets/images/details/2020/05/mutagenicos.jpg"
+image: "/images/details/2020/05/mutagenicos.jpg"
 tags:
 - Agent Orange
 - Misfits

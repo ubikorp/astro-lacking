@@ -7,7 +7,7 @@ slug: wolf-lie-down-fresh-onlys
 excerpt: Wildly varied compositions, ranging from driving fuzz with vocal harmonies
   to sparse tributes that sound like they came from "My Aim Is True” outtakes, to
   outright cowboy dirges
-image: "~/assets/images/details/2020/12/fresh-onlys.jpg"
+image: "/images/details/2020/12/fresh-onlys.jpg"
 tags:
 - Wilco
 - Tweedy

@@ -7,7 +7,7 @@ slug: new-ok-drive-by-truckers
 excerpt: Yes, it’s the Drive-By Truckers, and they remain consistent to their deep
   Southern roots, but I had to keep checking the player to see who was sounding exactly
   like Dinosaur Jr. or riffing off Hall and Oates.
-image: "~/assets/images/details/2020/12/drive-by-truckers.jpg"
+image: "/images/details/2020/12/drive-by-truckers.jpg"
 tags:
 - Wilco
 - Ramones

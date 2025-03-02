@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2025-03-01'
 slug: 284-una-cumbia-en-kinshasa
 excerpt: Ale Bop and Titi Bakorta cook up a pan-global feast for the ears.
-image: "~/assets/images/mixtapes/2025/03/284-ale-hop.jpg"
+image: "/images/mixtapes/2025/03/284-ale-hop.jpg"
 caption: Ale Hop + Titi Bakorta
 tags:
 - Ale Hop & Titi Bakorta

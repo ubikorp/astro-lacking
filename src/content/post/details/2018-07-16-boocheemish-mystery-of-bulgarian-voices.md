@@ -7,7 +7,7 @@ slug: boocheemish-mystery-of-bulgarian-voices
 excerpt: A sound you could classify as ethereal, alien, or both. Ancient gregorian
   harmonies collide with Middle Eastern time signatures for something truly unique.
   Features DCD’s Lisa Gerrard
-image: "~/assets/images/details/2018/07/mystery-of-bulgarian-voices.jpg"
+image: "/images/details/2018/07/mystery-of-bulgarian-voices.jpg"
 tags:
 - Enigma
 - Dead Can Dance

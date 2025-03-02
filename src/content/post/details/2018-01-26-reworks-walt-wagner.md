@@ -5,7 +5,7 @@ category: details
 publishDate: '2018-01-26'
 slug: reworks-walt-wagner
 excerpt: An interesting set of covers for solo piano, performed live
-image: "~/assets/images/details/2018/10/walt-wagner.jpg"
+image: "/images/details/2018/10/walt-wagner.jpg"
 tags:
 - The Bad Plus
 - Keith Jarret

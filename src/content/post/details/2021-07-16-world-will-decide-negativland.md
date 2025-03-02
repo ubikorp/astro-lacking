@@ -7,7 +7,7 @@ slug: world-will-decide-negativland
 excerpt: The Weatherman returns and takes prominence on this latest sound art foray,
   taking on the intersection of the surveillance apparatus and our insatiable need
   to have machines listening for our latest whim.
-image: "~/assets/images/details/2021/03/negativland.jpg"
+image: "/images/details/2021/03/negativland.jpg"
 tags:
 - The Evolution Control Committee
 - Girltalk

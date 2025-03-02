@@ -7,7 +7,7 @@ slug: songs-to-make-you-move-certain-animals
 excerpt: Dutch indie rock psychedelic bands often stand out from their UK or US counterparts
   because they are just too good at the tropes. It’s like they took the test and got
   110%, and there wasn’t even extra credit.
-image: "~/assets/images/details/2020/12/certain-animals.jpg"
+image: "/images/details/2020/12/certain-animals.jpg"
 tags:
 - Born Ruffians
 - Bettie Serveert
