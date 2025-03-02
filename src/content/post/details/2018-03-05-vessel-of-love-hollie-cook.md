@@ -6,7 +6,7 @@ publishDate: '2018-03-05'
 slug: vessel-of-love-hollie-cook
 excerpt: Pitch perfect UK reggae from the Slits vocalist, full of heavenly harmonies
   and thumping bass.
-image: "~/assets/images/details/2018/09/hollie-cook.jpg"
+image: "/images/details/2018/09/hollie-cook.jpg"
 tags:
 - Steel Pulse
 - The Selecter

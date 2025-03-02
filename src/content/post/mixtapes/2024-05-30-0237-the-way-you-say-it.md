@@ -5,7 +5,7 @@ publishDate: '2024-05-30'
 slug: 0237-the-way-you-say-it
 excerpt: The sound of Chicano Batman is a half-dozen ice-cubes liquidly clinking in
   a tall glass.
-image: "~/assets/images/mixtapes/2024/05/237-chicano-batman.jpg"
+image: "/images/mixtapes/2024/05/237-chicano-batman.jpg"
 caption: Chicano Batman
 tags:
 - Being Dead

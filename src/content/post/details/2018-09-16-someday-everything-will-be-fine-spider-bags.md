@@ -7,7 +7,7 @@ slug: someday-everything-will-be-fine-spider-bags
 excerpt: Fast-forward punk, with the sort of edge that comes from the current DIY
   movement, and an unknown spice that makes the songs stand out from your standard
   barrage of fuzzed out chords and beats.
-image: "~/assets/images/details/2018/09/spider-bags.jpg"
+image: "/images/details/2018/09/spider-bags.jpg"
 tags:
 - Social Distortion
 - Parquet Courts

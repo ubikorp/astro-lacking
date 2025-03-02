@@ -5,7 +5,7 @@ publishDate: '2021-10-19'
 slug: '0168-shame-reactions'
 excerpt: Pom Pom Squad began as songwriter Mia Berrin's solo operation but now employs
   four full-time experts in musical munitions and lethal lyrical techniques
-image: "~/assets/images/mixtapes/2021/10/0168-pom-pom-squad.jpg"
+image: "/images/mixtapes/2021/10/0168-pom-pom-squad.jpg"
 caption: Pom Pom Squad
 tags:
 - Atomic 7
@@ -37,22 +37,28 @@ tags:
 - Schneider TM
 - Squeeze
 - Thingy
-mixcloud: https://www.mixcloud.com/the-lacking-org/jntvoh-168-shame-reactions/
+airdate: '2021-10-19'
 playlist:
 - sequence: 1
   song: Shame Reactions
   artist: Pom Pom Squad
   artist_slug: pom-pom-squad
+  album: Death of a Cheerleader
+  time: '1:33'
   notes: Lethal velocity
 - sequence: 2
   song: Back of My Hand
   artist: Bachelor
   artist_slug: bachelor
+  album: Doomin’ Sun
+  time: '3:30'
   notes: Your biggest fan
 - sequence: 3
   song: Where's Your Patience, Dear?
   artist: Matt Suggs
   artist_slug: matt-suggs
+  album: Old Enough to Know Better
+  time: '2:29'
   notes: From Butterglory
 - sequence: 4
   song: BREAK
@@ -60,26 +66,31 @@ playlist:
   song: Writing a Letter
   artist: Josh Caterer
   artist_slug: josh-caterer
+  album: The Hideout Sessions
+  time: '04:25'
   notes: Reworking the classics
 - sequence: 6
   song: Kansas (Remembers Me Now)
   artist: Orville Peck
   artist_slug: orville-peck
+  album: Pony
+  time: '3:36'
   notes: For the Slim Whitman fans
 - sequence: 7
   song: Newsletter - Gal Costa
-  artist: TLO
-  artist_slug: tlo
-  notes:
 - sequence: 8
   song: Mayday
   artist: Thingy
   artist_slug: thingy
+  album: To the Innocent
+  time: '02:46'
   notes: Weaving through traffic
 - sequence: 9
   song: Baba Boom
   artist: The Jamaicans
   artist_slug: jamaicans
+  album: Plebs Original Soundtrack
+  time: '3:20'
   notes: An original vibration
 - sequence: 10
   song: BREAK
@@ -87,21 +98,29 @@ playlist:
   song: Fear
   artist: Sault
   artist_slug: sault
+  album: Nine
+  time: '3:31'
   notes: On the backbeat
 - sequence: 12
   song: Love Intervene
   artist: Lou Barlow
   artist_slug: lou-barlow
+  album: Reason to Live
+  time: '3:21'
   notes: Almost smiling
 - sequence: 13
   song: The Bank and Trust
   artist: The Elected
   artist_slug: elected
+  album: Sun, Sun, Sun
+  time: '3:16'
   notes: Stuck in this American town
 - sequence: 14
   song: Ask For Help
   artist: Kings of Convenience
   artist_slug: kings-of-convenience
+  album: Peace Or Love
+  time: '4:07'
   notes: Always good advice
 - sequence: 15
   song: BREAK
@@ -109,21 +128,29 @@ playlist:
   song: Spiral
   artist: Schneider TM
   artist_slug: schneider-tm
+  album: The 8 Of Space
+  time: '04:22'
   notes: Undulating threats
 - sequence: 17
   song: Now That's What I Call Freewave
   artist: Of Montreal
   artist_slug: of-montreal
+  album: I Feel Safe With You, Trash
+  time: '02:43'
   notes: Time traveling can be hazardous
 - sequence: 18
   song: Pretty Boys
   artist: Paul McCartney + Khruangbin
   artist_slug: paul-mccartney-khruangbin
+  album: McCartney III Imagined
+  time: '05:49'
   notes: Unexpected complements
 - sequence: 19
   song: Bucky Done Gone
   artist: M.I.A.
   artist_slug: m-i-a
+  album: Arular
+  time: '03:46'
   notes: Quieten down, I need to make a sound
 - sequence: 20
   song: BREAK
@@ -131,16 +158,22 @@ playlist:
   song: Charlie's Lips
   artist: The Molochs
   artist_slug: molochs
+  album: America's Velvet Glory
+  time: '03:38'
   notes: Sounds like a nice guy
 - sequence: 22
   song: Dead Or Alive
   artist: The Hoosegow
   artist_slug: hoosegow
+  album:
+  time: '03:02'
   notes: Spangled blues
 - sequence: 23
   song: Jackson
   artist: Cymbals Eat Guitars
   artist_slug: cymbals-eat-guitars
+  album: Lose
+  time: '06:14'
   notes: Cinematic scope
 - sequence: 24
   song: BREAK
@@ -148,16 +181,22 @@ playlist:
   song: You Aint Havin Fun Till You're Dialling 911
   artist: Atomic 7
   artist_slug: atomic-7
+  album:
+  time: '2:00'
   notes: True words
 - sequence: 26
   song: Wedding Song
   artist: Boom Pam
   artist_slug: boom-pam
+  album: Boom Pam
+  time: '2:56'
   notes: It was a wild reception
 - sequence: 27
   song: Jalale
   artist: Mexican Institute of Sound
   artist_slug: mexican-institute-of-sound
+  album: Soy Sauce
+  time: '2:57'
   notes: Flushin’
 - sequence: 28
   song: BREAK
@@ -165,26 +204,31 @@ playlist:
   song: The Wreck of The Triple One
   artist: The Gravel Pit
   artist_slug: gravel-pit
+  album: Serpent Umbrella
+  time: '3:32'
   notes: Smart pops
 - sequence: 30
   song: We Want The Airwaves
   artist: The Ramones
   artist_slug: ramones
+  album: Ramones Mania
+  time: '3:22'
   notes: Give them it
 - sequence: 31
   song: Dirty Barnyard
-  artist: TLO
-  artist_slug: tlo
-  notes:
 - sequence: 32
   song: Hearsed + Rehearsed
   artist: Choo Choo La Rouge
   artist_slug: choo-choo-la-rouge
+  album: Wall to Wall
+  time: '2:39'
   notes: Practice makes perfect
 - sequence: 33
   song: Up The Junction
   artist: Squeeze
   artist_slug: squeeze
+  album: Cool for Cats
+  time: '3:09'
   notes: A perfect story
 - sequence: 34
   song: BREAK
@@ -192,16 +236,22 @@ playlist:
   song: Pelota (Cut a Rug Mix)
   artist: Quantic
   artist_slug: quantic
+  album: Mordechai Remixes
+  time: '5:02'
   notes: A suitable extension
 - sequence: 36
   song: Kung den knege
   artist: Pluxus
   artist_slug: pluxus
+  album: European Onion
+  time: '4:22'
   notes: Return to the lunar module
 - sequence: 37
   song: 2020 I Pray Thee
   artist: Brain Damage Meets Big Youth
   artist_slug: brain-damage-meets-big-youth
+  album: Beyond The Blue
+  time: '3:44'
   notes: A jazzy sort of dub
 - sequence: 38
   song: BREAK
@@ -209,6 +259,9 @@ playlist:
   song: Black Lipstick
   artist: Audiobooks
   artist_slug: audiobooks
+  album: Astro Tough
+  time: '6:15'
   notes: Very goth
+mixcloud: https://www.mixcloud.com/the-lacking-org/jntvoh-168-shame-reactions/
 ---
 

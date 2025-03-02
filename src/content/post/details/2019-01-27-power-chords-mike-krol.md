@@ -6,7 +6,7 @@ publishDate: '2019-01-27'
 slug: power-chords-mike-krol
 excerpt: Punchy and punch drunk laments wrapped in glorious blankets of fuzz and overgained
   vocals.
-image: "~/assets/images/details/2019/05/mike-krol.jpg"
+image: "/images/details/2019/05/mike-krol.jpg"
 tags:
 - Bracket
 - Ty Segall

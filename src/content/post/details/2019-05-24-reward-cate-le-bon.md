@@ -7,7 +7,7 @@ slug: reward-cate-le-bon
 excerpt: Supremely introspective and carefully arranged, this collection of songs
   that range from lushly orchestrated to uncomfortably angular makes for a great moody
   journey
-image: "~/assets/images/details/2019/08/cate-le-bon.jpg"
+image: "/images/details/2019/08/cate-le-bon.jpg"
 tags:
 - Laurie Anderson
 - Joanna Newsom

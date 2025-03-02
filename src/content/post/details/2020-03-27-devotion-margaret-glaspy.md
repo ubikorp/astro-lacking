@@ -6,7 +6,7 @@ publishDate: '2020-03-27'
 slug: devotion-margaret-glaspy
 excerpt: Glaspy’s voice is a broad crooked smile, unique in its shape and well-suited
   for this particular set of laconic jangle.
-image: "~/assets/images/details/2021/09/margaret-glaspy.jpeg"
+image: "/images/details/2021/09/margaret-glaspy.jpeg"
 tags:
 - Cat Power
 - Waxahatchie

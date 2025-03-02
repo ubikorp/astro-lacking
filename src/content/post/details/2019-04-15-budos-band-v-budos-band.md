@@ -7,7 +7,7 @@ slug: budos-band-v-budos-band
 excerpt: A completely international approach to music, with influences ranging from
   funk to afrobeat to Balkan brass, blurring genres and locations in a glorious celebration
   of groove.
-image: "~/assets/images/details/2019/10/budos-band.jpg"
+image: "/images/details/2019/10/budos-band.jpg"
 tags:
 - The James Taylor Quartet
 - Antibalas

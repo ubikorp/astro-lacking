@@ -6,7 +6,7 @@ publishDate: '2021-09-22'
 slug: llamps-llamps
 excerpt: 'Really, this review only needs five words: Francophone spaghetti western
   rock songs.'
-image: "~/assets/images/details/2022/02/llamps.jpeg"
+image: "/images/details/2022/02/llamps.jpeg"
 tags:
 - Pascal Comelade
 - The Limiñanas

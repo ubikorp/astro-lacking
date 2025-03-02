@@ -7,7 +7,7 @@ slug: strange-peace-metz
 excerpt: The line between a riff and a throbbing structures of pitched rhythm is pretty
   thin, as these Canadians show. METZ is punishing without being abusive. A Steve
   Albini recording.
-image: "~/assets/images/details/2019/06/metz.jpg"
+image: "/images/details/2019/06/metz.jpg"
 tags:
 - Bass Drum of Death
 - JEFF the Brotherhood

@@ -5,7 +5,7 @@ category: details
 publishDate: '2019-06-07'
 slug: how-am-i-not-myself-french-vanilla
 excerpt: Hot-as-fire punk disco party with a raging saxophone and urgent female vocals.
-image: "~/assets/images/details/2019/08/french-vanilla.jpg"
+image: "/images/details/2019/08/french-vanilla.jpg"
 tags:
 - Le Tigre
 - Obliterati

@@ -11,7 +11,7 @@ excerpt: 'It’s time for another Fun Drive, and what better way to represent to
   DOLLARS STOP OF MATCHING AMPLITUDE OTHER PLEDGES OF DONATION COMMA MATCH EXCLAMATION
   STOP HAVING REPORTING OF ARTICLE COMMA THE TURKISH ALMOND FARMING COMMA COMMA COMMA
   BEST THE LUCK STOP COMMA*'
-image: "~/assets/images/playlists/2022/11/10-25-daisy-chainsaw.jpg"
+image: "/images/playlists/2022/11/10-25-daisy-chainsaw.jpg"
 caption: Daisy Chainsaw
 tags:
 - Adrian Belew
@@ -22,7 +22,7 @@ tags:
 - Cajun Gems
 - Cass McCombs
 - Daisy Chainsaw
-- Dan Hicks
+- Dan Hicks & His Hot Licks
 - Deerhoof
 - Delicate Steve
 - Elf Power
@@ -61,11 +61,15 @@ playlist:
   song: Love Your Money
   artist: Daisy Chainsaw
   artist_slug: daisy-chainsaw
+  album: Eleventeen
+  time: '2:39'
   notes: So very extra
 - sequence: 2
   song: Payday
   artist: Yard Act
   artist_slug: yard-act
+  album:
+  time:
   notes: Sounds like an exciting time
 - sequence: 3
   song: BREAK
@@ -73,11 +77,16 @@ playlist:
   song: Dimes Make Dollars
   artist: Lilys
   artist_slug: lilys
+  album: The 3 Way
+  time: '2:25'
   notes: Invest now!
 - sequence: 5
   song: Payday Blues
-  artist: Dan Hicks
-  artist_slug: dan-hicks
+  artist: Dan Hicks & His Hot Licks
+  artist_slug: dan-hicks-his-hot-licks
+  album: 'Truckers, Kickers, Cowboy Angels - The Blissed-Out Birth Of Country Rock,
+    Vol. 6: 1973'
+  time: '2:52'
   notes: Where is my happiness?
 - sequence: 6
   song: BREAK
@@ -85,11 +94,15 @@ playlist:
   song: Gimme Some Money
   artist: Spinal Tap
   artist_slug: spinal-tap
+  album:
+  time: '2:27'
   notes: A must-play for every fun drive
 - sequence: 8
   song: Blue Cash
   artist: Deerhoof
   artist_slug: deerhoof
+  album: Apple O'
+  time: '2:39'
   notes: Abstract registers
 - sequence: 9
   song: BREAK
@@ -97,35 +110,48 @@ playlist:
   song: Money for Dope
   artist: They Might Be Giants
   artist_slug: they-might-be-giants
+  album:
+  time: '2:39'
   notes: Somewhat unexpected
 - sequence: 11
   song: Money Hair
   artist: Looper
   artist_slug: looper
+  album:
+  time: '3:59'
   notes: Cut and donate it, I suppose?
 - sequence: 12
   song: BREAK
 - sequence: 13
-  song: Now That Your Dollars Have Sprouted Wings
+  song: Now That Your Dollar Bills Have Sprouted Wings (feat. Lizzy Ellison & Patti
+    King)
   artist: Portland Cello Project
   artist_slug: portland-cello-project
+  album: Beck Hansen's Song Reader
+  time: '4:51'
   notes: Originally by Beck
 - sequence: 14
   song: Dirty Money
   artist: Antibalas Afrobeat Orchestra
   artist_slug: antibalas-afrobeat-orchestra
+  album: Antibalas
+  time: '6:15'
   notes: The dirtiest
 - sequence: 15
   song: BREAK
 - sequence: 16
-  song: Money Rock N Roll
+  song: Money Rock'n'Roll
   artist: The Jon Spencer Blues Explosion
   artist_slug: jon-spencer-blues-explosion
+  album:
+  time: '3:02'
   notes: Mix them at your own peril
 - sequence: 17
   song: Two Dollar Wine
   artist: The Glands
   artist_slug: glands
+  album:
+  time:
   notes: An unexpected treat
 - sequence: 18
   song: BREAK
@@ -133,6 +159,8 @@ playlist:
   song: Blueprint
   artist: Gogol Bordello
   artist_slug: gogol-bordello
+  album: Solidaritine
+  time: '3:02'
   notes: Originally from Fugazi
 - sequence: 20
   song: BREAK
@@ -140,21 +168,29 @@ playlist:
   song: A Car I Can Talk To
   artist: Adrian Belew
   artist_slug: adrian-belew
+  album: elevator
+  time: '3:09'
   notes: Got the skiffles
 - sequence: 22
   song: Bad Habit
   artist: Steve Lacy
   artist_slug: steve-lacy
+  album:
+  time: '2:48'
   notes: Lush feelings
 - sequence: 23
   song: Big Time
   artist: Angel Olsen
   artist_slug: angel-olsen
+  album: Big Time
+  time: '4:07'
   notes: Staggering to greatness
 - sequence: 24
   song: In the Eyes of Our Love
   artist: Yumi Zouma
   artist_slug: yumi-zouma
+  album: Present Tense
+  time: '3:29'
   notes:
 - sequence: 25
   song: BREAK
@@ -162,21 +198,29 @@ playlist:
   song: You Know I Know
   artist: Mamalarky
   artist_slug: mamalarky
+  album: Pocket Fantasy
+  time: '3:00'
   notes: The pulse is strong
 - sequence: 27
   song: Mars Loves Venus
   artist: The Brunettes
   artist_slug: brunettes
+  album:
+  time: '2:25'
   notes: If you want the jangle
 - sequence: 28
   song: Molly-Joe
   artist: Sleepyhead
   artist_slug: sleepyhead
+  album: New Alchemy
+  time: '4:13'
   notes: Slow burning
 - sequence: 29
   song: Japanese Banjo
   artist: Cajun Gems
   artist_slug: cajun-gems
+  album:
+  time: '1:58'
   notes: Off-kilter waltzing
 - sequence: 30
   song: BREAK
@@ -184,21 +228,29 @@ playlist:
   song: Artificial Countrysides
   artist: Elf Power
   artist_slug: elf-power
+  album: Artificial Countrysides
+  time: '3:12'
   notes: Delicate laces
 - sequence: 32
   song: TV Mama
   artist: Flat Duo Jets
   artist_slug: flat-duo-jets
+  album: Go Go Harlem Baby
+  time: '2:00'
   notes: For the watching TV
 - sequence: 33
   song: Gorilla in a Rucksack
   artist: Oranger
   artist_slug: oranger
+  album: From the Ashes of Electric Elves
+  time: '1:29'
   notes: Too big for the bag
 - sequence: 34
   song: Backpedal
   artist: Steward
   artist_slug: steward
+  album: Goodbye to Everything You Love
+  time: '1:34'
   notes: Clever noise blastings
 - sequence: 35
   song: BREAK
@@ -206,26 +258,36 @@ playlist:
   song: Doers
   artist: Bodega
   artist_slug: bodega
+  album: Xtra Equipment
+  time: '3:19'
   notes: Moving, shaking
 - sequence: 37
   song: BWP
   artist: The Paranoyds
   artist_slug: paranoyds
+  album: Talk Talk Talk
+  time: '3:45'
   notes: High-altitude observations
 - sequence: 38
   song: Pista (Fresh Start)
   artist: Los Bitchos
   artist_slug: los-bitchos
+  album: Let The Festivities Begin!
+  time: '3:22'
   notes: Walk ahead of the camel
 - sequence: 39
   song: Troglodyte
   artist: Viagra Boys
   artist_slug: viagra-boys
+  album: Cave World
+  time: '3:20'
   notes: They are everywhere
 - sequence: 40
   song: Afflicted
   artist: Jennyanykind
   artist_slug: jennyanykind
+  album:
+  time: '1:50'
   notes: Subtle fade-out
 - sequence: 41
   song: BREAK
@@ -233,21 +295,29 @@ playlist:
   song: PARDON? (パードン?)
   artist: Otoboke Beaver
   artist_slug: otoboke-beaver
+  album: SUPER CHAMPON スーパーチャンポン
+  time: '1:46'
   notes: I don’t know what you mean
 - sequence: 43
   song: Edge of the Edge
   artist: Panda Bear & Sonic Boom
   artist_slug: panda-bear-sonic-boom
+  album: Singles 2022-O
+  time: '3:48'
   notes: Moving through the changes
 - sequence: 44
   song: Dramatic
   artist: MASS OF THE FERMENTING DREGS
   artist_slug: mass-of-fermenting-dregs
+  album: Awakening:Sleeping
+  time: '3:47'
   notes: Travel back in time
 - sequence: 45
   song: Unproud Warrior
   artist: Cass McCombs
   artist_slug: cass-mccombs
+  album: Heartmind
+  time: '6:33'
   notes: Uses for angry ballads
 - sequence: 46
   song: BREAK
@@ -255,16 +325,22 @@ playlist:
   song: Artificial
   artist: Delicate Steve
   artist_slug: delicate-steve
+  album:
+  time: '2:56'
   notes: Grooving to the late hours
 - sequence: 48
   song: Bucovina
   artist: Shantel
   artist_slug: shantel
+  album: Bucovina
+  time: '3:22'
   notes: That is all
 - sequence: 49
   song: Hawk's Claw
   artist: Lettuce
   artist_slug: lettuce
+  album: Unify
+  time: '5:33'
   notes: Bringing the beat
 - sequence: 50
   song: BREAK
@@ -272,16 +348,22 @@ playlist:
   song: Geshem
   artist: Shen
   artist_slug: shen
+  album: Tia Tua
+  time: '7:05'
   notes: Quite very noir
 - sequence: 52
   song: Phazerdelique
   artist: Kim & Buran
   artist_slug: kim-buran
+  album: Tramplin
+  time: '5:53'
   notes: Join the Soviet space program!
 - sequence: 53
   song: Nothing Is Ever Lost
   artist: Kramer
   artist_slug: kramer
+  album: Music For Films Edited By Moths
+  time: '3:51'
   notes: The atmosphere is breathable
 - sequence: 54
   song: BREAK
@@ -289,6 +371,8 @@ playlist:
   song: Bleed Out
   artist: The Mountain Goats
   artist_slug: mountain-goats
+  album: Bleed Out
+  time: '7:09'
   notes: It’s the end of ends
 ---
 

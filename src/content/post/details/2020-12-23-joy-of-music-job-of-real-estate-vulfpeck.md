@@ -7,7 +7,7 @@ slug: joy-of-music-job-of-real-estate-vulfpeck
 excerpt: Part holiday album, part jazz funk excursion, all Vulfpeck, this collection
   can be a bit haphazard but in the end has something for everyone and can be used
   to put your home in a festive mood year-round.
-image: "~/assets/images/details/2020/12/vulfpeck.jpg"
+image: "/images/details/2020/12/vulfpeck.jpg"
 tags:
 - Fearless Flyers
 - Greyboy Allstars

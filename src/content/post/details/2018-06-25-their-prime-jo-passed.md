@@ -6,7 +6,7 @@ publishDate: '2018-06-25'
 slug: their-prime-jo-passed
 excerpt: Somewhere beyond easy genres is this woozy mix of indie soul and post-rock
   complication.
-image: "~/assets/images/details/2018/06/jo-passed.jpg"
+image: "/images/details/2018/06/jo-passed.jpg"
 tags:
 - Deerhoof
 - Nirvana

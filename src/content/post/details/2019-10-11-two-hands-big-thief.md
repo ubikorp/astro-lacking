@@ -7,7 +7,7 @@ slug: two-hands-big-thief
 excerpt: A distinctive female voice fronting a standard indie combo is not the most
   exciting formula, but Big Thief has a penchant for weird flourishes and unexpected
   changes that keeps things interesting
-image: "~/assets/images/details/2020/01/big-thief.jpg"
+image: "/images/details/2020/01/big-thief.jpg"
 tags:
 - Bettie Serveert
 - Fleetwood Mac

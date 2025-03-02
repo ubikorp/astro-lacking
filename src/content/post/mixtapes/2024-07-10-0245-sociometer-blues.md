@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-07-10'
 slug: 0245-sociometer-blues
 excerpt: Arab Strap return with their particularly caustic sense of delicacy.
-image: "~/assets/images/mixtapes/2024/07/245-arab-strap.jpg"
+image: "/images/mixtapes/2024/07/245-arab-strap.jpg"
 caption: Arab Strap
 tags:
 - Alejandro Escovedo

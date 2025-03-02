@@ -8,7 +8,7 @@ excerpt: Over forty years ago, Fleetwood Mac was giving the Eagles a run for the
   money as Most Ubiquitous Band in America, and a big part of that was Buckingham’s
   uniquely sophisticated songwriting and unrecognized guitar prowess, both on display
   here.
-image: "~/assets/images/details/2022/02/lindsey-buckingham.jpeg"
+image: "/images/details/2022/02/lindsey-buckingham.jpeg"
 tags:
 - Fleetwood Mac
 - Kevin Seconds

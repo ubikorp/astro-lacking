@@ -7,7 +7,7 @@ slug: ghost-of-vroom-2-ep-ghost-of-vroom
 excerpt: That loose groove on the drums, the casually menacing bass, and Mike Doughty’s
   stream-and-consciousness narration… there’s also no shortage of political commentary
   on these three songs, putting a bold face on topics most others approach obliquely.
-image: "~/assets/images/details/2021/09/ghost-of-vroom.jpeg"
+image: "/images/details/2021/09/ghost-of-vroom.jpeg"
 tags:
 - Soul Coughing
 - Beck

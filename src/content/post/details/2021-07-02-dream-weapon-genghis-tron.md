@@ -6,7 +6,7 @@ publishDate: '2021-07-02'
 slug: dream-weapon-genghis-tron
 excerpt: Lush synthetic bitscapes, layered with drones, sweeps, short loops, and the
   ecstasy of robots make for a propulsive immersion into a world of flow.
-image: "~/assets/images/details/2021/09/genghis-tron.jpg"
+image: "/images/details/2021/09/genghis-tron.jpg"
 tags:
 - Tangerine Dream
 - Django Django

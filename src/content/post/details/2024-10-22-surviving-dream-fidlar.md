@@ -7,7 +7,7 @@ slug: surviving-dream-fidlar
 excerpt: Another band with a well-earned penchant for ALL-CAPS, overbrimming with
   adolescent incorrigible behavior sung about from the perspective of adults proving
   it is indeed corrigible. The music is hyper-pop-punk and the irony levels are high.
-image: "~/assets/images/details/2024/10/fidlar-surviving-dream.webp"
+image: "/images/details/2024/10/fidlar-surviving-dream.webp"
 tags:
 - Rage Against The Machine
 - NOFX

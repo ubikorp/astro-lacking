@@ -7,7 +7,7 @@ slug: covercade-black-midi
 excerpt: Out of many odd cover-filled releases bands have ejected over the last year-plus,
   this is one of the most disparate and interesting, partly from the selections and
   the interstitial music, but mostly because it’s not what you expect from black midi.
-image: "~/assets/images/details/2021/09/black-midi.jpeg"
+image: "/images/details/2021/09/black-midi.jpeg"
 tags:
 - Rodgers and Hammerstein
 - Bjork

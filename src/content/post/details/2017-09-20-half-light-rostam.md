@@ -7,7 +7,7 @@ slug: half-light-rostam
 excerpt: The person behind Vampire Weekend’s production and half of Islands’ distinctive
   sound shows more of his unique sonic signature on a full album of gentle songs awash
   in analog and digital abstractions and heavenly choruses
-image: "~/assets/images/details/2019/06/rostam.jpg"
+image: "/images/details/2019/06/rostam.jpg"
 tags:
 - Vampire Weekend
 - Islands

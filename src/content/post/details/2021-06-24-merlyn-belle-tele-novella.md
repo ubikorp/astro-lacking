@@ -8,7 +8,7 @@ excerpt: This beguiling set of intricate songs could have come out of a Tin Pan 
   songbook, so calling them old-fashioned is somewhat incomplete. And like all the
   best fluffy shiny pop led by a heavenly female voice, it hides many razor-sharp
   barbs.
-image: "~/assets/images/details/2021/09/tele-novella.jpeg"
+image: "/images/details/2021/09/tele-novella.jpeg"
 tags:
 - Jenny Toomey
 - Rilo Kiley

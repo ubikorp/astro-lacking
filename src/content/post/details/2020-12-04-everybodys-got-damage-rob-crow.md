@@ -7,7 +7,7 @@ slug: everybodys-got-damage-rob-crow
 excerpt: When Rob Crow gets to anthologize the songs he wants to cover into an album,
   the results are disparate, insightful, and educational, ranging from King Crimson
   to the Melvins to the Beach Boys.
-image: "~/assets/images/details/2020/12/rob-crow.jpg"
+image: "/images/details/2020/12/rob-crow.jpg"
 tags:
 - Heavy Vegetable
 - Pinback

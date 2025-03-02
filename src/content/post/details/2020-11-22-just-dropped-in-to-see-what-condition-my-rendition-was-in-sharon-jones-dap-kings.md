@@ -8,7 +8,7 @@ slug: just-dropped-in-to-see-what-condition-my-rendition-was-in-sharon-jones-dap
 excerpt: Posthumous releases are always a tricky proposition, but Sharon Jones was
   a talent literally larger than life, and the combination of her of deep rich voice
   slathered over the funky Dap Kings has yet to fail.
-image: "~/assets/images/details/2020/12/sharon-jones-dap-kings.jpg"
+image: "/images/details/2020/12/sharon-jones-dap-kings.jpg"
 tags:
 - Gladys Knight
 - Aretha Franklin

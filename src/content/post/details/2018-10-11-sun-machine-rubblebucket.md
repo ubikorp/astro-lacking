@@ -6,7 +6,7 @@ publishDate: '2018-10-11'
 slug: sun-machine-rubblebucket
 excerpt: Like chocolate-covered potato chips, this mixture of disparate ingredients
   sounds unlikely but sounds delicious.
-image: "~/assets/images/details/2018/10/rubblebucket.jpg"
+image: "/images/details/2018/10/rubblebucket.jpg"
 tags:
 - Metric
 - Portishead

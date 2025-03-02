@@ -7,7 +7,7 @@ slug: these-13-jimbo-mathus-andrew-bird
 excerpt: These two have always made for a dynamic pairing, a yin and yang of raw backwoods
   holler and big-city sophistication that together make for some of the most genuine
   American folk music to come out of your newfangled contraption.
-image: "~/assets/images/details/2021/09/jimbo-mathus-andrew-bird.jpg"
+image: "/images/details/2021/09/jimbo-mathus-andrew-bird.jpg"
 tags:
 - Squirrel Nut Zippers
 - Asylum Street Spankers

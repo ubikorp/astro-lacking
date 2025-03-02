@@ -6,7 +6,7 @@ publishDate: '2018-10-10'
 slug: degauss-rollercoasterwater
 excerpt: Angular and glitchy while remaining melodic, this is a labyrinthine set of
   electronic compositions inviting attention to detail or outright zoning out.
-image: "~/assets/images/details/2018/10/rollercoasterwater.jpg"
+image: "/images/details/2018/10/rollercoasterwater.jpg"
 tags:
 - Mouse on Mars
 - Tangerine Dream

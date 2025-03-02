@@ -7,7 +7,7 @@ slug: bajo-el-mismo-cielo-la-dame-blanche
 excerpt: 'A Cuban transplant in Paris, this artist mixes Afro-Cuban elements with
   modern trap and reggaeton, spicing it up with many other influences to make for
   a very danceable time. '
-image: "~/assets/images/details/2019/06/la-dame-blanche.jpg"
+image: "/images/details/2019/06/la-dame-blanche.jpg"
 tags:
 - Buraka Som Sistema
 - Rosalia

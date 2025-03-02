@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-08-22'
 slug: 0252-i-cant-keep-up-with-you
 excerpt: Crowded House brings us some of that uniquely shaped New Zealand sonic architecture.
-image: "~/assets/images/mixtapes/2024/08/252-crowded-house.jpg"
+image: "/images/mixtapes/2024/08/252-crowded-house.jpg"
 caption: Crowded House
 tags:
 - Arab Strap

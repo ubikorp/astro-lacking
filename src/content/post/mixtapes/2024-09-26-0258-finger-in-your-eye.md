@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-09-26'
 slug: '0258-finger-in-your-eye'
 excerpt: Looks like YACHT is back and gesticulating wildly about.
-image: "~/assets/images/mixtapes/2024/09/258-yacht.jpg"
+image: "/images/mixtapes/2024/09/258-yacht.jpg"
 caption: YACHT
 tags:
 - Amy Rigby

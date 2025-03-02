@@ -6,7 +6,7 @@ publishDate: '2018-01-16'
 slug: dollhouse-pack-ad
 excerpt: Another stunning set of songs from these Vancouverites, full of fuzz and
   dynamics.
-image: "~/assets/images/details/2018/11/pack-ad.jpg"
+image: "/images/details/2018/11/pack-ad.jpg"
 tags:
 - New Pornographers
 - Nirvana

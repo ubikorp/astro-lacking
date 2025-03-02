@@ -6,7 +6,7 @@ publishDate: '2020-10-09'
 slug: nobody-lives-here-anymore-cut-worms
 excerpt: This is a heady mix of Tin Pan Alley melodies, lonesome cowboy delivery,
   and ornate arrangements fit for the most dramatic of the theater kids.
-image: "~/assets/images/details/2021/03/cut-worms.jpg"
+image: "/images/details/2021/03/cut-worms.jpg"
 tags:
 - Okey Dokey
 - Buddy Holly

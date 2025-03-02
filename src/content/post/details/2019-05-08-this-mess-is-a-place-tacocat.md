@@ -6,7 +6,7 @@ publishDate: '2019-05-08'
 slug: this-mess-is-a-place-tacocat
 excerpt: It’s catchy pop punk, and it’s clearly female-powered, but there’s more here
   than rainbow stickers, glorious hooks and riffs, and big puffy girl handwriting.
-image: "~/assets/images/details/2019/08/tacocat.jpg"
+image: "/images/details/2019/08/tacocat.jpg"
 tags:
 - Cub
 - Dressy Bessy

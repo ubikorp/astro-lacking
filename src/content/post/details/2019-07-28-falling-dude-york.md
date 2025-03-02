@@ -7,7 +7,7 @@ slug: falling-dude-york
 excerpt: 'It’s an old recipe but it never fails: Mix some high-energy guitar rock,
   the kind with chuggy riffs, and put a female voice strong enough to withstand the
   maelstrom on top.'
-image: "~/assets/images/details/2019/08/dude-york.jpg"
+image: "/images/details/2019/08/dude-york.jpg"
 tags:
 - Tacocat
 - Garbage

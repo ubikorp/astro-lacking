@@ -7,7 +7,7 @@ slug: vixen-foxx-bodies
 excerpt: Get ready for some uncomfortable oversharing, set to the tune of early grunge,
   with an occasional jazz or doo-wop idiom thrown in… it’s a bit of uneasy listening
   but it gets its hooks into you.
-image: "~/assets/images/details/2022/02/foxx-bodies.jpeg"
+image: "/images/details/2022/02/foxx-bodies.jpeg"
 tags:
 - L7
 - Bully

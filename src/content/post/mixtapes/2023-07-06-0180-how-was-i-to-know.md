@@ -5,7 +5,7 @@ publishDate: '2023-07-06'
 slug: '0180-how-was-i-to-know'
 excerpt: The Boo Radleys are eager to share their sweet shocking intensity and it
   will instantly lift your day.
-image: "~/assets/images/mixtapes/2023/07/180-boo-radleys.jpg"
+image: "/images/mixtapes/2023/07/180-boo-radleys.jpg"
 caption: The Boo Radleys
 tags:
 - 14 Iced Bears
@@ -25,12 +25,14 @@ tags:
 - The Unicorns
 - Yeah Yeah Yeahs
 - Yves Tumor
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-how-was-i-to-know-2023-07-06/
+airdate: '2023-07-06'
 playlist:
 - sequence: 1
   song: How Was I to Know
   artist: The Boo Radleys
   artist_slug: boo-radleys
+  album: Eight
+  time: '4:03'
   notes: For John Ohbee
 - sequence: 2
   song: BREAK
@@ -38,16 +40,23 @@ playlist:
   song: Disgrace
   artist: Deer Tick
   artist_slug: deer-tick
+  album: Emotional Contracts
+  time: '2:54'
   notes: Feeling dusty
 - sequence: 4
   song: Fear Evil Like Fire
   artist: Yves Tumor
   artist_slug: yves-tumor
+  album: Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between
+    Worlds)
+  time: '3:31'
   notes: Distant shuffling
 - sequence: 5
   song: Jellybones
   artist: The Unicorns
   artist_slug: unicorns
+  album: Who Will Cut Our Hair When We're Gone? (Remastered)
+  time: '2:44'
   notes: Gimme the fat filter
 - sequence: 6
   song: BREAK
@@ -55,21 +64,29 @@ playlist:
   song: Cujo Kiddies
   artist: Disq
   artist_slug: disq
+  album: Desperately Imagining Someplace Quiet
+  time: '3:51'
   notes: Twisted features
 - sequence: 8
   song: Inside
   artist: 14 Iced Bears
   artist_slug: 14-iced-bears
+  album: C86 - Deluxe Edition (Disc 2)
+  time: '1:49'
   notes: Redlining and worth it
 - sequence: 9
   song: Pinking Shears
   artist: Mandy, Indiana
   artist_slug: mandy-indiana
+  album: i've seen a way
+  time: '2:32'
   notes: You cannot borrow them
 - sequence: 10
   song: Lose Your Cool
   artist: Stuck
   artist_slug: stuck
+  album: Freak Frequency
+  time: '3:11'
   notes: Totally blowing it
 - sequence: 11
   song: BREAK
@@ -77,21 +94,29 @@ playlist:
   song: What A Bringdown
   artist: MC Honky
   artist_slug: mc-honky
+  album: I Am The Messiah
+  time: '3:50'
   notes: A real bummer
 - sequence: 13
   song: Hey Tía!
   artist: Mexican Institute of Sound
   artist_slug: mexican-institute-of-sound
+  album: Méjico Máxico
+  time: '3:52'
   notes: The biggest party
 - sequence: 14
   song: All the Young Dudes (feat. Kirsty Rock)
   artist: Easy Star All-Stars
   artist_slug: easy-star-all-stars
+  album: Ziggy Stardub
+  time: '3:45'
   notes: I will allow it
 - sequence: 15
   song: Mars
   artist: Yeah Yeah Yeahs
   artist_slug: yeah-yeah-yeahs
+  album: Cool It Down
+  time: '1:56'
   notes: An imaginary voyage
 - sequence: 16
   song: BREAK
@@ -99,21 +124,29 @@ playlist:
   song: Demonbird
   artist: Draag
   artist_slug: draag
+  album: Dark Fire Heresy
+  time: '3:23'
   notes: Drenching it out of the gate
 - sequence: 18
   song: Right Before My Eyes
   artist: The Snitches
   artist_slug: snitches
+  album: Star Witness
+  time: '2:56'
   notes: The powerest of pops
 - sequence: 19
   song: Not If You Were The Last Junkie On Earth
   artist: The Dandy Warhols
   artist_slug: dandy-warhols
+  album: The Dandy Warhols Come Down
+  time: '3:11'
   notes: The finest Portland beef
 - sequence: 20
   song: Snake Appeal (2023)
   artist: Melvins
   artist_slug: melvins
+  album: The Devil You Knew, The Devil You Know
+  time: '1:53'
   notes: A fresh beating
 - sequence: 21
   song: BREAK
@@ -121,6 +154,9 @@ playlist:
   song: The Frequencies
   artist: Kid Koala
   artist_slug: kid-koala
+  album: Creatures of the Late Afternoon
+  time: '3:40'
   notes: They are converging
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-how-was-i-to-know-2023-07-06/
 ---
 

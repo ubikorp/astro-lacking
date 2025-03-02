@@ -6,7 +6,7 @@ publishDate: '2020-03-06'
 slug: collector-disq
 excerpt: Finely crafted pop songs dressed up in rock outfits, shifting moods and approaches
   with every track.
-image: "~/assets/images/details/2020/05/disq.jpg"
+image: "/images/details/2020/05/disq.jpg"
 tags:
 - Spoon
 - Buffalo Tom

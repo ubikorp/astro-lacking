@@ -7,7 +7,7 @@ slug: wyau-pyst-datblygu
 excerpt: Wales has always had an abnormally high number of interesting bands per capita,
   and listening to these early ‘80s reissues it’s obvious that Datblygu, whose unique
   style can range all over the musical map while remaining recognizable, is why.
-image: "~/assets/images/details/2021/09/datblygu.jpg"
+image: "/images/details/2021/09/datblygu.jpg"
 tags:
 - Blondie
 - Throbbing Gristle

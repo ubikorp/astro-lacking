@@ -5,7 +5,7 @@ category: details
 publishDate: '2019-08-01'
 slug: chains-are-broken-devil-makes-three
 excerpt: Americana with a punk-ass louche attitude always makes for a good bawdy time.
-image: "~/assets/images/details/2019/08/devil-makes-three.jpg"
+image: "/images/details/2019/08/devil-makes-three.jpg"
 tags:
 - Mumford and Sons
 - The Bath Salt Zombies

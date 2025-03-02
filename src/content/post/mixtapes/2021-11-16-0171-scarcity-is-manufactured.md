@@ -6,7 +6,7 @@ slug: 0171-scarcity-is-manufactured
 excerpt: For a quarter century, Deerhoof have been a benchmark for the contrasting
   dynamics of sweet and sour, spiked and pillowy, and all manner of sounds that should
   not get along but quite obviously do.
-image: "~/assets/images/mixtapes/2021/11/0171-deerhoof.jpg"
+image: "/images/mixtapes/2021/11/0171-deerhoof.jpg"
 caption: Deerhoof
 tags:
 - Blithe
@@ -37,22 +37,28 @@ tags:
 - The Wedding Present
 - Ween
 - Woody + Jeremy
-mixcloud: https://www.mixcloud.com/the-lacking-org/crxwv8-171-scarcity-is-manufactured/
+airdate: '2021-11-16'
 playlist:
 - sequence: 1
   song: Scarcity Is Manufactured
   artist: Deerhoof
   artist_slug: deerhoof
+  album: Actually You Can
+  time: '2:53'
   notes: Electric bamba
 - sequence: 2
   song: All Night
   artist: Low
   artist_slug: low
+  album: HEY WHAT
+  time: '5:15'
   notes: Overwhelmed
 - sequence: 3
   song: Get The Letter Out
   artist: Enon
   artist_slug: enon
+  album:
+  time: '2:56'
   notes: Backwards calligraphy
 - sequence: 4
   song: BREAK
@@ -60,26 +66,31 @@ playlist:
   song: Lux
   artist: Pom Pom Squad
   artist_slug: pom-pom-squad
+  album: Death of a Cheerleader
+  time: '1:40'
   notes: Harsh blaster
 - sequence: 6
   song: At the Lake
   artist: Meat Wave
   artist_slug: meat-wave
+  album: The Incessant
+  time: '1:14'
   notes: Jabs of guitar
 - sequence: 7
   song: Watercooler
-  artist: TLO
-  artist_slug: tlo
-  notes:
 - sequence: 8
   song: Now You Know
   artist: Blithe
   artist_slug: blithe
+  album: Verse Chorus Verse
+  time: '3:25'
   notes: Noted
 - sequence: 9
   song: Mind of its Own
   artist: The Safes
   artist_slug: safes
+  album: Tasty Waves
+  time: '1:59'
   notes: Fun times
 - sequence: 10
   song: BREAK
@@ -87,21 +98,29 @@ playlist:
   song: Nickelodeon
   artist: Marc Ribot's Ceramic Dog
   artist_slug: marc-ribot-s-ceramic-dog
+  album: Hope
+  time: '4:58'
   notes: Is that MC 900 Foot Jesus?
 - sequence: 12
   song: Tennessee Waltz
   artist: Les Paul & Mary Ford
   artist_slug: les-paul-mary-ford
+  album: Greatest Hits
+  time: '3:09'
   notes: All the way from 1953
 - sequence: 13
   song: Darling
   artist: Real Estate
   artist_slug: real-estate
+  album: In Mind
+  time: '4:21'
   notes: Looking for the lost beat
 - sequence: 14
   song: Educated Fools
   artist: Brain Damage Meets Big Youth
   artist_slug: brain-damage-meets-big-youth
+  album: Beyond The Blue
+  time: '4:04'
   notes: Decrease the stupidity
 - sequence: 15
   song: BREAK
@@ -109,16 +128,22 @@ playlist:
   song: I Made You A Clown
   artist: Kid Congo Powers
   artist_slug: kid-congo-powers
+  album: You Didn't Think We Could Take It  (Subsonics Tribute - Vol 2)
+  time: '2:18'
   notes: Subsonics glory
 - sequence: 17
   song: K155 M3, U JACK3D UP J3RK
   artist: Brainiac
   artist_slug: brainiac
+  album: Hissing Prigs in Static Couture
+  time: '3:14'
   notes: Psychotic Japanese Chichuahua
 - sequence: 18
   song: Little Birdy
   artist: Ween
   artist_slug: ween
+  album: Pure Guava
+  time: '3:31'
   notes: The seasick sound
 - sequence: 19
   song: BREAK
@@ -126,16 +151,22 @@ playlist:
   song: Encircle My Love
   artist: Jimbo Mathus & Andrew Bird
   artist_slug: jimbo-mathus-andrew-bird
+  album: These 13
+  time: '3:42'
   notes: Together again
 - sequence: 21
   song: My Zeppelin
   artist: The Jazz Butcher
   artist_slug: jazz-butcher
+  album:
+  time: '2:03'
   notes: Cowboy airship theme
 - sequence: 22
   song: Waiting On A Song
   artist: Dan Auerbach
   artist_slug: dan-auerbach
+  album: Waiting On A Song
+  time: '2:50'
   notes: Now delivering
 - sequence: 23
   song: BREAK
@@ -143,21 +174,29 @@ playlist:
   song: A Nanny In Manhattan
   artist: Lilys
   artist_slug: lilys
+  album: Better Can't Make Your Life Better
+  time: '01:59'
   notes: Tripping down the tune tunnel…
 - sequence: 25
   song: Free from Gravity
   artist: Django Django
   artist_slug: django-django
+  album: Glowing in the Dark
+  time: '02:54'
   notes: Join the space congaline
 - sequence: 26
   song: Seven Months
   artist: Mouse on Mars
   artist_slug: mouse-on-mars
+  album: AAI
+  time: '02:31'
   notes: Fracture and fragment
 - sequence: 27
   song: My Favourite Dress (Locked Down and Stripped Back Version)
   artist: The Wedding Present
   artist_slug: wedding-present
+  album: Locked Down and Stripped Back
+  time: '03:37'
   notes: Nicely done
 - sequence: 28
   song: BREAK
@@ -165,21 +204,24 @@ playlist:
   song: Butterfly 3000
   artist: King Gizzard + the Lizard Wizard
   artist_slug: king-gizzard-lizard-wizard
+  album: Butterfly 3000
+  time: '2:51'
   notes: Fluttering groove
 - sequence: 30
   song: Roots Train (previously unreleased dub plate mix)
   artist: Junior Murvin
   artist_slug: junior-murvin
+  album: Black Art From The Black Ark
+  time: '3:58'
   notes: Very the special
 - sequence: 31
   song: La Rana Guillermo
-  artist: TLO
-  artist_slug: tlo
-  notes:
 - sequence: 32
   song: Behold a Pale Rider
   artist: Woody + Jeremy
   artist_slug: woody-jeremy
+  album: Gravy in My Coffee
+  time: '4:26'
   notes: Vaguely apocalyptic
 - sequence: 33
   song: BREAK
@@ -187,16 +229,22 @@ playlist:
   song: The Prince Is Back
   artist: Snapped Ankles
   artist_slug: snapped-ankles
+  album: Forest Of Your Problems
+  time: '3:20'
   notes: Big new prinz
 - sequence: 35
   song: Cab It Up!
   artist: The Fall
   artist_slug: fall
+  album:
+  time: '4:54'
   notes: Getting across town
 - sequence: 36
   song: SWEET75
   artist: Sleigh Bells
   artist_slug: sleigh-bells
+  album: Texis
+  time: '3:33'
   notes: Feel the pulse
 - sequence: 37
   song: BREAK
@@ -204,6 +252,9 @@ playlist:
   song: The Brazilianaire
   artist: Cujo
   artist_slug: cujo
+  album: The Very Best Of Bossa Brava (Disc 1)
+  time: '06:17'
   notes: Cool down
+mixcloud: https://www.mixcloud.com/the-lacking-org/crxwv8-171-scarcity-is-manufactured/
 ---
 

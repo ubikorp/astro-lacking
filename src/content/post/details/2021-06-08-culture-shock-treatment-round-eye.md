@@ -7,7 +7,7 @@ slug: culture-shock-treatment-round-eye
 excerpt: Imagine a heavy punk-core assault, one with a bad attitude, weird experimental
   asides, an unhinged vocalist, and a rhythm section suitable for pulverizing concrete.
   How do you take it to the next level? Add a saxophone.
-image: "~/assets/images/details/2021/09/round-eye.jpeg"
+image: "/images/details/2021/09/round-eye.jpeg"
 tags:
 - Rocket From The Crypt
 - The Bronx

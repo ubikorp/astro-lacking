@@ -8,7 +8,7 @@ excerpt: These lads supported Mark E. Smith for a while, and that speaks loads a
   their ability to hit his notoriously high and fickle bar, and (unrelated) their
   ability to put up with random nonstop antics. Straightahead driving music for eating
   up miles.
-image: "~/assets/images/details/2024/10/imperial-wax-tranquilliser.jpg"
+image: "/images/details/2024/10/imperial-wax-tranquilliser.jpg"
 tags:
 - Mudhoney
 - The Fall

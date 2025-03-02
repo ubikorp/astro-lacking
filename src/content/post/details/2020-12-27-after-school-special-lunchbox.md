@@ -7,7 +7,7 @@ slug: after-school-special-lunchbox
 excerpt: They hit hard and they hit fast, with half of the songs here clocking in
   at two minutes or less, but they also hit sweet, with layers of boy-girl harmonies
   and drizzles of horn section.
-image: "~/assets/images/details/2020/12/lunchbox.jpg"
+image: "/images/details/2020/12/lunchbox.jpg"
 tags:
 - Camera Obscura
 - They Might Be Giants

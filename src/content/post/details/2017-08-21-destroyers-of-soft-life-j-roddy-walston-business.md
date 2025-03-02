@@ -6,7 +6,7 @@ publishDate: '2017-08-21'
 slug: destroyers-of-soft-life-j-roddy-walston-business
 excerpt: Good southern-tinged rock, anthemic and singalong. Nothing ground-breaking,
   but top-notch songwriting and production.
-image: "~/assets/images/details/2019/05/j-roddy-walston-business.jpg"
+image: "/images/details/2019/05/j-roddy-walston-business.jpg"
 tags:
 - Wilco
 - Drive By Truckers

@@ -8,7 +8,7 @@ excerpt: This aggregation of aggressive sounds does not differentiate between ro
   and electro, juicing thick synth leads with military drumming and a lyrical delivery
   that wavers delicately between completely disaffected and about to punch your lights
   out.
-image: "~/assets/images/details/2022/02/snapped-ankles.jpeg"
+image: "/images/details/2022/02/snapped-ankles.jpeg"
 tags:
 - Brainiac
 - The Fall

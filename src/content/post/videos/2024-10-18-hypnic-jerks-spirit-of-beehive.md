@@ -4,9 +4,9 @@ category: videos
 publishDate: '2024-10-18'
 slug: hypnic-jerks-spirit-of-beehive
 excerpt: If you’re going to wipe out, do it in style.
-image: "~/assets/images/videos/2024/10/hypnic-jerks.jpg"
+image: "/images/videos/2024/10/hypnic-jerks.jpg"
 tags:
 - Spirit of the Beehive
-video: "-ADhXCpanNg"
+video: https://www.youtube.com/watch?v=-ADhXCpanNg
 ---
 

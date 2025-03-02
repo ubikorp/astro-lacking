@@ -7,7 +7,7 @@ slug: neil-vol-1-scott-hoople
 excerpt: If you love Neil Young as much as Scott McCaughey does, you’ll be able to
   grin at yourself on recognizing each and every one of these deep, deep cuts, delivered
   in McCaughey’s enthusiastic yelp rather than Young’s grizzled whine.
-image: "~/assets/images/details/2021/03/scott-hoople.jpg"
+image: "/images/details/2021/03/scott-hoople.jpg"
 tags:
 - Young Fresh Fellows
 - Neil Young

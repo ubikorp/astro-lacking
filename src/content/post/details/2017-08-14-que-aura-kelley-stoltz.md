@@ -7,7 +7,7 @@ slug: que-aura-kelley-stoltz
 excerpt: At the extreme end of DIY is DEY — do everything yourself. It’s a unique
   solipsistic sound, and Stoltz is very good at it, blending a variety of rock, psych,
   and synth influences into his own sound.
-image: "~/assets/images/details/2020/12/kelley-stoltz.jpg"
+image: "/images/details/2020/12/kelley-stoltz.jpg"
 tags:
 - Ty Segall
 - Mac Demarco

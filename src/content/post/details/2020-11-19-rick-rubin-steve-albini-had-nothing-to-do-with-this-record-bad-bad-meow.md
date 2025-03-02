@@ -8,7 +8,7 @@ slug: rick-rubin-steve-albini-had-nothing-to-do-with-this-record-bad-bad-meow
 excerpt: Weird manic indie funk-verging-on-pop with a weird manic sense of humor and
   they’re not afraid to throw in a horn section here and there to bolster their hooks
   and riffs.
-image: "~/assets/images/details/2021/03/bad-bad-meow.jpg"
+image: "/images/details/2021/03/bad-bad-meow.jpg"
 tags:
 - The Format
 - We Wrote The Book On Connectors

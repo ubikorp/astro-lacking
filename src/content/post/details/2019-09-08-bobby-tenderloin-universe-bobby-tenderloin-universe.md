@@ -6,7 +6,7 @@ publishDate: '2019-09-08'
 slug: bobby-tenderloin-universe-bobby-tenderloin-universe
 excerpt: The cowboy bandwagon is in full effect as Bobby Tenderloin takes us into
   a rough-and-tumble universe filled with tragic and entertaining Western tropes.
-image: "~/assets/images/details/2019/10/bobby-tenderloin-universe.jpg"
+image: "/images/details/2019/10/bobby-tenderloin-universe.jpg"
 tags:
 - Orville Peck
 - Johnny Cash

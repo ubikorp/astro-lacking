@@ -5,7 +5,7 @@ publishDate: '2024-10-17'
 slug: 0262-spacegirl-shirleys
 excerpt: Raw as a blister and smooth as obsidian, Okay Kaya is a spinner of tales
   and shifter of moods.
-image: "~/assets/images/mixtapes/2024/10/262-oka-kaya.jpg"
+image: "/images/mixtapes/2024/10/262-oka-kaya.jpg"
 caption: Okay Kaya
 tags:
 - Attic Ted

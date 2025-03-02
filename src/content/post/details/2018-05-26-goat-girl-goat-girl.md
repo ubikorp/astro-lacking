@@ -6,7 +6,7 @@ publishDate: '2018-05-26'
 slug: goat-girl-goat-girl
 excerpt: Guitar-centered rock with moody female vocals, with a harder edge and good
   dynamics.
-image: "~/assets/images/details/2018/07/goat-girl.jpeg"
+image: "/images/details/2018/07/goat-girl.jpeg"
 tags:
 - Pinback
 - Throwing Muses

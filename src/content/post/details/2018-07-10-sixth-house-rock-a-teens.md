@@ -6,7 +6,7 @@ publishDate: '2018-07-10'
 slug: sixth-house-rock-a-teens
 excerpt: This southern gothic staple returns, with a bit less reverb but just as much
   agony and attitude.
-image: "~/assets/images/details/2018/07/rock-a-teens.jpg"
+image: "/images/details/2018/07/rock-a-teens.jpg"
 tags:
 - My Morning Jacket
 - Wilco

@@ -6,7 +6,7 @@ publishDate: '2018-11-16'
 slug: we-are-electrocution-le-shok
 excerpt: Short blasts of raw fury, seething with rage, dirty keyboards, and quite
   a lot of fun.
-image: "~/assets/images/details/2018/11/le-shok.jpg"
+image: "/images/details/2018/11/le-shok.jpg"
 tags:
 - Rondelles
 - Brainiac

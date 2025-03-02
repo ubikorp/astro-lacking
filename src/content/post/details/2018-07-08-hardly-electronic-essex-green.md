@@ -6,7 +6,7 @@ publishDate: '2018-07-08'
 slug: hardly-electronic-essex-green
 excerpt: Hooks as sharp as diamonds, girl/boy vocal harmonies, jangling guitars… what
   else do you need to play this summer?
-image: "~/assets/images/details/2018/07/essex-green.jpg"
+image: "/images/details/2018/07/essex-green.jpg"
 tags:
 - Apples In Stereo
 - Belle and Sebastian

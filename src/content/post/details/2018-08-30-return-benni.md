@@ -7,7 +7,7 @@ slug: return-benni
 excerpt: Cinematic expressions of synthesis collide and swirl for an introspective
   instrumental journey. Analog reigns supreme to bring an auditory vision of a future
   from the past.
-image: "~/assets/images/details/2018/09/benni.jpg"
+image: "/images/details/2018/09/benni.jpg"
 tags:
 - QuarterHawk
 - Jean-Michel Jarre

@@ -7,7 +7,7 @@ slug: death-of-a-cheerleader-pom-pom-squad
 excerpt: 'A solid debut album, with a wide range of energies and emotions,  filled
   with swirling guitars, moments of unabashed vulnerability, and sheer screeching
   unhinged psychopathy. '
-image: "~/assets/images/details/2021/09/pom-pom-squad.jpeg"
+image: "/images/details/2021/09/pom-pom-squad.jpeg"
 tags:
 - The Sundays
 - The Bobby Lees

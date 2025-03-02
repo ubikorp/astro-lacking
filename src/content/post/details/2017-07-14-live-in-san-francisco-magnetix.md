@@ -7,7 +7,7 @@ slug: live-in-san-francisco-magnetix
 excerpt: Noisy blunt riff punk from Bordeaux, France, via Oh Sees label Castleface
   Records. Live, raw, and nearly unintelligible, this album showcases a rare moment
   in time for this two-piece.
-image: "~/assets/images/details/2020/12/magnetix.jpg"
+image: "/images/details/2020/12/magnetix.jpg"
 tags:
 - Coachwhips
 - The Sonics

@@ -6,7 +6,7 @@ publishDate: '2017-12-03'
 slug: losing-bully
 excerpt: Wildly dynamic outfit with in-your-face female vocals. Sounds twenty years
   old and completely new at the same time.
-image: "~/assets/images/details/2018/11/bully.jpg"
+image: "/images/details/2018/11/bully.jpg"
 tags:
 - L7
 - The Muffs

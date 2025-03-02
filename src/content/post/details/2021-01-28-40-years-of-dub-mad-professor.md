@@ -7,7 +7,7 @@ slug: 40-years-of-dub-mad-professor
 excerpt: One of the kingpins of dub easily proves his worth on this retrospective
   covering the first four decades of UK producer Mad Professor and his deep undulating
   grooves, universal sounds that are neither fresh nor dated, but eternal.
-image: "~/assets/images/details/2021/03/mad-professor.jpg"
+image: "/images/details/2021/03/mad-professor.jpg"
 tags:
 - Lee “Scratch” Perry
 - Massive Attack

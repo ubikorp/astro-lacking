@@ -6,7 +6,7 @@ publishDate: '2019-06-21'
 slug: schlagenheim-black-midi
 excerpt: Insistent angular weirdfunk, songs that sound like tape loops that have fallen
   out of order and yet maintain a diligent desire to be songs.
-image: "~/assets/images/details/2019/08/black-midi.jpg"
+image: "/images/details/2019/08/black-midi.jpg"
 tags:
 - Art Brut
 - The Dismemberment Plan

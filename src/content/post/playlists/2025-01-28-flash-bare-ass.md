@@ -9,7 +9,7 @@ excerpt: White Denim, part of the eminently surfable wave of psychedelia we’ve
   riffs you’ll encounter on this side of the water’s surface. Shout out to our caller
   who could possibly be Murrdawg on alternate Sundays here on KAFM. Check out their
   show!
-image: "~/assets/images/playlists/2025/02/2025-01-28-white-denim.jpg"
+image: "/images/playlists/2025/02/2025-01-28-white-denim.jpg"
 caption: White Denim
 tags:
 - Afghan Whigs

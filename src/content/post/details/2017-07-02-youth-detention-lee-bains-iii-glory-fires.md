@@ -7,7 +7,7 @@ slug: youth-detention-lee-bains-iii-glory-fires
 excerpt: Alabama native Lee Bains III and three other guys recorded these 17 anthems
   of southern-fried disillusion live to two-track, and the energy is pegging the needle.
   It’s not a new sound, but it’s very well done.
-image: "~/assets/images/details/2020/12/lee-bains-iii-glory-fires.jpg"
+image: "/images/details/2020/12/lee-bains-iii-glory-fires.jpg"
 tags:
 - Drive By Truckers
 - Georgia Satellites

@@ -7,7 +7,7 @@ slug: negativity-scientists
 excerpt: If there is one word to describe this latest outing from Kim Salmon, with
   its droning rumbles, hazy distortion, and proto-punk vibe, it is “menacing”. This
   is an album you apologize to, maybe buy it a drink to be safe.
-image: "~/assets/images/details/2021/09/scientists.jpeg"
+image: "/images/details/2021/09/scientists.jpeg"
 tags:
 - Viagra Boys
 - The Clash

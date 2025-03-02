@@ -6,7 +6,7 @@ publishDate: '2017-10-07'
 slug: boxing-moonlight-mister-heavenly
 excerpt: If the aliens thought we communicated in oldies, and were trying to send
   us a message, this would be it.
-image: "~/assets/images/details/2019/05/mister-heavenly.jpg"
+image: "/images/details/2019/05/mister-heavenly.jpg"
 tags:
 - The Unicorns
 - Man Man

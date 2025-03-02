@@ -6,7 +6,7 @@ publishDate: '2018-02-22'
 slug: modern-lore-julian-lage
 excerpt: High-order guitar instrumentals more concerned with melody and expression
   than pyrotechnics. Truly ear-opening.
-image: "~/assets/images/details/2018/10/julian-lage.jpg"
+image: "/images/details/2018/10/julian-lage.jpg"
 tags:
 - John Scofield
 - Marc Ribot

@@ -6,7 +6,7 @@ publishDate: '2017-11-25'
 slug: details-mo-kenney
 excerpt: A great collection of intense flavors, from easy rockers to bedroom recordings
   to full-on blasts
-image: "~/assets/images/details/2018/11/mo-kenney.jpg"
+image: "/images/details/2018/11/mo-kenney.jpg"
 tags:
 - Juliana Hatfield
 - Courtney Barnett

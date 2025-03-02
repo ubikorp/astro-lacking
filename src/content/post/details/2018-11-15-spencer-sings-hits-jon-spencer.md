@@ -6,7 +6,7 @@ publishDate: '2018-11-15'
 slug: spencer-sings-hits-jon-spencer
 excerpt: Spencer delivers another trash-talkin’, leg-humpin’, hip-grindin’ album in
   his particular inimitable style.
-image: "~/assets/images/details/2018/11/jon-spencer.jpg"
+image: "/images/details/2018/11/jon-spencer.jpg"
 tags:
 - The Cramps
 - The Oblivians

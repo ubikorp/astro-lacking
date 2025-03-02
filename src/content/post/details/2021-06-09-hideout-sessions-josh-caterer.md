@@ -7,7 +7,7 @@ slug: hideout-sessions-josh-caterer
 excerpt: 'Caterer was the unmistakable voice behind the Smoking Popes, and his post-Popes
   career has taken many interesting turns, something reflected in this collection
   of croony standards and revisited songs from his previous band. '
-image: "~/assets/images/details/2021/09/josh-caterer.jpeg"
+image: "/images/details/2021/09/josh-caterer.jpeg"
 tags:
 - Smoking Popes
 - M. Ward

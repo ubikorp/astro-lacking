@@ -7,7 +7,7 @@ slug: skin-suit-bobby-lees
 excerpt: The insurance inspector shook her head. She’d never seen a fire consume a
   structure so quickly and completely; this must be some new form of accelerant. Most
   curiously, the inferno seemed to have started at the stereo speakers.
-image: "~/assets/images/details/2020/12/bobby-lees.jpg"
+image: "/images/details/2020/12/bobby-lees.jpg"
 tags:
 - Sleater-Kinney
 - John Wilkes Booze

@@ -6,7 +6,7 @@ publishDate: '2017-09-10'
 slug: try-faith-healer
 excerpt: A variety of sounds and moods from this duo. Yes, that is a winky emoticon
   in the album title.
-image: "~/assets/images/details/2019/08/faith-healer.jpg"
+image: "/images/details/2019/08/faith-healer.jpg"
 tags:
 - Margaret Glaspy
 - Heartless Bastards

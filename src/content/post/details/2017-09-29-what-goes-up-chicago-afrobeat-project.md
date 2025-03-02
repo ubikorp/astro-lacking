@@ -7,7 +7,7 @@ slug: what-goes-up-chicago-afrobeat-project
 excerpt: More modern Afrobeat, connected to the source via drummer Tony Allen. A wild
   collection of Chicago talents united for a smoothly entrancing session of shorter
   (for Afrobeat) songs.
-image: "~/assets/images/details/2019/08/chicago-afrobeat-project.jpg"
+image: "/images/details/2019/08/chicago-afrobeat-project.jpg"
 tags:
 - Fela
 - Tony Allen

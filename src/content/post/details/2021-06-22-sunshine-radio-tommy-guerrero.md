@@ -7,7 +7,7 @@ slug: sunshine-radio-tommy-guerrero
 excerpt: Get your headphones on and listen to this master of mood make his way across
   the undulating sands, the wet guitar reverb, warbling organs, crystal-clear claves,
   and snaking melodies sounding like surf music for a desert holiday.
-image: "~/assets/images/details/2022/12/tommy-guerrero.jpg"
+image: "/images/details/2022/12/tommy-guerrero.jpg"
 tags:
 - Money Mark
 - The Red Elvises

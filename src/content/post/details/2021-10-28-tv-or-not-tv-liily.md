@@ -7,7 +7,7 @@ slug: tv-or-not-tv-liily
 excerpt: Jagged thunder aplenty, as this band tears through a set of impressively
   constructed symphonies of hostility. If you like the sort of music that makes you
   headbang, give this a listen but make a chiropractor appointment first.
-image: "~/assets/images/details/2022/02/liily.jpeg"
+image: "/images/details/2022/02/liily.jpeg"
 tags:
 - Medicine
 - The Mars Volta

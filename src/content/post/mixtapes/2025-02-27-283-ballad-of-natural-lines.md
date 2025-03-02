@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2025-02-27'
 slug: 283-ballad-of-natural-lines
 excerpt: Call it what you will, Matt Pond PA makes music outside the natural lines.
-image: "~/assets/images/mixtapes/2025/02/283-matt-pond-pa.jpg"
+image: "/images/mixtapes/2025/02/283-matt-pond-pa.jpg"
 caption: Matt Pond PA
 tags:
 - Bodega

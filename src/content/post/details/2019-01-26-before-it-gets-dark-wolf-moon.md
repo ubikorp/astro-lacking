@@ -6,7 +6,7 @@ publishDate: '2019-01-26'
 slug: before-it-gets-dark-wolf-moon
 excerpt: Well-produced synth / indie pop, with clear female vocals and a variety of
   styles, from dance-floor anthems to wispy desert ballads.
-image: "~/assets/images/details/2020/05/wolf-moon.jpg"
+image: "/images/details/2020/05/wolf-moon.jpg"
 tags:
 - The Bird and the Bee
 - Cranberries

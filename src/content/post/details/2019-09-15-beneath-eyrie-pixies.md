@@ -7,7 +7,7 @@ slug: beneath-eyrie-pixies
 excerpt: Reminiscent of Bossanova-era songwriting, the band continues to make use
   of twisted lyrics and unexpected melodic flourishes to further iterate on their
   iconic sound.
-image: "~/assets/images/details/2020/01/pixies.jpg"
+image: "/images/details/2020/01/pixies.jpg"
 tags:
 - The Breeders
 - Frank Black

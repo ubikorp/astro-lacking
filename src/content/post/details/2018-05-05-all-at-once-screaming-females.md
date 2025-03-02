@@ -6,7 +6,7 @@ publishDate: '2018-05-05'
 slug: all-at-once-screaming-females
 excerpt: Fronted by Marissa Paternoster’s dramatic and dynamic vocals, this power
   trio hearkens back to the DIY indie scene
-image: "~/assets/images/details/2018/07/screaming-females.jpg"
+image: "/images/details/2018/07/screaming-females.jpg"
 tags:
 - L7
 - The Gits

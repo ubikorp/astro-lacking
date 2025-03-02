@@ -8,7 +8,7 @@ excerpt: Featuring a thunderous rhythm section unafraid to venture into lockstep
   odd grooves, a guitar team willing to weave in and out of those sonic pylons in
   tandem, and a beguiling childlike voice floating above it all, this is your standard
   Deerhoof.
-image: "~/assets/images/details/2022/02/deerhoof.jpeg"
+image: "/images/details/2022/02/deerhoof.jpeg"
 tags:
 - Blonde Redhead
 - Heavy Vegetable

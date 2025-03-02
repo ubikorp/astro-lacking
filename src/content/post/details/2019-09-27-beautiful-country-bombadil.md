@@ -6,7 +6,7 @@ publishDate: '2019-09-27'
 slug: beautiful-country-bombadil
 excerpt: Very agreeable folk pop, with clever harmonies and sharp hooks making it
   the sort of music to bring on a road trip.
-image: "~/assets/images/details/2020/01/bombadil.jpg"
+image: "/images/details/2020/01/bombadil.jpg"
 tags:
 - Babe Rainbow
 - Spinto Band

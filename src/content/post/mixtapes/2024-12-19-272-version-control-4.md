@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-12-19'
 slug: 272-version-control-4
 excerpt: The fourth aggregation of musical replicas and facsimiles!
-image: "~/assets/images/mixtapes/2024/12/272-version-control-4.jpg"
+image: "/images/mixtapes/2024/12/272-version-control-4.jpg"
 caption: ''
 tags:
 - Ben Folds

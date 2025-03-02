@@ -6,7 +6,7 @@ publishDate: '2017-09-12'
 slug: songs-we-like-hazelrigg-brothers
 excerpt: Jazz trio renditions of a curiously selected set of songs. Jimi Hendrix,
   Bartok, the Police, Led Zeppelin (twice), Steely Dan, and more all get a turn.
-image: "~/assets/images/details/2019/08/hazelrigg-brothers.jpg"
+image: "/images/details/2019/08/hazelrigg-brothers.jpg"
 tags:
 - The Bad Plus
 - Hazelrigg Brothers

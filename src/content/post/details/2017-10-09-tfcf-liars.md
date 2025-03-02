@@ -7,7 +7,7 @@ slug: tfcf-liars
 excerpt: Down to one original member, who recorded most of this in the Australian
   bush, this album sounds desperate and hopeful at the same time with its strange
   mix of acoustic, electronic, and environmental sounds.
-image: "~/assets/images/details/2019/08/liars.jpg"
+image: "/images/details/2019/08/liars.jpg"
 tags:
 - Nine Inch Nails
 - Swans

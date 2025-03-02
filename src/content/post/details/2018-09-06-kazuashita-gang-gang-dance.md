@@ -6,7 +6,7 @@ publishDate: '2018-09-06'
 slug: kazuashita-gang-gang-dance
 excerpt: An intense mix of international flavors and electronic treatments, this album
   is an exotic transcendental journey across imaginary foreign lands.
-image: "~/assets/images/details/2018/09/gang-gang-dance.jpg"
+image: "/images/details/2018/09/gang-gang-dance.jpg"
 tags:
 - Cocteau Twins
 - Beats Antique

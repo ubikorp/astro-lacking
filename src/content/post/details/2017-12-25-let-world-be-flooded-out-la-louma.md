@@ -5,7 +5,7 @@ category: details
 publishDate: '2017-12-25'
 slug: let-world-be-flooded-out-la-louma
 excerpt: Intriguing set of well-crafted songs from this solo artist.
-image: "~/assets/images/details/2018/11/la-louma.jpg"
+image: "/images/details/2018/11/la-louma.jpg"
 tags:
 - Ani DiFranco
 - Bikini Kill

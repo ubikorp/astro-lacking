@@ -6,7 +6,7 @@ publishDate: '2018-11-18'
 slug: digital-garbage-mudhoney
 excerpt: The Neanderthals of the Seattle “grunge” sound remain in top form with eleven
   angry, buzzing indictments of modern living.
-image: "~/assets/images/details/2018/11/mudhoney.jpg"
+image: "/images/details/2018/11/mudhoney.jpg"
 tags:
 - The Sonics
 - The Stooges

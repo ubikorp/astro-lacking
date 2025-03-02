@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-05-02'
 slug: 0233-big-congratulations
 excerpt: Holiday Ghosts bring you that refreshing fizzy jangle in a tall frosted glass.
-image: "~/assets/images/mixtapes/2024/05/233-holiday-ghosts.jpg"
+image: "/images/mixtapes/2024/05/233-holiday-ghosts.jpg"
 caption: Holiday Ghosts
 tags:
 - Adrianne Lenker

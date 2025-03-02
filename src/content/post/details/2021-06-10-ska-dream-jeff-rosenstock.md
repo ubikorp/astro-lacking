@@ -7,7 +7,7 @@ slug: ska-dream-jeff-rosenstock
 excerpt: You can love something so completely and sincerely that it becomes hard to
   tell whether you are mocking it. This is what Rosenstock does with third wave ska,
   with no detail, trope, or subgenre too small to escape notice and inclusion.
-image: "~/assets/images/details/2021/09/jeff-rosenstock.jpeg"
+image: "/images/details/2021/09/jeff-rosenstock.jpeg"
 tags:
 - Weird Al Yankovic
 - Less Than Jake

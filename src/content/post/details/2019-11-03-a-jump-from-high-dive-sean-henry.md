@@ -6,7 +6,7 @@ publishDate: '2019-11-03'
 slug: a-jump-from-high-dive-sean-henry
 excerpt: Another solo pop genius wunderkind, blasting it out of the water with a summery
   mix of rock and psychedelia.
-image: "~/assets/images/details/2020/01/sean-henry.jpg"
+image: "/images/details/2020/01/sean-henry.jpg"
 tags:
 - Beck
 - Jason Falkner

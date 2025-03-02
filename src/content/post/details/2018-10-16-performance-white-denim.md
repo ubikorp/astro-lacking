@@ -6,7 +6,7 @@ publishDate: '2018-10-16'
 slug: performance-white-denim
 excerpt: A modern amalgam of fuzz, psychedelia, baroque pop, and over-the-top production,
   filled with hooks baited with earworms.
-image: "~/assets/images/details/2018/10/white-denim.jpg"
+image: "/images/details/2018/10/white-denim.jpg"
 tags:
 - Pond
 - T. Rex

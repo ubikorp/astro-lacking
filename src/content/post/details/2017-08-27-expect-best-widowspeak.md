@@ -6,7 +6,7 @@ publishDate: '2017-08-27'
 slug: expect-best-widowspeak
 excerpt: Moody, semi-whispered low vocals and reverb-drenched guitar twang make for
   some very cinematic material.
-image: "~/assets/images/details/2020/12/widowspeak.jpg"
+image: "/images/details/2020/12/widowspeak.jpg"
 tags:
 - Cowboy Junkies
 - Mazzy Star

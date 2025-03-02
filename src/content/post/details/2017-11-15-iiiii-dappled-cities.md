@@ -6,7 +6,7 @@ publishDate: '2017-11-15'
 slug: iiiii-dappled-cities
 excerpt: Australia’s Dappled Cities straddles the line between new wave and indie,
   with solid hooks and crystal-clear pop production.
-image: "~/assets/images/details/2018/11/dappled-cities.jpg"
+image: "/images/details/2018/11/dappled-cities.jpg"
 tags:
 - Echo and the Bunnymen
 - James

@@ -7,7 +7,7 @@ slug: there-is-no-end-tony-allen
 excerpt: This is an ominous title for a posthumous release, but Allen’s stuttering
   drum work will no doubt stand the test of time, and this melding of his work with
   more modern non-Afrobeat collaborators is a glimpse of a fascinating future.
-image: "~/assets/images/details/2021/09/tony-allen.jpg"
+image: "/images/details/2021/09/tony-allen.jpg"
 tags:
 - Fela Kuti
 - Questlove

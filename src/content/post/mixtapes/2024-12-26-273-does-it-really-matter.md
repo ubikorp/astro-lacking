@@ -5,7 +5,7 @@ publishDate: '2024-12-26'
 slug: 273-does-it-really-matter
 excerpt: Be grateful for Attic Ted, lurking above your bedroom and keeping the miscellaneous
   critters in line.
-image: "~/assets/images/mixtapes/2024/12/273-attic-ted.jpg"
+image: "/images/mixtapes/2024/12/273-attic-ted.jpg"
 caption: Attic Ted
 tags:
 - Art Brut

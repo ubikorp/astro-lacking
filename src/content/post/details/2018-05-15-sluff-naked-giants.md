@@ -6,7 +6,7 @@ publishDate: '2018-05-15'
 slug: sluff-naked-giants
 excerpt: This goes all over the place, but mostly rocks hard with inventive arrangements
   and infectious hooks.
-image: "~/assets/images/details/2018/07/naked-giants.jpg"
+image: "/images/details/2018/07/naked-giants.jpg"
 tags:
 - Blur
 - Rocket From The Crypt

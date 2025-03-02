@@ -8,7 +8,7 @@ excerpt: There are many bands named Ghoulies, or something like it, but let it b
   known that we’re talking about the Australian outfit that can deliver an hour’s
   worth of mosh-pit worthy punk sprinkled with spastic organ warbles in just about
   ten minutes.
-image: "~/assets/images/details/2021/09/ghoulies.jpg"
+image: "/images/details/2021/09/ghoulies.jpg"
 tags:
 - The Dickies
 - Brainiac

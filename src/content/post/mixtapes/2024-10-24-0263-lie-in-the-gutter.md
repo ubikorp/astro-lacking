@@ -5,7 +5,7 @@ publishDate: '2024-10-24'
 slug: 0263-lie-in-the-gutter
 excerpt: Peel Dream Magazine extend a cordial invitation to visit their hallucinogenic
   analog planet.
-image: "~/assets/images/mixtapes/2024/10/263-peel-dream-magazine.jpg"
+image: "/images/mixtapes/2024/10/263-peel-dream-magazine.jpg"
 caption: Peel Dream Magazine
 tags:
 - Amy Rigby

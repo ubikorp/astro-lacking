@@ -4,7 +4,7 @@ category: videos
 publishDate: '2025-02-03'
 slug: raoul-snapped-ankles
 excerpt: Meet me in the cul-de-sac
-image: "~/assets/images/videos/2025/02/raoul.jpg"
+image: "/images/videos/2025/02/raoul.jpg"
 caption: ''
 tags:
 - Snapped Ankles

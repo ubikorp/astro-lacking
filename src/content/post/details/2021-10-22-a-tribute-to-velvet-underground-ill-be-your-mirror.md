@@ -7,7 +7,7 @@ slug: a-tribute-to-velvet-underground-ill-be-your-mirror
 excerpt: There’s good reason the Velvet Underground is one of the most popular topics
   for tribute recordings, their songs being very open to interpretation. This selection
   does not shy away from the more uncomfortable VU topics, which makes it a standout.
-image: "~/assets/images/details/2022/02/i-ll-be-your-mirror.jpeg"
+image: "/images/details/2022/02/i-ll-be-your-mirror.jpeg"
 tags:
 - Fontaines DC
 - Kurt Vile

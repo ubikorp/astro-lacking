@@ -6,7 +6,7 @@ publishDate: '2019-10-15'
 slug: aint-quite-like-that-greezy-wheels
 excerpt: A mix of country, western swing, rockabilly, and various other semi-compatible
   genres, paired with seductive vocals and plenty of musical swagger.
-image: "~/assets/images/details/2020/01/greezy-wheels.jpg"
+image: "/images/details/2020/01/greezy-wheels.jpg"
 tags:
 - Hot Club of Cowtown
 - Post-Modern Jukebox

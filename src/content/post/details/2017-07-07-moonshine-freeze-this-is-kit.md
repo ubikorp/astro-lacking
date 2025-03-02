@@ -7,7 +7,7 @@ slug: moonshine-freeze-this-is-kit
 excerpt: Kate Stables is a one-woman tour-de-force, and this John Parrish production
   brings her talents to the front. Weird time signatures, off-kilter melodies, and
   quite inventive arrangements.
-image: "~/assets/images/details/2020/12/this-is-kit.jpg"
+image: "/images/details/2020/12/this-is-kit.jpg"
 tags:
 - Tune-Yards
 - PJ Harvey

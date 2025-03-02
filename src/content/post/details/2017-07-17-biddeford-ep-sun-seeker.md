@@ -5,7 +5,7 @@ category: details
 publishDate: '2017-07-17'
 slug: biddeford-ep-sun-seeker
 excerpt: Lush pop with strange turns of melody and complicated hooks.
-image: "~/assets/images/details/2020/12/sun-seeker.jpg"
+image: "/images/details/2020/12/sun-seeker.jpg"
 tags:
 - Foxygen
 - MGMT

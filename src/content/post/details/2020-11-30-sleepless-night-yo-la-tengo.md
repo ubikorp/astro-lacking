@@ -7,7 +7,7 @@ slug: sleepless-night-yo-la-tengo
 excerpt: A new collection of covers from Yo La Tengo is not unusual, but their frequency
   does allow for some measurement of the band’s current mood, and the songs are always
   trailheads for musical exploration.
-image: "~/assets/images/details/2020/12/yo-la-tengo.jpg"
+image: "/images/details/2020/12/yo-la-tengo.jpg"
 tags:
 - Bob Dylan
 - The Byrds

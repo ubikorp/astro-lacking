@@ -7,7 +7,7 @@ slug: showboat-honey-kyle-craft
 excerpt: This is salty, and tangy, and spicy, and sweet, like the musical equivalent
   of a Mexican tamarind candy. It sounds so Sixties and Seventies that it must be
   from Today.
-image: "~/assets/images/details/2019/08/kyle-craft.jpg"
+image: "/images/details/2019/08/kyle-craft.jpg"
 tags:
 - Ty Segall
 - T. Rex

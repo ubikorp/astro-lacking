@@ -8,7 +8,7 @@ excerpt: On background listening, it’s a charming bedroom pop masterpiece fill
   enticing musical details and catchy melodies. If you pay attention though, you’ll
   notice the lyrics transcend sarcasm and irony and go straight to sardonic, a rare
   treat.
-image: "~/assets/images/details/2022/02/darrin-bradbury.jpeg"
+image: "/images/details/2022/02/darrin-bradbury.jpeg"
 tags:
 - Grandaddy
 - Alex Arrowsmith

@@ -6,7 +6,7 @@ publishDate: '2017-11-10'
 slug: lucky-star-black-gardenia
 excerpt: Although you can no longer smoke in most live music venues, this will always
   be smokey jazz, slow-burning or quickly flaring with a lush velvety voice on top.
-image: "~/assets/images/details/2018/11/black-gardenia.jpg"
+image: "/images/details/2018/11/black-gardenia.jpg"
 tags:
 - Billie Holliday
 - Hot Club of Cowtown

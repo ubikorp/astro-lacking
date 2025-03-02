@@ -6,7 +6,7 @@ publishDate: '2018-02-04'
 slug: songs-of-praise-shame
 excerpt: Aggressive debut from this UK band features some highly dynamic songs loaded
   with twisty hooks.
-image: "~/assets/images/details/2018/10/shame.jpg"
+image: "/images/details/2018/10/shame.jpg"
 tags:
 - Failure
 - Killing Joke

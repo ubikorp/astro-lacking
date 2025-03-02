@@ -7,7 +7,7 @@ slug: striped-album-cory-wong
 excerpt: The celebrated funk guitarist releases this collection of R&B and/or big-band
   inflected compositions, featuring some notable guest stars, but it’s all just wrapping
   paper on a big cinderblock of groove.
-image: "~/assets/images/details/2021/03/cory-wong.jpg"
+image: "/images/details/2021/03/cory-wong.jpg"
 tags:
 - Vulfpeck
 - Prince

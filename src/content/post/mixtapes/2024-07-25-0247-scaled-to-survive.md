@@ -5,7 +5,7 @@ publishDate: '2024-07-25'
 slug: 0247-scaled-to-survive
 excerpt: Leyla McCalla’s music opens up a portal into a universe of previously impossible
   musical geometries.
-image: "~/assets/images/mixtapes/2024/07/247-leyla-mccalla.jpg"
+image: "/images/mixtapes/2024/07/247-leyla-mccalla.jpg"
 caption: Leyla McCalla
 tags:
 - Beth Gibbons

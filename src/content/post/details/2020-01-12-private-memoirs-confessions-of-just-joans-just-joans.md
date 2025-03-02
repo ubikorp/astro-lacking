@@ -7,7 +7,7 @@ slug: private-memoirs-confessions-of-just-joans-just-joans
 excerpt: The Just Joans are the sonic equivalent of tartan… between the girl group
   influences, the pitch-perfect pastoral pop, and a sense of humor as black and bitter
   as truck stop coffee, they could not be more Scottish.
-image: "~/assets/images/details/2020/09/just-joans.jpg"
+image: "/images/details/2020/09/just-joans.jpg"
 tags:
 - Belle and Sebastian
 - The Rezillos

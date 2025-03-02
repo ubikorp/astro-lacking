@@ -7,7 +7,7 @@ slug: hot-motion-temples
 excerpt: Modern electronic soul, richly layered and intricately produced, with decidedly
   old-fashioned influences from ‘60s girl groups, ‘70s AM radio, ‘80s club hits, and
   so on.
-image: "~/assets/images/details/2020/05/temples.jpg"
+image: "/images/details/2020/05/temples.jpg"
 tags:
 - STRFKR
 - Foxygen

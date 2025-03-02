@@ -4,7 +4,7 @@ category: mixtapes
 publishDate: '2024-01-18'
 slug: 0214-version-control-1
 excerpt: 'Presenting a collection of musical flatteries and facsimiles! '
-image: "~/assets/images/mixtapes/2024/01/214-version-control-1.jpg"
+image: "/images/mixtapes/2024/01/214-version-control-1.jpg"
 tags:
 - Ben Lee
 - Brainiac
@@ -22,12 +22,14 @@ tags:
 - The Vaccines
 - Valis
 - Zach Uncles
-mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-214-version-control-1-2024-01-18/
+airdate: '2024-01-18'
 playlist:
 - sequence: 1
   song: Go!
   artist: Brainiac
   artist_slug: brainiac
+  album: From Dayton Ohio
+  time: '3:20'
   notes: Originally from Tones on Tail
 - sequence: 2
   song: BREAK
@@ -35,16 +37,22 @@ playlist:
   song: Divine Hammer
   artist: Ben Lee
   artist_slug: ben-lee
+  album: Quarter Century Classix
+  time: '4:26'
   notes: Originally from the Breeders
 - sequence: 4
   song: Bloody Rainbow
   artist: Built To Spill
   artist_slug: built-to-spill
+  album: Built to Spill Plays the Songs of Daniel Johnston
+  time: '2:24'
   notes: Originally from Daniel Johnston
 - sequence: 5
   song: Fire In Cairo
   artist: Luna
   artist_slug: luna
+  album: Why Can't I Be You?
+  time: '3:28'
   notes: Originally from the Cure
 - sequence: 6
   song: BREAK
@@ -52,21 +60,29 @@ playlist:
   song: Goo Goo Muck
   artist: Das Clamps
   artist_slug: das-clamps
+  album: Shit Music For Shit People
+  time: '3:11'
   notes: Originally from the Cramps
 - sequence: 8
   song: Sophisticated Boom Boom
   artist: Knoxville Girls
   artist_slug: knoxville-girls
+  album: In A Ripped Dress
+  time: '02:17'
   notes: Originally from the Shangri-Las
 - sequence: 9
   song: Wicked Game
   artist: Messer Chups
   artist_slug: messer-chups
+  album: Don't Say Cheese
+  time: '3:50'
   notes: Originally from Chris Isaak
 - sequence: 10
   song: Jack The Ripper
   artist: Zach Uncles
   artist_slug: zach-uncles
+  album: Guitar Rebel, A Tribute to Link Wray
+  time: '3:48'
   notes: Originally from Link Wray
 - sequence: 11
   song: BREAK
@@ -74,21 +90,29 @@ playlist:
   song: Telstar
   artist: The Vaccines
   artist_slug: vaccines
+  album: Cosy Karaoke, Vol. 1
+  time: '3:16'
   notes: Originally from the Tornados
 - sequence: 13
   song: Kenni and the Jets
   artist: The Fearless Flyers
   artist_slug: fearless-flyers
+  album: Tailwinds
+  time: '4:09'
   notes: Originally from Elton John
 - sequence: 14
   song: Heroes and Villains
   artist: Joey Joesph
   artist_slug: joey-joesph
+  album: Smile
+  time: '5:54'
   notes: Originally from the Beach Boys
 - sequence: 15
   song: Just Dropped In (To See What Condition My Condition Was In)
   artist: Sharon Jones + The Dap-Kings
   artist_slug: sharon-jones-dap-kings
+  album: Just Dropped In (To See What Condition My Rendition Was In)
+  time: '3:01'
   notes: Originally from the First Edition
 - sequence: 16
   song: BREAK
@@ -96,16 +120,22 @@ playlist:
   song: Perfect
   artist: Petty Booka
   artist_slug: petty-booka
+  album:
+  time: '4:21'
   notes: Originally from Fairground Attraction
 - sequence: 18
   song: Dreamweaver
   artist: Valis
   artist_slug: valis
+  album:
+  time: '4:28'
   notes: Originally from Gary Wright
 - sequence: 19
   song: Wild Honey Pie
   artist: The Squirrels
   artist_slug: squirrels
+  album:
+  time: '0:55'
   notes: Originally from the Beatles
 - sequence: 20
   song: BREAK
@@ -113,6 +143,9 @@ playlist:
   song: Mission Impossible
   artist: Laika + The Cosmonauts
   artist_slug: laika-cosmonauts
+  album: Laika Sex Machine
+  time: '2:09'
   notes: Originally from Lalo Schifrin
+mixcloud: https://www.mixcloud.com/louderthanwar/the-mixtape-214-version-control-1-2024-01-18/
 ---
 

@@ -8,7 +8,7 @@ excerpt: A series of alien transmissions, ready for your fascinated decoding. A 
   of sounds that are salty, sweet, savory. An incomprehensible message competing with
   a carnival across town and your roommate blasting Led Zeppelin through muffling
   walls.
-image: "~/assets/images/details/2022/02/low.jpeg"
+image: "/images/details/2022/02/low.jpeg"
 tags:
 - Merzbow
 - Stereolab

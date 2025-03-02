@@ -7,7 +7,7 @@ slug: ska-almighty-tokyo-ska-paradise-orchestra
 excerpt: The ska orchestra is a rare beast, astounding to behold. Absorbing and expressing
   a manic energy worthy of ska, big bands, and thrash metal, the TSPO enters its fourth
   decade still on the redline and with no signs of slowing down.
-image: "~/assets/images/details/2021/09/tokyo-ska-paradise-orchestra.jpeg"
+image: "/images/details/2021/09/tokyo-ska-paradise-orchestra.jpeg"
 tags:
 - St. Petersburg Ska-Jazz Review
 - Babymetal

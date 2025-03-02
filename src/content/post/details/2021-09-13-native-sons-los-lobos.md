@@ -8,7 +8,7 @@ excerpt: The cover album is trite and cliché by now, but when the kings of Los 
   release a tribute to the music scene that made them who they are, it’s definitely
   worth a listen, as both a rock show and a history lesson on what made LA sound that
   way.
-image: "~/assets/images/details/2022/12/los-lobos.jpeg"
+image: "/images/details/2022/12/los-lobos.jpeg"
 tags:
 - Thee Midniters
 - Willie Bobo

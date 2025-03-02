@@ -7,7 +7,7 @@ slug: fall-to-pieces-tricky
 excerpt: Tricky’s approach to music, with subdued tempos and striking contrasts (like
   pitting his industrial grit voice against Marta’s honeyed vocals) has not dulled
   over the years, glinting in the streetlight like an out of place scalpel.
-image: "~/assets/images/details/2020/12/tricky.jpg"
+image: "/images/details/2020/12/tricky.jpg"
 tags:
 - Portishead
 - DJ Food

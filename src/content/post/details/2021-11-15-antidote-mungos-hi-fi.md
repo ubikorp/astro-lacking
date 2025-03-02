@@ -7,7 +7,7 @@ slug: antidote-mungos-hi-fi
 excerpt: The best dub music happens when the flow and repetition, the interlocking
   arrangements, and the roots-heavy vocals all work together to make the time dimension
   an immeasurable elastic abstraction.
-image: "~/assets/images/details/2022/02/mungos-hi-fi.jpeg"
+image: "/images/details/2022/02/mungos-hi-fi.jpeg"
 tags:
 - Lee "Scratch" Perry
 - Mad Professor

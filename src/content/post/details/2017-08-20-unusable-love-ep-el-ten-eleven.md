@@ -6,7 +6,7 @@ publishDate: '2017-08-20'
 slug: unusable-love-ep-el-ten-eleven
 excerpt: Synth-driven songs in a variety of moods, emboldened by a careful interplay
   of vocals and textures.
-image: "~/assets/images/details/2020/12/el-ten-eleven.jpg"
+image: "/images/details/2020/12/el-ten-eleven.jpg"
 tags:
 - Wolfgang Press
 - Jenny Lewis

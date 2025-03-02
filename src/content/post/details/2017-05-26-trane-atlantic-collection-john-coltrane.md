@@ -7,7 +7,7 @@ slug: trane-atlantic-collection-john-coltrane
 excerpt: About the only thing I could argue about here is the song selection, and
   that would be pedantic. If you can fit a flurry of impossible notes into whatever
   other music you are playing, go for it, you can’t lose with any track.
-image: "~/assets/images/details/2020/12/john-coltrane.jpg"
+image: "/images/details/2020/12/john-coltrane.jpg"
 tags:
 - John Coltrane
 - Atlantic

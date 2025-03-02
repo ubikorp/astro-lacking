@@ -7,7 +7,7 @@ slug: only-thing-thats-real-a-tale-of-golden-keys
 excerpt: When I hear indie pop as carefully crafted as this, with luminous chord changes
   and impeccable diction, I immediately suspect a Dutch or German origin… these cats
   are from Nuremberg.
-image: "~/assets/images/details/2020/12/a-tale-of-golden-keys.jpg"
+image: "/images/details/2020/12/a-tale-of-golden-keys.jpg"
 tags:
 - Peter Bjorn and John
 - Certain Animals

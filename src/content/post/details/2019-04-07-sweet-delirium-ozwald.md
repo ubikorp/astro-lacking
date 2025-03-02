@@ -6,7 +6,7 @@ publishDate: '2019-04-07'
 slug: sweet-delirium-ozwald
 excerpt: Sparkling gems, with great ‘70s AM radio hooks and harmonies and incredibly
   detailed production.
-image: "~/assets/images/details/2019/06/ozwald.jpg"
+image: "/images/details/2019/06/ozwald.jpg"
 tags:
 - Owsley
 - Mohair

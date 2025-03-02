@@ -6,7 +6,7 @@ publishDate: '2020-11-01'
 slug: gold-record-bill-callahan
 excerpt: Callahan’s deep gruff voice meanders through acoustic non-linear arrangements
   like a limo driver telling a story, completely oblivious to their own cowboy poetry.
-image: "~/assets/images/details/2020/12/bill-callahan.jpg"
+image: "/images/details/2020/12/bill-callahan.jpg"
 tags:
 - Smog
 - Johnny Cash

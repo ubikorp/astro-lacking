@@ -5,7 +5,7 @@ publishDate: '2024-08-15'
 slug: 0251-black-country-gothic
 excerpt: Only a few bands sound large enough to warrant their use of all-caps, and
   BIG SPECIAL is one of them.
-image: "~/assets/images/mixtapes/2024/08/251-big-special.jpg"
+image: "/images/mixtapes/2024/08/251-big-special.jpg"
 caption: BIG SPECIAL
 tags:
 - BIG SPECIAL

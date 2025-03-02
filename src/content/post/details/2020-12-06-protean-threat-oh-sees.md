@@ -7,7 +7,7 @@ slug: protean-threat-oh-sees
 excerpt: The name of this band may change every few years, but the implacable drone
   is unmistakable, like a heavy, doomed Ramones with a penchant for occasional celestial
   excursions.
-image: "~/assets/images/details/2020/12/oh-sees.jpg"
+image: "/images/details/2020/12/oh-sees.jpg"
 tags:
 - Moon Duo
 - Wooden Shjips

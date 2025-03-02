@@ -5,7 +5,7 @@ category: playlists
 publishDate: '2016-08-02'
 slug: 2016-08-02-a-spoonful-weighs-a-ton
 excerpt: Now this song weighs a ton.
-image: "~/assets/images/playlists/2018/06/mastodon.jpg"
+image: "/images/playlists/2018/06/mastodon.jpg"
 caption: Mastodon
 tags:
 - Allison With One
@@ -13,13 +13,13 @@ tags:
 - Asylum Street Spankers
 - Ben Folds
 - Bettie Serveert
-- Blossom Dearie
 - The Blue Hawaiians
 - The Bobs
 - Bongwater
 - Boom Pam
 - Brave Combo
-- Cagney & Lacee
+- Brazilian Girls
+- Cagnee + Lacey
 - Camper Van Beethoven
 - Carolina Chocolate Drops
 - The Coctails
@@ -45,6 +45,8 @@ playlist:
   song: A Spoonful Weighs A Ton
   artist: Mastodon
   artist_slug: mastodon
+  album: Split 7”
+  time: '3:25'
   notes: A scifi oddyssey on a woolly elephant
 - sequence: 2
   song: BREAK
@@ -52,21 +54,29 @@ playlist:
   song: Dance This Mess Around
   artist: Asylum Street Spankers
   artist_slug: asylum-street-spankers
+  album:
+  time: '4:37'
   notes: Born to wheeze
 - sequence: 4
-  song: Just One Of Those Things [Brazilian Girls Remix]
-  artist: Blossom Dearie
-  artist_slug: blossom-dearie
+  song: Just One Of Those Things
+  artist: Brazilian Girls
+  artist_slug: brazilian-girls
+  album: Verve Remixed 3
+  time: '4:49'
   notes: Squirrely bass runs
 - sequence: 5
   song: Dinner Bell
   artist: The Bobs
   artist_slug: bobs
+  album: Rhapsody in Bob
+  time: '2:02'
   notes: Ding
 - sequence: 6
   song: Breathless (Single Mix)
   artist: X
   artist_slug: x
+  album:
+  time: '2:21'
   notes: Catch up with breathing
 - sequence: 7
   song: BREAK
@@ -74,21 +84,29 @@ playlist:
   song: Everybody's Talking
   artist: Bongwater
   artist_slug: bongwater
+  album: The Big Sell-Out
+  time: '3:17'
   notes: Dream journals
 - sequence: 9
   song: People Are Strange
   artist: Brave Combo
   artist_slug: brave-combo
+  album: Musical Varieties
+  time: '1:36'
   notes: Didn't know it was in there
 - sequence: 10
-  song: By the Way
-  artist: Cagney & Lacee
-  artist_slug: cagney-lacee
+  song: By The Way
+  artist: Cagnee + Lacey
+  artist_slug: cagnee-lacey
+  album:
+  time: '2:33'
   notes: aka Dean and Britta
 - sequence: 11
   song: Penguin / Powerhouse
   artist: The Coctails
   artist_slug: coctails
+  album:
+  time: '3:31'
   notes: Father of Weird Music
 - sequence: 12
   song: BREAK
@@ -96,16 +114,22 @@ playlist:
   song: Enjoy Yourself
   artist: The Specials
   artist_slug: specials
+  album: More Specials
+  time: '3:38'
   notes: It's later than you think
 - sequence: 14
   song: Monkey Man
   artist: Zed Bias Feat. Trigga and Trevor Roots
   artist_slug: zed-bias-feat-trigga-trevor-roots
+  album: Back to Back to Black
+  time: '5:26'
   notes: Ay ay ay
 - sequence: 15
   song: You Are What You Is
   artist: The Persuasions
   artist_slug: persuasions
+  album: The Persuasions Sing Zappa
+  time: '4:14'
   notes: Got Zappa?
 - sequence: 16
   song: BREAK
@@ -113,21 +137,29 @@ playlist:
   song: Hey Ya
   artist: Shawn Lee's Ping Pong Orchestra
   artist_slug: shawn-lee-s-ping-pong-orchestra
+  album: Hits the Hits!
+  time: '4:29'
   notes: Some Ramsey Lewis funnage
 - sequence: 18
   song: Second Hand News
   artist: Mates Of State
   artist_slug: mates-of-state
+  album: Crushes - The Covers Mixtape
+  time: '3:11'
   notes: Mac attack
 - sequence: 19
   song: She's My Best Friend
   artist: The Wedding Present
   artist_slug: wedding-present
+  album: Heaven + Hell
+  time: '2:50'
   notes: Subtle
 - sequence: 20
   song: What Goes On
   artist: Bettie Serveert
   artist_slug: bettie-serveert
+  album: plays VENUS IN FURS and other Velvet Underground songs
+  time: '3:59'
   notes: Double VU
 - sequence: 21
   song: BREAK
@@ -135,21 +167,29 @@ playlist:
   song: Gigantic
   artist: Allison With One
   artist_slug: allison-with-one
+  album: Pixies Fuckin' Die!
+  time: '4:31'
   notes: Synthetic edition
 - sequence: 23
   song: Alec Eiffel
   artist: April March
   artist_slug: april-march
+  album: Pixies Fuckin’ Die! (A Tribute)
+  time: '2:27'
   notes: Double Pixies shot
 - sequence: 24
   song: Doctor My Eyes
   artist: Ben Folds
   artist_slug: ben-folds
+  album:
+  time: '3:11'
   notes: Jackson Browne!
 - sequence: 25
   song: Alakazam
   artist: Boom Pam
   artist_slug: boom-pam
+  album: Alakazam
+  time: '3:57'
   notes: The astute will recognize "Abracadabra"
 - sequence: 26
   song: BREAK
@@ -157,16 +197,22 @@ playlist:
   song: Pictures Of Matchstick Men
   artist: Camper Van Beethoven
   artist_slug: camper-van-beethoven
+  album: Key Lime Pie
+  time: '4:10'
   notes: The endless loop of neon colors
 - sequence: 28
   song: Mahalla
   artist: Carolina Chocolate Drops
   artist_slug: carolina-chocolate-drops
+  album:
+  time: '1:56'
   notes: Spoonman
 - sequence: 29
   song: Tiger Rag
   artist: The Countdown Quartet
   artist_slug: countdown-quartet
+  album: The Countdown Quartet
+  time: '5:08'
   notes: Hold that tiger!
 - sequence: 30
   song: BREAK
@@ -174,21 +220,29 @@ playlist:
   song: Buena
   artist: Keller Williams
   artist_slug: keller-williams
+  album:
+  time: '3:56'
   notes: Bold choice
 - sequence: 32
   song: Sing, Sing, Sing
   artist: Los Straitjackets
   artist_slug: los-straitjackets
+  album: "¡Damas y Caballeros!"
+  time: '3:22'
   notes: Also Flat Duo Jets
 - sequence: 33
   song: Buddy Holly
   artist: The Moog Cookbook
   artist_slug: moog-cookbook
+  album: The Moog Cookbook
+  time: '4:14'
   notes: Boopdee boop
 - sequence: 34
   song: Sway
   artist: The Puppini Sisters
   artist_slug: puppini-sisters
+  album: Betcha Bottom Dollar
+  time: '3:10'
   notes: You have the magic technique
 - sequence: 35
   song: BREAK
@@ -196,16 +250,22 @@ playlist:
   song: Mr. Spaceman feat. Dave Davies
   artist: William Shatner
   artist_slug: william-shatner
+  album:
+  time: '2:14'
   notes: So appropriate
 - sequence: 37
   song: The Piano Has Been Drinkin' (Not Me)
   artist: Dan Hicks
   artist_slug: dan-hicks
+  album: Beatin' the Heat
+  time: '3:30'
   notes: Waitsing around
 - sequence: 38
   song: Jockey Full Of Bourbon
   artist: The Blue Hawaiians
   artist_slug: blue-hawaiians
+  album: Savage Night
+  time: '4:41'
   notes: Tired of waiting?
 - sequence: 39
   song: BREAK
@@ -213,6 +273,8 @@ playlist:
   song: I Feel Love
   artist: Montefiori Cocktail
   artist_slug: montefiori-cocktail
+  album:
+  time: '5:47'
   notes: When you feel it, you know it
 ---
 

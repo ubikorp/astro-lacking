@@ -6,7 +6,7 @@ publishDate: '2019-09-28'
 slug: bright-blue-peach-pyramid
 excerpt: Delightfully twee songs, filled with shimmering melodies, sparkling production,
   and heavenly choruses.
-image: "~/assets/images/details/2020/01/peach-pyramid.jpg"
+image: "/images/details/2020/01/peach-pyramid.jpg"
 tags:
 - Tennis
 - The Sundays

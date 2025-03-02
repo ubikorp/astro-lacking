@@ -7,7 +7,7 @@ slug: dark-matters-stranglers
 excerpt: When you’re closing out your fifth decade as a band, you might be expected
   to rehash all your tired tropes and package them as brand new nostalgia. Instead,
   this sounds like a lost album from the band’s golden era.
-image: "~/assets/images/details/2022/02/stranglers.jpeg"
+image: "/images/details/2022/02/stranglers.jpeg"
 tags:
 - The Mabuses
 - The Damned

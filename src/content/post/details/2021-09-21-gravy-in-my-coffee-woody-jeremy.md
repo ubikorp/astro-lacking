@@ -7,7 +7,7 @@ slug: gravy-in-my-coffee-woody-jeremy
 excerpt: It’s like a solo bedroom funk-pop project, with all its trappings (spur-of-the-moment
   compositions, absurdist themes, flashes of intense brilliance), except it comes
   from two people. These songs will quickly settle into your head and raid the fridge.
-image: "~/assets/images/details/2022/02/woody-jeremy.jpeg"
+image: "/images/details/2022/02/woody-jeremy.jpeg"
 tags:
 - Vulfpeck
 - Chris and Tad

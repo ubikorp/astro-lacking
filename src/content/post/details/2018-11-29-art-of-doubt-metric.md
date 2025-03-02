@@ -6,7 +6,7 @@ publishDate: '2018-11-29'
 slug: art-of-doubt-metric
 excerpt: With Emily Haines’ expressive vocals standing proud and up front, this is
   a collection of catchy singalong dance rock anthems.
-image: "~/assets/images/details/2018/11/metric.jpg"
+image: "/images/details/2018/11/metric.jpg"
 tags:
 - Garbage
 - Lush

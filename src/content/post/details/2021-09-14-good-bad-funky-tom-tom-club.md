@@ -7,7 +7,7 @@ slug: good-bad-funky-tom-tom-club
 excerpt: This is a reissue of a 20-year-old album, yet the pan-global disco stew that
   comes from this band could live anywhere in their decades-long career continuum,
   past, present, or future. This is dance music for getting subtly amped up.
-image: "~/assets/images/details/2021/09/tom-tom-club.jpeg"
+image: "/images/details/2021/09/tom-tom-club.jpeg"
 tags:
 - Talking Heads
 - Fantastic Plastic Machine

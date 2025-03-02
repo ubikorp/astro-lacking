@@ -6,7 +6,7 @@ publishDate: '2018-10-19'
 slug: last-building-burning-cloud-nothings
 excerpt: Great set of non-stop rocking from this one-man-band which turned into a
   full-blown outfit.
-image: "~/assets/images/details/2019/05/cloud-nothings.jpg"
+image: "/images/details/2019/05/cloud-nothings.jpg"
 tags:
 - Rocket From The Crypt
 - Jawbreaker

@@ -6,7 +6,7 @@ publishDate: '2018-11-11'
 slug: black-velvet-charles-bradley
 excerpt: Posthumous release for this powerhouse soul singer. Perfect for a ‘70s cop
   drama.
-image: "~/assets/images/details/2019/05/charles-bradley.jpg"
+image: "/images/details/2019/05/charles-bradley.jpg"
 tags:
 - Marvin Gaye
 - Otis Redding

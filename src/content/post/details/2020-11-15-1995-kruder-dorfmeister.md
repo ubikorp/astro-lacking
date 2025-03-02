@@ -8,7 +8,7 @@ excerpt: I can’t tell if having a name that sounds like something SNL cooked u
   a sketch about a pair of Austrian DJs is good or bad for this pair of Austrian DJs.
   These soulful electronic compositions unearthed from the last century are no joke,
   though.
-image: "~/assets/images/details/2021/03/kruder-dorfmeister.jpg"
+image: "/images/details/2021/03/kruder-dorfmeister.jpg"
 tags:
 - The Orb
 - DJ Kicks

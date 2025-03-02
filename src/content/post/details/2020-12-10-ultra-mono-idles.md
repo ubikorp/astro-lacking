@@ -7,7 +7,7 @@ slug: ultra-mono-idles
 excerpt: It’s difficult to explain why this sort of aggressive guitar-forward post-punk
   sound feels so much more anthemic when it comes from the UK, but the effect is certainly
   there.
-image: "~/assets/images/details/2020/12/idles.jpg"
+image: "/images/details/2020/12/idles.jpg"
 tags:
 - Fontaines DC
 - Future of the Left

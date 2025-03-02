@@ -8,7 +8,7 @@ excerpt: A very special New Year’s Eve edition, distinguished by the fact it m
   absolutely no attempt to be any different from most other alternate Tuesday nights!
   Other than wrapping up the show with **The Dismemberment Plan** and “The Ice Of
   Boston” as the clock nears midnight. Pop open that third bottle of bubbly, indeed.
-image: "~/assets/images/playlists/2025/01/2024-12-31-dismemberment-plan.jpg"
+image: "/images/playlists/2025/01/2024-12-31-dismemberment-plan.jpg"
 caption: The Dismemberment Plan
 tags:
 - AK|DK

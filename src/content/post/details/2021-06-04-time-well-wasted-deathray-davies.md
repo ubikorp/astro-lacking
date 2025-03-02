@@ -7,7 +7,7 @@ slug: time-well-wasted-deathray-davies
 excerpt: The band is back after an extended hiatus, picking up where they left off,
   with low-key catchy tunes making up an album that slowly develops into an outstanding
   collection of propulsive melodies and infectious hooks.
-image: "~/assets/images/details/2021/09/deathray-davies.jpeg"
+image: "/images/details/2021/09/deathray-davies.jpeg"
 tags:
 - Surfer Blood
 - Clifffs

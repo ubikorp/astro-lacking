@@ -6,7 +6,7 @@ publishDate: '2019-10-05'
 slug: headspace-levitation-room
 excerpt: 'Verring wildly from soft-funk to outright garage fuzz, this wouldn’t be
   out of place coming out the AM radio and windows of a 1974 Maverick. '
-image: "~/assets/images/details/2020/01/levitation-room.jpg"
+image: "/images/details/2020/01/levitation-room.jpg"
 tags:
 - Swarming Branch
 - The Kinks
