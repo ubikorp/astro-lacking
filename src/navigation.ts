@@ -123,6 +123,10 @@ export const headerData = {
       href: getPermalink('/radio-activity'),
     },
     {
+      text: 'Newsletter',
+      href: getPermalink('/lewsnetter'),
+    },
+    {
       text: 'Your&nbsp;Host',
       href: getPermalink('/your-host'),
     },
