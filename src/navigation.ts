@@ -124,7 +124,7 @@ export const headerData = {
     },
     {
       text: 'Newsletter',
-      href: getPermalink('/lewsnetter'),
+      href: '/lewsnetter.html',
     },
     {
       text: 'Your&nbsp;Host',
