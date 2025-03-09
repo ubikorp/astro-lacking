@@ -123,12 +123,12 @@ export const headerData = {
       href: getPermalink('/radio-activity'),
     },
     {
-      text: 'Newsletter',
-      href: '/lewsnetter.html',
-    },
-    {
       text: 'Your&nbsp;Host',
       href: getPermalink('/your-host'),
+    },
+    {
+      text: 'Subscribe',
+      href: '/lewsnetter.html',
     },
   ],
   // actions: [{ text: 'Subscribe', href: '/subscribe', target: '_blank' }],
