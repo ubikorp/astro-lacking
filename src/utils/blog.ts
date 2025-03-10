@@ -6,7 +6,7 @@ import { APP_BLOG } from 'astrowind:config';
 import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
 import { toMarkdown } from './tlo';
 
-const generatePermalink = async ({
+export const generatePermalink = async ({
   id,
   slug,
   publishDate,

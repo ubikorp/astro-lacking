@@ -88,6 +88,41 @@ const postCollection = defineCollection({
   }),
 });
 
+const newsletterCollection = defineCollection({
+  schema: z.object({
+    // Publishing
+    draft: z.boolean().optional(),
+    publishDate: z.coerce.date().optional(),
+    updateDate: z.date().optional(),
+
+    // Listing
+    title: z.string(),
+    author: z.string().optional(),
+    excerpt: z.string(),
+    tags: z.array(z.string()).optional(),
+
+    // Feature Image
+    image: z.string().optional(),
+    caption: z.string().optional(),
+
+    // Newsletter
+    issue: z.string().optional(),
+    newsletter: z.object({
+      opening: z.string().optional(),
+      details: z.array(z.string()).optional(),
+      mixtapes: z.array(z.string()).optional(),
+      broadcasts: z.array(z.string()).optional(),
+      videos: z.array(z.string()).optional(),
+      links: z.array(z.string()).optional(),
+      closing: z.string().optional(),
+    }),
+
+    // Metadata
+    metadata: metadataDefinition()
+  }),
+});
+
 export const collections = {
   post: postCollection,
+  newsletter: newsletterCollection,
 };

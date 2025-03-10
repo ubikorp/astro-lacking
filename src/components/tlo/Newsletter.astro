@@ -1,0 +1,33 @@
+---
+import type { Newsletter } from '~/types';
+
+import NewsletterSection from '~/components/tlo/NewsletterSection.astro';
+
+import { toMarkdown } from '~/utils/tlo';
+
+export interface Props {
+  newsletter: Newsletter;
+}
+
+const { newsletter } = Astro.props;
+---
+
+<section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
+
+  <h1 class="text-4xl font-bold">The Lacking Details</h1>
+
+  <h4 class="text-2xl font-bold">Issue {newsletter.issue}</h4>
+  <h4 class="text-2xl font-bold">{newsletter.publishDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</h4>
+  <div class="text-muted dark:text-slate-400 text-lg"set:html={toMarkdown(newsletter.newsletter.opening)} />
+
+  <NewsletterSection title="Details" items={newsletter.newsletter.details} />
+
+  <NewsletterSection title="Mixtapes" items={newsletter.newsletter.mixtapes} />
+
+  <NewsletterSection title="Broadcasts" items={newsletter.newsletter.broadcasts} />
+
+  <NewsletterSection title="Seen + Heard" items={newsletter.newsletter.videos} />
+
+  <div set:html={toMarkdown(newsletter.newsletter.closing)} />
+
+</section>

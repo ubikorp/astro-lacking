@@ -1,0 +1,48 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+import { blogCategoryRobots } from '~/utils/blog';
+import { getStaticPathsNewsletterIndex } from '~/utils/tlo';
+import { getCategory } from '~/utils/tlo';
+
+import Layout from '~/layouts/PageLayout.astro';
+import BlogList from '~/components/blog/List.astro';
+import Headline from '~/components/blog/Headline.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  console.log('getStaticPathsNewsletterIndex', await getStaticPathsNewsletterIndex({ paginate }))
+  return await getStaticPathsNewsletterIndex({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths> & { category: Record<string, string> };
+
+const category = { slug: 'newsletters', title: 'Newsletters' };
+const { page } = Astro.props as Props;
+
+const currentPage = page.currentPage ?? 1;
+
+const metadata = {
+  title: `Category '${category.title}' ${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  robots: {
+    index: blogCategoryRobots?.index,
+    follow: blogCategoryRobots?.follow,
+  },
+};
+
+const categoryInfo = getCategory(category.slug);
+const tagline = currentPage > 1 ? `${categoryInfo.tagline} (page ${currentPage})` : categoryInfo.tagline;
+
+---
+
+<Layout metadata={metadata}>
+  <section class="px-4 md:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
+    <Headline
+      title={categoryInfo.title}
+      subtitle={tagline}
+    />
+    <BlogList posts={page.data} />
+    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+  </section>
+</Layout>

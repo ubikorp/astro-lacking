@@ -42,6 +42,12 @@ apps:
       robots:
         index: true
 
+    newsletter:
+      isEnabled: true
+      permalink: '/newsletters/%year%/%slug%' # Variables: %slug%, %year%, %month%, %day%, %hour%, %minute%, %second%, %category%
+      robots:
+        index: false
+
     list:
       isEnabled: true
       pathname: 'archives' # Blog main path, you can change this to "articles" (/articles)
@@ -130,6 +136,13 @@ apps:
           background:  site/banners/details_bg.jpg
           icon:        site/banners/details_icon.png
           social:      site/banners/details_social.jpg
+        newsletters:
+          title:       The&nbsp;Lacking&nbsp;Details
+          tagline:     A&nbsp;weekly&nbsp;email&nbsp;missive
+          description: A weekly email missive with brief and useful reviews and highlights of recent and upcoming Lacking Activity. Free video included!
+          background:  site/banners/news_bg.jpg
+          icon:        site/banners/news_icon.png
+          social:      site/banners/news_social.jpg
         news:
           title:       News&nbsp;and Ramblings
           tagline:     Items&nbsp;of Lacking&nbsp;Importance

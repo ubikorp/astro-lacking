@@ -1,0 +1,29 @@
+---
+import Item from '~/components/tlo/ListItem.astro';
+import { findPostsBySlugs } from '~/utils/blog';
+
+export interface Props {
+  title?: string;
+  items?: Array<string>;
+}
+
+const { title, items } = Astro.props;
+
+const posts = items ? await findPostsBySlugs(items) : [];
+---
+
+{ posts.length > 0 && (
+
+<ul>
+  { title && (
+    <h2 class="text-2xl font-bold">{title}</h2>
+  )}
+  {
+    posts.map((post) => (
+      <li class="mb-12 md:mb-20">
+        <Item post={post} />
+      </li>
+    ))
+  }
+</ul>
+)}

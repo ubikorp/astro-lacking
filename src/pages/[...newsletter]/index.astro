@@ -1,0 +1,51 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+
+import merge from 'lodash.merge';
+import type { ImageMetadata } from 'astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Newsletter from '~/components/tlo/Newsletter.astro';
+
+import { getCanonical, getPermalink } from '~/utils/permalinks';
+import { blogPostRobots } from '~/utils/blog';
+import { getStaticPathsNewsletter } from '~/utils/tlo';
+import { findImage } from '~/utils/images';
+import type { MetaData } from '~/types';
+
+export const prerender = true;
+
+export const getStaticPaths = (async () => {
+  return await getStaticPathsNewsletter();
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { newsletter } = Astro.props as Props;
+
+const url = getCanonical(getPermalink(newsletter.permalink, 'newsletters'));
+const image = (await findImage(newsletter.image)) as ImageMetadata | string | undefined;
+
+const metadata = merge(
+  {
+    title: newsletter.title,
+    description: newsletter.excerpt,
+    robots: {
+      index: blogPostRobots?.index,
+      follow: blogPostRobots?.follow,
+    },
+    openGraph: {
+      type: 'article',
+      ...(image
+        ? { images: [{ url: image, width: (image as ImageMetadata)?.width, height: (image as ImageMetadata)?.height }] }
+        : {}),
+    },
+  },
+  { ...(newsletter?.metadata ? { ...newsletter.metadata, canonical: newsletter.metadata?.canonical || url } : {}) }
+) as MetaData;
+---
+
+<Layout metadata={metadata}>
+  <Newsletter newsletter={newsletter}>
+    {newsletter.Content ? <newsletter.Content /> : <Fragment set:html={newsletter.content || ''} />}
+  </Newsletter>
+</Layout>

@@ -1,21 +1,31 @@
 ---
 import Item from '~/components/blog/ListItem.astro';
-// import Detail from '~/components/tlo/Detail.astro';
 import Video from '~/components/tlo/Video.astro';
+import { findPostsBySlugs } from '~/utils/blog';
 
 import type { Post } from '~/types';
 
 export interface Props {
   post: Post;
+  slug?: string;
 }
 
-const { post } = Astro.props;
+const { post, slug } = Astro.props;
 
-const isVideo = post.category?.slug === 'videos';
+if (!post && !slug) {
+  throw new Error('Either post or slug must be provided');
+}
+
+var itemPost = post
+if (!itemPost && slug) {
+  itemPost = (await findPostsBySlugs([slug]))[0];
+}
+
+const isVideo = post?.category?.slug === 'videos';
 ---
 
 { isVideo ? (
-  <Video post={post} />
+  <Video post={itemPost} />
 ) : (
-  <Item post={post} />
+  <Item post={itemPost} />
 )}
