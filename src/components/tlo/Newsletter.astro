@@ -16,9 +16,14 @@ const { newsletter } = Astro.props;
 
   <h1 class="text-4xl font-bold">The Lacking Details</h1>
 
-  <h4 class="text-2xl font-bold">Issue {newsletter.issue}</h4>
-  <h4 class="text-2xl font-bold">{newsletter.publishDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</h4>
-  <div class="text-muted dark:text-slate-400 text-lg"set:html={toMarkdown(newsletter.newsletter.opening)} />
+  <div class="flex flex-row gap-2 my-6 justify-between border-y-2 border-double">
+    <h4 class="text-sm font-bold">Issue {newsletter.issue}</h4>
+    <h4 class="text-sm font-bold">You cannot alphabetize the unalphabeitable!</h4>
+    <h4 class="text-sm font-bold">{newsletter.publishDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</h4>
+    <h4 class="text-sm font-bold">{newsletter.publishDate.toDateString()}</h4>
+  </div>
+
+  <div class="newsletter-text text-muted dark:text-slate-400 text-lg" set:html={toMarkdown(newsletter.newsletter.opening)} />
 
   <NewsletterSection title="Details" items={newsletter.newsletter.details} />
 
@@ -28,6 +33,7 @@ const { newsletter } = Astro.props;
 
   <NewsletterSection title="Seen + Heard" items={newsletter.newsletter.videos} />
 
-  <div set:html={toMarkdown(newsletter.newsletter.closing)} />
+  <div class="newsletter-text text-muted dark:text-slate-400 text-lg" set:html={toMarkdown(newsletter.newsletter.closing)} />
 
+  <hr class="mt-12" />
 </section>
