@@ -1,16 +1,4 @@
 ---
-- airdate: 2025-02-28
-  start_time: '2025-02-28T22:00:00Z'
-  duration: 120
-  location: ltw
-  show: The Final Hour
-  notes: The Final Hour
-- airdate: 2025-03-06
-  start_time: '2025-03-06T21:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
 - airdate: 2025-03-11
   start_time: '2025-03-12T03:00:00Z'
   duration: 180
