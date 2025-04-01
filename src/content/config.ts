@@ -114,7 +114,8 @@ const newsletterCollection = defineCollection({
       broadcasts: z.array(z.string()).optional(),
       videos: z.array(z.string()).optional(),
       links: z.array(z.string()).optional(),
-      closing: z.string().optional(),
+      on_deck: z.string().optional(),
+      outbound: z.string().optional(),
     }),
 
     // Metadata

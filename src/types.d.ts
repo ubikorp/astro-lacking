@@ -94,7 +94,8 @@ export interface Newsletter {
     broadcasts?: string[];
     videos?: string[];
     links?: string[];
-    closing?: string;
+    on_deck?: string;
+    outbound?: string;
   };
 
   /**  */
