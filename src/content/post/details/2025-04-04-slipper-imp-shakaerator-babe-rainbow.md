@@ -1,6 +1,6 @@
 ---
 title: Babe Rainbow &bull; <i>Slipper imp and shakaerator</i>
-subtitle: KGLW - pdoom &bull; released 2025-04-04
+subtitle: p(doom) &bull; released 2025-04-04
 category: details
 publishDate: '2025-04-04T13:48:38Z'
 slug: slipper-imp-shakaerator-babe-rainbow
@@ -14,7 +14,7 @@ tags:
 - King Gizzard and the Lizard Wizard
 - Bananagun
 - Babe Rainbow
-- KGLW - pdoom
+- p(doom)
 spotify: 2SArL4pMzLcKjHP4S7QWHV
 ---
 
