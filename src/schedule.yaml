@@ -1,22 +1,4 @@
 ---
-- airdate: 2025-03-28
-  start_time: '2025-03-28T22:00:00Z'
-  duration: 120
-  location: ltw
-  show: The Final Hour
-  notes: The Final Hour
-- airdate: 2025-04-03
-  start_time: '2025-04-03T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
-- airdate: 2025-04-08
-  start_time: '2025-04-09T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
 - airdate: 2025-04-10
   start_time: '2025-04-10T20:00:00Z'
   duration: 60
