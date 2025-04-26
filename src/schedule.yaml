@@ -1,10 +1,4 @@
 ---
-- airdate: 2025-04-17
-  start_time: '2025-04-17T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
 - airdate: 2025-04-22
   start_time: '2025-04-23T03:00:00Z'
   duration: 180
