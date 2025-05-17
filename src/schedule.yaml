@@ -1,22 +1,4 @@
 ---
-- airdate: 2025-05-01
-  start_time: '2025-05-01T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
-- airdate: 2025-05-06
-  start_time: '2025-05-07T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
-- airdate: 2025-05-08
-  start_time: '2025-05-08T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
 - airdate: 2025-05-15
   start_time: '2025-05-15T20:00:00Z'
   duration: 60
