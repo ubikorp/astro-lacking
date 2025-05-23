@@ -11,12 +11,6 @@
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2025-05-27
-  start_time: '2025-05-28T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
 - airdate: 2025-05-29
   start_time: '2025-05-29T20:00:00Z'
   duration: 60
@@ -29,17 +23,17 @@
   location: ltw
   show: The Final Hour
   notes: The Final Hour
+- airdate: 2025-06-03
+  start_time: '2025-06-04T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-06-05
   start_time: '2025-06-05T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-06-10
-  start_time: '2025-06-11T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-06-12
   start_time: '2025-06-12T20:00:00Z'
@@ -47,17 +41,17 @@
   location: ltw
   show: The Mixtape
   notes:
+- airdate: 2025-06-17
+  start_time: '2025-06-18T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-06-19
   start_time: '2025-06-19T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-06-24
-  start_time: '2025-06-25T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-06-26
   start_time: '2025-06-26T20:00:00Z'
@@ -71,17 +65,17 @@
   location: ltw
   show: The Final Hour
   notes: The Final Hour
+- airdate: 2025-07-01
+  start_time: '2025-07-02T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-07-03
   start_time: '2025-07-03T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-07-08
-  start_time: '2025-07-09T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-07-10
   start_time: '2025-07-10T20:00:00Z'
@@ -89,17 +83,17 @@
   location: ltw
   show: The Mixtape
   notes:
+- airdate: 2025-07-15
+  start_time: '2025-07-16T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-07-17
   start_time: '2025-07-17T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-07-22
-  start_time: '2025-07-23T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-07-24
   start_time: '2025-07-24T20:00:00Z'
@@ -113,17 +107,17 @@
   location: ltw
   show: The Final Hour
   notes: The Final Hour
+- airdate: 2025-07-29
+  start_time: '2025-07-30T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-07-31
   start_time: '2025-07-31T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-08-05
-  start_time: '2025-08-06T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-08-07
   start_time: '2025-08-07T20:00:00Z'
@@ -131,17 +125,17 @@
   location: ltw
   show: The Mixtape
   notes:
+- airdate: 2025-08-12
+  start_time: '2025-08-13T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-08-14
   start_time: '2025-08-14T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-08-19
-  start_time: '2025-08-20T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-08-21
   start_time: '2025-08-21T20:00:00Z'
@@ -149,18 +143,18 @@
   location: ltw
   show: The Mixtape
   notes:
+- airdate: 2025-08-26
+  start_time: '2025-08-27T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-08-29
   start_time: '2025-08-29T21:00:00Z'
   duration: 120
   location: ltw
   show: The Final Hour
   notes: The Final Hour
-- airdate: 2025-09-02
-  start_time: '2025-09-03T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
 - airdate: 2025-09-26
   start_time: '2025-09-26T21:00:00Z'
   duration: 120
