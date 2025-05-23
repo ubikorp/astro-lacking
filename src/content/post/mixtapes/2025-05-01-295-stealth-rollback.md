@@ -1,7 +1,7 @@
 ---
 title: Mixtape 295 &bull; Stealth Rollback
 category: mixtapes
-publishDate: '2025-05-01T15:30:00Z'
+publishDate: '2025-05-01T21:30:00Z'
 slug: 295-stealth-rollback
 excerpt: Unusual tactics and disruptive strategies make for some fine sounds from
   Courting.
