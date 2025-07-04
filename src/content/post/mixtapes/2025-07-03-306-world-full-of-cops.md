@@ -1,7 +1,7 @@
 ---
 title: Mixtape 306 &bull; World Full of Cops
 category: mixtapes
-publishDate: '0025-07-03T14:00:00Z'
+publishDate: '2025-07-03T14:00:00Z'
 slug: 306-world-full-of-cops
 excerpt: Please identify yourself and present all suitable papers for World Full Of
   Cops, a musical exploration of authority and lack thereof.
