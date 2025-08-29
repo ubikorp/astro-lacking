@@ -9,7 +9,7 @@ excerpt: The aleatory nature of playlist selection for The Lacking Organization 
   in the show notes. Tonight’s highlight is **Mac DeMarco**, whose new album provides
   the perfect soundtrack for this particularly floaty stage of summer.
 image: "/images/playlists/2025/08/2025-08-26-mac-demarco.jpg"
-caption: OK Go
+caption: Mac DeMarco
 tags:
 - 2 Many DJs
 - Adrian Sherwood
