@@ -1,16 +1,4 @@
 ---
-- airdate: 2025-08-24
-  start_time: '2025-08-24T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
-- airdate: 2025-08-26
-  start_time: '2025-08-27T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
 - airdate: 2025-08-29
   start_time: '2025-08-29T21:00:00Z'
   duration: 120
@@ -23,8 +11,8 @@
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2025-09-07
-  start_time: '2025-09-08T03:00:00Z'
+- airdate: 2025-09-09
+  start_time: '2025-09-10T03:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
@@ -35,8 +23,8 @@
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2025-09-21
-  start_time: '2025-09-22T03:00:00Z'
+- airdate: 2025-09-23
+  start_time: '2025-09-24T03:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
@@ -53,8 +41,8 @@
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2025-10-05
-  start_time: '2025-10-06T03:00:00Z'
+- airdate: 2025-10-07
+  start_time: '2025-10-08T03:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
@@ -65,8 +53,8 @@
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2025-10-19
-  start_time: '2025-10-20T03:00:00Z'
+- airdate: 2025-10-21
+  start_time: '2025-10-22T03:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
@@ -83,8 +71,8 @@
   location: ltw
   show: The Final Hour
   notes:
-- airdate: 2025-11-02
-  start_time: '2025-11-03T04:00:00Z'
+- airdate: 2025-11-04
+  start_time: '2025-11-05T04:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
@@ -95,8 +83,8 @@
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2025-11-16
-  start_time: '2025-11-17T04:00:00Z'
+- airdate: 2025-11-18
+  start_time: '2025-11-19T04:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
@@ -113,8 +101,8 @@
   location: ltw
   show: The Final Hour
   notes:
-- airdate: 2025-11-30
-  start_time: '2025-12-01T04:00:00Z'
+- airdate: 2025-12-02
+  start_time: '2025-12-03T04:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
