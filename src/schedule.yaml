@@ -1,22 +1,4 @@
 ---
-- airdate: 2025-09-09
-  start_time: '2025-09-10T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
-- airdate: 2025-09-11
-  start_time: '2025-09-11T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
-- airdate: 2025-09-18
-  start_time: '2025-09-18T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
 - airdate: 2025-09-23
   start_time: '2025-09-24T03:00:00Z'
   duration: 180
@@ -35,17 +17,17 @@
   location: ltw
   show: The Final Hour
   notes: The Final Hour
+- airdate: 2025-09-30
+  start_time: '2025-10-01T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
 - airdate: 2025-10-02
   start_time: '2025-10-02T21:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
-  notes:
-- airdate: 2025-10-07
-  start_time: '2025-10-08T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
   notes:
 - airdate: 2025-10-09
   start_time: '2025-10-09T21:00:00Z'
