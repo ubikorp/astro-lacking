@@ -1,10 +1,4 @@
 ---
-- airdate: 2025-10-21
-  start_time: '2025-10-22T03:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
 - airdate: 2025-10-31
   start_time: '2025-10-31T22:00:00Z'
   duration: 120
