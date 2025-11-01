@@ -1,4 +1,10 @@
 ---
+- airdate: 2025-10-30
+  start_time: '2025-10-30T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
 - airdate: 2025-10-31
   start_time: '2025-10-31T22:00:00Z'
   duration: 120
@@ -11,11 +17,35 @@
   location: kafm
   show: The Lacking Organization
   notes:
+- airdate: 2025-11-06
+  start_time: '2025-11-06T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
 - airdate: 2025-11-11
   start_time: '2025-11-12T04:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
+  notes:
+- airdate: 2025-11-13
+  start_time: '2025-11-13T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2025-11-20
+  start_time: '2025-11-20T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2025-11-27
+  start_time: '2025-11-27T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
   notes:
 - airdate: 2025-11-28
   start_time: '2025-11-28T22:00:00Z'
@@ -29,15 +59,75 @@
   location: kafm
   show: The Lacking Organization
   notes:
+- airdate: 2025-12-04
+  start_time: '2025-12-04T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2025-12-11
+  start_time: '2025-12-11T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2025-12-18
+  start_time: '2025-12-18T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2025-12-25
+  start_time: '2025-12-25T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
 - airdate: 2025-12-26
   start_time: '2025-12-26T22:00:00Z'
   duration: 120
   location: ltw
   show: The Final Hour
   notes: The Final Hour
+- airdate: 2026-01-01
+  start_time: '2026-01-01T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-01-08
+  start_time: '2026-01-08T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-01-15
+  start_time: '2026-01-15T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-01-22
+  start_time: '2026-01-22T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-01-29
+  start_time: '2026-01-29T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
 - airdate: 2026-01-30
   start_time: '2026-01-30T22:00:00Z'
   duration: 120
   location: ltw
   show: The Final Hour
   notes: The Final Hour
+- airdate: 2026-02-05
+  start_time: '2026-02-05T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
