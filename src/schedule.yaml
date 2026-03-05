@@ -1,16 +1,4 @@
 ---
-- airdate: 2026-02-24
-  start_time: '2026-02-25T04:00:00Z'
-  duration: 180
-  location: kafm
-  show: The Lacking Organization
-  notes:
-- airdate: 2026-02-26
-  start_time: '2026-02-26T21:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
 - airdate: 2026-02-27
   start_time: '2026-02-27T22:00:00Z'
   duration: 120
