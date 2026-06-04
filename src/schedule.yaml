@@ -1,10 +1,4 @@
 ---
-- airdate: 2026-05-28
-  start_time: '2026-05-28T20:00:00Z'
-  duration: 60
-  location: ltw
-  show: The Mixtape
-  notes:
 - airdate: 2026-05-29
   start_time: '2026-05-29T21:00:00Z'
   duration: 120
