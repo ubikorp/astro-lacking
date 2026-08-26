@@ -1,36 +1,294 @@
 ---
-- airdate: 2026-07-09
-  start_time: '2026-07-09T20:00:00Z'
+- airdate: 2026-08-20
+  start_time: '2026-08-20T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2026-07-14
-  start_time: '2026-07-15T03:00:00Z'
+- airdate: 2026-08-25
+  start_time: '2026-08-26T03:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
   notes:
-- airdate: 2026-07-16
-  start_time: '2026-07-16T20:00:00Z'
+- airdate: 2026-08-27
+  start_time: '2026-08-27T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2026-07-23
-  start_time: '2026-07-23T20:00:00Z'
+- airdate: 2026-08-28
+  start_time: '2026-08-28T21:00:00Z'
+  duration: 120
+  location: ltw
+  show: The Final Hour
+  notes:
+- airdate: 2026-09-03
+  start_time: '2026-09-03T20:00:00Z'
   duration: 60
   location: ltw
   show: The Mixtape
   notes:
-- airdate: 2026-07-28
-  start_time: '2026-07-29T03:00:00Z'
+- airdate: 2026-09-10
+  start_time: '2026-09-10T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-09-15
+  start_time: '2026-09-09T03:00:00Z'
   duration: 180
   location: kafm
   show: The Lacking Organization
   notes:
-- airdate: 2026-07-31
-  start_time: '2026-07-31T21:00:00Z'
+- airdate: 2026-09-17
+  start_time: '2026-09-17T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-09-22
+  start_time: '2026-09-23T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-09-24
+  start_time: '2026-09-24T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-09-25
+  start_time: '2026-09-25T21:00:00Z'
+  duration: 120
+  location: ltw
+  show: The Final Hour
+  notes:
+- airdate: 2026-10-01
+  start_time: '2026-10-01T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-10-06
+  start_time: '2026-10-07T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-10-08
+  start_time: '2026-10-08T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-10-15
+  start_time: '2026-10-15T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-10-20
+  start_time: '2026-10-21T03:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-10-22
+  start_time: '2026-10-22T20:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-10-29
+  start_time: '2026-10-29T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-10-30
+  start_time: '2026-10-30T22:00:00Z'
+  duration: 120
+  location: ltw
+  show: The Final Hour
+  notes:
+- airdate: 2026-11-03
+  start_time: '2026-11-04T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-11-05
+  start_time: '2026-11-05T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-11-12
+  start_time: '2026-11-12T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-11-17
+  start_time: '2026-11-18T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-11-19
+  start_time: '2026-11-19T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-11-26
+  start_time: '2026-11-26T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-11-27
+  start_time: '2026-11-27T22:00:00Z'
+  duration: 120
+  location: ltw
+  show: The Final Hour
+  notes:
+- airdate: 2026-12-01
+  start_time: '2026-12-02T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-12-03
+  start_time: '2026-12-03T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-12-10
+  start_time: '2026-12-10T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-12-15
+  start_time: '2026-12-16T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-12-17
+  start_time: '2026-12-17T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-12-24
+  start_time: '2026-12-24T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2026-12-25
+  start_time: '2026-12-25T22:00:00Z'
+  duration: 120
+  location: ltw
+  show: The Final Hour
+  notes:
+- airdate: 2026-12-29
+  start_time: '2026-12-30T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2026-12-31
+  start_time: '2026-12-31T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-01-07
+  start_time: '2027-01-07T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-01-12
+  start_time: '2027-01-13T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2027-01-14
+  start_time: '2027-01-14T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-01-21
+  start_time: '2027-01-21T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-01-26
+  start_time: '2027-01-27T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2027-01-28
+  start_time: '2027-01-28T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-01-29
+  start_time: '2027-01-29T22:00:00Z'
+  duration: 120
+  location: ltw
+  show: The Final Hour
+  notes:
+- airdate: 2027-02-04
+  start_time: '2027-02-04T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-02-09
+  start_time: '2027-02-10T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2027-02-11
+  start_time: '2027-02-11T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-02-18
+  start_time: '2027-02-18T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-02-23
+  start_time: '2027-02-24T04:00:00Z'
+  duration: 180
+  location: kafm
+  show: The Lacking Organization
+  notes:
+- airdate: 2027-02-25
+  start_time: '2027-02-25T21:00:00Z'
+  duration: 60
+  location: ltw
+  show: The Mixtape
+  notes:
+- airdate: 2027-02-26
+  start_time: '2027-02-26T22:00:00Z'
   duration: 120
   location: ltw
   show: The Final Hour
